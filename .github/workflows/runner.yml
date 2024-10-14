@@ -50,5 +50,5 @@ jobs:
           commit-message: "Github Action Automatic Update Smart Contract Arxiv Papers"
           files: README.md papers.json
           rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+          name: "Chritch" 
+          email: "yezk@zju.edu.cn" 
