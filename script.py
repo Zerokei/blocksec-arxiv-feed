@@ -81,11 +81,12 @@ if __name__ == '__main__':
     update_paper_lists(
         filename="papers.json", 
         new_papers=fetch_new_papers([
-                "smart contract", 
-                "DApp", 
+                "Smart Contract", 
+                # "DApp", 
                 "Solidity", 
-                "DeFi",
+                # "DeFi",
                 "Decentralized Finance",
+                "Decentralized Application",
             ], 
             max_results=100
         )
