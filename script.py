@@ -81,7 +81,7 @@ if __name__ == '__main__':
     update_paper_lists(
         filename="papers.json", 
         new_papers=fetch_new_papers([
-                "Smart Contract", 
+                "Contract", 
                 # "DApp", 
                 "Solidity", 
                 # "DeFi",
