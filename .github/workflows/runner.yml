@@ -30,7 +30,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
       
       - name: Configure Git to ignore ownership warnings
         run: git config --global --add safe.directory /github/workspace
@@ -48,13 +51,5 @@ jobs:
       - name: Run Script
         run: |
           python script.py
-          
-      - name: Push new README.md
-        uses: github-actions-x/commit@v2.8
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update Smart Contract Arxiv Papers"
-          files: README.md papers.json
-          rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+        
+      - uses: stefanzweifel/git-auto-commit-action@v5
