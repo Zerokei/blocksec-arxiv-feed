@@ -1,0 +1,178 @@
+{
+    "http://arxiv.org/abs/2410.08896v1": {
+        "entry_id": "http://arxiv.org/abs/2410.08896v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.08896v1",
+        "title": "MAD-TD: Model-Augmented Data stabilizes High Update Ratio RL",
+        "comment": null,
+        "updated_time": "2024-10-11T15:13:17+00:00",
+        "published_time": "2024-10-11T15:13:17+00:00"
+    },
+    "http://arxiv.org/abs/2410.08816v1": {
+        "entry_id": "http://arxiv.org/abs/2410.08816v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.08816v1",
+        "title": "Uncertainty-Aware Optimal Treatment Selection for Clinical Time Series",
+        "comment": "appeared at the workshop on Causal Representation Learning at NeurIPS\n  2024 (oral)",
+        "updated_time": "2024-10-11T13:56:25+00:00",
+        "published_time": "2024-10-11T13:56:25+00:00"
+    },
+    "http://arxiv.org/abs/2410.08791v1": {
+        "entry_id": "http://arxiv.org/abs/2410.08791v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.08791v1",
+        "title": "Superpipeline: A Universal Approach for Reducing GPU Memory Usage in Large Models",
+        "comment": null,
+        "updated_time": "2024-10-11T13:17:05+00:00",
+        "published_time": "2024-10-11T13:17:05+00:00"
+    },
+    "http://arxiv.org/abs/2410.08462v1": {
+        "entry_id": "http://arxiv.org/abs/2410.08462v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.08462v1",
+        "title": "Driving Privacy Forward: Mitigating Information Leakage within Smart Vehicles through Synthetic Data Generation",
+        "comment": null,
+        "updated_time": "2024-10-11T02:28:27+00:00",
+        "published_time": "2024-10-11T02:28:27+00:00"
+    },
+    "http://arxiv.org/abs/2410.07893v1": {
+        "entry_id": "http://arxiv.org/abs/2410.07893v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.07893v1",
+        "title": "Ormer: A Manipulation-resistant and Gas-efficient Blockchain Pricing Oracle for DeFi",
+        "comment": null,
+        "updated_time": "2024-10-10T13:18:00+00:00",
+        "published_time": "2024-10-10T13:18:00+00:00"
+    },
+    "http://arxiv.org/abs/2410.07881v1": {
+        "entry_id": "http://arxiv.org/abs/2410.07881v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.07881v1",
+        "title": "A Comprehensive Survey on Joint Resource Allocation Strategies in Federated Edge Learning",
+        "comment": "This paper has been submitted to CMC-Computers Materials & Continua",
+        "updated_time": "2024-10-10T13:02:00+00:00",
+        "published_time": "2024-10-10T13:02:00+00:00"
+    },
+    "http://arxiv.org/abs/2410.07810v1": {
+        "entry_id": "http://arxiv.org/abs/2410.07810v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.07810v1",
+        "title": "Towards Robust IoT Defense: Comparative Statistics of Attack Detection in Resource-Constrained Scenarios",
+        "comment": null,
+        "updated_time": "2024-10-10T10:58:03+00:00",
+        "published_time": "2024-10-10T10:58:03+00:00"
+    },
+    "http://arxiv.org/abs/2410.07806v1": {
+        "entry_id": "http://arxiv.org/abs/2410.07806v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.07806v1",
+        "title": "Deep and Probabilistic Solar Irradiance Forecast at the Arctic Circle",
+        "comment": "8 pages, 5 figures. To be published in the 2024 IEEE Conference\n  Photovoltaic Specialists (PVSC) proceedings",
+        "updated_time": "2024-10-10T10:45:52+00:00",
+        "published_time": "2024-10-10T10:45:52+00:00"
+    },
+    "http://arxiv.org/abs/2410.07678v1": {
+        "entry_id": "http://arxiv.org/abs/2410.07678v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.07678v1",
+        "title": "FedEP: Tailoring Attention to Heterogeneous Data Distribution with Entropy Pooling for Decentralized Federated Learning",
+        "comment": null,
+        "updated_time": "2024-10-10T07:39:15+00:00",
+        "published_time": "2024-10-10T07:39:15+00:00"
+    },
+    "http://arxiv.org/abs/2410.07272v1": {
+        "entry_id": "http://arxiv.org/abs/2410.07272v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.07272v1",
+        "title": "Boosting the Performance of Decentralized Federated Learning via Catalyst Acceleration",
+        "comment": "arXiv admin note: text overlap with arXiv:2410.06482",
+        "updated_time": "2024-10-09T06:17:16+00:00",
+        "published_time": "2024-10-09T06:17:16+00:00"
+    },
+    "http://arxiv.org/abs/2410.07258v1": {
+        "entry_id": "http://arxiv.org/abs/2410.07258v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.07258v1",
+        "title": "BlockMEDC: Blockchain Smart Contracts for Securing Moroccan Higher Education Digital Certificates",
+        "comment": null,
+        "updated_time": "2024-10-08T17:41:37+00:00",
+        "published_time": "2024-10-08T17:41:37+00:00"
+    },
+    "http://arxiv.org/abs/2410.06143v1": {
+        "entry_id": "http://arxiv.org/abs/2410.06143v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.06143v1",
+        "title": "blockLAW: Blockchain Technology for Legal Automation and Workflow -- Cyber Ethics and Cybersecurity Platforms",
+        "comment": "14 pages, 2 figures",
+        "updated_time": "2024-10-08T15:44:27+00:00",
+        "published_time": "2024-10-08T15:44:27+00:00"
+    },
+    "http://arxiv.org/abs/2410.06127v1": {
+        "entry_id": "http://arxiv.org/abs/2410.06127v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.06127v1",
+        "title": "De-VertiFL: A Solution for Decentralized Vertical Federated Learning",
+        "comment": null,
+        "updated_time": "2024-10-08T15:31:10+00:00",
+        "published_time": "2024-10-08T15:31:10+00:00"
+    },
+    "http://arxiv.org/abs/2410.05251v1": {
+        "entry_id": "http://arxiv.org/abs/2410.05251v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.05251v1",
+        "title": "Block MedCare: Advancing healthcare through blockchain integration",
+        "comment": null,
+        "updated_time": "2024-10-07T17:54:13+00:00",
+        "published_time": "2024-10-07T17:54:13+00:00"
+    },
+    "http://arxiv.org/abs/2410.04144v1": {
+        "entry_id": "http://arxiv.org/abs/2410.04144v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.04144v1",
+        "title": "ConDa: Fast Federated Unlearning with Contribution Dampening",
+        "comment": null,
+        "updated_time": "2024-10-05T12:45:35+00:00",
+        "published_time": "2024-10-05T12:45:35+00:00"
+    },
+    "http://arxiv.org/abs/2410.03981v1": {
+        "entry_id": "http://arxiv.org/abs/2410.03981v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.03981v1",
+        "title": "Survey on Code Generation for Low resource and Domain Specific Programming Languages",
+        "comment": null,
+        "updated_time": "2024-10-04T23:45:17+00:00",
+        "published_time": "2024-10-04T23:45:17+00:00"
+    },
+    "http://arxiv.org/abs/2410.03504v1": {
+        "entry_id": "http://arxiv.org/abs/2410.03504v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.03504v1",
+        "title": "Uncertainty-Aware Environment Simulation of Medical Devices Digital Twins",
+        "comment": null,
+        "updated_time": "2024-10-04T15:17:52+00:00",
+        "published_time": "2024-10-04T15:17:52+00:00"
+    },
+    "http://arxiv.org/abs/2410.03281v1": {
+        "entry_id": "http://arxiv.org/abs/2410.03281v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.03281v1",
+        "title": "BN-SCAFFOLD: controlling the drift of Batch Normalization statistics in Federated Learning",
+        "comment": null,
+        "updated_time": "2024-10-04T09:53:20+00:00",
+        "published_time": "2024-10-04T09:53:20+00:00"
+    },
+    "http://arxiv.org/abs/2410.02519v1": {
+        "entry_id": "http://arxiv.org/abs/2410.02519v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.02519v1",
+        "title": "Semantic-Guided RL for Interpretable Feature Engineering",
+        "comment": "arXiv admin note: substantial text overlap with arXiv:2406.00544",
+        "updated_time": "2024-10-03T14:28:05+00:00",
+        "published_time": "2024-10-03T14:28:05+00:00"
+    },
+    "http://arxiv.org/abs/2410.00875v1": {
+        "entry_id": "http://arxiv.org/abs/2410.00875v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.00875v1",
+        "title": "Review of blockchain application with Graph Neural Networks, Graph Convolutional Networks and Convolutional Neural Networks",
+        "comment": null,
+        "updated_time": "2024-10-01T17:11:22+00:00",
+        "published_time": "2024-10-01T17:11:22+00:00"
+    },
+    "http://arxiv.org/abs/2410.00282v1": {
+        "entry_id": "http://arxiv.org/abs/2410.00282v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.00282v1",
+        "title": "Smart Contract Vulnerability Detection based on Static Analysis and Multi-Objective Search",
+        "comment": null,
+        "updated_time": "2024-09-30T23:28:17+00:00",
+        "published_time": "2024-09-30T23:28:17+00:00"
+    },
+    "http://arxiv.org/abs/2409.20208v1": {
+        "entry_id": "http://arxiv.org/abs/2409.20208v1",
+        "pdf_url": "http://arxiv.org/pdf/2409.20208v1",
+        "title": "Constraining Anomaly Detection with Anomaly-Free Regions",
+        "comment": "Accepted at the 15th IEEE International Conference on Knowledge Graph\n  (ICKG)",
+        "updated_time": "2024-09-30T11:43:26+00:00",
+        "published_time": "2024-09-30T11:43:26+00:00"
+    }
+}
