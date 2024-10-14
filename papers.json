@@ -174,5 +174,37 @@
         "comment": "Accepted at the 15th IEEE International Conference on Knowledge Graph\n  (ICKG)",
         "updated_time": "2024-09-30T11:43:26+00:00",
         "published_time": "2024-09-30T11:43:26+00:00"
+    },
+    "http://arxiv.org/abs/2409.19828v1": {
+        "entry_id": "http://arxiv.org/abs/2409.19828v1",
+        "pdf_url": "http://arxiv.org/pdf/2409.19828v1",
+        "title": "Blockchain-enhanced Integrity Verification in Educational Content Assessment Platform: A Lightweight and Cost-Efficient Approach",
+        "comment": "Submitted to the journal for peer review using a different template.\n  This version contains 17 pages and 8 figures",
+        "updated_time": "2024-09-29T23:56:57+00:00",
+        "published_time": "2024-09-29T23:56:57+00:00"
+    },
+    "http://arxiv.org/abs/2409.18468v1": {
+        "entry_id": "http://arxiv.org/abs/2409.18468v1",
+        "pdf_url": "http://arxiv.org/pdf/2409.18468v1",
+        "title": "SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis",
+        "comment": null,
+        "updated_time": "2024-09-27T06:14:46+00:00",
+        "published_time": "2024-09-27T06:14:46+00:00"
+    },
+    "http://arxiv.org/abs/2409.18360v1": {
+        "entry_id": "http://arxiv.org/abs/2409.18360v1",
+        "pdf_url": "http://arxiv.org/pdf/2409.18360v1",
+        "title": "Architecture for Protecting Data Privacy in Decentralized Social Networks",
+        "comment": null,
+        "updated_time": "2024-09-27T00:35:02+00:00",
+        "published_time": "2024-09-27T00:35:02+00:00"
+    },
+    "http://arxiv.org/abs/2409.17509v1": {
+        "entry_id": "http://arxiv.org/abs/2409.17509v1",
+        "pdf_url": "http://arxiv.org/pdf/2409.17509v1",
+        "title": "BioZero: An Efficient and Privacy-Preserving Decentralized Biometric Authentication Protocol on Open Blockchain",
+        "comment": "14 pages, 3 figures",
+        "updated_time": "2024-09-26T03:37:35+00:00",
+        "published_time": "2024-09-26T03:37:35+00:00"
     }
 }

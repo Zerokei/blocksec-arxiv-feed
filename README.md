@@ -1,6 +1,6 @@
 # arXiv Papers for Smart Contract
 
-Last Updated: 2024-10-14T09:30:37.485869
+Last Updated: 2024-10-14T09:32:28.240870
 
 ## Newest Papers
 
@@ -28,3 +28,7 @@ Last Updated: 2024-10-14T09:30:37.485869
 |20|Review of blockchain application with Graph Neural Networks, Graph Convolutional Networks and Convolutional Neural Networks|[link](http://arxiv.org/abs/2410.00875v1)|🆕 2024-10-01|
 |21|Smart Contract Vulnerability Detection based on Static Analysis and Multi-Objective Search|[link](http://arxiv.org/abs/2410.00282v1)|🆕 2024-09-30|
 |22|Constraining Anomaly Detection with Anomaly-Free Regions|[link](http://arxiv.org/abs/2409.20208v1)|🆕 2024-09-30|
+|23|Blockchain-enhanced Integrity Verification in Educational Content Assessment Platform: A Lightweight and Cost-Efficient Approach|[link](http://arxiv.org/abs/2409.19828v1)|🆕 2024-09-29|
+|24|SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis|[link](http://arxiv.org/abs/2409.18468v1)|🆕 2024-09-27|
+|25|Architecture for Protecting Data Privacy in Decentralized Social Networks|[link](http://arxiv.org/abs/2409.18360v1)|🆕 2024-09-27|
+|26|BioZero: An Efficient and Privacy-Preserving Decentralized Biometric Authentication Protocol on Open Blockchain|[link](http://arxiv.org/abs/2409.17509v1)|🆕 2024-09-26|
