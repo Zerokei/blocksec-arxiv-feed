@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2410.11802v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11802v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11802v1",
+        "title": "FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting",
+        "comment": null,
+        "updated_time": "2024-10-15T17:23:49+00:00",
+        "published_time": "2024-10-15T17:23:49+00:00"
+    },
+    "http://arxiv.org/abs/2410.11563v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11563v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11563v1",
+        "title": "Exploring Power Side-Channel Challenges in Embedded Systems Security",
+        "comment": null,
+        "updated_time": "2024-10-15T12:51:37+00:00",
+        "published_time": "2024-10-15T12:51:37+00:00"
+    },
+    "http://arxiv.org/abs/2410.11539v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11539v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11539v1",
+        "title": "Transfer Learning with Foundational Models for Time Series Forecasting using Low-Rank Adaptations",
+        "comment": null,
+        "updated_time": "2024-10-15T12:14:01+00:00",
+        "published_time": "2024-10-15T12:14:01+00:00"
+    },
+    "http://arxiv.org/abs/2410.11480v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11480v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11480v1",
+        "title": "Poisson-Dirac Neural Networks for Modeling Coupled Dynamical Systems across Domains",
+        "comment": null,
+        "updated_time": "2024-10-15T10:31:22+00:00",
+        "published_time": "2024-10-15T10:31:22+00:00"
+    },
+    "http://arxiv.org/abs/2410.11449v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11449v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11449v1",
+        "title": "Conditional Density Estimation with Histogram Trees",
+        "comment": "Accepted to Neurips 2024",
+        "updated_time": "2024-10-15T09:53:24+00:00",
+        "published_time": "2024-10-15T09:53:24+00:00"
+    },
+    "http://arxiv.org/abs/2410.11443v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11443v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11443v1",
+        "title": "Are High-Degree Representations Really Unnecessary in Equivariant Graph Neural Networks?",
+        "comment": null,
+        "updated_time": "2024-10-15T09:47:49+00:00",
+        "published_time": "2024-10-15T09:47:49+00:00"
+    },
+    "http://arxiv.org/abs/2410.11415v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11415v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11415v1",
+        "title": "KLay: Accelerating Neurosymbolic AI",
+        "comment": null,
+        "updated_time": "2024-10-15T09:02:55+00:00",
+        "published_time": "2024-10-15T09:02:55+00:00"
+    },
+    "http://arxiv.org/abs/2410.11397v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11397v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11397v1",
+        "title": "FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection",
+        "comment": "NeurIPS 2024",
+        "updated_time": "2024-10-15T08:39:31+00:00",
+        "published_time": "2024-10-15T08:39:31+00:00"
+    },
+    "http://arxiv.org/abs/2410.11368v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11368v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11368v1",
+        "title": "Secure Stateful Aggregation: A Practical Protocol with Applications in Differentially-Private Federated Learning",
+        "comment": null,
+        "updated_time": "2024-10-15T07:45:18+00:00",
+        "published_time": "2024-10-15T07:45:18+00:00"
+    },
+    "http://arxiv.org/abs/2410.11278v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11278v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11278v1",
+        "title": "UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba",
+        "comment": null,
+        "updated_time": "2024-10-15T04:56:43+00:00",
+        "published_time": "2024-10-15T04:56:43+00:00"
+    },
+    "http://arxiv.org/abs/2410.11134v1": {
+        "entry_id": "http://arxiv.org/abs/2410.11134v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.11134v1",
+        "title": "Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments",
+        "comment": "Accepted at ACM CCS 2024",
+        "updated_time": "2024-10-14T23:17:03+00:00",
+        "published_time": "2024-10-14T23:17:03+00:00"
+    },
     "http://arxiv.org/abs/2410.10712v1": {
         "entry_id": "http://arxiv.org/abs/2410.10712v1",
         "pdf_url": "http://arxiv.org/pdf/2410.10712v1",
