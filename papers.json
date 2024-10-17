@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2410.12635v1": {
+        "entry_id": "http://arxiv.org/abs/2410.12635v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.12635v1",
+        "title": "An Exact Finite-dimensional Explicit Feature Map for Kernel Functions",
+        "comment": null,
+        "updated_time": "2024-10-16T14:55:11+00:00",
+        "published_time": "2024-10-16T14:55:11+00:00"
+    },
+    "http://arxiv.org/abs/2410.12572v1": {
+        "entry_id": "http://arxiv.org/abs/2410.12572v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.12572v1",
+        "title": "On the Role of Activation Functions in EEG-To-Text Decoder",
+        "comment": null,
+        "updated_time": "2024-10-16T13:50:04+00:00",
+        "published_time": "2024-10-16T13:50:04+00:00"
+    },
+    "http://arxiv.org/abs/2410.12547v1": {
+        "entry_id": "http://arxiv.org/abs/2410.12547v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.12547v1",
+        "title": "REST API Testing in DevOps: A Study on an Evolving Healthcare IoT Application",
+        "comment": null,
+        "updated_time": "2024-10-16T13:24:42+00:00",
+        "published_time": "2024-10-16T13:24:42+00:00"
+    },
+    "http://arxiv.org/abs/2410.12422v1": {
+        "entry_id": "http://arxiv.org/abs/2410.12422v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.12422v1",
+        "title": "Adding web pentesting functionality to PTHelper",
+        "comment": null,
+        "updated_time": "2024-10-16T10:05:56+00:00",
+        "published_time": "2024-10-16T10:05:56+00:00"
+    },
+    "http://arxiv.org/abs/2410.12351v1": {
+        "entry_id": "http://arxiv.org/abs/2410.12351v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.12351v1",
+        "title": "Yama: Precise Opcode-based Data Flow Analysis for Detecting PHP Applications Vulnerabilities",
+        "comment": "This work has been submitted to the IEEE for possible publication.\n  Copyright may be transferred without notice, after which this version may no\n  longer be accessible",
+        "updated_time": "2024-10-16T08:14:37+00:00",
+        "published_time": "2024-10-16T08:14:37+00:00"
+    },
+    "http://arxiv.org/abs/2410.12330v1": {
+        "entry_id": "http://arxiv.org/abs/2410.12330v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.12330v1",
+        "title": "MAX: Masked Autoencoder for X-ray Fluorescence in Geological Investigation",
+        "comment": null,
+        "updated_time": "2024-10-16T07:52:26+00:00",
+        "published_time": "2024-10-16T07:52:26+00:00"
+    },
+    "http://arxiv.org/abs/2410.12326v1": {
+        "entry_id": "http://arxiv.org/abs/2410.12326v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.12326v1",
+        "title": "Revisited Large Language Model for Time Series Analysis through Modality Alignment",
+        "comment": null,
+        "updated_time": "2024-10-16T07:47:31+00:00",
+        "published_time": "2024-10-16T07:47:31+00:00"
+    },
+    "http://arxiv.org/abs/2410.12309v1": {
+        "entry_id": "http://arxiv.org/abs/2410.12309v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.12309v1",
+        "title": "Correction to Local Information Privacy and Its Applications to Data Aggregation",
+        "comment": null,
+        "updated_time": "2024-10-16T07:22:53+00:00",
+        "published_time": "2024-10-16T07:22:53+00:00"
+    },
     "http://arxiv.org/abs/2410.11802v1": {
         "entry_id": "http://arxiv.org/abs/2410.11802v1",
         "pdf_url": "http://arxiv.org/pdf/2410.11802v1",
