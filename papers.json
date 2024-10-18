@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2410.13794v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13794v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13794v1",
+        "title": "Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation",
+        "comment": null,
+        "updated_time": "2024-10-17T17:34:06+00:00",
+        "published_time": "2024-10-17T17:34:06+00:00"
+    },
+    "http://arxiv.org/abs/2410.13743v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13743v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13743v1",
+        "title": "Single-Timescale Multi-Sequence Stochastic Approximation Without Fixed Point Smoothness: Theories and Applications",
+        "comment": null,
+        "updated_time": "2024-10-17T16:39:53+00:00",
+        "published_time": "2024-10-17T16:39:53+00:00"
+    },
+    "http://arxiv.org/abs/2410.13732v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13732v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13732v1",
+        "title": "Reducing the Transformer Architecture to a Minimum",
+        "comment": "8 pages, to appear in KDIR2024",
+        "updated_time": "2024-10-17T16:36:14+00:00",
+        "published_time": "2024-10-17T16:36:14+00:00"
+    },
+    "http://arxiv.org/abs/2410.13713v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13713v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13713v1",
+        "title": "CrystalX: Ultra-Precision Crystal Structure Resolution and Error Correction Using Deep Learning",
+        "comment": null,
+        "updated_time": "2024-10-17T16:12:55+00:00",
+        "published_time": "2024-10-17T16:12:55+00:00"
+    },
+    "http://arxiv.org/abs/2410.13709v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13709v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13709v1",
+        "title": "On-device Federated Learning in Smartphones for Detecting Depression from Reddit Posts",
+        "comment": "11 pages, 7 figures, Submitted to IEEE",
+        "updated_time": "2024-10-17T16:09:32+00:00",
+        "published_time": "2024-10-17T16:09:32+00:00"
+    },
+    "http://arxiv.org/abs/2410.13579v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13579v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13579v1",
+        "title": "Towards Better Performance in Incomplete LDL: Addressing Data Imbalance",
+        "comment": null,
+        "updated_time": "2024-10-17T14:12:57+00:00",
+        "published_time": "2024-10-17T14:12:57+00:00"
+    },
+    "http://arxiv.org/abs/2410.13563v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13563v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13563v1",
+        "title": "Ornstein-Uhlenbeck Adaptation as a Mechanism for Learning in Brains and Machines",
+        "comment": null,
+        "updated_time": "2024-10-17T14:00:18+00:00",
+        "published_time": "2024-10-17T14:00:18+00:00"
+    },
+    "http://arxiv.org/abs/2410.13542v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13542v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13542v1",
+        "title": "LLM-based Unit Test Generation via Property Retrieval",
+        "comment": null,
+        "updated_time": "2024-10-17T13:33:12+00:00",
+        "published_time": "2024-10-17T13:33:12+00:00"
+    },
+    "http://arxiv.org/abs/2410.13480v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13480v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13480v1",
+        "title": "Broken Windows: Exploring the Applicability of a Controversial Theory on Code Quality",
+        "comment": "15 pages, 5 figures, to be published in the proceedings of ICSME '24:\n  40th IEEE International Conference on Software Maintenance and Evolution",
+        "updated_time": "2024-10-17T12:16:35+00:00",
+        "published_time": "2024-10-17T12:16:35+00:00"
+    },
+    "http://arxiv.org/abs/2410.13215v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13215v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13215v1",
+        "title": "Balancing Label Quantity and Quality for Scalable Elicitation",
+        "comment": null,
+        "updated_time": "2024-10-17T04:39:58+00:00",
+        "published_time": "2024-10-17T04:39:58+00:00"
+    },
     "http://arxiv.org/abs/2410.12635v1": {
         "entry_id": "http://arxiv.org/abs/2410.12635v1",
         "pdf_url": "http://arxiv.org/pdf/2410.12635v1",
