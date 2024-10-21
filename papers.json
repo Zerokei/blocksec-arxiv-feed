@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2410.14556v1": {
+        "entry_id": "http://arxiv.org/abs/2410.14556v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.14556v1",
+        "title": "Measuring Diversity: Axioms and Challenges",
+        "comment": "17 pages, 7 figures",
+        "updated_time": "2024-10-18T15:59:54+00:00",
+        "published_time": "2024-10-18T15:59:54+00:00"
+    },
+    "http://arxiv.org/abs/2410.14493v1": {
+        "entry_id": "http://arxiv.org/abs/2410.14493v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.14493v1",
+        "title": "Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges",
+        "comment": null,
+        "updated_time": "2024-10-18T14:25:05+00:00",
+        "published_time": "2024-10-18T14:25:05+00:00"
+    },
+    "http://arxiv.org/abs/2410.14475v1": {
+        "entry_id": "http://arxiv.org/abs/2410.14475v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.14475v1",
+        "title": "Enhancing Cryptocurrency Market Forecasting: Advanced Machine Learning Techniques and Industrial Engineering Contributions",
+        "comment": "63 pages, 6 figures",
+        "updated_time": "2024-10-18T14:00:44+00:00",
+        "published_time": "2024-10-18T14:00:44+00:00"
+    },
+    "http://arxiv.org/abs/2410.14388v1": {
+        "entry_id": "http://arxiv.org/abs/2410.14388v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.14388v1",
+        "title": "Unscrambling disease progression at scale: fast inference of event permutations with optimal transport",
+        "comment": "Pre-print of version accepted to NeurIPS 2024",
+        "updated_time": "2024-10-18T11:44:29+00:00",
+        "published_time": "2024-10-18T11:44:29+00:00"
+    },
+    "http://arxiv.org/abs/2410.14254v1": {
+        "entry_id": "http://arxiv.org/abs/2410.14254v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.14254v1",
+        "title": "RAZOR: Refining Accuracy by Zeroing Out Redundancies",
+        "comment": "17 pages, 3 figures",
+        "updated_time": "2024-10-18T08:04:31+00:00",
+        "published_time": "2024-10-18T08:04:31+00:00"
+    },
+    "http://arxiv.org/abs/2410.14223v1": {
+        "entry_id": "http://arxiv.org/abs/2410.14223v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.14223v1",
+        "title": "G-NeuroDAVIS: A Neural Network model for generalized embedding, data visualization and sample generation",
+        "comment": "15 pages, 8 figures",
+        "updated_time": "2024-10-18T07:14:08+00:00",
+        "published_time": "2024-10-18T07:14:08+00:00"
+    },
+    "http://arxiv.org/abs/2410.14209v1": {
+        "entry_id": "http://arxiv.org/abs/2410.14209v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.14209v1",
+        "title": "Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents",
+        "comment": "12 pages (references included), 6 figures and 3 tables. ICSE-SEIP at\n  review",
+        "updated_time": "2024-10-18T06:51:13+00:00",
+        "published_time": "2024-10-18T06:51:13+00:00"
+    },
+    "http://arxiv.org/abs/2410.14075v1": {
+        "entry_id": "http://arxiv.org/abs/2410.14075v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.14075v1",
+        "title": "FedPAE: Peer-Adaptive Ensemble Learning for Asynchronous and Model-Heterogeneous Federated Learning",
+        "comment": "10 pages, 5 figures",
+        "updated_time": "2024-10-17T22:47:19+00:00",
+        "published_time": "2024-10-17T22:47:19+00:00"
+    },
+    "http://arxiv.org/abs/2410.14010v1": {
+        "entry_id": "http://arxiv.org/abs/2410.14010v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.14010v1",
+        "title": "Conformal Prediction for Federated Graph Neural Networks with Missing Neighbor Information",
+        "comment": null,
+        "updated_time": "2024-10-17T20:22:25+00:00",
+        "published_time": "2024-10-17T20:22:25+00:00"
+    },
+    "http://arxiv.org/abs/2410.13953v1": {
+        "entry_id": "http://arxiv.org/abs/2410.13953v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.13953v1",
+        "title": "On Diffusion Models for Multi-Agent Partial Observability: Shared Attractors, Error Bounds, and Composite Flow",
+        "comment": null,
+        "updated_time": "2024-10-17T18:23:33+00:00",
+        "published_time": "2024-10-17T18:23:33+00:00"
+    },
     "http://arxiv.org/abs/2410.13794v1": {
         "entry_id": "http://arxiv.org/abs/2410.13794v1",
         "pdf_url": "http://arxiv.org/pdf/2410.13794v1",
