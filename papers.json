@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2410.17075v1": {
+        "entry_id": "http://arxiv.org/abs/2410.17075v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.17075v1",
+        "title": "Combinatorial Logistic Bandits",
+        "comment": "Accepted to ACM SIGMETRICS 2025",
+        "updated_time": "2024-10-22T14:52:46+00:00",
+        "published_time": "2024-10-22T14:52:46+00:00"
+    },
+    "http://arxiv.org/abs/2410.17052v1": {
+        "entry_id": "http://arxiv.org/abs/2410.17052v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.17052v1",
+        "title": "On the Vulnerability of Text Sanitization",
+        "comment": null,
+        "updated_time": "2024-10-22T14:31:53+00:00",
+        "published_time": "2024-10-22T14:31:53+00:00"
+    },
+    "http://arxiv.org/abs/2410.16982v1": {
+        "entry_id": "http://arxiv.org/abs/2410.16982v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.16982v1",
+        "title": "Sample-Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization",
+        "comment": null,
+        "updated_time": "2024-10-22T13:02:12+00:00",
+        "published_time": "2024-10-22T13:02:12+00:00"
+    },
+    "http://arxiv.org/abs/2410.16935v1": {
+        "entry_id": "http://arxiv.org/abs/2410.16935v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.16935v1",
+        "title": "Graph Neural Networks for Edge Signals: Orientation Equivariance and Invariance",
+        "comment": null,
+        "updated_time": "2024-10-22T12:12:43+00:00",
+        "published_time": "2024-10-22T12:12:43+00:00"
+    },
+    "http://arxiv.org/abs/2410.16811v1": {
+        "entry_id": "http://arxiv.org/abs/2410.16811v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.16811v1",
+        "title": "Masked Clinical Modelling: A Framework for Synthetic and Augmented Survival Data Generation",
+        "comment": null,
+        "updated_time": "2024-10-22T08:38:46+00:00",
+        "published_time": "2024-10-22T08:38:46+00:00"
+    },
     "http://arxiv.org/abs/2410.16098v1": {
         "entry_id": "http://arxiv.org/abs/2410.16098v1",
         "pdf_url": "http://arxiv.org/pdf/2410.16098v1",
