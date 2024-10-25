@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2410.18926v1": {
+        "entry_id": "http://arxiv.org/abs/2410.18926v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.18926v1",
+        "title": "LoRANN: Low-Rank Matrix Factorization for Approximate Nearest Neighbor Search",
+        "comment": "Accepted to NeurIPS 2024",
+        "updated_time": "2024-10-24T17:13:39+00:00",
+        "published_time": "2024-10-24T17:13:39+00:00"
+    },
+    "http://arxiv.org/abs/2410.18894v1": {
+        "entry_id": "http://arxiv.org/abs/2410.18894v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.18894v1",
+        "title": "Meta-Learning with Heterogeneous Tasks",
+        "comment": "13 pages, 4 figures",
+        "updated_time": "2024-10-24T16:32:23+00:00",
+        "published_time": "2024-10-24T16:32:23+00:00"
+    },
+    "http://arxiv.org/abs/2410.18862v1": {
+        "entry_id": "http://arxiv.org/abs/2410.18862v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.18862v1",
+        "title": "FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning",
+        "comment": null,
+        "updated_time": "2024-10-24T15:48:34+00:00",
+        "published_time": "2024-10-24T15:48:34+00:00"
+    },
+    "http://arxiv.org/abs/2410.18701v1": {
+        "entry_id": "http://arxiv.org/abs/2410.18701v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.18701v1",
+        "title": "BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching",
+        "comment": null,
+        "updated_time": "2024-10-24T12:53:39+00:00",
+        "published_time": "2024-10-24T12:53:39+00:00"
+    },
+    "http://arxiv.org/abs/2410.18605v1": {
+        "entry_id": "http://arxiv.org/abs/2410.18605v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.18605v1",
+        "title": "Understanding Players as if They Are Talking to the Game in a Customized Language: A Pilot Study",
+        "comment": "published in Workshop on Customizable NLP at EMNLP 2024",
+        "updated_time": "2024-10-24T09:59:10+00:00",
+        "published_time": "2024-10-24T09:59:10+00:00"
+    },
+    "http://arxiv.org/abs/2410.18561v1": {
+        "entry_id": "http://arxiv.org/abs/2410.18561v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.18561v1",
+        "title": "Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations",
+        "comment": "13 pages, 10 figures",
+        "updated_time": "2024-10-24T09:09:20+00:00",
+        "published_time": "2024-10-24T09:09:20+00:00"
+    },
+    "http://arxiv.org/abs/2410.18291v1": {
+        "entry_id": "http://arxiv.org/abs/2410.18291v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.18291v1",
+        "title": "Enhancing Enterprise Security with Zero Trust Architecture",
+        "comment": "21 pages, 4 figures, focusing on Zero Trust Architecture (ZTA)\n  implementation and its impact on mitigating insider threats and reducing\n  vulnerabilities. Case studies from sectors like finance and healthcare are\n  included",
+        "updated_time": "2024-10-23T21:53:16+00:00",
+        "published_time": "2024-10-23T21:53:16+00:00"
+    },
     "http://arxiv.org/abs/2410.17925v1": {
         "entry_id": "http://arxiv.org/abs/2410.17925v1",
         "pdf_url": "http://arxiv.org/pdf/2410.17925v1",
