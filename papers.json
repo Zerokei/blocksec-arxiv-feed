@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2410.19709v1": {
+        "entry_id": "http://arxiv.org/abs/2410.19709v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.19709v1",
+        "title": "Water and Electricity Consumption Forecasting at an Educational Institution using Machine Learning models with Metaheuristic Optimization",
+        "comment": "Conference: International Joint Conference on Industrial Engineering\n  and Operations Management (IJCIEOM ). At: Salvador-BA, Brazil",
+        "updated_time": "2024-10-25T17:30:12+00:00",
+        "published_time": "2024-10-25T17:30:12+00:00"
+    },
+    "http://arxiv.org/abs/2410.19705v1": {
+        "entry_id": "http://arxiv.org/abs/2410.19705v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.19705v1",
+        "title": "Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks",
+        "comment": null,
+        "updated_time": "2024-10-25T17:27:58+00:00",
+        "published_time": "2024-10-25T17:27:58+00:00"
+    },
+    "http://arxiv.org/abs/2410.19562v1": {
+        "entry_id": "http://arxiv.org/abs/2410.19562v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.19562v1",
+        "title": "Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study",
+        "comment": "Submitted to Edge AI conference, Cagliari, Italy",
+        "updated_time": "2024-10-25T13:51:34+00:00",
+        "published_time": "2024-10-25T13:51:34+00:00"
+    },
+    "http://arxiv.org/abs/2410.19528v1": {
+        "entry_id": "http://arxiv.org/abs/2410.19528v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.19528v1",
+        "title": "AgentForge: A Flexible Low-Code Platform for Reinforcement Learning Agent Design",
+        "comment": "This preprint was submitted to the 17th International Conference on\n  Agents and Artificial Intelligence (ICAART'2025) and is currently under\n  review",
+        "updated_time": "2024-10-25T12:53:33+00:00",
+        "published_time": "2024-10-25T12:53:33+00:00"
+    },
+    "http://arxiv.org/abs/2410.19522v1": {
+        "entry_id": "http://arxiv.org/abs/2410.19522v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.19522v1",
+        "title": "A Practical Approach to Combinatorial Test Design",
+        "comment": null,
+        "updated_time": "2024-10-25T12:43:50+00:00",
+        "published_time": "2024-10-25T12:43:50+00:00"
+    },
+    "http://arxiv.org/abs/2410.19496v1": {
+        "entry_id": "http://arxiv.org/abs/2410.19496v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.19496v1",
+        "title": "A neural network approach for solving the Monge-Amp\u00e8re equation with transport boundary condition",
+        "comment": null,
+        "updated_time": "2024-10-25T11:54:00+00:00",
+        "published_time": "2024-10-25T11:54:00+00:00"
+    },
+    "http://arxiv.org/abs/2410.19492v1": {
+        "entry_id": "http://arxiv.org/abs/2410.19492v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.19492v1",
+        "title": "TRADE: Transfer of Distributions between External Conditions with Normalizing Flows",
+        "comment": "Preprint, under review",
+        "updated_time": "2024-10-25T11:49:40+00:00",
+        "published_time": "2024-10-25T11:49:40+00:00"
+    },
+    "http://arxiv.org/abs/2410.19241v1": {
+        "entry_id": "http://arxiv.org/abs/2410.19241v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.19241v1",
+        "title": "Enhancing Exchange Rate Forecasting with Explainable Deep Learning Models",
+        "comment": "Accepted by 2024 5th International Conference on Machine Learning and\n  Computer Application",
+        "updated_time": "2024-10-25T01:29:54+00:00",
+        "published_time": "2024-10-25T01:29:54+00:00"
+    },
     "http://arxiv.org/abs/2410.18926v1": {
         "entry_id": "http://arxiv.org/abs/2410.18926v1",
         "pdf_url": "http://arxiv.org/pdf/2410.18926v1",
