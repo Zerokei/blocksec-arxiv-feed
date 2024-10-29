@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2410.21218v1": {
+        "entry_id": "http://arxiv.org/abs/2410.21218v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.21218v1",
+        "title": "Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations",
+        "comment": "17 pages",
+        "updated_time": "2024-10-28T17:02:12+00:00",
+        "published_time": "2024-10-28T17:02:12+00:00"
+    },
+    "http://arxiv.org/abs/2410.21177v1": {
+        "entry_id": "http://arxiv.org/abs/2410.21177v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.21177v1",
+        "title": "Privacy-Preserving for Images in Satellite Communications: A Comprehensive Review of Chaos-Based Encryption",
+        "comment": null,
+        "updated_time": "2024-10-28T16:17:07+00:00",
+        "published_time": "2024-10-28T16:17:07+00:00"
+    },
+    "http://arxiv.org/abs/2410.20984v1": {
+        "entry_id": "http://arxiv.org/abs/2410.20984v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.20984v1",
+        "title": "Overview of Current Challenges in Multi-Architecture Software Engineering and a Vision for the Future",
+        "comment": null,
+        "updated_time": "2024-10-28T13:03:09+00:00",
+        "published_time": "2024-10-28T13:03:09+00:00"
+    },
+    "http://arxiv.org/abs/2410.20958v1": {
+        "entry_id": "http://arxiv.org/abs/2410.20958v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.20958v1",
+        "title": "CovFUZZ: Coverage-based fuzzer for 4G&5G protocols",
+        "comment": null,
+        "updated_time": "2024-10-28T12:22:10+00:00",
+        "published_time": "2024-10-28T12:22:10+00:00"
+    },
+    "http://arxiv.org/abs/2410.20862v1": {
+        "entry_id": "http://arxiv.org/abs/2410.20862v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.20862v1",
+        "title": "Fakeium: A Dynamic Execution Environment for JavaScript Program Analysis",
+        "comment": null,
+        "updated_time": "2024-10-28T09:27:26+00:00",
+        "published_time": "2024-10-28T09:27:26+00:00"
+    },
+    "http://arxiv.org/abs/2410.20712v1": {
+        "entry_id": "http://arxiv.org/abs/2410.20712v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.20712v1",
+        "title": "COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts",
+        "comment": "This work is accepted by ASE'24",
+        "updated_time": "2024-10-28T03:55:09+00:00",
+        "published_time": "2024-10-28T03:55:09+00:00"
+    },
+    "http://arxiv.org/abs/2410.20259v1": {
+        "entry_id": "http://arxiv.org/abs/2410.20259v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.20259v1",
+        "title": "FL-DABE-BC: A Privacy-Enhanced, Decentralized Authentication, and Secure Communication for Federated Learning Framework with Decentralized Attribute-Based Encryption and Blockchain for IoT Scenarios",
+        "comment": null,
+        "updated_time": "2024-10-26T19:30:53+00:00",
+        "published_time": "2024-10-26T19:30:53+00:00"
+    },
+    "http://arxiv.org/abs/2410.20105v1": {
+        "entry_id": "http://arxiv.org/abs/2410.20105v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.20105v1",
+        "title": "FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference",
+        "comment": null,
+        "updated_time": "2024-10-26T07:09:27+00:00",
+        "published_time": "2024-10-26T07:09:27+00:00"
+    },
     "http://arxiv.org/abs/2410.19709v1": {
         "entry_id": "http://arxiv.org/abs/2410.19709v1",
         "pdf_url": "http://arxiv.org/pdf/2410.19709v1",
