@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2410.22293v1": {
+        "entry_id": "http://arxiv.org/abs/2410.22293v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.22293v1",
+        "title": "Fine-Tuning LLMs for Code Mutation: A New Era of Cyber Threats",
+        "comment": null,
+        "updated_time": "2024-10-29T17:43:06+00:00",
+        "published_time": "2024-10-29T17:43:06+00:00"
+    },
+    "http://arxiv.org/abs/2410.22284v1": {
+        "entry_id": "http://arxiv.org/abs/2410.22284v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.22284v1",
+        "title": "Embedding-based classifiers can detect prompt injection attacks",
+        "comment": null,
+        "updated_time": "2024-10-29T17:36:59+00:00",
+        "published_time": "2024-10-29T17:36:59+00:00"
+    },
+    "http://arxiv.org/abs/2410.22264v1": {
+        "entry_id": "http://arxiv.org/abs/2410.22264v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.22264v1",
+        "title": "Meta-Learning Adaptable Foundation Models",
+        "comment": "Preprint",
+        "updated_time": "2024-10-29T17:24:18+00:00",
+        "published_time": "2024-10-29T17:24:18+00:00"
+    },
+    "http://arxiv.org/abs/2410.22228v1": {
+        "entry_id": "http://arxiv.org/abs/2410.22228v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.22228v1",
+        "title": "Subgraph Aggregation for Out-of-Distribution Generalization on Graphs",
+        "comment": null,
+        "updated_time": "2024-10-29T16:54:37+00:00",
+        "published_time": "2024-10-29T16:54:37+00:00"
+    },
+    "http://arxiv.org/abs/2410.22159v1": {
+        "entry_id": "http://arxiv.org/abs/2410.22159v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.22159v1",
+        "title": "Training LLMs for Generating IEC 61131-3 Structured Text with Online Feedback",
+        "comment": "This work has been submitted to the IEEE for possible publication",
+        "updated_time": "2024-10-29T15:54:09+00:00",
+        "published_time": "2024-10-29T15:54:09+00:00"
+    },
+    "http://arxiv.org/abs/2410.21979v1": {
+        "entry_id": "http://arxiv.org/abs/2410.21979v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.21979v1",
+        "title": "VaultFS: Write-once Software Support at the File System Level Against Ransomware Attacks",
+        "comment": null,
+        "updated_time": "2024-10-29T12:06:24+00:00",
+        "published_time": "2024-10-29T12:06:24+00:00"
+    },
+    "http://arxiv.org/abs/2410.21952v1": {
+        "entry_id": "http://arxiv.org/abs/2410.21952v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.21952v1",
+        "title": "On the Robustness of Adversarial Training Against Uncertainty Attacks",
+        "comment": null,
+        "updated_time": "2024-10-29T11:12:44+00:00",
+        "published_time": "2024-10-29T11:12:44+00:00"
+    },
+    "http://arxiv.org/abs/2410.21904v1": {
+        "entry_id": "http://arxiv.org/abs/2410.21904v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.21904v1",
+        "title": "Formal Analysis of Reachability, Infection and Propagation Conditions in Mutation Testing",
+        "comment": null,
+        "updated_time": "2024-10-29T09:49:20+00:00",
+        "published_time": "2024-10-29T09:49:20+00:00"
+    },
+    "http://arxiv.org/abs/2410.21685v1": {
+        "entry_id": "http://arxiv.org/abs/2410.21685v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.21685v1",
+        "title": "Impact of Code Transformation on Detection of Smart Contract Vulnerabilities",
+        "comment": null,
+        "updated_time": "2024-10-29T03:08:25+00:00",
+        "published_time": "2024-10-29T03:08:25+00:00"
+    },
+    "http://arxiv.org/abs/2410.21593v1": {
+        "entry_id": "http://arxiv.org/abs/2410.21593v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.21593v1",
+        "title": "Hybrid-DAOs: Enhancing Governance, Scalability, and Compliance in Decentralized Systems",
+        "comment": "22 pages",
+        "updated_time": "2024-10-28T22:56:19+00:00",
+        "published_time": "2024-10-28T22:56:19+00:00"
+    },
     "http://arxiv.org/abs/2410.21218v1": {
         "entry_id": "http://arxiv.org/abs/2410.21218v1",
         "pdf_url": "http://arxiv.org/pdf/2410.21218v1",
