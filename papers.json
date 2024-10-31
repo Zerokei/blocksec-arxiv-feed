@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2410.23046v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23046v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23046v1",
+        "title": "Legitimate ground-truth-free metrics for deep uncertainty classification scoring",
+        "comment": null,
+        "updated_time": "2024-10-30T14:14:32+00:00",
+        "published_time": "2024-10-30T14:14:32+00:00"
+    },
+    "http://arxiv.org/abs/2410.22981v1": {
+        "entry_id": "http://arxiv.org/abs/2410.22981v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.22981v1",
+        "title": "DisenTS: Disentangled Channel Evolving Pattern Modeling for Multivariate Time Series Forecasting",
+        "comment": null,
+        "updated_time": "2024-10-30T12:46:14+00:00",
+        "published_time": "2024-10-30T12:46:14+00:00"
+    },
+    "http://arxiv.org/abs/2410.22918v1": {
+        "entry_id": "http://arxiv.org/abs/2410.22918v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.22918v1",
+        "title": "Simulation-Free Training of Neural ODEs on Paired Data",
+        "comment": null,
+        "updated_time": "2024-10-30T11:18:27+00:00",
+        "published_time": "2024-10-30T11:18:27+00:00"
+    },
+    "http://arxiv.org/abs/2410.21685v2": {
+        "entry_id": "http://arxiv.org/abs/2410.21685v2",
+        "pdf_url": "http://arxiv.org/pdf/2410.21685v2",
+        "title": "Impact of Code Transformation on Detection of Smart Contract Vulnerabilities",
+        "comment": null,
+        "updated_time": "2024-10-30T06:23:13+00:00",
+        "published_time": "2024-10-29T03:08:25+00:00"
+    },
     "http://arxiv.org/abs/2410.22293v1": {
         "entry_id": "http://arxiv.org/abs/2410.22293v1",
         "pdf_url": "http://arxiv.org/pdf/2410.22293v1",
