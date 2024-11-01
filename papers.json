@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2410.24166v1": {
+        "entry_id": "http://arxiv.org/abs/2410.24166v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.24166v1",
+        "title": "Approaches to human activity recognition via passive radar",
+        "comment": null,
+        "updated_time": "2024-10-31T17:28:41+00:00",
+        "published_time": "2024-10-31T17:28:41+00:00"
+    },
+    "http://arxiv.org/abs/2410.24105v1": {
+        "entry_id": "http://arxiv.org/abs/2410.24105v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.24105v1",
+        "title": "Matchmaker: Self-Improving Large Language Model Programs for Schema Matching",
+        "comment": "Accepted to NeurIPS 2024, GenAI for Health Workshop and Table\n  Representation Learning Workshop",
+        "updated_time": "2024-10-31T16:34:03+00:00",
+        "published_time": "2024-10-31T16:34:03+00:00"
+    },
+    "http://arxiv.org/abs/2410.23972v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23972v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23972v1",
+        "title": "Envisioning Diversity and Inclusion for Quantum Software Engineering",
+        "comment": null,
+        "updated_time": "2024-10-31T14:26:26+00:00",
+        "published_time": "2024-10-31T14:26:26+00:00"
+    },
+    "http://arxiv.org/abs/2410.23894v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23894v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23894v1",
+        "title": "Metamorphic Malware Evolution: The Potential and Peril of Large Language Models",
+        "comment": null,
+        "updated_time": "2024-10-31T12:53:56+00:00",
+        "published_time": "2024-10-31T12:53:56+00:00"
+    },
+    "http://arxiv.org/abs/2410.23873v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23873v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23873v1",
+        "title": "Generating Accurate OpenAPI Descriptions from Java Source Code",
+        "comment": null,
+        "updated_time": "2024-10-31T12:34:35+00:00",
+        "published_time": "2024-10-31T12:34:35+00:00"
+    },
+    "http://arxiv.org/abs/2410.23870v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23870v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23870v1",
+        "title": "Noise as a Double-Edged Sword: Reinforcement Learning Exploits Randomized Defenses in Neural Networks",
+        "comment": null,
+        "updated_time": "2024-10-31T12:22:19+00:00",
+        "published_time": "2024-10-31T12:22:19+00:00"
+    },
+    "http://arxiv.org/abs/2410.23866v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23866v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23866v1",
+        "title": "Evaluating and Improving ChatGPT-Based Expansion of Abbreviations",
+        "comment": null,
+        "updated_time": "2024-10-31T12:20:24+00:00",
+        "published_time": "2024-10-31T12:20:24+00:00"
+    },
+    "http://arxiv.org/abs/2410.23808v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23808v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23808v1",
+        "title": "One Sample Fits All: Approximating All Probabilistic Values Simultaneously and Efficiently",
+        "comment": null,
+        "updated_time": "2024-10-31T10:47:46+00:00",
+        "published_time": "2024-10-31T10:47:46+00:00"
+    },
+    "http://arxiv.org/abs/2410.23774v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23774v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23774v1",
+        "title": "Towards Convexity in Anomaly Detection: A New Formulation of SSLM with Unique Optimal Solutions",
+        "comment": null,
+        "updated_time": "2024-10-31T09:42:39+00:00",
+        "published_time": "2024-10-31T09:42:39+00:00"
+    },
+    "http://arxiv.org/abs/2410.23660v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23660v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23660v1",
+        "title": "Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning",
+        "comment": "Accepted at NeurIPS 2024",
+        "updated_time": "2024-10-31T06:20:17+00:00",
+        "published_time": "2024-10-31T06:20:17+00:00"
+    },
+    "http://arxiv.org/abs/2410.23563v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23563v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23563v1",
+        "title": "Across-Platform Detection of Malicious Cryptocurrency Transactions via Account Interaction Learning",
+        "comment": null,
+        "updated_time": "2024-10-31T02:01:42+00:00",
+        "published_time": "2024-10-31T02:01:42+00:00"
+    },
+    "http://arxiv.org/abs/2410.23422v1": {
+        "entry_id": "http://arxiv.org/abs/2410.23422v1",
+        "pdf_url": "http://arxiv.org/pdf/2410.23422v1",
+        "title": "Mitigating Challenges in Ethereum's Proof-of-Stake Consensus: Evaluating the Impact of EigenLayer and Lido",
+        "comment": null,
+        "updated_time": "2024-10-30T19:58:46+00:00",
+        "published_time": "2024-10-30T19:58:46+00:00"
+    },
     "http://arxiv.org/abs/2410.23046v1": {
         "entry_id": "http://arxiv.org/abs/2410.23046v1",
         "pdf_url": "http://arxiv.org/pdf/2410.23046v1",
