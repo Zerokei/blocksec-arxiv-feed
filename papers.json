@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2411.03224v1": {
+        "entry_id": "http://arxiv.org/abs/2411.03224v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.03224v1",
+        "title": "Interpretable Predictive Models for Healthcare via Rational Logistic Regression",
+        "comment": "ICIS 2021 Proceedings ( see\n  https://aisel.aisnet.org/icis2021/is_health/is_health/18 )",
+        "updated_time": "2024-11-05T16:15:25+00:00",
+        "published_time": "2024-11-05T16:15:25+00:00"
+    },
+    "http://arxiv.org/abs/2411.02921v1": {
+        "entry_id": "http://arxiv.org/abs/2411.02921v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.02921v1",
+        "title": "Theoretically Guaranteed Distribution Adaptable Learning",
+        "comment": null,
+        "updated_time": "2024-11-05T09:10:39+00:00",
+        "published_time": "2024-11-05T09:10:39+00:00"
+    },
     "http://arxiv.org/abs/2411.02323v1": {
         "entry_id": "http://arxiv.org/abs/2411.02323v1",
         "pdf_url": "http://arxiv.org/pdf/2411.02323v1",
