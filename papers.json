@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2411.04855v1": {
+        "entry_id": "http://arxiv.org/abs/2411.04855v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.04855v1",
+        "title": "Clinicians' Voice: Fundamental Considerations for XAI in Healthcare",
+        "comment": null,
+        "updated_time": "2024-11-07T16:47:06+00:00",
+        "published_time": "2024-11-07T16:47:06+00:00"
+    },
+    "http://arxiv.org/abs/2411.04760v1": {
+        "entry_id": "http://arxiv.org/abs/2411.04760v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.04760v1",
+        "title": "Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks",
+        "comment": null,
+        "updated_time": "2024-11-07T14:58:51+00:00",
+        "published_time": "2024-11-07T14:58:51+00:00"
+    },
+    "http://arxiv.org/abs/2411.04556v1": {
+        "entry_id": "http://arxiv.org/abs/2411.04556v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.04556v1",
+        "title": "Uncertainty Prediction Neural Network (UpNet): Embedding Artificial Neural Network in Bayesian Inversion Framework to Quantify the Uncertainty of Remote Sensing Retrieval",
+        "comment": "24 pages, f figures",
+        "updated_time": "2024-11-07T09:27:42+00:00",
+        "published_time": "2024-11-07T09:27:42+00:00"
+    },
+    "http://arxiv.org/abs/2411.04554v1": {
+        "entry_id": "http://arxiv.org/abs/2411.04554v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.04554v1",
+        "title": "Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis",
+        "comment": "38th Conference on Neural Information Processing Systems (NeurIPS\n  2024)",
+        "updated_time": "2024-11-07T09:24:26+00:00",
+        "published_time": "2024-11-07T09:24:26+00:00"
+    },
     "http://arxiv.org/abs/2411.04068v1": {
         "entry_id": "http://arxiv.org/abs/2411.04068v1",
         "pdf_url": "http://arxiv.org/pdf/2411.04068v1",
