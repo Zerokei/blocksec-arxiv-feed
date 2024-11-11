@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2411.05757v1": {
+        "entry_id": "http://arxiv.org/abs/2411.05757v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.05757v1",
+        "title": "Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network",
+        "comment": null,
+        "updated_time": "2024-11-08T18:18:18+00:00",
+        "published_time": "2024-11-08T18:18:18+00:00"
+    },
+    "http://arxiv.org/abs/2411.05693v1": {
+        "entry_id": "http://arxiv.org/abs/2411.05693v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.05693v1",
+        "title": "YOSO: You-Only-Sample-Once via Compressed Sensing for Graph Neural Network Training",
+        "comment": null,
+        "updated_time": "2024-11-08T16:47:51+00:00",
+        "published_time": "2024-11-08T16:47:51+00:00"
+    },
+    "http://arxiv.org/abs/2411.05648v1": {
+        "entry_id": "http://arxiv.org/abs/2411.05648v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.05648v1",
+        "title": "Enhancing Model Fairness and Accuracy with Similarity Networks: A Methodological Approach",
+        "comment": "7 pages, 4 figures",
+        "updated_time": "2024-11-08T15:43:01+00:00",
+        "published_time": "2024-11-08T15:43:01+00:00"
+    },
+    "http://arxiv.org/abs/2411.05173v1": {
+        "entry_id": "http://arxiv.org/abs/2411.05173v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.05173v1",
+        "title": "DWFL: Enhancing Federated Learning through Dynamic Weighted Averaging",
+        "comment": "Accepted at SIMBig 2024",
+        "updated_time": "2024-11-07T20:24:23+00:00",
+        "published_time": "2024-11-07T20:24:23+00:00"
+    },
+    "http://arxiv.org/abs/2411.05167v1": {
+        "entry_id": "http://arxiv.org/abs/2411.05167v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.05167v1",
+        "title": "EPIC: Enhancing Privacy through Iterative Collaboration",
+        "comment": "Accepted at SIMBig 2024",
+        "updated_time": "2024-11-07T20:10:34+00:00",
+        "published_time": "2024-11-07T20:10:34+00:00"
+    },
     "http://arxiv.org/abs/2411.04855v1": {
         "entry_id": "http://arxiv.org/abs/2411.04855v1",
         "pdf_url": "http://arxiv.org/pdf/2411.04855v1",
