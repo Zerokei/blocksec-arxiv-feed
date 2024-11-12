@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2411.07114v1": {
+        "entry_id": "http://arxiv.org/abs/2411.07114v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.07114v1",
+        "title": "TinyML Security: Exploring Vulnerabilities in Resource-Constrained Machine Learning Systems",
+        "comment": "Submitted to Proceedings of the IEEE",
+        "updated_time": "2024-11-11T16:41:22+00:00",
+        "published_time": "2024-11-11T16:41:22+00:00"
+    },
+    "http://arxiv.org/abs/2411.07036v1": {
+        "entry_id": "http://arxiv.org/abs/2411.07036v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.07036v1",
+        "title": "ProP: Efficient Backdoor Detection via Propagation Perturbation for Overparametrized Models",
+        "comment": null,
+        "updated_time": "2024-11-11T14:43:44+00:00",
+        "published_time": "2024-11-11T14:43:44+00:00"
+    },
+    "http://arxiv.org/abs/2411.07022v1": {
+        "entry_id": "http://arxiv.org/abs/2411.07022v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.07022v1",
+        "title": "HeteroSample: Meta-path Guided Sampling for Heterogeneous Graph Representation Learning",
+        "comment": "11 pages",
+        "updated_time": "2024-11-11T14:27:30+00:00",
+        "published_time": "2024-11-11T14:27:30+00:00"
+    },
+    "http://arxiv.org/abs/2411.06352v1": {
+        "entry_id": "http://arxiv.org/abs/2411.06352v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.06352v1",
+        "title": "Client Contribution Normalization for Enhanced Federated Learning",
+        "comment": "Accepted at IEEE INDICON 2024",
+        "updated_time": "2024-11-10T04:03:09+00:00",
+        "published_time": "2024-11-10T04:03:09+00:00"
+    },
     "http://arxiv.org/abs/2411.05757v1": {
         "entry_id": "http://arxiv.org/abs/2411.05757v1",
         "pdf_url": "http://arxiv.org/pdf/2411.05757v1",
