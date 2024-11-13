@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2411.07889v1": {
+        "entry_id": "http://arxiv.org/abs/2411.07889v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.07889v1",
+        "title": "A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data",
+        "comment": null,
+        "updated_time": "2024-11-12T15:51:35+00:00",
+        "published_time": "2024-11-12T15:51:35+00:00"
+    },
+    "http://arxiv.org/abs/2411.07828v1": {
+        "entry_id": "http://arxiv.org/abs/2411.07828v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.07828v1",
+        "title": "Suite-IN: Aggregating Motion Features from Apple Suite for Robust Inertial Navigation",
+        "comment": null,
+        "updated_time": "2024-11-12T14:23:52+00:00",
+        "published_time": "2024-11-12T14:23:52+00:00"
+    },
+    "http://arxiv.org/abs/2411.07668v1": {
+        "entry_id": "http://arxiv.org/abs/2411.07668v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.07668v1",
+        "title": "Towards Evaluation Guidelines for Empirical Studies involving LLMs",
+        "comment": "4 pages",
+        "updated_time": "2024-11-12T09:35:23+00:00",
+        "published_time": "2024-11-12T09:35:23+00:00"
+    },
+    "http://arxiv.org/abs/2411.07597v1": {
+        "entry_id": "http://arxiv.org/abs/2411.07597v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.07597v1",
+        "title": "A Survey on Adversarial Machine Learning for Code Data: Realistic Threats, Countermeasures, and Interpretations",
+        "comment": "Under a reviewing process since Sep. 3, 2024",
+        "updated_time": "2024-11-12T07:16:20+00:00",
+        "published_time": "2024-11-12T07:16:20+00:00"
+    },
+    "http://arxiv.org/abs/2411.07535v1": {
+        "entry_id": "http://arxiv.org/abs/2411.07535v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.07535v1",
+        "title": "Double-Signed Fragmented DNSSEC for Countering Quantum Threat",
+        "comment": null,
+        "updated_time": "2024-11-12T04:22:57+00:00",
+        "published_time": "2024-11-12T04:22:57+00:00"
+    },
+    "http://arxiv.org/abs/2411.07498v1": {
+        "entry_id": "http://arxiv.org/abs/2411.07498v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.07498v1",
+        "title": "Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models",
+        "comment": "12 pages",
+        "updated_time": "2024-11-12T02:54:59+00:00",
+        "published_time": "2024-11-12T02:54:59+00:00"
+    },
     "http://arxiv.org/abs/2411.07114v1": {
         "entry_id": "http://arxiv.org/abs/2411.07114v1",
         "pdf_url": "http://arxiv.org/pdf/2411.07114v1",
