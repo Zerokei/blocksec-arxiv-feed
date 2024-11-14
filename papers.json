@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2411.08781v1": {
+        "entry_id": "http://arxiv.org/abs/2411.08781v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.08781v1",
+        "title": "SoK: Towards a Common Understanding of Cryptographic Agility",
+        "comment": "18 pages, 1 figure",
+        "updated_time": "2024-11-13T17:08:21+00:00",
+        "published_time": "2024-11-13T17:08:21+00:00"
+    },
+    "http://arxiv.org/abs/2411.08758v1": {
+        "entry_id": "http://arxiv.org/abs/2411.08758v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.08758v1",
+        "title": "ScaleNet: Scale Invariance Learning in Directed Graphs",
+        "comment": "Scale invariance in node classification is demonstrated and applied\n  in graph transformation to develop ScaleNet, which achieves state-of-the-art\n  performance on both homophilic and heterophilic directed graphs",
+        "updated_time": "2024-11-13T16:42:59+00:00",
+        "published_time": "2024-11-13T16:42:59+00:00"
+    },
+    "http://arxiv.org/abs/2411.08699v1": {
+        "entry_id": "http://arxiv.org/abs/2411.08699v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.08699v1",
+        "title": "FedSub: Introducing class-aware Subnetworks Fusion to Enhance Personalized Federated Learning in Ubiquitous Systems",
+        "comment": "Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable\n  and Ubiquitous Technologies (IMWUT)",
+        "updated_time": "2024-11-13T15:42:09+00:00",
+        "published_time": "2024-11-13T15:42:09+00:00"
+    },
+    "http://arxiv.org/abs/2411.08574v1": {
+        "entry_id": "http://arxiv.org/abs/2411.08574v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.08574v1",
+        "title": "Practitioners' Discussions on Building LLM-based Applications for Production",
+        "comment": null,
+        "updated_time": "2024-11-13T12:44:41+00:00",
+        "published_time": "2024-11-13T12:44:41+00:00"
+    },
+    "http://arxiv.org/abs/2411.08439v1": {
+        "entry_id": "http://arxiv.org/abs/2411.08439v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.08439v1",
+        "title": "A Fully Local Last-Generated Rule in a Blockchain",
+        "comment": null,
+        "updated_time": "2024-11-13T08:47:40+00:00",
+        "published_time": "2024-11-13T08:47:40+00:00"
+    },
     "http://arxiv.org/abs/2411.07889v1": {
         "entry_id": "http://arxiv.org/abs/2411.07889v1",
         "pdf_url": "http://arxiv.org/pdf/2411.07889v1",
