@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2411.09645v1": {
+        "entry_id": "http://arxiv.org/abs/2411.09645v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.09645v1",
+        "title": "How do Machine Learning Models Change?",
+        "comment": null,
+        "updated_time": "2024-11-14T18:14:32+00:00",
+        "published_time": "2024-11-14T18:14:32+00:00"
+    },
+    "http://arxiv.org/abs/2411.09591v1": {
+        "entry_id": "http://arxiv.org/abs/2411.09591v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.09591v1",
+        "title": "Expert Study on Interpretable Machine Learning Models with Missing Data",
+        "comment": "Findings paper presented at Machine Learning for Health (ML4H)\n  symposium 2024, December 15-16, 2024, Vancouver, Canada, 13 pages",
+        "updated_time": "2024-11-14T17:02:41+00:00",
+        "published_time": "2024-11-14T17:02:41+00:00"
+    },
+    "http://arxiv.org/abs/2411.07668v2": {
+        "entry_id": "http://arxiv.org/abs/2411.07668v2",
+        "pdf_url": "http://arxiv.org/pdf/2411.07668v2",
+        "title": "Towards Evaluation Guidelines for Empirical Studies involving LLMs",
+        "comment": "4 pages",
+        "updated_time": "2024-11-14T14:28:24+00:00",
+        "published_time": "2024-11-12T09:35:23+00:00"
+    },
+    "http://arxiv.org/abs/2411.09303v1": {
+        "entry_id": "http://arxiv.org/abs/2411.09303v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.09303v1",
+        "title": "Model-Guided Fieldwork: A Practical, Methodological and Philosophical Investigation in the use of Ethnomethodology for Engineering Software Requirements",
+        "comment": "A thesis submitted for the degree of DPhil",
+        "updated_time": "2024-11-14T09:24:56+00:00",
+        "published_time": "2024-11-14T09:24:56+00:00"
+    },
+    "http://arxiv.org/abs/2411.09267v1": {
+        "entry_id": "http://arxiv.org/abs/2411.09267v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.09267v1",
+        "title": "Towards efficient compression and communication for prototype-based decentralized learning",
+        "comment": "15 pages, 2 tables, 7 figures, 6 algorithms",
+        "updated_time": "2024-11-14T08:08:25+00:00",
+        "published_time": "2024-11-14T08:08:25+00:00"
+    },
+    "http://arxiv.org/abs/2411.09242v1": {
+        "entry_id": "http://arxiv.org/abs/2411.09242v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.09242v1",
+        "title": "FluidML: Fast and Memory Efficient Inference Optimization",
+        "comment": null,
+        "updated_time": "2024-11-14T07:16:23+00:00",
+        "published_time": "2024-11-14T07:16:23+00:00"
+    },
+    "http://arxiv.org/abs/2411.09229v1": {
+        "entry_id": "http://arxiv.org/abs/2411.09229v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.09229v1",
+        "title": "Efficient and Secure Cross-Domain Data-Sharing for Resource-Constrained Internet of Things",
+        "comment": "15 pages,10 figures, submitted to Transactions on Information\n  Forensics & Security in 19-Sep-2024",
+        "updated_time": "2024-11-14T06:53:03+00:00",
+        "published_time": "2024-11-14T06:53:03+00:00"
+    },
+    "http://arxiv.org/abs/2411.09228v1": {
+        "entry_id": "http://arxiv.org/abs/2411.09228v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.09228v1",
+        "title": "Injection Attacks Against End-to-End Encrypted Applications",
+        "comment": "Published in IEEE Security and Privacy 2024",
+        "updated_time": "2024-11-14T06:53:00+00:00",
+        "published_time": "2024-11-14T06:53:00+00:00"
+    },
+    "http://arxiv.org/abs/2411.09199v1": {
+        "entry_id": "http://arxiv.org/abs/2411.09199v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.09199v1",
+        "title": "Ghost-Connect Net: A Generalization-Enhanced Guidance For Sparse Deep Networks Under Distribution Shifts",
+        "comment": "21 pages, 4 figures, 3 subfigures, 42 tables",
+        "updated_time": "2024-11-14T05:43:42+00:00",
+        "published_time": "2024-11-14T05:43:42+00:00"
+    },
     "http://arxiv.org/abs/2411.08781v1": {
         "entry_id": "http://arxiv.org/abs/2411.08781v1",
         "pdf_url": "http://arxiv.org/pdf/2411.08781v1",
