@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2411.10418v1": {
+        "entry_id": "http://arxiv.org/abs/2411.10418v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.10418v1",
+        "title": "Multiscale Dubuc: A New Similarity Measure for Time Series",
+        "comment": "6 pages, 3 figures, IEEE Big Data 2024",
+        "updated_time": "2024-11-15T18:38:18+00:00",
+        "published_time": "2024-11-15T18:38:18+00:00"
+    },
+    "http://arxiv.org/abs/2411.10356v1": {
+        "entry_id": "http://arxiv.org/abs/2411.10356v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.10356v1",
+        "title": "Weakly-Supervised Multimodal Learning on MIMIC-CXR",
+        "comment": "Findings paper presented at Machine Learning for Health (ML4H)\n  symposium 2024, December 15-16, 2024, Vancouver, Canada, 13 pages. arXiv\n  admin note: text overlap with arXiv:2403.05300",
+        "updated_time": "2024-11-15T17:05:33+00:00",
+        "published_time": "2024-11-15T17:05:33+00:00"
+    },
+    "http://arxiv.org/abs/2411.10337v1": {
+        "entry_id": "http://arxiv.org/abs/2411.10337v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.10337v1",
+        "title": "On the Cost of Model-Serving Frameworks: An Experimental Evaluation",
+        "comment": null,
+        "updated_time": "2024-11-15T16:36:21+00:00",
+        "published_time": "2024-11-15T16:36:21+00:00"
+    },
+    "http://arxiv.org/abs/2411.10254v1": {
+        "entry_id": "http://arxiv.org/abs/2411.10254v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.10254v1",
+        "title": "Uncertainty in Supply Chain Digital Twins: A Quantum-Classical Hybrid Approach",
+        "comment": null,
+        "updated_time": "2024-11-15T15:02:35+00:00",
+        "published_time": "2024-11-15T15:02:35+00:00"
+    },
+    "http://arxiv.org/abs/2411.10169v1": {
+        "entry_id": "http://arxiv.org/abs/2411.10169v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.10169v1",
+        "title": "Definition and Detection of Centralization Defects in Smart Contracts",
+        "comment": null,
+        "updated_time": "2024-11-15T13:16:16+00:00",
+        "published_time": "2024-11-15T13:16:16+00:00"
+    },
+    "http://arxiv.org/abs/2411.10132v1": {
+        "entry_id": "http://arxiv.org/abs/2411.10132v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.10132v1",
+        "title": "Omnichain Web: The Universal Framework for Streamlined Chain Abstraction and Cross-Layer Interaction",
+        "comment": null,
+        "updated_time": "2024-11-15T12:06:00+00:00",
+        "published_time": "2024-11-15T12:06:00+00:00"
+    },
+    "http://arxiv.org/abs/2411.10059v1": {
+        "entry_id": "http://arxiv.org/abs/2411.10059v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.10059v1",
+        "title": "Self-Defense: Optimal QIF Solutions and Application to Website Fingerprinting",
+        "comment": "38th IEEE Computer Security Foundations Symposium, IEEE, Jun 2025,\n  Santa Cruz, United States",
+        "updated_time": "2024-11-15T09:22:14+00:00",
+        "published_time": "2024-11-15T09:22:14+00:00"
+    },
+    "http://arxiv.org/abs/2411.10023v1": {
+        "entry_id": "http://arxiv.org/abs/2411.10023v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.10023v1",
+        "title": "Model Inversion Attacks: A Survey of Approaches and Countermeasures",
+        "comment": "40 pages, 17 figures",
+        "updated_time": "2024-11-15T08:09:28+00:00",
+        "published_time": "2024-11-15T08:09:28+00:00"
+    },
+    "http://arxiv.org/abs/2411.09842v1": {
+        "entry_id": "http://arxiv.org/abs/2411.09842v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.09842v1",
+        "title": "FedRewind: Rewinding Continual Model Exchange for Decentralized Federated Learning",
+        "comment": null,
+        "updated_time": "2024-11-14T23:14:43+00:00",
+        "published_time": "2024-11-14T23:14:43+00:00"
+    },
     "http://arxiv.org/abs/2411.09645v1": {
         "entry_id": "http://arxiv.org/abs/2411.09645v1",
         "pdf_url": "http://arxiv.org/pdf/2411.09645v1",
