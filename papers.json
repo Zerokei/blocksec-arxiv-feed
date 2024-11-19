@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2411.11659v1": {
+        "entry_id": "http://arxiv.org/abs/2411.11659v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.11659v1",
+        "title": "Improving Data Curation of Software Vulnerability Patches through Uncertainty Quantification",
+        "comment": null,
+        "updated_time": "2024-11-18T15:37:28+00:00",
+        "published_time": "2024-11-18T15:37:28+00:00"
+    },
+    "http://arxiv.org/abs/2411.11567v1": {
+        "entry_id": "http://arxiv.org/abs/2411.11567v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.11567v1",
+        "title": "GNN-Based Code Annotation Logic for Establishing Security Boundaries in C Code",
+        "comment": "Submitted to the IEEE Symposium on Security and Privacy 2025",
+        "updated_time": "2024-11-18T13:40:03+00:00",
+        "published_time": "2024-11-18T13:40:03+00:00"
+    },
+    "http://arxiv.org/abs/2411.11467v1": {
+        "entry_id": "http://arxiv.org/abs/2411.11467v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.11467v1",
+        "title": "Physics meets Topology: Physics-informed topological neural networks for learning rigid body dynamics",
+        "comment": "17 pages, 9 figures",
+        "updated_time": "2024-11-18T11:03:15+00:00",
+        "published_time": "2024-11-18T11:03:15+00:00"
+    },
+    "http://arxiv.org/abs/2411.11423v1": {
+        "entry_id": "http://arxiv.org/abs/2411.11423v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.11423v1",
+        "title": "TEEMATE: Fast and Efficient Confidential Container using Shared Enclave",
+        "comment": null,
+        "updated_time": "2024-11-18T09:50:20+00:00",
+        "published_time": "2024-11-18T09:50:20+00:00"
+    },
+    "http://arxiv.org/abs/2411.11380v1": {
+        "entry_id": "http://arxiv.org/abs/2411.11380v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.11380v1",
+        "title": "Extracting Database Access-control Policies From Web Applications",
+        "comment": null,
+        "updated_time": "2024-11-18T08:58:11+00:00",
+        "published_time": "2024-11-18T08:58:11+00:00"
+    },
     "http://arxiv.org/abs/2411.10418v1": {
         "entry_id": "http://arxiv.org/abs/2411.10418v1",
         "pdf_url": "http://arxiv.org/pdf/2411.10418v1",
