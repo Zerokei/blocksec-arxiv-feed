@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2411.12636v1": {
+        "entry_id": "http://arxiv.org/abs/2411.12636v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.12636v1",
+        "title": "PyAWD: A Library for Generating Large Synthetic Datasets of Acoustic Wave Propagation with Devito",
+        "comment": null,
+        "updated_time": "2024-11-19T16:49:58+00:00",
+        "published_time": "2024-11-19T16:49:58+00:00"
+    },
+    "http://arxiv.org/abs/2411.12508v1": {
+        "entry_id": "http://arxiv.org/abs/2411.12508v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.12508v1",
+        "title": "Probe-Me-Not: Protecting Pre-trained Encoders from Malicious Probing",
+        "comment": "Accepted by Network and Distributed System Security (NDSS) Symposium\n  2025",
+        "updated_time": "2024-11-19T13:50:08+00:00",
+        "published_time": "2024-11-19T13:50:08+00:00"
+    },
+    "http://arxiv.org/abs/2411.12389v1": {
+        "entry_id": "http://arxiv.org/abs/2411.12389v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.12389v1",
+        "title": "Combinational Backdoor Attack against Customized Text-to-Image Models",
+        "comment": null,
+        "updated_time": "2024-11-19T10:20:31+00:00",
+        "published_time": "2024-11-19T10:20:31+00:00"
+    },
+    "http://arxiv.org/abs/2411.12380v1": {
+        "entry_id": "http://arxiv.org/abs/2411.12380v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.12380v1",
+        "title": "Instrumentation of Software Systems with OpenTelemetry for Software Visualization",
+        "comment": "submitted to SSP 2024, see\n  https://www.performance-symposium.org/ssp-2024/program/",
+        "updated_time": "2024-11-19T10:01:26+00:00",
+        "published_time": "2024-11-19T10:01:26+00:00"
+    },
+    "http://arxiv.org/abs/2411.12334v1": {
+        "entry_id": "http://arxiv.org/abs/2411.12334v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.12334v1",
+        "title": "Learning from Label Proportions and Covariate-shifted Instances",
+        "comment": null,
+        "updated_time": "2024-11-19T08:36:34+00:00",
+        "published_time": "2024-11-19T08:36:34+00:00"
+    },
     "http://arxiv.org/abs/2411.11659v1": {
         "entry_id": "http://arxiv.org/abs/2411.11659v1",
         "pdf_url": "http://arxiv.org/pdf/2411.11659v1",
