@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2411.14394v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14394v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14394v1",
+        "title": "Securing Legacy Communication Networks via Authenticated Cyclic Redundancy Integrity Check",
+        "comment": null,
+        "updated_time": "2024-11-21T18:26:05+00:00",
+        "published_time": "2024-11-21T18:26:05+00:00"
+    },
+    "http://arxiv.org/abs/2411.14375v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14375v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14375v1",
+        "title": "Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!",
+        "comment": "In Proceedings FMAS2024, arXiv:2411.13215",
+        "updated_time": "2024-11-21T18:09:20+00:00",
+        "published_time": "2024-11-21T18:09:20+00:00"
+    },
+    "http://arxiv.org/abs/2411.14278v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14278v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14278v1",
+        "title": "Adaptive Anomaly Detection for Identifying Attacks in Cyber-Physical Systems: A Systematic Literature Review",
+        "comment": "35 pages, 4 figures, 6 tables",
+        "updated_time": "2024-11-21T16:32:02+00:00",
+        "published_time": "2024-11-21T16:32:02+00:00"
+    },
+    "http://arxiv.org/abs/2411.14110v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14110v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14110v1",
+        "title": "RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks",
+        "comment": null,
+        "updated_time": "2024-11-21T13:18:03+00:00",
+        "published_time": "2024-11-21T13:18:03+00:00"
+    },
+    "http://arxiv.org/abs/2411.14046v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14046v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14046v1",
+        "title": "REFOL: Resource-Efficient Federated Online Learning for Traffic Flow Forecasting",
+        "comment": null,
+        "updated_time": "2024-11-21T11:50:17+00:00",
+        "published_time": "2024-11-21T11:50:17+00:00"
+    },
+    "http://arxiv.org/abs/2411.14035v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14035v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14035v1",
+        "title": "Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference",
+        "comment": null,
+        "updated_time": "2024-11-21T11:39:09+00:00",
+        "published_time": "2024-11-21T11:39:09+00:00"
+    },
+    "http://arxiv.org/abs/2411.14014v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14014v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14014v1",
+        "title": "Trajectory Representation Learning on Road Networks and Grids with Spatio-Temporal Dynamics",
+        "comment": null,
+        "updated_time": "2024-11-21T10:56:02+00:00",
+        "published_time": "2024-11-21T10:56:02+00:00"
+    },
+    "http://arxiv.org/abs/2411.13914v1": {
+        "entry_id": "http://arxiv.org/abs/2411.13914v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.13914v1",
+        "title": "ICODE: Modeling Dynamical Systems with Extrinsic Input Information",
+        "comment": null,
+        "updated_time": "2024-11-21T07:57:59+00:00",
+        "published_time": "2024-11-21T07:57:59+00:00"
+    },
     "http://arxiv.org/abs/2411.13447v1": {
         "entry_id": "http://arxiv.org/abs/2411.13447v1",
         "pdf_url": "http://arxiv.org/pdf/2411.13447v1",
