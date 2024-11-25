@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2411.15127v1": {
+        "entry_id": "http://arxiv.org/abs/2411.15127v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.15127v1",
+        "title": "PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision",
+        "comment": "Also presented under the title \"PRIMUS: Pretraining IMU Encoders with\n  Multimodal and Self-Supervised Learning\" at NeurIPS 2024 TSALM Workshop (Time\n  Series in the Age of Large Models)",
+        "updated_time": "2024-11-22T18:46:30+00:00",
+        "published_time": "2024-11-22T18:46:30+00:00"
+    },
+    "http://arxiv.org/abs/2411.15102v1": {
+        "entry_id": "http://arxiv.org/abs/2411.15102v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.15102v1",
+        "title": "AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution",
+        "comment": "29 pages, 11 figures",
+        "updated_time": "2024-11-22T18:06:14+00:00",
+        "published_time": "2024-11-22T18:06:14+00:00"
+    },
+    "http://arxiv.org/abs/2411.14971v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14971v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14971v1",
+        "title": "Leveraging LLMs for Legacy Code Modernization: Challenges and Opportunities for LLM-Generated Documentation",
+        "comment": "Abbreviated version submitted to LLM4Code 2025 (a workshop co-located\n  with ICSE 2025), 13 pages, 3 figures",
+        "updated_time": "2024-11-22T14:27:27+00:00",
+        "published_time": "2024-11-22T14:27:27+00:00"
+    },
+    "http://arxiv.org/abs/2411.14905v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14905v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14905v1",
+        "title": "Feasibility Study for Supporting Static Malware Analysis Using LLM",
+        "comment": null,
+        "updated_time": "2024-11-22T13:03:07+00:00",
+        "published_time": "2024-11-22T13:03:07+00:00"
+    },
+    "http://arxiv.org/abs/2411.14855v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14855v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14855v1",
+        "title": "Applications of fractional calculus in learned optimization",
+        "comment": "NeurIPS Workshop on Optimization for Machine Learning",
+        "updated_time": "2024-11-22T11:13:33+00:00",
+        "published_time": "2024-11-22T11:13:33+00:00"
+    },
+    "http://arxiv.org/abs/2411.14728v1": {
+        "entry_id": "http://arxiv.org/abs/2411.14728v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.14728v1",
+        "title": "K-GBS3FCM -- KNN Graph-Based Safe Semi-Supervised Fuzzy C-Means",
+        "comment": "10 pages",
+        "updated_time": "2024-11-22T04:48:58+00:00",
+        "published_time": "2024-11-22T04:48:58+00:00"
+    },
     "http://arxiv.org/abs/2411.14394v1": {
         "entry_id": "http://arxiv.org/abs/2411.14394v1",
         "pdf_url": "http://arxiv.org/pdf/2411.14394v1",
