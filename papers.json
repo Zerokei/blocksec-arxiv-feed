@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2411.16516v1": {
+        "entry_id": "http://arxiv.org/abs/2411.16516v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.16516v1",
+        "title": "Curator Attack: When Blackbox Differential Privacy Auditing Loses Its Power",
+        "comment": "15 pages, In Proceedings of the 2024 ACM SIGSAC Conference on\n  Computer and Communications Security",
+        "updated_time": "2024-11-25T16:00:04+00:00",
+        "published_time": "2024-11-25T16:00:04+00:00"
+    },
+    "http://arxiv.org/abs/2411.16239v1": {
+        "entry_id": "http://arxiv.org/abs/2411.16239v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.16239v1",
+        "title": "CS-Eval: A Comprehensive Large Language Model Benchmark for CyberSecurity",
+        "comment": null,
+        "updated_time": "2024-11-25T09:54:42+00:00",
+        "published_time": "2024-11-25T09:54:42+00:00"
+    },
+    "http://arxiv.org/abs/2411.15876v1": {
+        "entry_id": "http://arxiv.org/abs/2411.15876v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.15876v1",
+        "title": "An Extensive Study on D2C: Overfitting Remediation in Deep Learning Using a Decentralized Approach",
+        "comment": "17 Pages",
+        "updated_time": "2024-11-24T15:31:22+00:00",
+        "published_time": "2024-11-24T15:31:22+00:00"
+    },
     "http://arxiv.org/abs/2411.15127v1": {
         "entry_id": "http://arxiv.org/abs/2411.15127v1",
         "pdf_url": "http://arxiv.org/pdf/2411.15127v1",
