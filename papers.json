@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2411.17672v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17672v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17672v1",
+        "title": "Synthetic Data Generation with LLM for Improved Depression Prediction",
+        "comment": "6 pages excluding references and appendix",
+        "updated_time": "2024-11-26T18:31:14+00:00",
+        "published_time": "2024-11-26T18:31:14+00:00"
+    },
+    "http://arxiv.org/abs/2411.17625v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17625v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17625v1",
+        "title": "Data-driven development of cycle prediction models for lithium metal batteries using multi modal mining",
+        "comment": "30 pages, 7 figures",
+        "updated_time": "2024-11-26T17:37:12+00:00",
+        "published_time": "2024-11-26T17:37:12+00:00"
+    },
+    "http://arxiv.org/abs/2411.17528v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17528v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17528v1",
+        "title": "Evolving Markov Chains: Unsupervised Mode Discovery and Recognition from Data Streams",
+        "comment": "20 pages, 8 figures",
+        "updated_time": "2024-11-26T15:42:21+00:00",
+        "published_time": "2024-11-26T15:42:21+00:00"
+    },
+    "http://arxiv.org/abs/2411.17525v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17525v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17525v1",
+        "title": "Pushing the Limits of Large Language Model Quantization via the Linearity Theorem",
+        "comment": null,
+        "updated_time": "2024-11-26T15:35:44+00:00",
+        "published_time": "2024-11-26T15:35:44+00:00"
+    },
+    "http://arxiv.org/abs/2411.17506v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17506v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17506v1",
+        "title": "Neural network modelling of kinematic and dynamic features for signature verification",
+        "comment": null,
+        "updated_time": "2024-11-26T15:17:24+00:00",
+        "published_time": "2024-11-26T15:17:24+00:00"
+    },
+    "http://arxiv.org/abs/2411.17499v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17499v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17499v1",
+        "title": "Time-Series Forecasting in Smart Manufacturing Systems: An Experimental Evaluation of the State-of-the-art Algorithms",
+        "comment": null,
+        "updated_time": "2024-11-26T15:10:31+00:00",
+        "published_time": "2024-11-26T15:10:31+00:00"
+    },
+    "http://arxiv.org/abs/2411.17343v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17343v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17343v1",
+        "title": "Assessing Vulnerability in Smart Contracts: The Role of Code Complexity Metrics in Security Analysis",
+        "comment": null,
+        "updated_time": "2024-11-26T11:36:32+00:00",
+        "published_time": "2024-11-26T11:36:32+00:00"
+    },
+    "http://arxiv.org/abs/2411.17332v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17332v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17332v1",
+        "title": "On the Generalization of Handwritten Text Recognition Models",
+        "comment": null,
+        "updated_time": "2024-11-26T11:20:21+00:00",
+        "published_time": "2024-11-26T11:20:21+00:00"
+    },
+    "http://arxiv.org/abs/2411.17287v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17287v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17287v1",
+        "title": "Privacy Preserving Federated Unsupervised Domain Adaptation with Application to Age Prediction from DNA Methylation Data",
+        "comment": null,
+        "updated_time": "2024-11-26T10:19:16+00:00",
+        "published_time": "2024-11-26T10:19:16+00:00"
+    },
+    "http://arxiv.org/abs/2411.17257v1": {
+        "entry_id": "http://arxiv.org/abs/2411.17257v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.17257v1",
+        "title": "Disentangled Interpretable Representation for Efficient Long-term Time Series Forecasting",
+        "comment": "This work is submitted to IEEE International Conference on Data\n  Engineering (ICDE) 2025",
+        "updated_time": "2024-11-26T09:33:09+00:00",
+        "published_time": "2024-11-26T09:33:09+00:00"
+    },
+    "http://arxiv.org/abs/2411.13914v2": {
+        "entry_id": "http://arxiv.org/abs/2411.13914v2",
+        "pdf_url": "http://arxiv.org/pdf/2411.13914v2",
+        "title": "ICODE: Modeling Dynamical Systems with Extrinsic Input Information",
+        "comment": null,
+        "updated_time": "2024-11-26T02:36:50+00:00",
+        "published_time": "2024-11-21T07:57:59+00:00"
+    },
     "http://arxiv.org/abs/2411.16516v1": {
         "entry_id": "http://arxiv.org/abs/2411.16516v1",
         "pdf_url": "http://arxiv.org/pdf/2411.16516v1",
