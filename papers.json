@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2411.18401v1": {
+        "entry_id": "http://arxiv.org/abs/2411.18401v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.18401v1",
+        "title": "Proving and Rewarding Client Diversity to Strengthen Resilience of Blockchain Networks",
+        "comment": null,
+        "updated_time": "2024-11-27T14:44:43+00:00",
+        "published_time": "2024-11-27T14:44:43+00:00"
+    },
+    "http://arxiv.org/abs/2411.18261v1": {
+        "entry_id": "http://arxiv.org/abs/2411.18261v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.18261v1",
+        "title": "Dynamic Retail Pricing via Q-Learning -- A Reinforcement Learning Framework for Enhanced Revenue Management",
+        "comment": "This paper has been accepted for presentation at the 1st IEEE\n  International Conference on AIML-Applications for Engineering & Technology\n  (ICAET-25)",
+        "updated_time": "2024-11-27T11:59:06+00:00",
+        "published_time": "2024-11-27T11:59:06+00:00"
+    },
+    "http://arxiv.org/abs/2411.18254v1": {
+        "entry_id": "http://arxiv.org/abs/2411.18254v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.18254v1",
+        "title": "Active partitioning: inverting the paradigm of active learning",
+        "comment": null,
+        "updated_time": "2024-11-27T11:47:07+00:00",
+        "published_time": "2024-11-27T11:47:07+00:00"
+    },
+    "http://arxiv.org/abs/2411.18191v1": {
+        "entry_id": "http://arxiv.org/abs/2411.18191v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.18191v1",
+        "title": "InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks",
+        "comment": null,
+        "updated_time": "2024-11-27T10:14:38+00:00",
+        "published_time": "2024-11-27T10:14:38+00:00"
+    },
+    "http://arxiv.org/abs/2411.18143v1": {
+        "entry_id": "http://arxiv.org/abs/2411.18143v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.18143v1",
+        "title": "Harnessing Large Language Models for Seed Generation in Greybox Fuzzing",
+        "comment": null,
+        "updated_time": "2024-11-27T08:44:41+00:00",
+        "published_time": "2024-11-27T08:44:41+00:00"
+    },
+    "http://arxiv.org/abs/2411.18023v1": {
+        "entry_id": "http://arxiv.org/abs/2411.18023v1",
+        "pdf_url": "http://arxiv.org/pdf/2411.18023v1",
+        "title": "Leveraging A New GAN-based Transformer with ECDH Crypto-system for Enhancing Energy Theft Detection in Smart Grid",
+        "comment": null,
+        "updated_time": "2024-11-27T03:41:38+00:00",
+        "published_time": "2024-11-27T03:41:38+00:00"
+    },
     "http://arxiv.org/abs/2411.17672v1": {
         "entry_id": "http://arxiv.org/abs/2411.17672v1",
         "pdf_url": "http://arxiv.org/pdf/2411.17672v1",
