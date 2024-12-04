@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2412.02634v1": {
+        "entry_id": "http://arxiv.org/abs/2412.02634v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.02634v1",
+        "title": "Liquefaction: Privately Liquefying Blockchain Assets",
+        "comment": "19 pages, 10 figures",
+        "updated_time": "2024-12-03T18:03:54+00:00",
+        "published_time": "2024-12-03T18:03:54+00:00"
+    },
+    "http://arxiv.org/abs/2412.02546v1": {
+        "entry_id": "http://arxiv.org/abs/2412.02546v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.02546v1",
+        "title": "Fractional Order Distributed Optimization",
+        "comment": null,
+        "updated_time": "2024-12-03T16:39:01+00:00",
+        "published_time": "2024-12-03T16:39:01+00:00"
+    },
+    "http://arxiv.org/abs/2412.02432v1": {
+        "entry_id": "http://arxiv.org/abs/2412.02432v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.02432v1",
+        "title": "Improved Localized Machine Unlearning Through the Lens of Memorization",
+        "comment": null,
+        "updated_time": "2024-12-03T12:57:08+00:00",
+        "published_time": "2024-12-03T12:57:08+00:00"
+    },
+    "http://arxiv.org/abs/2412.02349v1": {
+        "entry_id": "http://arxiv.org/abs/2412.02349v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.02349v1",
+        "title": "CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2",
+        "comment": null,
+        "updated_time": "2024-12-03T10:11:41+00:00",
+        "published_time": "2024-12-03T10:11:41+00:00"
+    },
+    "http://arxiv.org/abs/2412.02340v1": {
+        "entry_id": "http://arxiv.org/abs/2412.02340v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.02340v1",
+        "title": "Federated Analytics in Practice: Engineering for Privacy, Scalability and Practicality",
+        "comment": null,
+        "updated_time": "2024-12-03T10:03:12+00:00",
+        "published_time": "2024-12-03T10:03:12+00:00"
+    },
+    "http://arxiv.org/abs/2412.02187v1": {
+        "entry_id": "http://arxiv.org/abs/2412.02187v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.02187v1",
+        "title": "Deep Learning, Machine Learning, Advancing Big Data Analytics and Management",
+        "comment": "174 pages",
+        "updated_time": "2024-12-03T05:59:34+00:00",
+        "published_time": "2024-12-03T05:59:34+00:00"
+    },
+    "http://arxiv.org/abs/2412.01719v1": {
+        "entry_id": "http://arxiv.org/abs/2412.01719v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.01719v1",
+        "title": "Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review",
+        "comment": null,
+        "updated_time": "2024-12-02T17:08:48+00:00",
+        "published_time": "2024-12-02T17:08:48+00:00"
+    },
+    "http://arxiv.org/abs/2412.01531v1": {
+        "entry_id": "http://arxiv.org/abs/2412.01531v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.01531v1",
+        "title": "The Future of Document Verification: Leveraging Blockchain and Self-Sovereign Identity for Enhanced Security and Transparency",
+        "comment": null,
+        "updated_time": "2024-12-02T14:20:46+00:00",
+        "published_time": "2024-12-02T14:20:46+00:00"
+    },
+    "http://arxiv.org/abs/2412.01196v1": {
+        "entry_id": "http://arxiv.org/abs/2412.01196v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.01196v1",
+        "title": "A Hybrid BPMN-DMN Framework for Secure Inter-organizational Processes and Decisions Collaboration on Permissioned Blockchain",
+        "comment": "16 pages",
+        "updated_time": "2024-12-02T06:58:40+00:00",
+        "published_time": "2024-12-02T06:58:40+00:00"
+    },
+    "http://arxiv.org/abs/2412.01072v1": {
+        "entry_id": "http://arxiv.org/abs/2412.01072v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.01072v1",
+        "title": "When Fine-Tuning LLMs Meets Data Privacy: An Empirical Study of Federated Learning in LLM-Based Program Repair",
+        "comment": null,
+        "updated_time": "2024-12-02T03:18:47+00:00",
+        "published_time": "2024-12-02T03:18:47+00:00"
+    },
+    "http://arxiv.org/abs/2412.00985v1": {
+        "entry_id": "http://arxiv.org/abs/2412.00985v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.00985v1",
+        "title": "Provable Partially Observable Reinforcement Learning with Privileged Information",
+        "comment": "This paper has been accepted to 2024 Conference on Neural Information\n  Processing Systems (NeurIPS 2024)",
+        "updated_time": "2024-12-01T22:26:27+00:00",
+        "published_time": "2024-12-01T22:26:27+00:00"
+    },
+    "http://arxiv.org/abs/2412.00677v1": {
+        "entry_id": "http://arxiv.org/abs/2412.00677v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.00677v1",
+        "title": "ChainGuard: A Blockchain-based Authentication and Access Control Scheme for Distributed Networks",
+        "comment": "accepted at the 2025 IEEE Consumer Communications & Networking\n  Conference (CCNC 2025)",
+        "updated_time": "2024-12-01T05:38:53+00:00",
+        "published_time": "2024-12-01T05:38:53+00:00"
+    },
     "http://arxiv.org/abs/2411.19759v1": {
         "entry_id": "http://arxiv.org/abs/2411.19759v1",
         "pdf_url": "http://arxiv.org/pdf/2411.19759v1",
@@ -86,6 +182,14 @@
         "comment": null,
         "updated_time": "2024-11-27T10:14:38+00:00",
         "published_time": "2024-11-27T10:14:38+00:00"
+    },
+    "http://arxiv.org/abs/2412.00088v1": {
+        "entry_id": "http://arxiv.org/abs/2412.00088v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.00088v1",
+        "title": "Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators",
+        "comment": null,
+        "updated_time": "2024-11-27T09:37:33+00:00",
+        "published_time": "2024-11-27T09:37:33+00:00"
     },
     "http://arxiv.org/abs/2411.18143v1": {
         "entry_id": "http://arxiv.org/abs/2411.18143v1",
@@ -446,6 +550,14 @@
         "comment": null,
         "updated_time": "2024-11-15T16:36:21+00:00",
         "published_time": "2024-11-15T16:36:21+00:00"
+    },
+    "http://arxiv.org/abs/2412.00016v1": {
+        "entry_id": "http://arxiv.org/abs/2412.00016v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.00016v1",
+        "title": "A Supercomputing Based Distributed Cloud Marketplace",
+        "comment": "11 pages, 9 figures",
+        "updated_time": "2024-11-15T15:53:20+00:00",
+        "published_time": "2024-11-15T15:53:20+00:00"
     },
     "http://arxiv.org/abs/2411.10254v1": {
         "entry_id": "http://arxiv.org/abs/2411.10254v1",
