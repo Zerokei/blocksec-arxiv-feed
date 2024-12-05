@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2412.03550v1": {
+        "entry_id": "http://arxiv.org/abs/2412.03550v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.03550v1",
+        "title": "Teaching an Old Dog New Tricks: Verifiable FHE Using Commodity Hardware",
+        "comment": null,
+        "updated_time": "2024-12-04T18:47:11+00:00",
+        "published_time": "2024-12-04T18:47:11+00:00"
+    },
+    "http://arxiv.org/abs/2412.03471v1": {
+        "entry_id": "http://arxiv.org/abs/2412.03471v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.03471v1",
+        "title": "Cluster Specific Representation Learning",
+        "comment": null,
+        "updated_time": "2024-12-04T16:59:37+00:00",
+        "published_time": "2024-12-04T16:59:37+00:00"
+    },
+    "http://arxiv.org/abs/2412.03391v1": {
+        "entry_id": "http://arxiv.org/abs/2412.03391v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.03391v1",
+        "title": "Risk-aware Classification via Uncertainty Quantification",
+        "comment": "Accepted for publication in Expert Systems with Applications",
+        "updated_time": "2024-12-04T15:20:12+00:00",
+        "published_time": "2024-12-04T15:20:12+00:00"
+    },
+    "http://arxiv.org/abs/2412.03317v1": {
+        "entry_id": "http://arxiv.org/abs/2412.03317v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.03317v1",
+        "title": "FlashAttention on a Napkin: A Diagrammatic Approach to Deep Learning IO-Awareness",
+        "comment": null,
+        "updated_time": "2024-12-04T13:52:04+00:00",
+        "published_time": "2024-12-04T13:52:04+00:00"
+    },
+    "http://arxiv.org/abs/2412.03277v1": {
+        "entry_id": "http://arxiv.org/abs/2412.03277v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.03277v1",
+        "title": "EAP-FIDO: A Novel EAP Method for Using FIDO2 Credentials for Network Authentication",
+        "comment": "This is an author version. It has not been peer reviewed",
+        "updated_time": "2024-12-04T12:35:30+00:00",
+        "published_time": "2024-12-04T12:35:30+00:00"
+    },
+    "http://arxiv.org/abs/2412.03190v1": {
+        "entry_id": "http://arxiv.org/abs/2412.03190v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.03190v1",
+        "title": "Node Classification With Integrated Reject Option",
+        "comment": null,
+        "updated_time": "2024-12-04T10:22:34+00:00",
+        "published_time": "2024-12-04T10:22:34+00:00"
+    },
     "http://arxiv.org/abs/2412.02634v1": {
         "entry_id": "http://arxiv.org/abs/2412.02634v1",
         "pdf_url": "http://arxiv.org/pdf/2412.02634v1",
