@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2412.04413v1": {
+        "entry_id": "http://arxiv.org/abs/2412.04413v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.04413v1",
+        "title": "Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis",
+        "comment": "Under review at IEEE Transactions on Pattern Analysis and Machine\n  Intelligence",
+        "updated_time": "2024-12-05T18:33:59+00:00",
+        "published_time": "2024-12-05T18:33:59+00:00"
+    },
+    "http://arxiv.org/abs/2412.04222v1": {
+        "entry_id": "http://arxiv.org/abs/2412.04222v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.04222v1",
+        "title": "DistB-VNET: Distributed Cluster-based Blockchain Vehicular Ad-Hoc Networks through SDN-NFV for Smart City",
+        "comment": null,
+        "updated_time": "2024-12-05T14:55:05+00:00",
+        "published_time": "2024-12-05T14:55:05+00:00"
+    },
+    "http://arxiv.org/abs/2412.04158v1": {
+        "entry_id": "http://arxiv.org/abs/2412.04158v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.04158v1",
+        "title": "LossVal: Efficient Data Valuation for Neural Networks",
+        "comment": null,
+        "updated_time": "2024-12-05T13:46:55+00:00",
+        "published_time": "2024-12-05T13:46:55+00:00"
+    },
+    "http://arxiv.org/abs/2412.04125v1": {
+        "entry_id": "http://arxiv.org/abs/2412.04125v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.04125v1",
+        "title": "SRAM-Based PUF Reliability Prediction Using Cell-Imbalance Characterization in the State Space Diagram",
+        "comment": "15 pages, 8 figures",
+        "updated_time": "2024-12-05T12:49:22+00:00",
+        "published_time": "2024-12-05T12:49:22+00:00"
+    },
+    "http://arxiv.org/abs/2412.04078v1": {
+        "entry_id": "http://arxiv.org/abs/2412.04078v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.04078v1",
+        "title": "Towards Generalizable Autonomous Penetration Testing via Domain Randomization and Meta-Reinforcement Learning",
+        "comment": "This work has been submitted to the IEEE for possible publication",
+        "updated_time": "2024-12-05T11:24:27+00:00",
+        "published_time": "2024-12-05T11:24:27+00:00"
+    },
+    "http://arxiv.org/abs/2412.04045v1": {
+        "entry_id": "http://arxiv.org/abs/2412.04045v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.04045v1",
+        "title": "AI4EF: Artificial Intelligence for Energy Efficiency in the Building Sector",
+        "comment": null,
+        "updated_time": "2024-12-05T10:36:39+00:00",
+        "published_time": "2024-12-05T10:36:39+00:00"
+    },
+    "http://arxiv.org/abs/2412.04031v1": {
+        "entry_id": "http://arxiv.org/abs/2412.04031v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.04031v1",
+        "title": "Dimension Reduction via Random Projection for Privacy in Multi-Agent Systems",
+        "comment": "This work has been submitted to the IEEE for possible publication",
+        "updated_time": "2024-12-05T10:09:13+00:00",
+        "published_time": "2024-12-05T10:09:13+00:00"
+    },
+    "http://arxiv.org/abs/2412.03946v1": {
+        "entry_id": "http://arxiv.org/abs/2412.03946v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.03946v1",
+        "title": "WACANA: A Concolic Analyzer for Detecting On-chain Data Vulnerabilities in WASM Smart Contracts",
+        "comment": null,
+        "updated_time": "2024-12-05T07:51:17+00:00",
+        "published_time": "2024-12-05T07:51:17+00:00"
+    },
+    "http://arxiv.org/abs/2412.03938v1": {
+        "entry_id": "http://arxiv.org/abs/2412.03938v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.03938v1",
+        "title": "JANUS: A Difference-Oriented Analyzer For Financial Centralization Risks in Smart Contracts",
+        "comment": null,
+        "updated_time": "2024-12-05T07:35:56+00:00",
+        "published_time": "2024-12-05T07:35:56+00:00"
+    },
     "http://arxiv.org/abs/2412.03550v1": {
         "entry_id": "http://arxiv.org/abs/2412.03550v1",
         "pdf_url": "http://arxiv.org/pdf/2412.03550v1",
