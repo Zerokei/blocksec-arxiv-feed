@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2412.05228v1": {
+        "entry_id": "http://arxiv.org/abs/2412.05228v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.05228v1",
+        "title": "MC3: Memory Contention based Covert Channel Communication on Shared DRAM System-on-Chips",
+        "comment": "This paper is accepted to 2025 Design, Automation Test in Europe\n  Conference Exhibition (DATE)",
+        "updated_time": "2024-12-06T17:58:57+00:00",
+        "published_time": "2024-12-06T17:58:57+00:00"
+    },
+    "http://arxiv.org/abs/2412.05183v1": {
+        "entry_id": "http://arxiv.org/abs/2412.05183v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.05183v1",
+        "title": "Privacy Drift: Evolving Privacy Concerns in Incremental Learning",
+        "comment": "6 pages, 7 figures, Accepted in IEEE ICNC 25",
+        "updated_time": "2024-12-06T17:04:09+00:00",
+        "published_time": "2024-12-06T17:04:09+00:00"
+    },
+    "http://arxiv.org/abs/2412.05138v1": {
+        "entry_id": "http://arxiv.org/abs/2412.05138v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.05138v1",
+        "title": "Supply Chain Insecurity: The Lack of Integrity Protection in SBOM Solutions",
+        "comment": null,
+        "updated_time": "2024-12-06T15:52:12+00:00",
+        "published_time": "2024-12-06T15:52:12+00:00"
+    },
+    "http://arxiv.org/abs/2412.05000v1": {
+        "entry_id": "http://arxiv.org/abs/2412.05000v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.05000v1",
+        "title": "Noise Matters: Diffusion Model-based Urban Mobility Generation with Collaborative Noise Priors",
+        "comment": null,
+        "updated_time": "2024-12-06T12:52:24+00:00",
+        "published_time": "2024-12-06T12:52:24+00:00"
+    },
     "http://arxiv.org/abs/2412.04413v1": {
         "entry_id": "http://arxiv.org/abs/2412.04413v1",
         "pdf_url": "http://arxiv.org/pdf/2412.04413v1",
