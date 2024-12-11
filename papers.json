@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2412.07698v1": {
+        "entry_id": "http://arxiv.org/abs/2412.07698v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.07698v1",
+        "title": "Quantum vs. Classical Machine Learning Algorithms for Software Defect Prediction: Challenges and Opportunities",
+        "comment": "In the proceedings of the 6th Quantum Software Engineering (Q-SE)\n  workshop at the 47th IEEE/ACM International Conference on Software\n  Engineering (ICSE 2025)",
+        "updated_time": "2024-12-10T17:38:36+00:00",
+        "published_time": "2024-12-10T17:38:36+00:00"
+    },
+    "http://arxiv.org/abs/2412.07671v1": {
+        "entry_id": "http://arxiv.org/abs/2412.07671v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.07671v1",
+        "title": "Multimodal Instruction Disassembly with Covariate Shift Adaptation and Real-time Implementation",
+        "comment": "26 pages, 13 figures, 16 tables (7 in main paper and 9 in\n  supplementary material)",
+        "updated_time": "2024-12-10T17:00:23+00:00",
+        "published_time": "2024-12-10T17:00:23+00:00"
+    },
+    "http://arxiv.org/abs/2412.07668v1": {
+        "entry_id": "http://arxiv.org/abs/2412.07668v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.07668v1",
+        "title": "Automating Business Intelligence Requirements with Generative AI and Semantic Search",
+        "comment": "12 pages, 3 figures, 8 listings, submitted to a conference",
+        "updated_time": "2024-12-10T16:57:48+00:00",
+        "published_time": "2024-12-10T16:57:48+00:00"
+    },
+    "http://arxiv.org/abs/2412.07605v1": {
+        "entry_id": "http://arxiv.org/abs/2412.07605v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.07605v1",
+        "title": "Fast Track to Winning Tickets: Repowering One-Shot Pruning for Graph Neural Networks",
+        "comment": "AAAI 2025",
+        "updated_time": "2024-12-10T15:45:32+00:00",
+        "published_time": "2024-12-10T15:45:32+00:00"
+    },
+    "http://arxiv.org/abs/2412.07407v1": {
+        "entry_id": "http://arxiv.org/abs/2412.07407v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.07407v1",
+        "title": "Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings",
+        "comment": null,
+        "updated_time": "2024-12-10T10:58:47+00:00",
+        "published_time": "2024-12-10T10:58:47+00:00"
+    },
+    "http://arxiv.org/abs/2412.07322v1": {
+        "entry_id": "http://arxiv.org/abs/2412.07322v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.07322v1",
+        "title": "ConceptSearch: Towards Efficient Program Search Using LLMs for Abstraction and Reasoning Corpus (ARC)",
+        "comment": "8 pages, 7 figures, to appear at AAAI 2025",
+        "updated_time": "2024-12-10T09:10:11+00:00",
+        "published_time": "2024-12-10T09:10:11+00:00"
+    },
     "http://arxiv.org/abs/2412.06564v1": {
         "entry_id": "http://arxiv.org/abs/2412.06564v1",
         "pdf_url": "http://arxiv.org/pdf/2412.06564v1",
