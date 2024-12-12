@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2412.08633v1": {
+        "entry_id": "http://arxiv.org/abs/2412.08633v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.08633v1",
+        "title": "MNIST-Fraction: Enhancing Math Education with AI-Driven Fraction Detection and Analysis",
+        "comment": null,
+        "updated_time": "2024-12-11T18:56:28+00:00",
+        "published_time": "2024-12-11T18:56:28+00:00"
+    },
+    "http://arxiv.org/abs/2412.08592v1": {
+        "entry_id": "http://arxiv.org/abs/2412.08592v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.08592v1",
+        "title": "Adaptive Principal Components Allocation with the $\\ell_{2,g}$-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models",
+        "comment": null,
+        "updated_time": "2024-12-11T18:11:21+00:00",
+        "published_time": "2024-12-11T18:11:21+00:00"
+    },
+    "http://arxiv.org/abs/2412.08559v1": {
+        "entry_id": "http://arxiv.org/abs/2412.08559v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.08559v1",
+        "title": "Underestimated Privacy Risks for Minority Populations in Large Language Model Unlearning",
+        "comment": null,
+        "updated_time": "2024-12-11T17:22:07+00:00",
+        "published_time": "2024-12-11T17:22:07+00:00"
+    },
+    "http://arxiv.org/abs/2412.08555v1": {
+        "entry_id": "http://arxiv.org/abs/2412.08555v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.08555v1",
+        "title": "Grimm: A Plug-and-Play Perturbation Rectifier for Graph Neural Networks Defending against Poisoning Attacks",
+        "comment": "19 pages, 13 figures",
+        "updated_time": "2024-12-11T17:17:02+00:00",
+        "published_time": "2024-12-11T17:17:02+00:00"
+    },
+    "http://arxiv.org/abs/2412.08352v1": {
+        "entry_id": "http://arxiv.org/abs/2412.08352v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.08352v1",
+        "title": "Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications",
+        "comment": null,
+        "updated_time": "2024-12-11T12:46:16+00:00",
+        "published_time": "2024-12-11T12:46:16+00:00"
+    },
+    "http://arxiv.org/abs/2412.08167v1": {
+        "entry_id": "http://arxiv.org/abs/2412.08167v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.08167v1",
+        "title": "Diversity Drives Fairness: Ensemble of Higher Order Mutants for Intersectional Fairness of Machine Learning Software",
+        "comment": "Accepted by the 47th International Conference on Software Engineering\n  (ICSE 2025). Please include ICSE in any citations",
+        "updated_time": "2024-12-11T07:44:35+00:00",
+        "published_time": "2024-12-11T07:44:35+00:00"
+    },
+    "http://arxiv.org/abs/2412.08159v1": {
+        "entry_id": "http://arxiv.org/abs/2412.08159v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.08159v1",
+        "title": "CodoMo: Python Model Checking to Integrate Agile Verification Process of Computer Vision Systems",
+        "comment": "Article accepted/presented as Long Paper at The Twelfth International\n  Symposium on Computing and Networking (CANDAR2024)",
+        "updated_time": "2024-12-11T07:29:30+00:00",
+        "published_time": "2024-12-11T07:29:30+00:00"
+    },
     "http://arxiv.org/abs/2412.07698v1": {
         "entry_id": "http://arxiv.org/abs/2412.07698v1",
         "pdf_url": "http://arxiv.org/pdf/2412.07698v1",
