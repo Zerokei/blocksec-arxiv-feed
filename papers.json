@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2412.09472v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09472v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09472v1",
+        "title": "A Novel Ensemble-Based Deep Learning Model with Explainable AI for Accurate Kidney Disease Diagnosis",
+        "comment": null,
+        "updated_time": "2024-12-12T17:18:49+00:00",
+        "published_time": "2024-12-12T17:18:49+00:00"
+    },
+    "http://arxiv.org/abs/2412.09399v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09399v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09399v1",
+        "title": "A Geometry-Aware Message Passing Neural Network for Modeling Aerodynamics over Airfoils",
+        "comment": null,
+        "updated_time": "2024-12-12T16:05:39+00:00",
+        "published_time": "2024-12-12T16:05:39+00:00"
+    },
+    "http://arxiv.org/abs/2412.09379v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09379v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09379v1",
+        "title": "Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning",
+        "comment": null,
+        "updated_time": "2024-12-12T15:47:17+00:00",
+        "published_time": "2024-12-12T15:47:17+00:00"
+    },
+    "http://arxiv.org/abs/2412.09289v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09289v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09289v1",
+        "title": "Optimising TinyML with Quantization and Distillation of Transformer and Mamba Models for Indoor Localisation on Edge Devices",
+        "comment": null,
+        "updated_time": "2024-12-12T13:59:21+00:00",
+        "published_time": "2024-12-12T13:59:21+00:00"
+    },
+    "http://arxiv.org/abs/2412.09232v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09232v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09232v1",
+        "title": "Uplift modeling with continuous treatments: A predict-then-optimize approach",
+        "comment": null,
+        "updated_time": "2024-12-12T12:43:42+00:00",
+        "published_time": "2024-12-12T12:43:42+00:00"
+    },
+    "http://arxiv.org/abs/2412.08957v1": {
+        "entry_id": "http://arxiv.org/abs/2412.08957v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.08957v1",
+        "title": "BA-ORABE: Blockchain-Based Auditable Registered Attribute-Based Encryption With Reliable Outsourced Decryption",
+        "comment": "16pages",
+        "updated_time": "2024-12-12T05:38:50+00:00",
+        "published_time": "2024-12-12T05:38:50+00:00"
+    },
     "http://arxiv.org/abs/2412.08633v1": {
         "entry_id": "http://arxiv.org/abs/2412.08633v1",
         "pdf_url": "http://arxiv.org/pdf/2412.08633v1",
