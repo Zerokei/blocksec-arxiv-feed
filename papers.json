@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2412.05737v2": {
+        "entry_id": "http://arxiv.org/abs/2412.05737v2",
+        "pdf_url": "http://arxiv.org/pdf/2412.05737v2",
+        "title": "Balancing Confidentiality and Transparency for Blockchain-based Process-Aware Information Systems",
+        "comment": null,
+        "updated_time": "2024-12-13T15:55:31+00:00",
+        "published_time": "2024-12-07T20:18:36+00:00"
+    },
+    "http://arxiv.org/abs/2412.09980v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09980v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09980v1",
+        "title": "Real-Time Fall Detection Using Smartphone Accelerometers and WiFi Channel State Information",
+        "comment": null,
+        "updated_time": "2024-12-13T09:07:41+00:00",
+        "published_time": "2024-12-13T09:07:41+00:00"
+    },
+    "http://arxiv.org/abs/2412.09968v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09968v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09968v1",
+        "title": "GraSP: Simple yet Effective Graph Similarity Predictions",
+        "comment": "Accepted by AAAI2025. 13 pages, 14 figures. The code is available at\n  https://github.com/HaoranZ99/GraSP",
+        "updated_time": "2024-12-13T08:55:02+00:00",
+        "published_time": "2024-12-13T08:55:02+00:00"
+    },
+    "http://arxiv.org/abs/2412.09947v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09947v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09947v1",
+        "title": "Towards Fair Graph Neural Networks via Graph Counterfactual without Sensitive Attributes",
+        "comment": "ICDE 2025",
+        "updated_time": "2024-12-13T08:11:40+00:00",
+        "published_time": "2024-12-13T08:11:40+00:00"
+    },
+    "http://arxiv.org/abs/2412.09935v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09935v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09935v1",
+        "title": "SCRUBD: Smart Contracts Reentrancy and Unhandled Exceptions Vulnerability Dataset",
+        "comment": "7 pages, 2 figures, 3 tables, 2 code listings",
+        "updated_time": "2024-12-13T07:43:58+00:00",
+        "published_time": "2024-12-13T07:43:58+00:00"
+    },
+    "http://arxiv.org/abs/2412.09399v2": {
+        "entry_id": "http://arxiv.org/abs/2412.09399v2",
+        "pdf_url": "http://arxiv.org/pdf/2412.09399v2",
+        "title": "A Geometry-Aware Message Passing Neural Network for Modeling Aerodynamics over Airfoils",
+        "comment": null,
+        "updated_time": "2024-12-13T07:40:02+00:00",
+        "published_time": "2024-12-12T16:05:39+00:00"
+    },
+    "http://arxiv.org/abs/2412.09820v1": {
+        "entry_id": "http://arxiv.org/abs/2412.09820v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.09820v1",
+        "title": "Empowering Patients for Disease Diagnosis and Clinical Treatment: A Smart Contract-Enabled Informed Consent Strategy",
+        "comment": null,
+        "updated_time": "2024-12-13T03:20:15+00:00",
+        "published_time": "2024-12-13T03:20:15+00:00"
+    },
     "http://arxiv.org/abs/2412.09472v1": {
         "entry_id": "http://arxiv.org/abs/2412.09472v1",
         "pdf_url": "http://arxiv.org/pdf/2412.09472v1",
