@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2412.12034v1": {
+        "entry_id": "http://arxiv.org/abs/2412.12034v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.12034v1",
+        "title": "Thermodynamics-informed graph neural networks for real-time simulation of digital human twins",
+        "comment": null,
+        "updated_time": "2024-12-16T18:01:40+00:00",
+        "published_time": "2024-12-16T18:01:40+00:00"
+    },
+    "http://arxiv.org/abs/2412.11737v1": {
+        "entry_id": "http://arxiv.org/abs/2412.11737v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.11737v1",
+        "title": "Efficiently Achieving Secure Model Training and Secure Aggregation to Ensure Bidirectional Privacy-Preservation in Federated Learning",
+        "comment": null,
+        "updated_time": "2024-12-16T12:58:21+00:00",
+        "published_time": "2024-12-16T12:58:21+00:00"
+    },
+    "http://arxiv.org/abs/2412.11683v1": {
+        "entry_id": "http://arxiv.org/abs/2412.11683v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.11683v1",
+        "title": "Multimodal LLM for Intelligent Transportation Systems",
+        "comment": "Accepted at IEEE Symposium Series on Computational Intelligence\n  (SSCI) 2025",
+        "updated_time": "2024-12-16T11:50:30+00:00",
+        "published_time": "2024-12-16T11:50:30+00:00"
+    },
+    "http://arxiv.org/abs/2412.08957v2": {
+        "entry_id": "http://arxiv.org/abs/2412.08957v2",
+        "pdf_url": "http://arxiv.org/pdf/2412.08957v2",
+        "title": "BA-ORABE: Blockchain-Based Auditable Registered Attribute-Based Encryption With Reliable Outsourced Decryption",
+        "comment": "15pages,add application",
+        "updated_time": "2024-12-16T11:08:55+00:00",
+        "published_time": "2024-12-12T05:38:50+00:00"
+    },
+    "http://arxiv.org/abs/2412.11629v1": {
+        "entry_id": "http://arxiv.org/abs/2412.11629v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.11629v1",
+        "title": "QPruner: Probabilistic Decision Quantization for Structured Pruning in Large Language Models",
+        "comment": null,
+        "updated_time": "2024-12-16T10:14:01+00:00",
+        "published_time": "2024-12-16T10:14:01+00:00"
+    },
+    "http://arxiv.org/abs/2412.11175v1": {
+        "entry_id": "http://arxiv.org/abs/2412.11175v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.11175v1",
+        "title": "Knowledge Migration Framework for Smart Contract Vulnerability Detection",
+        "comment": null,
+        "updated_time": "2024-12-15T13:01:11+00:00",
+        "published_time": "2024-12-15T13:01:11+00:00"
+    },
+    "http://arxiv.org/abs/2412.10993v1": {
+        "entry_id": "http://arxiv.org/abs/2412.10993v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.10993v1",
+        "title": "Serial Scammers and Attack of the Clones: How Scammers Coordinate Multiple Rug Pulls on Decentralized Exchanges",
+        "comment": null,
+        "updated_time": "2024-12-14T23:28:13+00:00",
+        "published_time": "2024-12-14T23:28:13+00:00"
+    },
+    "http://arxiv.org/abs/2412.10807v1": {
+        "entry_id": "http://arxiv.org/abs/2412.10807v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.10807v1",
+        "title": "Towards Action Hijacking of Large Language Model-based Agent",
+        "comment": null,
+        "updated_time": "2024-12-14T12:11:26+00:00",
+        "published_time": "2024-12-14T12:11:26+00:00"
+    },
     "http://arxiv.org/abs/2412.05737v2": {
         "entry_id": "http://arxiv.org/abs/2412.05737v2",
         "pdf_url": "http://arxiv.org/pdf/2412.05737v2",
