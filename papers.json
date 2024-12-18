@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2412.13134v1": {
+        "entry_id": "http://arxiv.org/abs/2412.13134v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.13134v1",
+        "title": "Practicable Black-box Evasion Attacks on Link Prediction in Dynamic Graphs -- A Graph Sequential Embedding Method",
+        "comment": null,
+        "updated_time": "2024-12-17T17:53:32+00:00",
+        "published_time": "2024-12-17T17:53:32+00:00"
+    },
+    "http://arxiv.org/abs/2412.13074v1": {
+        "entry_id": "http://arxiv.org/abs/2412.13074v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.13074v1",
+        "title": "Predicting Change, Not States: An Alternate Framework for Neural PDE Surrogates",
+        "comment": "18 pages, 7 figures",
+        "updated_time": "2024-12-17T16:41:53+00:00",
+        "published_time": "2024-12-17T16:41:53+00:00"
+    },
+    "http://arxiv.org/abs/2412.13036v1": {
+        "entry_id": "http://arxiv.org/abs/2412.13036v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.13036v1",
+        "title": "Open-Set Heterogeneous Domain Adaptation: Theoretical Analysis and Algorithm",
+        "comment": "Accepted by AAAI 2025",
+        "updated_time": "2024-12-17T15:59:52+00:00",
+        "published_time": "2024-12-17T15:59:52+00:00"
+    },
+    "http://arxiv.org/abs/2412.12971v1": {
+        "entry_id": "http://arxiv.org/abs/2412.12971v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.12971v1",
+        "title": "ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting",
+        "comment": "Preprint",
+        "updated_time": "2024-12-17T14:54:30+00:00",
+        "published_time": "2024-12-17T14:54:30+00:00"
+    },
+    "http://arxiv.org/abs/2412.12951v1": {
+        "entry_id": "http://arxiv.org/abs/2412.12951v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.12951v1",
+        "title": "FineGates: LLMs Finetuning with Compression using Stochastic Gates",
+        "comment": null,
+        "updated_time": "2024-12-17T14:33:05+00:00",
+        "published_time": "2024-12-17T14:33:05+00:00"
+    },
+    "http://arxiv.org/abs/2412.12844v1": {
+        "entry_id": "http://arxiv.org/abs/2412.12844v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.12844v1",
+        "title": "Concurrent vertical and horizontal federated learning with fuzzy cognitive maps",
+        "comment": null,
+        "updated_time": "2024-12-17T12:11:14+00:00",
+        "published_time": "2024-12-17T12:11:14+00:00"
+    },
+    "http://arxiv.org/abs/2412.12814v1": {
+        "entry_id": "http://arxiv.org/abs/2412.12814v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.12814v1",
+        "title": "Evaluating tamper resistance of digital forensic artifacts during event reconstruction",
+        "comment": null,
+        "updated_time": "2024-12-17T11:32:02+00:00",
+        "published_time": "2024-12-17T11:32:02+00:00"
+    },
+    "http://arxiv.org/abs/2412.12513v1": {
+        "entry_id": "http://arxiv.org/abs/2412.12513v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.12513v1",
+        "title": "Generating Move Smart Contracts based on Concepts",
+        "comment": null,
+        "updated_time": "2024-12-17T04:07:45+00:00",
+        "published_time": "2024-12-17T04:07:45+00:00"
+    },
     "http://arxiv.org/abs/2412.12034v1": {
         "entry_id": "http://arxiv.org/abs/2412.12034v1",
         "pdf_url": "http://arxiv.org/pdf/2412.12034v1",
