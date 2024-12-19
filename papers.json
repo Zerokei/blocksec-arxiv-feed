@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2412.14116v1": {
+        "entry_id": "http://arxiv.org/abs/2412.14116v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.14116v1",
+        "title": "Trustworthy Transfer Learning: A Survey",
+        "comment": null,
+        "updated_time": "2024-12-18T18:03:51+00:00",
+        "published_time": "2024-12-18T18:03:51+00:00"
+    },
+    "http://arxiv.org/abs/2412.14030v1": {
+        "entry_id": "http://arxiv.org/abs/2412.14030v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.14030v1",
+        "title": "Machine learning in wastewater treatment: insights from modelling a pilot denitrification reactor",
+        "comment": null,
+        "updated_time": "2024-12-18T16:49:23+00:00",
+        "published_time": "2024-12-18T16:49:23+00:00"
+    },
+    "http://arxiv.org/abs/2412.13905v1": {
+        "entry_id": "http://arxiv.org/abs/2412.13905v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.13905v1",
+        "title": "T-Edge: Trusted Heterogeneous Edge Computing",
+        "comment": "13 pages, 6 figures",
+        "updated_time": "2024-12-18T14:45:07+00:00",
+        "published_time": "2024-12-18T14:45:07+00:00"
+    },
+    "http://arxiv.org/abs/2412.13770v1": {
+        "entry_id": "http://arxiv.org/abs/2412.13770v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.13770v1",
+        "title": "Data sharing in the metaverse with key abuse resistance based on decentralized CP-ABE",
+        "comment": null,
+        "updated_time": "2024-12-18T12:06:56+00:00",
+        "published_time": "2024-12-18T12:06:56+00:00"
+    },
     "http://arxiv.org/abs/2412.13134v1": {
         "entry_id": "http://arxiv.org/abs/2412.13134v1",
         "pdf_url": "http://arxiv.org/pdf/2412.13134v1",
