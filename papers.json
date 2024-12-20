@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2412.15176v1": {
+        "entry_id": "http://arxiv.org/abs/2412.15176v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.15176v1",
+        "title": "Rethinking Uncertainty Estimation in Natural Language Generation",
+        "comment": null,
+        "updated_time": "2024-12-19T18:51:06+00:00",
+        "published_time": "2024-12-19T18:51:06+00:00"
+    },
+    "http://arxiv.org/abs/2412.15126v1": {
+        "entry_id": "http://arxiv.org/abs/2412.15126v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.15126v1",
+        "title": "Efficient Ranking, Order Statistics, and Sorting under CKKS",
+        "comment": null,
+        "updated_time": "2024-12-19T18:06:25+00:00",
+        "published_time": "2024-12-19T18:06:25+00:00"
+    },
+    "http://arxiv.org/abs/2412.15075v1": {
+        "entry_id": "http://arxiv.org/abs/2412.15075v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.15075v1",
+        "title": "DroughtSet: Understanding Drought Through Spatial-Temporal Learning",
+        "comment": "Accepted by AAAI25",
+        "updated_time": "2024-12-19T17:24:15+00:00",
+        "published_time": "2024-12-19T17:24:15+00:00"
+    },
+    "http://arxiv.org/abs/2412.14865v1": {
+        "entry_id": "http://arxiv.org/abs/2412.14865v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.14865v1",
+        "title": "Hierarchical Subspaces of Policies for Continual Offline Reinforcement Learning",
+        "comment": null,
+        "updated_time": "2024-12-19T14:00:03+00:00",
+        "published_time": "2024-12-19T14:00:03+00:00"
+    },
+    "http://arxiv.org/abs/2412.14815v1": {
+        "entry_id": "http://arxiv.org/abs/2412.14815v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.14815v1",
+        "title": "Non-intrusive and Unconstrained Keystroke Inference in VR Platforms via Infrared Side Channel",
+        "comment": null,
+        "updated_time": "2024-12-19T13:09:46+00:00",
+        "published_time": "2024-12-19T13:09:46+00:00"
+    },
+    "http://arxiv.org/abs/2412.14730v1": {
+        "entry_id": "http://arxiv.org/abs/2412.14730v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.14730v1",
+        "title": "Generative AI for Banks: Benchmarks and Algorithms for Synthetic Financial Transaction Data",
+        "comment": "Presented at the 34th Workshop on Information Technologies and\n  Systems (WITS 2024)",
+        "updated_time": "2024-12-19T10:56:18+00:00",
+        "published_time": "2024-12-19T10:56:18+00:00"
+    },
+    "http://arxiv.org/abs/2412.14695v1": {
+        "entry_id": "http://arxiv.org/abs/2412.14695v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.14695v1",
+        "title": "Lorentzian Residual Neural Networks",
+        "comment": "12 pages, 3 figures, KDD 2025",
+        "updated_time": "2024-12-19T09:56:01+00:00",
+        "published_time": "2024-12-19T09:56:01+00:00"
+    },
     "http://arxiv.org/abs/2412.14116v1": {
         "entry_id": "http://arxiv.org/abs/2412.14116v1",
         "pdf_url": "http://arxiv.org/pdf/2412.14116v1",
