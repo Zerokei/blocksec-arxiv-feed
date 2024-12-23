@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2412.16008v1": {
+        "entry_id": "http://arxiv.org/abs/2412.16008v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.16008v1",
+        "title": "Detection of Aerial Spoofing Attacks to LEO Satellite Systems via Deep Learning",
+        "comment": null,
+        "updated_time": "2024-12-20T15:56:09+00:00",
+        "published_time": "2024-12-20T15:56:09+00:00"
+    },
+    "http://arxiv.org/abs/2412.15871v1": {
+        "entry_id": "http://arxiv.org/abs/2412.15871v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.15871v1",
+        "title": "User Modeling in Model-Driven Engineering: A Systematic Literature Review",
+        "comment": "Submitted to the 21st European Conference on Modelling Foundations\n  and Applications (ECMFA 2025)",
+        "updated_time": "2024-12-20T13:19:57+00:00",
+        "published_time": "2024-12-20T13:19:57+00:00"
+    },
+    "http://arxiv.org/abs/2412.15828v1": {
+        "entry_id": "http://arxiv.org/abs/2412.15828v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.15828v1",
+        "title": "Measuring Cross-Modal Interactions in Multimodal Models",
+        "comment": null,
+        "updated_time": "2024-12-20T12:11:20+00:00",
+        "published_time": "2024-12-20T12:11:20+00:00"
+    },
+    "http://arxiv.org/abs/2412.15758v1": {
+        "entry_id": "http://arxiv.org/abs/2412.15758v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.15758v1",
+        "title": "Function Space Diversity for Uncertainty Prediction via Repulsive Last-Layer Ensembles",
+        "comment": null,
+        "updated_time": "2024-12-20T10:24:08+00:00",
+        "published_time": "2024-12-20T10:24:08+00:00"
+    },
+    "http://arxiv.org/abs/2412.15750v1": {
+        "entry_id": "http://arxiv.org/abs/2412.15750v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.15750v1",
+        "title": "Extracting Interpretable Task-Specific Circuits from Large Language Models for Faster Inference",
+        "comment": "Accepted to AAAI 25 Main Technical Track",
+        "updated_time": "2024-12-20T10:11:44+00:00",
+        "published_time": "2024-12-20T10:11:44+00:00"
+    },
+    "http://arxiv.org/abs/2412.15735v1": {
+        "entry_id": "http://arxiv.org/abs/2412.15735v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.15735v1",
+        "title": "Prompt-based Unifying Inference Attack on Graph Neural Networks",
+        "comment": "Accepted by the 39th AAAI Conference on Artificial Intelligence\n  (AAAI-25)",
+        "updated_time": "2024-12-20T09:56:17+00:00",
+        "published_time": "2024-12-20T09:56:17+00:00"
+    },
+    "http://arxiv.org/abs/2412.15704v1": {
+        "entry_id": "http://arxiv.org/abs/2412.15704v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.15704v1",
+        "title": "PoisonCatcher: Revealing and Identifying LDP Poisoning Attacks in IIoT",
+        "comment": "12 pages,5 figures, 3 tables",
+        "updated_time": "2024-12-20T09:26:50+00:00",
+        "published_time": "2024-12-20T09:26:50+00:00"
+    },
     "http://arxiv.org/abs/2412.15176v1": {
         "entry_id": "http://arxiv.org/abs/2412.15176v1",
         "pdf_url": "http://arxiv.org/pdf/2412.15176v1",
