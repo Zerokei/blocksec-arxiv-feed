@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2412.17803v1": {
+        "entry_id": "http://arxiv.org/abs/2412.17803v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.17803v1",
+        "title": "Examining Imbalance Effects on Performance and Demographic Fairness of Clinical Language Models",
+        "comment": "10 pages",
+        "updated_time": "2024-12-23T18:58:11+00:00",
+        "published_time": "2024-12-23T18:58:11+00:00"
+    },
+    "http://arxiv.org/abs/2412.17765v1": {
+        "entry_id": "http://arxiv.org/abs/2412.17765v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.17765v1",
+        "title": "HyperQ-Opt: Q-learning for Hyperparameter Optimization",
+        "comment": null,
+        "updated_time": "2024-12-23T18:22:34+00:00",
+        "published_time": "2024-12-23T18:22:34+00:00"
+    },
+    "http://arxiv.org/abs/2412.17213v1": {
+        "entry_id": "http://arxiv.org/abs/2412.17213v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.17213v1",
+        "title": "Attack by Yourself: Effective and Unnoticeable Multi-Category Graph Backdoor Attacks with Subgraph Triggers Pool",
+        "comment": "13 pages, 5 figures",
+        "updated_time": "2024-12-23T01:52:15+00:00",
+        "published_time": "2024-12-23T01:52:15+00:00"
+    },
+    "http://arxiv.org/abs/2412.16537v1": {
+        "entry_id": "http://arxiv.org/abs/2412.16537v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.16537v1",
+        "title": "Accelerating Private Large Transformers Inference through Fine-grained Collaborative Computation",
+        "comment": "14 Pages (with 4 Pages appendix; 14 Figures)",
+        "updated_time": "2024-12-21T08:33:12+00:00",
+        "published_time": "2024-12-21T08:33:12+00:00"
+    },
     "http://arxiv.org/abs/2412.16008v1": {
         "entry_id": "http://arxiv.org/abs/2412.16008v1",
         "pdf_url": "http://arxiv.org/pdf/2412.16008v1",
@@ -110,6 +142,14 @@
         "comment": "12 pages, 3 figures, KDD 2025",
         "updated_time": "2024-12-19T09:56:01+00:00",
         "published_time": "2024-12-19T09:56:01+00:00"
+    },
+    "http://arxiv.org/abs/2412.17150v1": {
+        "entry_id": "http://arxiv.org/abs/2412.17150v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.17150v1",
+        "title": "SplitFedZip: Learned Compression for Data Transfer Reduction in Split-Federated Learning",
+        "comment": "Accepted for paper presentation at the the 1st Workshop on Federated\n  Learning for Unbounded and Intelligent Decentralization (FLUID), in AAAI 2025",
+        "updated_time": "2024-12-18T19:04:19+00:00",
+        "published_time": "2024-12-18T19:04:19+00:00"
     },
     "http://arxiv.org/abs/2412.14116v1": {
         "entry_id": "http://arxiv.org/abs/2412.14116v1",
