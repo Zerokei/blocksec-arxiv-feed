@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2412.18447v1": {
+        "entry_id": "http://arxiv.org/abs/2412.18447v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.18447v1",
+        "title": "LoRaWAN attack in military use case",
+        "comment": null,
+        "updated_time": "2024-12-24T14:13:16+00:00",
+        "published_time": "2024-12-24T14:13:16+00:00"
+    },
+    "http://arxiv.org/abs/2412.18234v1": {
+        "entry_id": "http://arxiv.org/abs/2412.18234v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.18234v1",
+        "title": "Conditional Deep Canonical Time Warping",
+        "comment": null,
+        "updated_time": "2024-12-24T07:35:48+00:00",
+        "published_time": "2024-12-24T07:35:48+00:00"
+    },
+    "http://arxiv.org/abs/2412.18225v1": {
+        "entry_id": "http://arxiv.org/abs/2412.18225v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.18225v1",
+        "title": "Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection",
+        "comment": null,
+        "updated_time": "2024-12-24T07:15:48+00:00",
+        "published_time": "2024-12-24T07:15:48+00:00"
+    },
+    "http://arxiv.org/abs/2412.18024v1": {
+        "entry_id": "http://arxiv.org/abs/2412.18024v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.18024v1",
+        "title": "Multimodal Learning with Uncertainty Quantification based on Discounted Belief Fusion",
+        "comment": null,
+        "updated_time": "2024-12-23T22:37:18+00:00",
+        "published_time": "2024-12-23T22:37:18+00:00"
+    },
+    "http://arxiv.org/abs/2412.17979v1": {
+        "entry_id": "http://arxiv.org/abs/2412.17979v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.17979v1",
+        "title": "PHICOIN (PHI): The Proof of Work High-Performance Infrastructure",
+        "comment": null,
+        "updated_time": "2024-12-23T20:50:55+00:00",
+        "published_time": "2024-12-23T20:50:55+00:00"
+    },
     "http://arxiv.org/abs/2412.17803v1": {
         "entry_id": "http://arxiv.org/abs/2412.17803v1",
         "pdf_url": "http://arxiv.org/pdf/2412.17803v1",
