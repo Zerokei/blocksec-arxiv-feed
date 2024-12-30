@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2412.19725v1": {
+        "entry_id": "http://arxiv.org/abs/2412.19725v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.19725v1",
+        "title": "EEG-Reptile: An Automatized Reptile-Based Meta-Learning Library for BCIs",
+        "comment": "For proposed python library, see EEG-Reptile GitHub:\n  https://github.com/gasiki/EEG-Reptile",
+        "updated_time": "2024-12-27T16:24:31+00:00",
+        "published_time": "2024-12-27T16:24:31+00:00"
+    },
     "http://arxiv.org/abs/2412.18447v1": {
         "entry_id": "http://arxiv.org/abs/2412.18447v1",
         "pdf_url": "http://arxiv.org/pdf/2412.18447v1",
