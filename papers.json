@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2412.20866v1": {
+        "entry_id": "http://arxiv.org/abs/2412.20866v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.20866v1",
+        "title": "An Infrastructure for Systematically Collecting Smart Contract Lineages for Analyses",
+        "comment": "10 pages, 4 figures, 4 tables",
+        "updated_time": "2024-12-30T11:10:22+00:00",
+        "published_time": "2024-12-30T11:10:22+00:00"
+    },
+    "http://arxiv.org/abs/2412.20804v1": {
+        "entry_id": "http://arxiv.org/abs/2412.20804v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.20804v1",
+        "title": "DELA: A Novel Approach for Detecting Errors Induced by Large Atomic Condition Numbers",
+        "comment": null,
+        "updated_time": "2024-12-30T08:56:46+00:00",
+        "published_time": "2024-12-30T08:56:46+00:00"
+    },
+    "http://arxiv.org/abs/2412.20732v1": {
+        "entry_id": "http://arxiv.org/abs/2412.20732v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.20732v1",
+        "title": "Joint Scoring Rules: Zero-Sum Competition Avoids Performative Prediction",
+        "comment": null,
+        "updated_time": "2024-12-30T06:06:45+00:00",
+        "published_time": "2024-12-30T06:06:45+00:00"
+    },
+    "http://arxiv.org/abs/2412.20603v1": {
+        "entry_id": "http://arxiv.org/abs/2412.20603v1",
+        "pdf_url": "http://arxiv.org/pdf/2412.20603v1",
+        "title": "Privacy-Preserving Identity and Access Management in Multiple Cloud Environments: Models, Issues, and Solutions",
+        "comment": null,
+        "updated_time": "2024-12-29T22:15:19+00:00",
+        "published_time": "2024-12-29T22:15:19+00:00"
+    },
     "http://arxiv.org/abs/2412.19725v1": {
         "entry_id": "http://arxiv.org/abs/2412.19725v1",
         "pdf_url": "http://arxiv.org/pdf/2412.19725v1",
