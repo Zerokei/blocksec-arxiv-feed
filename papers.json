@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2501.01402v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01402v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01402v1",
+        "title": "Best Transition Matrix Esitimation or Best Label Noise Robustness Classifier? Two Possible Methods to Enhance the Performance of T-revision",
+        "comment": null,
+        "updated_time": "2025-01-02T18:27:30+00:00",
+        "published_time": "2025-01-02T18:27:30+00:00"
+    },
+    "http://arxiv.org/abs/2501.01277v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01277v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01277v1",
+        "title": "Language Models for Code Optimization: Survey, Challenges and Future Directions",
+        "comment": "Submitted to the ACM Computing Surveys (CSUR)",
+        "updated_time": "2025-01-02T14:20:36+00:00",
+        "published_time": "2025-01-02T14:20:36+00:00"
+    },
+    "http://arxiv.org/abs/2501.01236v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01236v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01236v1",
+        "title": "Enhanced Differential Testing in Emerging Database Systems",
+        "comment": "10 pages, 6 figures",
+        "updated_time": "2025-01-02T12:52:58+00:00",
+        "published_time": "2025-01-02T12:52:58+00:00"
+    },
+    "http://arxiv.org/abs/2501.01146v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01146v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01146v1",
+        "title": "PoVF: Empowering Decentralized Blockchain Systems with Verifiable Function Consensus",
+        "comment": null,
+        "updated_time": "2025-01-02T08:59:24+00:00",
+        "published_time": "2025-01-02T08:59:24+00:00"
+    },
+    "http://arxiv.org/abs/2501.01124v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01124v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01124v1",
+        "title": "Graph2text or Graph2token: A Perspective of Large Language Models for Graph Learning",
+        "comment": null,
+        "updated_time": "2025-01-02T07:45:34+00:00",
+        "published_time": "2025-01-02T07:45:34+00:00"
+    },
+    "http://arxiv.org/abs/2501.01083v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01083v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01083v1",
+        "title": "iCNN-LSTM: A batch-based incremental ransomware detection system using Sysmon",
+        "comment": "Journal",
+        "updated_time": "2025-01-02T05:57:41+00:00",
+        "published_time": "2025-01-02T05:57:41+00:00"
+    },
+    "http://arxiv.org/abs/2501.01063v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01063v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01063v1",
+        "title": "FAPL-DM-BC: A Secure and Scalable FL Framework with Adaptive Privacy and Dynamic Masking, Blockchain, and XAI for the IoVs",
+        "comment": "1 table, 1 figure",
+        "updated_time": "2025-01-02T05:21:52+00:00",
+        "published_time": "2025-01-02T05:21:52+00:00"
+    },
+    "http://arxiv.org/abs/2501.00757v1": {
+        "entry_id": "http://arxiv.org/abs/2501.00757v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.00757v1",
+        "title": "Beyond Static Datasets: A Behavior-Driven Entity-Specific Simulation to Overcome Data Scarcity and Train Effective Crypto Anti-Money Laundering Models",
+        "comment": null,
+        "updated_time": "2025-01-01T06:58:05+00:00",
+        "published_time": "2025-01-01T06:58:05+00:00"
+    },
     "http://arxiv.org/abs/2412.20866v1": {
         "entry_id": "http://arxiv.org/abs/2412.20866v1",
         "pdf_url": "http://arxiv.org/pdf/2412.20866v1",
