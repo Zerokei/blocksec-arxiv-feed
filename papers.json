@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2501.01707v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01707v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01707v1",
+        "title": "Catch Causal Signals from Edges for Label Imbalance in Graph Classification",
+        "comment": "ICASSP 2025",
+        "updated_time": "2025-01-03T09:09:58+00:00",
+        "published_time": "2025-01-03T09:09:58+00:00"
+    },
+    "http://arxiv.org/abs/2501.01690v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01690v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01690v1",
+        "title": "Analyzing Aviation Safety Narratives with LDA, NMF and PLSA: A Case Study Using Socrata Datasets",
+        "comment": null,
+        "updated_time": "2025-01-03T08:14:39+00:00",
+        "published_time": "2025-01-03T08:14:39+00:00"
+    },
+    "http://arxiv.org/abs/2501.01672v1": {
+        "entry_id": "http://arxiv.org/abs/2501.01672v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.01672v1",
+        "title": "Practical Secure Inference Algorithm for Fine-tuned Large Language Model Based on Fully Homomorphic Encryption",
+        "comment": null,
+        "updated_time": "2025-01-03T07:19:23+00:00",
+        "published_time": "2025-01-03T07:19:23+00:00"
+    },
     "http://arxiv.org/abs/2501.01402v1": {
         "entry_id": "http://arxiv.org/abs/2501.01402v1",
         "pdf_url": "http://arxiv.org/pdf/2501.01402v1",
