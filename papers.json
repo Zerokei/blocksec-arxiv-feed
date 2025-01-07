@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2501.03017v1": {
+        "entry_id": "http://arxiv.org/abs/2501.03017v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.03017v1",
+        "title": "Convexity in ReLU Neural Networks: beyond ICNNs?",
+        "comment": null,
+        "updated_time": "2025-01-06T13:53:59+00:00",
+        "published_time": "2025-01-06T13:53:59+00:00"
+    },
+    "http://arxiv.org/abs/2501.02863v1": {
+        "entry_id": "http://arxiv.org/abs/2501.02863v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.02863v1",
+        "title": "Beyond Pass or Fail: A Multi-dimensional Benchmark for Mobile UI Navigation",
+        "comment": null,
+        "updated_time": "2025-01-06T09:10:11+00:00",
+        "published_time": "2025-01-06T09:10:11+00:00"
+    },
+    "http://arxiv.org/abs/2501.02796v1": {
+        "entry_id": "http://arxiv.org/abs/2501.02796v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.02796v1",
+        "title": "GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection",
+        "comment": "\"This work has been submitted to the IEEE for possible publication.\"",
+        "updated_time": "2025-01-06T06:29:57+00:00",
+        "published_time": "2025-01-06T06:29:57+00:00"
+    },
+    "http://arxiv.org/abs/2501.02229v1": {
+        "entry_id": "http://arxiv.org/abs/2501.02229v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.02229v1",
+        "title": "Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection",
+        "comment": "7 pages, 4 figures, 1 table. This paper has accepted in 2025 IEEE\n  15th Annual Computing and Communication Workshop and Conference (CCWC)",
+        "updated_time": "2025-01-04T08:32:53+00:00",
+        "published_time": "2025-01-04T08:32:53+00:00"
+    },
+    "http://arxiv.org/abs/2501.02088v1": {
+        "entry_id": "http://arxiv.org/abs/2501.02088v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.02088v1",
+        "title": "Curious, Critical Thinker, Empathetic, and Ethically Responsible: Essential Soft Skills for Data Scientists in Software Engineering",
+        "comment": null,
+        "updated_time": "2025-01-03T20:27:14+00:00",
+        "published_time": "2025-01-03T20:27:14+00:00"
+    },
     "http://arxiv.org/abs/2501.01707v1": {
         "entry_id": "http://arxiv.org/abs/2501.01707v1",
         "pdf_url": "http://arxiv.org/pdf/2501.01707v1",
