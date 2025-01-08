@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2501.03977v1": {
+        "entry_id": "http://arxiv.org/abs/2501.03977v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.03977v1",
+        "title": "Cyber Spectrum Intelligence: Security Applications, Challenges and Road Ahead",
+        "comment": null,
+        "updated_time": "2025-01-07T18:29:15+00:00",
+        "published_time": "2025-01-07T18:29:15+00:00"
+    },
+    "http://arxiv.org/abs/2501.03840v1": {
+        "entry_id": "http://arxiv.org/abs/2501.03840v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.03840v1",
+        "title": "Machine learning applications in archaeological practices: a review",
+        "comment": null,
+        "updated_time": "2025-01-07T14:50:05+00:00",
+        "published_time": "2025-01-07T14:50:05+00:00"
+    },
+    "http://arxiv.org/abs/2501.03808v1": {
+        "entry_id": "http://arxiv.org/abs/2501.03808v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.03808v1",
+        "title": "Private, Auditable, and Distributed Ledger for Financial Institutes",
+        "comment": null,
+        "updated_time": "2025-01-07T14:21:24+00:00",
+        "published_time": "2025-01-07T14:21:24+00:00"
+    },
+    "http://arxiv.org/abs/2501.03654v1": {
+        "entry_id": "http://arxiv.org/abs/2501.03654v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.03654v1",
+        "title": "Data Augmentation for Deep Learning Regression Tasks by Machine Learning Models",
+        "comment": null,
+        "updated_time": "2025-01-07T09:40:02+00:00",
+        "published_time": "2025-01-07T09:40:02+00:00"
+    },
+    "http://arxiv.org/abs/2501.03569v1": {
+        "entry_id": "http://arxiv.org/abs/2501.03569v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.03569v1",
+        "title": "What Does a Software Engineer Look Like? Exploring Societal Stereotypes in LLMs",
+        "comment": "Accepted for publication in Software Engineering in Society (SEIS) in\n  ICSE 2025",
+        "updated_time": "2025-01-07T06:44:41+00:00",
+        "published_time": "2025-01-07T06:44:41+00:00"
+    },
+    "http://arxiv.org/abs/2501.03423v1": {
+        "entry_id": "http://arxiv.org/abs/2501.03423v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.03423v1",
+        "title": "SoK: A Review of Cross-Chain Bridge Hacks in 2023",
+        "comment": "23 pages, 10 figures",
+        "updated_time": "2025-01-06T23:05:14+00:00",
+        "published_time": "2025-01-06T23:05:14+00:00"
+    },
+    "http://arxiv.org/abs/2501.03391v1": {
+        "entry_id": "http://arxiv.org/abs/2501.03391v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.03391v1",
+        "title": "Privacy-Preserving Smart Contracts for Permissioned Blockchains: A zk-SNARK-Based Recipe Part-1",
+        "comment": null,
+        "updated_time": "2025-01-06T21:16:33+00:00",
+        "published_time": "2025-01-06T21:16:33+00:00"
+    },
     "http://arxiv.org/abs/2501.03017v1": {
         "entry_id": "http://arxiv.org/abs/2501.03017v1",
         "pdf_url": "http://arxiv.org/pdf/2501.03017v1",
