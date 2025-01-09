@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2501.04690v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04690v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04690v1",
+        "title": "Comparative Analysis of Quantum and Classical Support Vector Classifiers for Software Bug Prediction: An Exploratory Study",
+        "comment": "Accepted for publication in the Springer Journal: Quantum Machine\n  Intelligence (https://link.springer.com/journal/42484)",
+        "updated_time": "2025-01-08T18:53:50+00:00",
+        "published_time": "2025-01-08T18:53:50+00:00"
+    },
+    "http://arxiv.org/abs/2501.04600v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04600v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04600v1",
+        "title": "Do Automated Fixes Truly Mitigate Smart Contract Exploits?",
+        "comment": null,
+        "updated_time": "2025-01-08T16:31:59+00:00",
+        "published_time": "2025-01-08T16:31:59+00:00"
+    },
+    "http://arxiv.org/abs/2501.04570v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04570v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04570v1",
+        "title": "Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification: Technical Report",
+        "comment": null,
+        "updated_time": "2025-01-08T15:36:19+00:00",
+        "published_time": "2025-01-08T15:36:19+00:00"
+    },
+    "http://arxiv.org/abs/2501.04453v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04453v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04453v1",
+        "title": "Gradient Purification: Defense Against Poisoning Attack in Decentralized Federated Learning",
+        "comment": null,
+        "updated_time": "2025-01-08T12:14:00+00:00",
+        "published_time": "2025-01-08T12:14:00+00:00"
+    },
+    "http://arxiv.org/abs/2501.04409v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04409v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04409v1",
+        "title": "Lossless Privacy-Preserving Aggregation for Decentralized Federated Learning",
+        "comment": null,
+        "updated_time": "2025-01-08T10:49:06+00:00",
+        "published_time": "2025-01-08T10:49:06+00:00"
+    },
+    "http://arxiv.org/abs/2501.04362v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04362v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04362v1",
+        "title": "Real-world actor-based image steganalysis via classifier inconsistency detection",
+        "comment": null,
+        "updated_time": "2025-01-08T08:58:59+00:00",
+        "published_time": "2025-01-08T08:58:59+00:00"
+    },
+    "http://arxiv.org/abs/2501.04312v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04312v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04312v1",
+        "title": "Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models",
+        "comment": null,
+        "updated_time": "2025-01-08T07:07:22+00:00",
+        "published_time": "2025-01-08T07:07:22+00:00"
+    },
+    "http://arxiv.org/abs/2501.04300v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04300v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04300v1",
+        "title": "Handling Incomplete Heterogeneous Data using a Data-Dependent Kernel",
+        "comment": null,
+        "updated_time": "2025-01-08T06:18:32+00:00",
+        "published_time": "2025-01-08T06:18:32+00:00"
+    },
+    "http://arxiv.org/abs/2501.04260v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04260v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04260v1",
+        "title": "Modeling All Response Surfaces in One for Conditional Search Spaces",
+        "comment": null,
+        "updated_time": "2025-01-08T03:56:06+00:00",
+        "published_time": "2025-01-08T03:56:06+00:00"
+    },
     "http://arxiv.org/abs/2501.03977v1": {
         "entry_id": "http://arxiv.org/abs/2501.03977v1",
         "pdf_url": "http://arxiv.org/pdf/2501.03977v1",
