@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2501.05412v1": {
+        "entry_id": "http://arxiv.org/abs/2501.05412v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.05412v1",
+        "title": "Search-based Testing of Simulink Models with Requirements Tables",
+        "comment": null,
+        "updated_time": "2025-01-09T18:13:22+00:00",
+        "published_time": "2025-01-09T18:13:22+00:00"
+    },
+    "http://arxiv.org/abs/2501.04600v2": {
+        "entry_id": "http://arxiv.org/abs/2501.04600v2",
+        "pdf_url": "http://arxiv.org/pdf/2501.04600v2",
+        "title": "Do Automated Fixes Truly Mitigate Smart Contract Exploits?",
+        "comment": null,
+        "updated_time": "2025-01-09T13:44:15+00:00",
+        "published_time": "2025-01-08T16:31:59+00:00"
+    },
+    "http://arxiv.org/abs/2501.05081v1": {
+        "entry_id": "http://arxiv.org/abs/2501.05081v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.05081v1",
+        "title": "DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving",
+        "comment": null,
+        "updated_time": "2025-01-09T09:02:41+00:00",
+        "published_time": "2025-01-09T09:02:41+00:00"
+    },
+    "http://arxiv.org/abs/2501.04841v1": {
+        "entry_id": "http://arxiv.org/abs/2501.04841v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.04841v1",
+        "title": "Blockchain-Based Secure Vehicle Auction System with Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-01-08T21:07:25+00:00",
+        "published_time": "2025-01-08T21:07:25+00:00"
+    },
     "http://arxiv.org/abs/2501.04690v1": {
         "entry_id": "http://arxiv.org/abs/2501.04690v1",
         "pdf_url": "http://arxiv.org/pdf/2501.04690v1",
