@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2501.06062v1": {
+        "entry_id": "http://arxiv.org/abs/2501.06062v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.06062v1",
+        "title": "Personalized Language Model Learning on Text Data Without User Identifiers",
+        "comment": null,
+        "updated_time": "2025-01-10T15:46:19+00:00",
+        "published_time": "2025-01-10T15:46:19+00:00"
+    },
+    "http://arxiv.org/abs/2501.06007v1": {
+        "entry_id": "http://arxiv.org/abs/2501.06007v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.06007v1",
+        "title": "A Neural Operator for Forecasting Carbon Monoxide Evolution in Cities",
+        "comment": "36 pages, 21 figures, to be published in npj Clean Air journal\n  (accepted)",
+        "updated_time": "2025-01-10T14:42:08+00:00",
+        "published_time": "2025-01-10T14:42:08+00:00"
+    },
+    "http://arxiv.org/abs/2501.06003v1": {
+        "entry_id": "http://arxiv.org/abs/2501.06003v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.06003v1",
+        "title": "Learning to generate feasible graphs using graph grammars",
+        "comment": null,
+        "updated_time": "2025-01-10T14:34:46+00:00",
+        "published_time": "2025-01-10T14:34:46+00:00"
+    },
+    "http://arxiv.org/abs/2501.05907v1": {
+        "entry_id": "http://arxiv.org/abs/2501.05907v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.05907v1",
+        "title": "Security Testing Framework for Web Applications: Benchmarking ZAP V2.12.0 and V2.13.0 by OWASP as an example",
+        "comment": "20 pages, 18 figures",
+        "updated_time": "2025-01-10T12:07:18+00:00",
+        "published_time": "2025-01-10T12:07:18+00:00"
+    },
+    "http://arxiv.org/abs/2501.05809v1": {
+        "entry_id": "http://arxiv.org/abs/2501.05809v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.05809v1",
+        "title": "AdaPRL: Adaptive Pairwise Regression Learning with Uncertainty Estimation for Universal Regression Tasks",
+        "comment": "22 pages, 11 figures",
+        "updated_time": "2025-01-10T09:19:10+00:00",
+        "published_time": "2025-01-10T09:19:10+00:00"
+    },
+    "http://arxiv.org/abs/2501.05792v1": {
+        "entry_id": "http://arxiv.org/abs/2501.05792v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.05792v1",
+        "title": "Test Case Generation for Simulink Models: An Experience from the E-Bike Domain",
+        "comment": "10 pages, 2 pages for references",
+        "updated_time": "2025-01-10T08:53:42+00:00",
+        "published_time": "2025-01-10T08:53:42+00:00"
+    },
+    "http://arxiv.org/abs/2501.05626v1": {
+        "entry_id": "http://arxiv.org/abs/2501.05626v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.05626v1",
+        "title": "Kite: How to Delegate Voting Power Privately",
+        "comment": null,
+        "updated_time": "2025-01-09T23:49:45+00:00",
+        "published_time": "2025-01-09T23:49:45+00:00"
+    },
     "http://arxiv.org/abs/2501.05412v1": {
         "entry_id": "http://arxiv.org/abs/2501.05412v1",
         "pdf_url": "http://arxiv.org/pdf/2501.05412v1",
