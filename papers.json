@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2501.07339v1": {
+        "entry_id": "http://arxiv.org/abs/2501.07339v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.07339v1",
+        "title": "Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching",
+        "comment": null,
+        "updated_time": "2025-01-13T13:51:05+00:00",
+        "published_time": "2025-01-13T13:51:05+00:00"
+    },
+    "http://arxiv.org/abs/2501.07155v1": {
+        "entry_id": "http://arxiv.org/abs/2501.07155v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.07155v1",
+        "title": "AlphaNet: Scaling Up Local Frame-based Atomistic Foundation Model",
+        "comment": "14 pages, 5 figures",
+        "updated_time": "2025-01-13T09:28:47+00:00",
+        "published_time": "2025-01-13T09:28:47+00:00"
+    },
+    "http://arxiv.org/abs/2501.07149v1": {
+        "entry_id": "http://arxiv.org/abs/2501.07149v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.07149v1",
+        "title": "Pantomime: Towards the Anonymization of Motion Data using Foundation Motion Models",
+        "comment": null,
+        "updated_time": "2025-01-13T09:22:30+00:00",
+        "published_time": "2025-01-13T09:22:30+00:00"
+    },
+    "http://arxiv.org/abs/2501.05809v2": {
+        "entry_id": "http://arxiv.org/abs/2501.05809v2",
+        "pdf_url": "http://arxiv.org/pdf/2501.05809v2",
+        "title": "AdaPRL: Adaptive Pairwise Regression Learning with Uncertainty Estimation for Universal Regression Tasks",
+        "comment": "22 pages, 11 figures",
+        "updated_time": "2025-01-13T07:49:28+00:00",
+        "published_time": "2025-01-10T09:19:10+00:00"
+    },
+    "http://arxiv.org/abs/2501.06953v1": {
+        "entry_id": "http://arxiv.org/abs/2501.06953v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.06953v1",
+        "title": "ByzSFL: Achieving Byzantine-Robust Secure Federated Learning with Zero-Knowledge Proofs",
+        "comment": null,
+        "updated_time": "2025-01-12T22:14:45+00:00",
+        "published_time": "2025-01-12T22:14:45+00:00"
+    },
+    "http://arxiv.org/abs/2501.06686v1": {
+        "entry_id": "http://arxiv.org/abs/2501.06686v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.06686v1",
+        "title": "Understanding and Mitigating Membership Inference Risks of Neural Ordinary Differential Equations",
+        "comment": null,
+        "updated_time": "2025-01-12T02:26:21+00:00",
+        "published_time": "2025-01-12T02:26:21+00:00"
+    },
+    "http://arxiv.org/abs/2501.06515v1": {
+        "entry_id": "http://arxiv.org/abs/2501.06515v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.06515v1",
+        "title": "ZK Secret Santa",
+        "comment": null,
+        "updated_time": "2025-01-11T11:24:53+00:00",
+        "published_time": "2025-01-11T11:24:53+00:00"
+    },
+    "http://arxiv.org/abs/2501.06492v1": {
+        "entry_id": "http://arxiv.org/abs/2501.06492v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.06492v1",
+        "title": "A New Flexible Train-Test Split Algorithm, an approach for choosing among the Hold-out, K-fold cross-validation, and Hold-out iteration",
+        "comment": null,
+        "updated_time": "2025-01-11T09:42:13+00:00",
+        "published_time": "2025-01-11T09:42:13+00:00"
+    },
+    "http://arxiv.org/abs/2501.06459v1": {
+        "entry_id": "http://arxiv.org/abs/2501.06459v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.06459v1",
+        "title": "Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects",
+        "comment": "The paper has been accepted for presentation at the 47th IEEE/ACM\n  International Conference on Software Engineering (ICSE 2025)",
+        "updated_time": "2025-01-11T07:17:11+00:00",
+        "published_time": "2025-01-11T07:17:11+00:00"
+    },
     "http://arxiv.org/abs/2501.06062v1": {
         "entry_id": "http://arxiv.org/abs/2501.06062v1",
         "pdf_url": "http://arxiv.org/pdf/2501.06062v1",
