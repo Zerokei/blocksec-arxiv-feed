@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2501.08281v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08281v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08281v1",
+        "title": "Decoding Interpretable Logic Rules from Neural Networks",
+        "comment": "23 pages, 7 figures",
+        "updated_time": "2025-01-14T17:57:26+00:00",
+        "published_time": "2025-01-14T17:57:26+00:00"
+    },
+    "http://arxiv.org/abs/2501.08236v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08236v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08236v1",
+        "title": "Privacy-Preserving Model and Preprocessing Verification for Machine Learning",
+        "comment": null,
+        "updated_time": "2025-01-14T16:21:54+00:00",
+        "published_time": "2025-01-14T16:21:54+00:00"
+    },
+    "http://arxiv.org/abs/2501.08193v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08193v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08193v1",
+        "title": "Modeling Quantum Machine Learning for Genomic Data Analysis",
+        "comment": null,
+        "updated_time": "2025-01-14T15:14:26+00:00",
+        "published_time": "2025-01-14T15:14:26+00:00"
+    },
+    "http://arxiv.org/abs/2501.08031v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08031v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08031v1",
+        "title": "Entropy Mixing Networks: Enhancing Pseudo-Random Number Generators with Lightweight Dynamic Entropy Injection",
+        "comment": null,
+        "updated_time": "2025-01-14T11:36:54+00:00",
+        "published_time": "2025-01-14T11:36:54+00:00"
+    },
+    "http://arxiv.org/abs/2501.07925v1": {
+        "entry_id": "http://arxiv.org/abs/2501.07925v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.07925v1",
+        "title": "Phase of Flight Classification in Aviation Safety using LSTM, GRU, and BiLSTM: A Case Study with ASN Dataset",
+        "comment": "Aviation Safety, Deep learning algorithms, Flight phase, NLP, ASN,\n  and Classification",
+        "updated_time": "2025-01-14T08:26:58+00:00",
+        "published_time": "2025-01-14T08:26:58+00:00"
+    },
+    "http://arxiv.org/abs/2501.05626v2": {
+        "entry_id": "http://arxiv.org/abs/2501.05626v2",
+        "pdf_url": "http://arxiv.org/pdf/2501.05626v2",
+        "title": "Kite: How to Delegate Voting Power Privately",
+        "comment": "Updated GitHub link",
+        "updated_time": "2025-01-13T21:57:45+00:00",
+        "published_time": "2025-01-09T23:49:45+00:00"
+    },
     "http://arxiv.org/abs/2501.07339v1": {
         "entry_id": "http://arxiv.org/abs/2501.07339v1",
         "pdf_url": "http://arxiv.org/pdf/2501.07339v1",
