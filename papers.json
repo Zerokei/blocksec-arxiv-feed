@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2501.08995v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08995v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08995v1",
+        "title": "VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science",
+        "comment": "30 pages, 6 primary figures, 3 supplementary figures",
+        "updated_time": "2025-01-15T18:23:33+00:00",
+        "published_time": "2025-01-15T18:23:33+00:00"
+    },
+    "http://arxiv.org/abs/2501.08963v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08963v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08963v1",
+        "title": "Training-Aware Risk Control for Intensity Modulated Radiation Therapies Quality Assurance with Conformal Prediction",
+        "comment": "2024 Machine Learning for Health Symposium",
+        "updated_time": "2025-01-15T17:19:51+00:00",
+        "published_time": "2025-01-15T17:19:51+00:00"
+    },
+    "http://arxiv.org/abs/2501.08909v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08909v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08909v1",
+        "title": "Software Testing for Extended Reality Applications: A Systematic Mapping Study",
+        "comment": "50 pages, 10 figures",
+        "updated_time": "2025-01-15T16:19:12+00:00",
+        "published_time": "2025-01-15T16:19:12+00:00"
+    },
+    "http://arxiv.org/abs/2501.08834v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08834v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08834v1",
+        "title": "Smart Contract Fuzzing Towards Profitable Vulnerabilities",
+        "comment": "Submission version without revisions requested from peer reviews. The\n  camera-ready version will be available soon",
+        "updated_time": "2025-01-15T14:38:18+00:00",
+        "published_time": "2025-01-15T14:38:18+00:00"
+    },
+    "http://arxiv.org/abs/2501.08780v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08780v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08780v1",
+        "title": "Deep learning for temporal super-resolution 4D Flow MRI",
+        "comment": "12 pages, 8 figures",
+        "updated_time": "2025-01-15T13:01:47+00:00",
+        "published_time": "2025-01-15T13:01:47+00:00"
+    },
+    "http://arxiv.org/abs/2501.08737v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08737v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08737v1",
+        "title": "Resource-Constrained Federated Continual Learning: What Does Matter?",
+        "comment": "arXiv admin note: text overlap with arXiv:2303.11165 by other authors",
+        "updated_time": "2025-01-15T11:33:52+00:00",
+        "published_time": "2025-01-15T11:33:52+00:00"
+    },
+    "http://arxiv.org/abs/2501.08727v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08727v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08727v1",
+        "title": "Transformed Low-rank Adaptation via Tensor Decomposition and Its Applications to Text-to-image Models",
+        "comment": null,
+        "updated_time": "2025-01-15T11:10:37+00:00",
+        "published_time": "2025-01-15T11:10:37+00:00"
+    },
+    "http://arxiv.org/abs/2501.08670v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08670v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08670v1",
+        "title": "Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery",
+        "comment": null,
+        "updated_time": "2025-01-15T09:04:30+00:00",
+        "published_time": "2025-01-15T09:04:30+00:00"
+    },
+    "http://arxiv.org/abs/2501.08612v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08612v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08612v1",
+        "title": "Neural Risk-sensitive Satisficing in Contextual Bandits",
+        "comment": "Accepted by AROB-ISBC 2025",
+        "updated_time": "2025-01-15T06:20:25+00:00",
+        "published_time": "2025-01-15T06:20:25+00:00"
+    },
+    "http://arxiv.org/abs/2501.08563v1": {
+        "entry_id": "http://arxiv.org/abs/2501.08563v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.08563v1",
+        "title": "Adaptive Sampled Softmax with Inverted Multi-Index: Methods, Theory and Applications",
+        "comment": "40 pages",
+        "updated_time": "2025-01-15T04:09:21+00:00",
+        "published_time": "2025-01-15T04:09:21+00:00"
+    },
     "http://arxiv.org/abs/2501.08281v1": {
         "entry_id": "http://arxiv.org/abs/2501.08281v1",
         "pdf_url": "http://arxiv.org/pdf/2501.08281v1",
