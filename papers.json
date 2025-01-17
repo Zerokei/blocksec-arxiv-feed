@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2501.09655v1": {
+        "entry_id": "http://arxiv.org/abs/2501.09655v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.09655v1",
+        "title": "A Survey of Research in Large Language Models for Electronic Design Automation",
+        "comment": "21 pages, 2 figures, 3 tables, accepted by TODAES",
+        "updated_time": "2025-01-16T16:51:59+00:00",
+        "published_time": "2025-01-16T16:51:59+00:00"
+    },
+    "http://arxiv.org/abs/2501.09631v1": {
+        "entry_id": "http://arxiv.org/abs/2501.09631v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.09631v1",
+        "title": "Empowering Large Language Models in Wireless Communication: A Novel Dataset and Fine-Tuning Framework",
+        "comment": "13 pages, 13 figure, journal",
+        "updated_time": "2025-01-16T16:19:53+00:00",
+        "published_time": "2025-01-16T16:19:53+00:00"
+    },
+    "http://arxiv.org/abs/2501.09592v1": {
+        "entry_id": "http://arxiv.org/abs/2501.09592v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.09592v1",
+        "title": "Clinicians don't know what explanations they need: A case study on eliciting AI software explainability requirements",
+        "comment": null,
+        "updated_time": "2025-01-16T15:17:33+00:00",
+        "published_time": "2025-01-16T15:17:33+00:00"
+    },
+    "http://arxiv.org/abs/2501.09591v1": {
+        "entry_id": "http://arxiv.org/abs/2501.09591v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.09591v1",
+        "title": "Metrics for Inter-Dataset Similarity with Example Applications in Synthetic Data and Feature Selection Evaluation -- Extended Version",
+        "comment": "This is the extended version of a paper accepted at 2025 SIAM\n  International Conference on Data Mining (SDM)",
+        "updated_time": "2025-01-16T15:17:27+00:00",
+        "published_time": "2025-01-16T15:17:27+00:00"
+    },
+    "http://arxiv.org/abs/2501.09434v1": {
+        "entry_id": "http://arxiv.org/abs/2501.09434v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.09434v1",
+        "title": "Agile System Development Lifecycle for AI Systems: Decision Architecture",
+        "comment": "11, 4",
+        "updated_time": "2025-01-16T10:04:19+00:00",
+        "published_time": "2025-01-16T10:04:19+00:00"
+    },
+    "http://arxiv.org/abs/2501.09320v1": {
+        "entry_id": "http://arxiv.org/abs/2501.09320v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.09320v1",
+        "title": "Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning",
+        "comment": "This paper is currently under review in the IEEE/ACM Transactions on\n  Networking Special Issue on AI and Networking",
+        "updated_time": "2025-01-16T06:22:35+00:00",
+        "published_time": "2025-01-16T06:22:35+00:00"
+    },
     "http://arxiv.org/abs/2501.08995v1": {
         "entry_id": "http://arxiv.org/abs/2501.08995v1",
         "pdf_url": "http://arxiv.org/pdf/2501.08995v1",
