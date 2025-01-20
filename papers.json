@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2501.10348v1": {
+        "entry_id": "http://arxiv.org/abs/2501.10348v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.10348v1",
+        "title": "Credit Risk Identification in Supply Chains Using Generative Adversarial Networks",
+        "comment": "The paper will be published and indexed by IEEE at 2025 8th\n  International Conference on Advanced Algorithms and Control Engineering\n  (ICAACE 2025)",
+        "updated_time": "2025-01-17T18:42:46+00:00",
+        "published_time": "2025-01-17T18:42:46+00:00"
+    },
+    "http://arxiv.org/abs/2501.10347v1": {
+        "entry_id": "http://arxiv.org/abs/2501.10347v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.10347v1",
+        "title": "ColNet: Collaborative Optimization in Decentralized Federated Multi-task Learning Systems",
+        "comment": null,
+        "updated_time": "2025-01-17T18:40:38+00:00",
+        "published_time": "2025-01-17T18:40:38+00:00"
+    },
+    "http://arxiv.org/abs/2501.10342v1": {
+        "entry_id": "http://arxiv.org/abs/2501.10342v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.10342v1",
+        "title": "Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism",
+        "comment": null,
+        "updated_time": "2025-01-17T18:33:58+00:00",
+        "published_time": "2025-01-17T18:33:58+00:00"
+    },
+    "http://arxiv.org/abs/2501.10290v1": {
+        "entry_id": "http://arxiv.org/abs/2501.10290v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.10290v1",
+        "title": "Pairwise Elimination with Instance-Dependent Guarantees for Bandits with Cost Subsidy",
+        "comment": null,
+        "updated_time": "2025-01-17T16:34:45+00:00",
+        "published_time": "2025-01-17T16:34:45+00:00"
+    },
+    "http://arxiv.org/abs/2501.10261v1": {
+        "entry_id": "http://arxiv.org/abs/2501.10261v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.10261v1",
+        "title": "Logarithmic Regret for Nonlinear Control",
+        "comment": null,
+        "updated_time": "2025-01-17T15:42:42+00:00",
+        "published_time": "2025-01-17T15:42:42+00:00"
+    },
+    "http://arxiv.org/abs/2501.10216v1": {
+        "entry_id": "http://arxiv.org/abs/2501.10216v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.10216v1",
+        "title": "The Relevance of AWS Chronos: An Evaluation of Standard Methods for Time Series Forecasting with Limited Tuning",
+        "comment": null,
+        "updated_time": "2025-01-17T14:23:54+00:00",
+        "published_time": "2025-01-17T14:23:54+00:00"
+    },
+    "http://arxiv.org/abs/2501.10214v1": {
+        "entry_id": "http://arxiv.org/abs/2501.10214v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.10214v1",
+        "title": "Temporal Graph MLP Mixer for Spatio-Temporal Forecasting",
+        "comment": null,
+        "updated_time": "2025-01-17T14:13:48+00:00",
+        "published_time": "2025-01-17T14:13:48+00:00"
+    },
+    "http://arxiv.org/abs/2501.10084v1": {
+        "entry_id": "http://arxiv.org/abs/2501.10084v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.10084v1",
+        "title": "Two-level Solar Irradiance Clustering with Season Identification: A Comparative Analysis",
+        "comment": "30 pages, 9 figures, 6 tables",
+        "updated_time": "2025-01-17T10:05:11+00:00",
+        "published_time": "2025-01-17T10:05:11+00:00"
+    },
+    "http://arxiv.org/abs/2501.10049v1": {
+        "entry_id": "http://arxiv.org/abs/2501.10049v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.10049v1",
+        "title": "PandaSkill -- Player Performance and Skill Rating in Esports: Application to League of Legends",
+        "comment": null,
+        "updated_time": "2025-01-17T09:10:34+00:00",
+        "published_time": "2025-01-17T09:10:34+00:00"
+    },
+    "http://arxiv.org/abs/2501.09955v1": {
+        "entry_id": "http://arxiv.org/abs/2501.09955v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.09955v1",
+        "title": "Metamorphic Testing for Smart Contract Validation:A Case Study of Ethereum-Based Crowdfunding Contracts",
+        "comment": null,
+        "updated_time": "2025-01-17T05:04:23+00:00",
+        "published_time": "2025-01-17T05:04:23+00:00"
+    },
+    "http://arxiv.org/abs/2501.09802v1": {
+        "entry_id": "http://arxiv.org/abs/2501.09802v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.09802v1",
+        "title": "W3ID: A Quantum Computing-Secure Digital Identity System Redefining Standards for Web3 and Digital Twins",
+        "comment": null,
+        "updated_time": "2025-01-16T19:16:08+00:00",
+        "published_time": "2025-01-16T19:16:08+00:00"
+    },
     "http://arxiv.org/abs/2501.09655v1": {
         "entry_id": "http://arxiv.org/abs/2501.09655v1",
         "pdf_url": "http://arxiv.org/pdf/2501.09655v1",
