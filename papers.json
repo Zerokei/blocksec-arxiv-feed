@@ -1,4 +1,172 @@
 {
+    "http://arxiv.org/abs/2501.12367v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12367v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12367v1",
+        "title": "Budget-constrained Collaborative Renewable Energy Forecasting Market",
+        "comment": null,
+        "updated_time": "2025-01-21T18:46:27+00:00",
+        "published_time": "2025-01-21T18:46:27+00:00"
+    },
+    "http://arxiv.org/abs/2501.12215v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12215v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12215v1",
+        "title": "Automatic selection of the best neural architecture for time series forecasting via multi-objective optimization and Pareto optimality conditions",
+        "comment": "35 pages, 8 figures",
+        "updated_time": "2025-01-21T15:33:55+00:00",
+        "published_time": "2025-01-21T15:33:55+00:00"
+    },
+    "http://arxiv.org/abs/2501.12204v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12204v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12204v1",
+        "title": "Score Combining for Contrastive OOD Detection",
+        "comment": null,
+        "updated_time": "2025-01-21T15:20:22+00:00",
+        "published_time": "2025-01-21T15:20:22+00:00"
+    },
+    "http://arxiv.org/abs/2501.12136v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12136v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12136v1",
+        "title": "Heterogeneous Federated Learning Systems for Time-Series Power Consumption Prediction with Multi-Head Embedding Mechanism",
+        "comment": null,
+        "updated_time": "2025-01-21T13:49:38+00:00",
+        "published_time": "2025-01-21T13:49:38+00:00"
+    },
+    "http://arxiv.org/abs/2501.12125v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12125v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12125v1",
+        "title": "Heterogeneous Federated Learning System for Sparse Healthcare Time-Series Prediction",
+        "comment": null,
+        "updated_time": "2025-01-21T13:38:06+00:00",
+        "published_time": "2025-01-21T13:38:06+00:00"
+    },
+    "http://arxiv.org/abs/2501.12090v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12090v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12090v1",
+        "title": "A Comprehensive Evaluation of Four End-To-End AI Autopilots Using CCTest and the Carla Leaderboard",
+        "comment": null,
+        "updated_time": "2025-01-21T12:33:32+00:00",
+        "published_time": "2025-01-21T12:33:32+00:00"
+    },
+    "http://arxiv.org/abs/2501.12077v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12077v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12077v1",
+        "title": "Phishing Awareness via Game-Based Learning",
+        "comment": "37th International Conference on Software Engineering Education and\n  Training (CSEET 2025)",
+        "updated_time": "2025-01-21T12:05:47+00:00",
+        "published_time": "2025-01-21T12:05:47+00:00"
+    },
+    "http://arxiv.org/abs/2501.12046v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12046v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12046v1",
+        "title": "Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning",
+        "comment": "18 pages, 3 figures, Submitted to 2025 IEEE International Symposium\n  on Information Theory",
+        "updated_time": "2025-01-21T11:16:05+00:00",
+        "published_time": "2025-01-21T11:16:05+00:00"
+    },
+    "http://arxiv.org/abs/2501.12034v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12034v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12034v1",
+        "title": "Application of Machine Learning Techniques for Secure Traffic in NoC-based Manycores",
+        "comment": "14 pages, 17 figures",
+        "updated_time": "2025-01-21T10:58:09+00:00",
+        "published_time": "2025-01-21T10:58:09+00:00"
+    },
+    "http://arxiv.org/abs/2501.12012v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12012v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12012v1",
+        "title": "TabularARGN: A Flexible and Efficient Auto-Regressive Framework for Generating High-Fidelity Synthetic Data",
+        "comment": null,
+        "updated_time": "2025-01-21T10:06:19+00:00",
+        "published_time": "2025-01-21T10:06:19+00:00"
+    },
+    "http://arxiv.org/abs/2501.11979v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11979v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11979v1",
+        "title": "Linear Feedback Control Systems for Iterative Prompt Optimization in Large Language Models",
+        "comment": null,
+        "updated_time": "2025-01-21T08:52:47+00:00",
+        "published_time": "2025-01-21T08:52:47+00:00"
+    },
+    "http://arxiv.org/abs/2501.11972v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11972v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11972v1",
+        "title": "\"FRAME: Forward Recursive Adaptive Model Extraction -- A Technique for Advance Feature Selection\"",
+        "comment": null,
+        "updated_time": "2025-01-21T08:34:10+00:00",
+        "published_time": "2025-01-21T08:34:10+00:00"
+    },
+    "http://arxiv.org/abs/2501.11959v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11959v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11959v1",
+        "title": "Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels",
+        "comment": "Accepted by 2025 ACM SIGKDD International Conference on Knowledge\n  Discovery and Data Mining (KDD'25)",
+        "updated_time": "2025-01-21T08:10:02+00:00",
+        "published_time": "2025-01-21T08:10:02+00:00"
+    },
+    "http://arxiv.org/abs/2501.11929v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11929v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11929v1",
+        "title": "ALoFTRAG: Automatic Local Fine Tuning for Retrieval Augmented Generation",
+        "comment": null,
+        "updated_time": "2025-01-21T07:07:58+00:00",
+        "published_time": "2025-01-21T07:07:58+00:00"
+    },
+    "http://arxiv.org/abs/2501.11798v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11798v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11798v1",
+        "title": "Blockchain Security Risk Assessment in Quantum Era, Migration Strategies and Proactive Defense",
+        "comment": null,
+        "updated_time": "2025-01-21T00:27:41+00:00",
+        "published_time": "2025-01-21T00:27:41+00:00"
+    },
+    "http://arxiv.org/abs/2501.11787v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11787v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11787v1",
+        "title": "Semantic Dependency in Microservice Architecture: A Framework for Definition and Detection",
+        "comment": "This paper is accepted at ICSR/ICSE 2025",
+        "updated_time": "2025-01-20T23:34:24+00:00",
+        "published_time": "2025-01-20T23:34:24+00:00"
+    },
+    "http://arxiv.org/abs/2501.11707v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11707v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11707v1",
+        "title": "Key Concepts and Principles of Blockchain Technology",
+        "comment": null,
+        "updated_time": "2025-01-20T19:40:34+00:00",
+        "published_time": "2025-01-20T19:40:34+00:00"
+    },
+    "http://arxiv.org/abs/2501.11668v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11668v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11668v1",
+        "title": "Characterizing Transfer Graphs of Suspicious ERC-20 Tokens",
+        "comment": "14 Pages, 5 figures, 6th International Conference on Big Data and\n  Blockchain",
+        "updated_time": "2025-01-20T18:49:01+00:00",
+        "published_time": "2025-01-20T18:49:01+00:00"
+    },
+    "http://arxiv.org/abs/2501.11431v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11431v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11431v1",
+        "title": "Blockchain Developer Experience: A Multivocal Literature Review",
+        "comment": "12 pages, 5 figures, 18th Conference on Cooperative and Human Aspects\n  of Software Engineering (CHASE)",
+        "updated_time": "2025-01-20T12:09:27+00:00",
+        "published_time": "2025-01-20T12:09:27+00:00"
+    },
+    "http://arxiv.org/abs/2501.11091v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11091v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11091v1",
+        "title": "Bitcoin: A Non-Continuous Time System",
+        "comment": null,
+        "updated_time": "2025-01-19T16:04:03+00:00",
+        "published_time": "2025-01-19T16:04:03+00:00"
+    },
+    "http://arxiv.org/abs/2501.11052v1": {
+        "entry_id": "http://arxiv.org/abs/2501.11052v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.11052v1",
+        "title": "SLVC-DIDA: Signature-less Verifiable Credential-based Issuer-hiding and Multi-party Authentication for Decentralized Identity",
+        "comment": null,
+        "updated_time": "2025-01-19T13:58:01+00:00",
+        "published_time": "2025-01-19T13:58:01+00:00"
+    },
     "http://arxiv.org/abs/2501.10348v1": {
         "entry_id": "http://arxiv.org/abs/2501.10348v1",
         "pdf_url": "http://arxiv.org/pdf/2501.10348v1",
