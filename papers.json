@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2501.13052v1": {
+        "entry_id": "http://arxiv.org/abs/2501.13052v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.13052v1",
+        "title": "One-Class Domain Adaptation via Meta-Learning",
+        "comment": null,
+        "updated_time": "2025-01-22T18:01:24+00:00",
+        "published_time": "2025-01-22T18:01:24+00:00"
+    },
+    "http://arxiv.org/abs/2501.13041v1": {
+        "entry_id": "http://arxiv.org/abs/2501.13041v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.13041v1",
+        "title": "TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting",
+        "comment": null,
+        "updated_time": "2025-01-22T17:40:17+00:00",
+        "published_time": "2025-01-22T17:40:17+00:00"
+    },
+    "http://arxiv.org/abs/2501.12904v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12904v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12904v1",
+        "title": "A Functional Software Reference Architecture for LLM-Integrated Systems",
+        "comment": "Accepted for publication at the 22nd IEEE International Conference on\n  Software Architecture (ICSA 2025) - New and Emerging Ideas",
+        "updated_time": "2025-01-22T14:30:40+00:00",
+        "published_time": "2025-01-22T14:30:40+00:00"
+    },
+    "http://arxiv.org/abs/2501.12900v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12900v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12900v1",
+        "title": "Unified CNNs and transformers underlying learning mechanism reveals multi-head attention modus vivendi",
+        "comment": "28 pages, 9 figures",
+        "updated_time": "2025-01-22T14:19:48+00:00",
+        "published_time": "2025-01-22T14:19:48+00:00"
+    },
+    "http://arxiv.org/abs/2501.12857v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12857v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12857v1",
+        "title": "HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks",
+        "comment": null,
+        "updated_time": "2025-01-22T13:09:09+00:00",
+        "published_time": "2025-01-22T13:09:09+00:00"
+    },
+    "http://arxiv.org/abs/2501.12367v2": {
+        "entry_id": "http://arxiv.org/abs/2501.12367v2",
+        "pdf_url": "http://arxiv.org/pdf/2501.12367v2",
+        "title": "Budget-constrained Collaborative Renewable Energy Forecasting Market",
+        "comment": null,
+        "updated_time": "2025-01-22T12:24:30+00:00",
+        "published_time": "2025-01-21T18:46:27+00:00"
+    },
+    "http://arxiv.org/abs/2501.12706v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12706v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12706v1",
+        "title": "REX: Causal Discovery based on Machine Learning and Explainability techniques",
+        "comment": "22 pages, 30 figures, Submitted to Elsevier's Pattern Recognition",
+        "updated_time": "2025-01-22T08:23:10+00:00",
+        "published_time": "2025-01-22T08:23:10+00:00"
+    },
+    "http://arxiv.org/abs/2501.12689v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12689v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12689v1",
+        "title": "EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation",
+        "comment": null,
+        "updated_time": "2025-01-22T07:52:38+00:00",
+        "published_time": "2025-01-22T07:52:38+00:00"
+    },
+    "http://arxiv.org/abs/2501.12627v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12627v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12627v1",
+        "title": "Deep Reinforcement Learning with Hybrid Intrinsic Reward Model",
+        "comment": "18 pages, 14 figures",
+        "updated_time": "2025-01-22T04:22:13+00:00",
+        "published_time": "2025-01-22T04:22:13+00:00"
+    },
+    "http://arxiv.org/abs/2501.12523v1": {
+        "entry_id": "http://arxiv.org/abs/2501.12523v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.12523v1",
+        "title": "Federated Discrete Denoising Diffusion Model for Molecular Generation with OpenFL",
+        "comment": "10 pages, 5 figures",
+        "updated_time": "2025-01-21T22:26:47+00:00",
+        "published_time": "2025-01-21T22:26:47+00:00"
+    },
     "http://arxiv.org/abs/2501.12367v1": {
         "entry_id": "http://arxiv.org/abs/2501.12367v1",
         "pdf_url": "http://arxiv.org/pdf/2501.12367v1",
