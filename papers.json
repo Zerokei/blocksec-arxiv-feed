@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2501.13776v1": {
+        "entry_id": "http://arxiv.org/abs/2501.13776v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.13776v1",
+        "title": "Crossfire: An Elastic Defense Framework for Graph Neural Networks Under Bit Flip Attacks",
+        "comment": "Accepted at AAAI 2025, DOI will be included after publication",
+        "updated_time": "2025-01-23T15:53:35+00:00",
+        "published_time": "2025-01-23T15:53:35+00:00"
+    },
+    "http://arxiv.org/abs/2501.13742v1": {
+        "entry_id": "http://arxiv.org/abs/2501.13742v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.13742v1",
+        "title": "An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities",
+        "comment": "This paper is accepted by TOSEM",
+        "updated_time": "2025-01-23T15:17:51+00:00",
+        "published_time": "2025-01-23T15:17:51+00:00"
+    },
+    "http://arxiv.org/abs/2501.13734v1": {
+        "entry_id": "http://arxiv.org/abs/2501.13734v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.13734v1",
+        "title": "Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function",
+        "comment": "48 pages, 4 figures",
+        "updated_time": "2025-01-23T15:10:51+00:00",
+        "published_time": "2025-01-23T15:10:51+00:00"
+    },
+    "http://arxiv.org/abs/2501.13597v1": {
+        "entry_id": "http://arxiv.org/abs/2501.13597v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.13597v1",
+        "title": "A Comprehensive Survey on Spectral Clustering with Graph Structure Learnin",
+        "comment": null,
+        "updated_time": "2025-01-23T12:06:32+00:00",
+        "published_time": "2025-01-23T12:06:32+00:00"
+    },
+    "http://arxiv.org/abs/2501.13392v1": {
+        "entry_id": "http://arxiv.org/abs/2501.13392v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.13392v1",
+        "title": "Time Series Embedding Methods for Classification Tasks: A Review",
+        "comment": null,
+        "updated_time": "2025-01-23T05:24:45+00:00",
+        "published_time": "2025-01-23T05:24:45+00:00"
+    },
+    "http://arxiv.org/abs/2501.13213v1": {
+        "entry_id": "http://arxiv.org/abs/2501.13213v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.13213v1",
+        "title": "Distributed Intrusion Detection in Dynamic Networks of UAVs using Few-Shot Federated Learning",
+        "comment": "Accepted to EAI SecureComm 2024. For details, see:\n  https://securecomm.eai-conferences.org/2024/accepted-papers/",
+        "updated_time": "2025-01-22T20:55:46+00:00",
+        "published_time": "2025-01-22T20:55:46+00:00"
+    },
     "http://arxiv.org/abs/2501.13052v1": {
         "entry_id": "http://arxiv.org/abs/2501.13052v1",
         "pdf_url": "http://arxiv.org/pdf/2501.13052v1",
