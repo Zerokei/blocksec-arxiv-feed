@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2501.14683v1": {
+        "entry_id": "http://arxiv.org/abs/2501.14683v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.14683v1",
+        "title": "An Empirical Study on LLM-based Classification of Requirements-related Provisions in Food-safety Regulations",
+        "comment": null,
+        "updated_time": "2025-01-24T17:59:14+00:00",
+        "published_time": "2025-01-24T17:59:14+00:00"
+    },
+    "http://arxiv.org/abs/2501.14604v1": {
+        "entry_id": "http://arxiv.org/abs/2501.14604v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.14604v1",
+        "title": "Inverse Evolution Data Augmentation for Neural PDE Solvers",
+        "comment": null,
+        "updated_time": "2025-01-24T16:20:11+00:00",
+        "published_time": "2025-01-24T16:20:11+00:00"
+    },
+    "http://arxiv.org/abs/2501.14512v1": {
+        "entry_id": "http://arxiv.org/abs/2501.14512v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.14512v1",
+        "title": "Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel",
+        "comment": null,
+        "updated_time": "2025-01-24T14:15:51+00:00",
+        "published_time": "2025-01-24T14:15:51+00:00"
+    },
+    "http://arxiv.org/abs/2501.14426v1": {
+        "entry_id": "http://arxiv.org/abs/2501.14426v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.14426v1",
+        "title": "CENTS: Generating synthetic electricity consumption time series for rare and unseen scenarios",
+        "comment": null,
+        "updated_time": "2025-01-24T11:52:52+00:00",
+        "published_time": "2025-01-24T11:52:52+00:00"
+    },
+    "http://arxiv.org/abs/2501.14314v1": {
+        "entry_id": "http://arxiv.org/abs/2501.14314v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.14314v1",
+        "title": "Graph Feedback Bandits on Similar Arms: With and Without Graph Structures",
+        "comment": "arXiv admin note: substantial text overlap with arXiv:2405.11171",
+        "updated_time": "2025-01-24T08:15:45+00:00",
+        "published_time": "2025-01-24T08:15:45+00:00"
+    },
+    "http://arxiv.org/abs/2501.14311v1": {
+        "entry_id": "http://arxiv.org/abs/2501.14311v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.14311v1",
+        "title": "An Efficient Real Time DDoS Detection Model Using Machine Learning Algorithms",
+        "comment": "7 pages, 14 figures",
+        "updated_time": "2025-01-24T08:11:57+00:00",
+        "published_time": "2025-01-24T08:11:57+00:00"
+    },
+    "http://arxiv.org/abs/2501.14271v1": {
+        "entry_id": "http://arxiv.org/abs/2501.14271v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.14271v1",
+        "title": "TLXML: Task-Level Explanation of Meta-Learning via Influence Functions",
+        "comment": "22 pages",
+        "updated_time": "2025-01-24T06:31:48+00:00",
+        "published_time": "2025-01-24T06:31:48+00:00"
+    },
     "http://arxiv.org/abs/2501.13776v1": {
         "entry_id": "http://arxiv.org/abs/2501.13776v1",
         "pdf_url": "http://arxiv.org/pdf/2501.13776v1",
