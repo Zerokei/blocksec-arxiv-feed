@@ -1,4 +1,108 @@
 {
+    "http://arxiv.org/abs/2501.16254v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16254v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16254v1",
+        "title": "Multi-Agent Geospatial Copilots for Remote Sensing Workflows",
+        "comment": null,
+        "updated_time": "2025-01-27T17:54:31+00:00",
+        "published_time": "2025-01-27T17:54:31+00:00"
+    },
+    "http://arxiv.org/abs/2501.16155v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16155v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16155v1",
+        "title": "CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge",
+        "comment": "13 tables, 12 figures. Under Review",
+        "updated_time": "2025-01-27T15:49:24+00:00",
+        "published_time": "2025-01-27T15:49:24+00:00"
+    },
+    "http://arxiv.org/abs/2501.16153v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16153v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16153v1",
+        "title": "MILP initialization for solving parabolic PDEs with PINNs",
+        "comment": null,
+        "updated_time": "2025-01-27T15:46:38+00:00",
+        "published_time": "2025-01-27T15:46:38+00:00"
+    },
+    "http://arxiv.org/abs/2501.16044v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16044v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16044v1",
+        "title": "MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation",
+        "comment": null,
+        "updated_time": "2025-01-27T13:37:43+00:00",
+        "published_time": "2025-01-27T13:37:43+00:00"
+    },
+    "http://arxiv.org/abs/2501.16002v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16002v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16002v1",
+        "title": "ScaDyG:A New Paradigm for Large-scale Dynamic Graph Learning",
+        "comment": null,
+        "updated_time": "2025-01-27T12:39:16+00:00",
+        "published_time": "2025-01-27T12:39:16+00:00"
+    },
+    "http://arxiv.org/abs/2501.15949v1": {
+        "entry_id": "http://arxiv.org/abs/2501.15949v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.15949v1",
+        "title": "Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data",
+        "comment": null,
+        "updated_time": "2025-01-27T10:55:22+00:00",
+        "published_time": "2025-01-27T10:55:22+00:00"
+    },
+    "http://arxiv.org/abs/2501.15942v1": {
+        "entry_id": "http://arxiv.org/abs/2501.15942v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.15942v1",
+        "title": "TimeHF: Billion-Scale Time Series Models Guided by Human Feedback",
+        "comment": null,
+        "updated_time": "2025-01-27T10:40:38+00:00",
+        "published_time": "2025-01-27T10:40:38+00:00"
+    },
+    "http://arxiv.org/abs/2501.15578v1": {
+        "entry_id": "http://arxiv.org/abs/2501.15578v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.15578v1",
+        "title": "A Complexity-Informed Approach to Optimise Cyber Defences",
+        "comment": null,
+        "updated_time": "2025-01-26T16:04:13+00:00",
+        "published_time": "2025-01-26T16:04:13+00:00"
+    },
+    "http://arxiv.org/abs/2501.15459v1": {
+        "entry_id": "http://arxiv.org/abs/2501.15459v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.15459v1",
+        "title": "FiberPool: Leveraging Multiple Blockchains for Decentralized Pooled Mining",
+        "comment": null,
+        "updated_time": "2025-01-26T09:08:03+00:00",
+        "published_time": "2025-01-26T09:08:03+00:00"
+    },
+    "http://arxiv.org/abs/2501.15361v1": {
+        "entry_id": "http://arxiv.org/abs/2501.15361v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.15361v1",
+        "title": "Decentralized Low-Rank Fine-Tuning of Large Language Models",
+        "comment": null,
+        "updated_time": "2025-01-26T01:56:25+00:00",
+        "published_time": "2025-01-26T01:56:25+00:00"
+    },
+    "http://arxiv.org/abs/2501.15288v1": {
+        "entry_id": "http://arxiv.org/abs/2501.15288v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.15288v1",
+        "title": "A Two-Stage CAE-Based Federated Learning Framework for Efficient Jamming Detection in 5G Networks",
+        "comment": "6 pages, 5 figures, Accepted to IEEE International Conference on\n  Communications (ICC) 2025",
+        "updated_time": "2025-01-25T17:57:45+00:00",
+        "published_time": "2025-01-25T17:57:45+00:00"
+    },
+    "http://arxiv.org/abs/2501.15125v1": {
+        "entry_id": "http://arxiv.org/abs/2501.15125v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.15125v1",
+        "title": "FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts",
+        "comment": "International Conference on Artificial Intelligence and Statistics\n  2025",
+        "updated_time": "2025-01-25T08:25:52+00:00",
+        "published_time": "2025-01-25T08:25:52+00:00"
+    },
+    "http://arxiv.org/abs/2501.15005v1": {
+        "entry_id": "http://arxiv.org/abs/2501.15005v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.15005v1",
+        "title": "Towards Distributed Backdoor Attacks with Network Detection in Decentralized Federated Learning",
+        "comment": null,
+        "updated_time": "2025-01-25T00:47:37+00:00",
+        "published_time": "2025-01-25T00:47:37+00:00"
+    },
     "http://arxiv.org/abs/2501.14683v1": {
         "entry_id": "http://arxiv.org/abs/2501.14683v1",
         "pdf_url": "http://arxiv.org/pdf/2501.14683v1",
