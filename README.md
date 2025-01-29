@@ -1,6 +1,6 @@
 # arXiv Papers for Smart Contract
 
-Last Updated: 2025-01-29T12:48:49.832921
+Last Updated: 2025-01-29T13:10:48.281411
 
 ## Newest Papers
 
