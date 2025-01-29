@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2501.17151v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17151v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17151v1",
+        "title": "Scanning Trojaned Models Using Out-of-Distribution Samples",
+        "comment": "Accepted at the Thirty-Eighth Annual Conference on Neural Information\n  Processing Systems (NeurIPS) 2024. The code repository is available at:\n  https://github.com/rohban-lab/TRODO",
+        "updated_time": "2025-01-28T18:53:14+00:00",
+        "published_time": "2025-01-28T18:53:14+00:00"
+    },
+    "http://arxiv.org/abs/2501.17089v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17089v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17089v1",
+        "title": "CRSet: Non-Interactive Verifiable Credential Revocation with Metadata Privacy for Issuers and Everyone Else",
+        "comment": "Preprint",
+        "updated_time": "2025-01-28T17:23:45+00:00",
+        "published_time": "2025-01-28T17:23:45+00:00"
+    },
+    "http://arxiv.org/abs/2501.17028v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17028v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17028v1",
+        "title": "Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications",
+        "comment": "Accepted at CAIN (International Conference of AI Engineering) 2025",
+        "updated_time": "2025-01-28T15:49:51+00:00",
+        "published_time": "2025-01-28T15:49:51+00:00"
+    },
+    "http://arxiv.org/abs/2501.17026v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17026v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17026v1",
+        "title": "Mitigating Omitted Variable Bias in Empirical Software Engineering",
+        "comment": null,
+        "updated_time": "2025-01-28T15:43:46+00:00",
+        "published_time": "2025-01-28T15:43:46+00:00"
+    },
+    "http://arxiv.org/abs/2501.16998v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16998v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16998v1",
+        "title": "Large Language Models for Code Generation: The Practitioners Perspective",
+        "comment": "20 pages, 4 figures, 2 table",
+        "updated_time": "2025-01-28T14:52:16+00:00",
+        "published_time": "2025-01-28T14:52:16+00:00"
+    },
+    "http://arxiv.org/abs/2501.16912v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16912v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16912v1",
+        "title": "A Unified Evaluation Framework for Epistemic Predictions",
+        "comment": "Proceedings of the 28th International Conference on Artificial\n  Intelligence and Statistics (AISTATS) 2025, Mai Khao, Thailand. PMLR: Volume\n  258. Copyright 2025 by the author(s)",
+        "updated_time": "2025-01-28T12:59:29+00:00",
+        "published_time": "2025-01-28T12:59:29+00:00"
+    },
+    "http://arxiv.org/abs/2501.16843v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16843v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16843v1",
+        "title": "Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems",
+        "comment": "13 pages, 13 figures",
+        "updated_time": "2025-01-28T10:33:30+00:00",
+        "published_time": "2025-01-28T10:33:30+00:00"
+    },
+    "http://arxiv.org/abs/2501.16831v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16831v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16831v1",
+        "title": "Data-Driven vs Traditional Approaches to Power Transformer's Top-Oil Temperature Estimation",
+        "comment": null,
+        "updated_time": "2025-01-28T10:21:49+00:00",
+        "published_time": "2025-01-28T10:21:49+00:00"
+    },
+    "http://arxiv.org/abs/2501.16825v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16825v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16825v1",
+        "title": "Can Transformers Learn Full Bayesian Inference in Context?",
+        "comment": null,
+        "updated_time": "2025-01-28T10:04:53+00:00",
+        "published_time": "2025-01-28T10:04:53+00:00"
+    },
+    "http://arxiv.org/abs/2501.16756v1": {
+        "entry_id": "http://arxiv.org/abs/2501.16756v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.16756v1",
+        "title": "Random Forest Calibration",
+        "comment": null,
+        "updated_time": "2025-01-28T07:22:27+00:00",
+        "published_time": "2025-01-28T07:22:27+00:00"
+    },
     "http://arxiv.org/abs/2501.16254v1": {
         "entry_id": "http://arxiv.org/abs/2501.16254v1",
         "pdf_url": "http://arxiv.org/pdf/2501.16254v1",
