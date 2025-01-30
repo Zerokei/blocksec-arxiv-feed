@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2501.17827v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17827v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17827v1",
+        "title": "Langevin Soft Actor-Critic: Efficient Exploration through Uncertainty-Driven Critic Learning",
+        "comment": "Published in The Thirteenth International Conference on Learning\n  Representations (ICLR) 2025. The first two authors contributed equally",
+        "updated_time": "2025-01-29T18:18:00+00:00",
+        "published_time": "2025-01-29T18:18:00+00:00"
+    },
+    "http://arxiv.org/abs/2501.17786v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17786v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17786v1",
+        "title": "Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems",
+        "comment": null,
+        "updated_time": "2025-01-29T17:25:53+00:00",
+        "published_time": "2025-01-29T17:25:53+00:00"
+    },
+    "http://arxiv.org/abs/2501.17782v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17782v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17782v1",
+        "title": "Picard-KKT-hPINN: Enforcing Nonlinear Enthalpy Balances for Physically Consistent Neural Networks",
+        "comment": null,
+        "updated_time": "2025-01-29T17:15:45+00:00",
+        "published_time": "2025-01-29T17:15:45+00:00"
+    },
+    "http://arxiv.org/abs/2501.17750v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17750v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17750v1",
+        "title": "Privacy Audit as Bits Transmission: (Im)possibilities for Audit by One Run",
+        "comment": null,
+        "updated_time": "2025-01-29T16:38:51+00:00",
+        "published_time": "2025-01-29T16:38:51+00:00"
+    },
+    "http://arxiv.org/abs/2501.17733v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17733v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17733v1",
+        "title": "BitMLx: Secure Cross-chain Smart Contracts For Bitcoin-style Cryptocurrencies",
+        "comment": null,
+        "updated_time": "2025-01-29T16:16:37+00:00",
+        "published_time": "2025-01-29T16:16:37+00:00"
+    },
+    "http://arxiv.org/abs/2501.17676v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17676v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17676v1",
+        "title": "Explainable Artificial Intelligence for identifying profitability predictors in Financial Statements",
+        "comment": "Short paper presented at Workshop on \"Ai in Finance\" at European\n  Conference on Artificial Intelligence",
+        "updated_time": "2025-01-29T14:33:23+00:00",
+        "published_time": "2025-01-29T14:33:23+00:00"
+    },
+    "http://arxiv.org/abs/2501.17461v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17461v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17461v1",
+        "title": "AugmenTest: Enhancing Tests with LLM-Driven Oracles",
+        "comment": "Accepted for publication at 2025 IEEE Conference on Software Testing,\n  Verification and Validation (ICST)",
+        "updated_time": "2025-01-29T07:45:41+00:00",
+        "published_time": "2025-01-29T07:45:41+00:00"
+    },
+    "http://arxiv.org/abs/2501.17292v1": {
+        "entry_id": "http://arxiv.org/abs/2501.17292v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.17292v1",
+        "title": "Enabling Low-Cost Secure Computing on Untrusted In-Memory Architectures",
+        "comment": "14 pages, 19 figures",
+        "updated_time": "2025-01-28T20:48:14+00:00",
+        "published_time": "2025-01-28T20:48:14+00:00"
+    },
     "http://arxiv.org/abs/2501.17151v1": {
         "entry_id": "http://arxiv.org/abs/2501.17151v1",
         "pdf_url": "http://arxiv.org/pdf/2501.17151v1",
