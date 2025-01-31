@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2501.18580v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18580v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18580v1",
+        "title": "Node Classification and Search on the Rubik's Cube Graph with GNNs",
+        "comment": null,
+        "updated_time": "2025-01-30T18:52:43+00:00",
+        "published_time": "2025-01-30T18:52:43+00:00"
+    },
+    "http://arxiv.org/abs/2501.18576v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18576v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18576v1",
+        "title": "Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH",
+        "comment": "5 pages, 1 figure, 1 table",
+        "updated_time": "2025-01-30T18:45:51+00:00",
+        "published_time": "2025-01-30T18:45:51+00:00"
+    },
+    "http://arxiv.org/abs/2501.18563v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18563v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18563v1",
+        "title": "No Equations Needed: Learning System Dynamics Without Relying on Closed-Form ODEs",
+        "comment": "To appear in the Proceedings of the Thirteenth International\n  Conference on Learning Representations (ICLR 2025)",
+        "updated_time": "2025-01-30T18:36:48+00:00",
+        "published_time": "2025-01-30T18:36:48+00:00"
+    },
+    "http://arxiv.org/abs/2501.18369v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18369v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18369v1",
+        "title": "A Cartesian Encoding Graph Neural Network for Crystal Structures Property Prediction: Application to Thermal Ellipsoid Estimation",
+        "comment": null,
+        "updated_time": "2025-01-30T14:24:03+00:00",
+        "published_time": "2025-01-30T14:24:03+00:00"
+    },
+    "http://arxiv.org/abs/2501.18327v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18327v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18327v1",
+        "title": "PyExamine A Comprehensive, UnOpinionated Smell Detection Tool for Python",
+        "comment": "Mining Software Repositories, MSR 2025",
+        "updated_time": "2025-01-30T13:14:14+00:00",
+        "published_time": "2025-01-30T13:14:14+00:00"
+    },
+    "http://arxiv.org/abs/2501.18279v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18279v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18279v1",
+        "title": "SoK: Measuring Blockchain Decentralization",
+        "comment": null,
+        "updated_time": "2025-01-30T11:37:34+00:00",
+        "published_time": "2025-01-30T11:37:34+00:00"
+    },
+    "http://arxiv.org/abs/2501.18257v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18257v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18257v1",
+        "title": "DATCloud: A Model-Driven Framework for Multi-Layered Data-Intensive Architectures",
+        "comment": null,
+        "updated_time": "2025-01-30T10:39:17+00:00",
+        "published_time": "2025-01-30T10:39:17+00:00"
+    },
     "http://arxiv.org/abs/2501.17827v1": {
         "entry_id": "http://arxiv.org/abs/2501.17827v1",
         "pdf_url": "http://arxiv.org/pdf/2501.17827v1",
