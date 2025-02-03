@@ -1,4 +1,132 @@
 {
+    "http://arxiv.org/abs/2501.19342v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19342v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19342v1",
+        "title": "Covering Multiple Objectives with a Small Set of Solutions Using Bayesian Optimization",
+        "comment": null,
+        "updated_time": "2025-01-31T17:43:30+00:00",
+        "published_time": "2025-01-31T17:43:30+00:00"
+    },
+    "http://arxiv.org/abs/2501.19300v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19300v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19300v1",
+        "title": "Offline Learning for Combinatorial Multi-armed Bandits",
+        "comment": null,
+        "updated_time": "2025-01-31T16:56:18+00:00",
+        "published_time": "2025-01-31T16:56:18+00:00"
+    },
+    "http://arxiv.org/abs/2501.19290v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19290v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19290v1",
+        "title": "Noninterference Analysis of Irreversible or Reversible Systems with Nondeterminism and Probabilities",
+        "comment": "arXiv admin note: text overlap with arXiv:2311.15670",
+        "updated_time": "2025-01-31T16:49:42+00:00",
+        "published_time": "2025-01-31T16:49:42+00:00"
+    },
+    "http://arxiv.org/abs/2501.19282v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19282v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19282v1",
+        "title": "Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators",
+        "comment": "USENIX Security 2025",
+        "updated_time": "2025-01-31T16:45:16+00:00",
+        "published_time": "2025-01-31T16:45:16+00:00"
+    },
+    "http://arxiv.org/abs/2501.19223v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19223v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19223v1",
+        "title": "Through the Looking Glass: LLM-Based Analysis of AR/VR Android Applications Privacy Policies",
+        "comment": "7 pages; appeared in ICMLA 2024",
+        "updated_time": "2025-01-31T15:30:14+00:00",
+        "published_time": "2025-01-31T15:30:14+00:00"
+    },
+    "http://arxiv.org/abs/2501.19222v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19222v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19222v1",
+        "title": "Development and Evolution of Xtext-based DSLs on GitHub: An Empirical Investigation",
+        "comment": null,
+        "updated_time": "2025-01-31T15:28:38+00:00",
+        "published_time": "2025-01-31T15:28:38+00:00"
+    },
+    "http://arxiv.org/abs/2501.19204v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19204v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19204v1",
+        "title": "Autonomous Legacy Web Application Upgrades Using a Multi-Agent System",
+        "comment": "13 pages, 2 figures",
+        "updated_time": "2025-01-31T15:14:14+00:00",
+        "published_time": "2025-01-31T15:14:14+00:00"
+    },
+    "http://arxiv.org/abs/2501.19183v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19183v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19183v1",
+        "title": "Position: Curvature Matrices Should Be Democratized via Linear Operators",
+        "comment": "8 pages, 2 figures",
+        "updated_time": "2025-01-31T14:46:30+00:00",
+        "published_time": "2025-01-31T14:46:30+00:00"
+    },
+    "http://arxiv.org/abs/2501.19120v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19120v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19120v1",
+        "title": "Hierarchical Cryptographic Signature Mapping for Ransomware Classification: A Structural Decomposition Approach",
+        "comment": null,
+        "updated_time": "2025-01-31T13:23:51+00:00",
+        "published_time": "2025-01-31T13:23:51+00:00"
+    },
+    "http://arxiv.org/abs/2501.19107v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19107v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19107v1",
+        "title": "Brain-inspired sparse training enables Transformers and LLMs to perform as fully connected",
+        "comment": null,
+        "updated_time": "2025-01-31T13:04:37+00:00",
+        "published_time": "2025-01-31T13:04:37+00:00"
+    },
+    "http://arxiv.org/abs/2501.19102v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19102v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19102v1",
+        "title": "Reinforcement Learning on Reconfigurable Hardware: Overcoming Material Variability in Laser Material Processing",
+        "comment": "Accepted for the 2025 IEEE International Conference on Robotics and\n  Automation (ICRA), May 19-23, 2025, Atlanta, USA",
+        "updated_time": "2025-01-31T12:51:55+00:00",
+        "published_time": "2025-01-31T12:51:55+00:00"
+    },
+    "http://arxiv.org/abs/2501.19050v1": {
+        "entry_id": "http://arxiv.org/abs/2501.19050v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.19050v1",
+        "title": "Norm-Bounded Low-Rank Adaptation",
+        "comment": null,
+        "updated_time": "2025-01-31T11:24:57+00:00",
+        "published_time": "2025-01-31T11:24:57+00:00"
+    },
+    "http://arxiv.org/abs/2501.18990v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18990v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18990v1",
+        "title": "Permutation-Based Rank Test in the Presence of Discretization and Application in Causal Discovery with Mixed Data",
+        "comment": null,
+        "updated_time": "2025-01-31T09:47:26+00:00",
+        "published_time": "2025-01-31T09:47:26+00:00"
+    },
+    "http://arxiv.org/abs/2501.18935v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18935v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18935v1",
+        "title": "TabFSBench: Tabular Benchmark for Feature Shifts in Open Environment",
+        "comment": null,
+        "updated_time": "2025-01-31T07:40:34+00:00",
+        "published_time": "2025-01-31T07:40:34+00:00"
+    },
+    "http://arxiv.org/abs/2501.18934v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18934v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18934v1",
+        "title": "Deep Learning Model Inversion Attacks and Defenses: A Comprehensive Survey",
+        "comment": "2 figures, 56 pages",
+        "updated_time": "2025-01-31T07:32:12+00:00",
+        "published_time": "2025-01-31T07:32:12+00:00"
+    },
+    "http://arxiv.org/abs/2501.18891v1": {
+        "entry_id": "http://arxiv.org/abs/2501.18891v1",
+        "pdf_url": "http://arxiv.org/pdf/2501.18891v1",
+        "title": "CAAT-EHR: Cross-Attentional Autoregressive Transformer for Multimodal Electronic Health Record Embeddings",
+        "comment": null,
+        "updated_time": "2025-01-31T05:00:02+00:00",
+        "published_time": "2025-01-31T05:00:02+00:00"
+    },
     "http://arxiv.org/abs/2501.18580v1": {
         "entry_id": "http://arxiv.org/abs/2501.18580v1",
         "pdf_url": "http://arxiv.org/pdf/2501.18580v1",
