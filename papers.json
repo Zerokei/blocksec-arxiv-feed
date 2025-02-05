@@ -1,4 +1,124 @@
 {
+    "http://arxiv.org/abs/2502.02542v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02542v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02542v1",
+        "title": "OVERTHINKING: Slowdown Attacks on Reasoning LLMs",
+        "comment": null,
+        "updated_time": "2025-02-04T18:12:41+00:00",
+        "published_time": "2025-02-04T18:12:41+00:00"
+    },
+    "http://arxiv.org/abs/2502.02513v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02513v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02513v1",
+        "title": "Generative Modeling on Lie Groups via Euclidean Generalized Score Matching",
+        "comment": "27 pages",
+        "updated_time": "2025-02-04T17:32:17+00:00",
+        "published_time": "2025-02-04T17:32:17+00:00"
+    },
+    "http://arxiv.org/abs/2502.02480v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02480v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02480v1",
+        "title": "Stable Port-Hamiltonian Neural Networks",
+        "comment": null,
+        "updated_time": "2025-02-04T16:57:02+00:00",
+        "published_time": "2025-02-04T16:57:02+00:00"
+    },
+    "http://arxiv.org/abs/2502.02479v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02479v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02479v1",
+        "title": "Using Random Noise Equivariantly to Boost Graph Neural Networks Universally",
+        "comment": "Under review",
+        "updated_time": "2025-02-04T16:54:28+00:00",
+        "published_time": "2025-02-04T16:54:28+00:00"
+    },
+    "http://arxiv.org/abs/2502.02448v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02448v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02448v1",
+        "title": "Sparse Data Generation Using Diffusion Models",
+        "comment": null,
+        "updated_time": "2025-02-04T16:14:28+00:00",
+        "published_time": "2025-02-04T16:14:28+00:00"
+    },
+    "http://arxiv.org/abs/2502.02414v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02414v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02414v1",
+        "title": "Transolver++: An Accurate Neural Solver for PDEs on Million-Scale Geometries",
+        "comment": null,
+        "updated_time": "2025-02-04T15:33:50+00:00",
+        "published_time": "2025-02-04T15:33:50+00:00"
+    },
+    "http://arxiv.org/abs/2502.02412v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02412v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02412v1",
+        "title": "AI-Powered, But Power-Hungry? Energy Efficiency of LLM-Generated Code",
+        "comment": null,
+        "updated_time": "2025-02-04T15:32:34+00:00",
+        "published_time": "2025-02-04T15:32:34+00:00"
+    },
+    "http://arxiv.org/abs/2502.02345v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02345v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02345v1",
+        "title": "Optimal Subspace Inference for the Laplace Approximation of Bayesian Neural Networks",
+        "comment": "for associated code, see\n  https://github.com/josh3142/LowRankLaplaceApproximation",
+        "updated_time": "2025-02-04T14:27:21+00:00",
+        "published_time": "2025-02-04T14:27:21+00:00"
+    },
+    "http://arxiv.org/abs/2502.02335v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02335v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02335v1",
+        "title": "Target Attack Backdoor Malware Analysis and Attribution",
+        "comment": "12 pages, 8 figures, 2 tables, DFRWS",
+        "updated_time": "2025-02-04T14:14:14+00:00",
+        "published_time": "2025-02-04T14:14:14+00:00"
+    },
+    "http://arxiv.org/abs/2502.02205v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02205v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02205v1",
+        "title": "From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control",
+        "comment": null,
+        "updated_time": "2025-02-04T10:42:30+00:00",
+        "published_time": "2025-02-04T10:42:30+00:00"
+    },
+    "http://arxiv.org/abs/2502.02189v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02189v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02189v1",
+        "title": "deCIFer: Crystal Structure Prediction from Powder Diffraction Data using Autoregressive Language Models",
+        "comment": "24 pages, 17 figures, 6 tables",
+        "updated_time": "2025-02-04T10:09:47+00:00",
+        "published_time": "2025-02-04T10:09:47+00:00"
+    },
+    "http://arxiv.org/abs/2502.01538v1": {
+        "entry_id": "http://arxiv.org/abs/2502.01538v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.01538v1",
+        "title": "FedGES: A Federated Learning Approach for BN Structure Learning",
+        "comment": null,
+        "updated_time": "2025-02-03T17:16:02+00:00",
+        "published_time": "2025-02-03T17:16:02+00:00"
+    },
+    "http://arxiv.org/abs/2502.01532v1": {
+        "entry_id": "http://arxiv.org/abs/2502.01532v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.01532v1",
+        "title": "Federated Learning with Discriminative Naive Bayes Classifier",
+        "comment": null,
+        "updated_time": "2025-02-03T17:12:02+00:00",
+        "published_time": "2025-02-03T17:12:02+00:00"
+    },
+    "http://arxiv.org/abs/2502.01145v1": {
+        "entry_id": "http://arxiv.org/abs/2502.01145v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.01145v1",
+        "title": "Tackling Feature and Sample Heterogeneity in Decentralized Multi-Task Learning: A Sheaf-Theoretic Approach",
+        "comment": null,
+        "updated_time": "2025-02-03T08:25:34+00:00",
+        "published_time": "2025-02-03T08:25:34+00:00"
+    },
+    "http://arxiv.org/abs/2502.00651v1": {
+        "entry_id": "http://arxiv.org/abs/2502.00651v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.00651v1",
+        "title": "Integrating Cybersecurity Frameworks into IT Security: A Comprehensive Analysis of Threat Mitigation Strategies and Adaptive Technologies",
+        "comment": "23 Pages",
+        "updated_time": "2025-02-02T03:38:48+00:00",
+        "published_time": "2025-02-02T03:38:48+00:00"
+    },
     "http://arxiv.org/abs/2501.19342v1": {
         "entry_id": "http://arxiv.org/abs/2501.19342v1",
         "pdf_url": "http://arxiv.org/pdf/2501.19342v1",
