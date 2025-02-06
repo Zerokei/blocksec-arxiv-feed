@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2502.03386v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03386v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03386v1",
+        "title": "A Structured Reasoning Framework for Unbalanced Data Classification Using Probabilistic Models",
+        "comment": null,
+        "updated_time": "2025-02-05T17:20:47+00:00",
+        "published_time": "2025-02-05T17:20:47+00:00"
+    },
+    "http://arxiv.org/abs/2502.03340v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03340v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03340v1",
+        "title": "Interaction-Aware Gaussian Weighting for Clustered Federated Learning",
+        "comment": null,
+        "updated_time": "2025-02-05T16:33:36+00:00",
+        "published_time": "2025-02-05T16:33:36+00:00"
+    },
+    "http://arxiv.org/abs/2502.03247v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03247v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03247v1",
+        "title": "Thetacrypt: A Distributed Service for Threshold Cryptography",
+        "comment": null,
+        "updated_time": "2025-02-05T15:03:59+00:00",
+        "published_time": "2025-02-05T15:03:59+00:00"
+    },
+    "http://arxiv.org/abs/2502.03227v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03227v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03227v1",
+        "title": "Adversarial Dependence Minimization",
+        "comment": null,
+        "updated_time": "2025-02-05T14:43:40+00:00",
+        "published_time": "2025-02-05T14:43:40+00:00"
+    },
+    "http://arxiv.org/abs/2502.03201v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03201v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03201v1",
+        "title": "SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels",
+        "comment": null,
+        "updated_time": "2025-02-05T14:21:03+00:00",
+        "published_time": "2025-02-05T14:21:03+00:00"
+    },
+    "http://arxiv.org/abs/2502.03029v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03029v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03029v1",
+        "title": "On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation",
+        "comment": "43 pages, 5 tables, 6 figures",
+        "updated_time": "2025-02-05T09:31:27+00:00",
+        "published_time": "2025-02-05T09:31:27+00:00"
+    },
+    "http://arxiv.org/abs/2502.02827v1": {
+        "entry_id": "http://arxiv.org/abs/2502.02827v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.02827v1",
+        "title": "COFFE: A Code Efficiency Benchmark for Code Generation",
+        "comment": "This paper has been accepted by FSE 2025",
+        "updated_time": "2025-02-05T02:08:51+00:00",
+        "published_time": "2025-02-05T02:08:51+00:00"
+    },
     "http://arxiv.org/abs/2502.02542v1": {
         "entry_id": "http://arxiv.org/abs/2502.02542v1",
         "pdf_url": "http://arxiv.org/pdf/2502.02542v1",
