@@ -1,4 +1,148 @@
 {
+    "http://arxiv.org/abs/2502.04310v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04310v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04310v1",
+        "title": "Finding Pegasus: Enhancing Unsupervised Anomaly Detection in High-Dimensional Data using a Manifold-Based Approach",
+        "comment": "21 pages, 14 figures",
+        "updated_time": "2025-02-06T18:53:30+00:00",
+        "published_time": "2025-02-06T18:53:30+00:00"
+    },
+    "http://arxiv.org/abs/2502.04224v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04224v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04224v1",
+        "title": "Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks",
+        "comment": "Accepted by ICLR 2025",
+        "updated_time": "2025-02-06T17:07:52+00:00",
+        "published_time": "2025-02-06T17:07:52+00:00"
+    },
+    "http://arxiv.org/abs/2502.04202v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04202v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04202v1",
+        "title": "GUIWatcher: Automatically Detecting GUI Lags by Analyzing Mobile Application Screencasts",
+        "comment": "ICSE-SEIP 2025",
+        "updated_time": "2025-02-06T16:43:51+00:00",
+        "published_time": "2025-02-06T16:43:51+00:00"
+    },
+    "http://arxiv.org/abs/2502.04200v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04200v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04200v1",
+        "title": "Characterizing Bugs in Login Processes of Android Applications: An Empirical Study",
+        "comment": null,
+        "updated_time": "2025-02-06T16:43:16+00:00",
+        "published_time": "2025-02-06T16:43:16+00:00"
+    },
+    "http://arxiv.org/abs/2502.04147v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04147v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04147v1",
+        "title": "SPRINT: An Assistant for Issue Report Management",
+        "comment": null,
+        "updated_time": "2025-02-06T15:29:35+00:00",
+        "published_time": "2025-02-06T15:29:35+00:00"
+    },
+    "http://arxiv.org/abs/2502.04131v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04131v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04131v1",
+        "title": "On the importance of structural identifiability for machine learning with partially observed dynamical systems",
+        "comment": "15 pages, 18 figures",
+        "updated_time": "2025-02-06T15:06:52+00:00",
+        "published_time": "2025-02-06T15:06:52+00:00"
+    },
+    "http://arxiv.org/abs/2502.04057v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04057v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04057v1",
+        "title": "Smart IoT Security: Lightweight Machine Learning Techniques for Multi-Class Attack Detection in IoT Networks",
+        "comment": "Accepted in an international conference",
+        "updated_time": "2025-02-06T13:17:03+00:00",
+        "published_time": "2025-02-06T13:17:03+00:00"
+    },
+    "http://arxiv.org/abs/2502.04054v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04054v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04054v1",
+        "title": "Precision Agriculture Revolution: Integrating Digital Twins and Advanced Crop Recommendation for Optimal Yield",
+        "comment": null,
+        "updated_time": "2025-02-06T13:12:25+00:00",
+        "published_time": "2025-02-06T13:12:25+00:00"
+    },
+    "http://arxiv.org/abs/2502.04018v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04018v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04018v1",
+        "title": "PINT: Physics-Informed Neural Time Series Models with Applications to Long-term Inference on WeatherBench 2m-Temperature Data",
+        "comment": null,
+        "updated_time": "2025-02-06T12:19:34+00:00",
+        "published_time": "2025-02-06T12:19:34+00:00"
+    },
+    "http://arxiv.org/abs/2501.18279v2": {
+        "entry_id": "http://arxiv.org/abs/2501.18279v2",
+        "pdf_url": "http://arxiv.org/pdf/2501.18279v2",
+        "title": "SoK: Measuring Blockchain Decentralization",
+        "comment": null,
+        "updated_time": "2025-02-06T11:47:10+00:00",
+        "published_time": "2025-01-30T11:37:34+00:00"
+    },
+    "http://arxiv.org/abs/2502.03988v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03988v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03988v1",
+        "title": "Tight Bounds on Jensen's Gap: Novel Approach with Applications in Generative Modeling",
+        "comment": null,
+        "updated_time": "2025-02-06T11:44:31+00:00",
+        "published_time": "2025-02-06T11:44:31+00:00"
+    },
+    "http://arxiv.org/abs/2502.03975v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03975v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03975v1",
+        "title": "SBOM Challenges for Developers: From Analysis of Stack Overflow Questions",
+        "comment": "4 pages, 4 figures",
+        "updated_time": "2025-02-06T11:08:29+00:00",
+        "published_time": "2025-02-06T11:08:29+00:00"
+    },
+    "http://arxiv.org/abs/2502.03963v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03963v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03963v1",
+        "title": "AL-PINN: Active Learning-Driven Physics-Informed Neural Networks for Efficient Sample Selection in Solving Partial Differential Equations",
+        "comment": null,
+        "updated_time": "2025-02-06T10:54:28+00:00",
+        "published_time": "2025-02-06T10:54:28+00:00"
+    },
+    "http://arxiv.org/abs/2502.03938v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03938v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03938v1",
+        "title": "Unravelling Causal Genetic Biomarkers of Alzheimer's Disease via Neuron to Gene-token Backtracking in Neural Architecture: A Groundbreaking Reverse-Gene-Finder Approach",
+        "comment": null,
+        "updated_time": "2025-02-06T10:24:02+00:00",
+        "published_time": "2025-02-06T10:24:02+00:00"
+    },
+    "http://arxiv.org/abs/2502.03876v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03876v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03876v1",
+        "title": "Position: Untrained Machine Learning for Anomaly Detection",
+        "comment": "6 pages,0 figure",
+        "updated_time": "2025-02-06T08:46:59+00:00",
+        "published_time": "2025-02-06T08:46:59+00:00"
+    },
+    "http://arxiv.org/abs/2502.03787v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03787v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03787v1",
+        "title": "Iterate to Accelerate: A Unified Framework for Iterative Reasoning and Feedback Convergence",
+        "comment": null,
+        "updated_time": "2025-02-06T05:24:35+00:00",
+        "published_time": "2025-02-06T05:24:35+00:00"
+    },
+    "http://arxiv.org/abs/2502.03718v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03718v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03718v1",
+        "title": "Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks",
+        "comment": "To appear on the Usenix Security 2025",
+        "updated_time": "2025-02-06T02:11:24+00:00",
+        "published_time": "2025-02-06T02:11:24+00:00"
+    },
+    "http://arxiv.org/abs/2502.03670v1": {
+        "entry_id": "http://arxiv.org/abs/2502.03670v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.03670v1",
+        "title": "Chaos into Order: Neural Framework for Expected Value Estimation of Stochastic Partial Differential Equations",
+        "comment": null,
+        "updated_time": "2025-02-05T23:27:28+00:00",
+        "published_time": "2025-02-05T23:27:28+00:00"
+    },
     "http://arxiv.org/abs/2502.03386v1": {
         "entry_id": "http://arxiv.org/abs/2502.03386v1",
         "pdf_url": "http://arxiv.org/pdf/2502.03386v1",
