@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2502.05160v1": {
+        "entry_id": "http://arxiv.org/abs/2502.05160v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.05160v1",
+        "title": "A parameter study for LLL and BKZ with application to shortest vector problems",
+        "comment": "6 pages",
+        "updated_time": "2025-02-07T18:41:44+00:00",
+        "published_time": "2025-02-07T18:41:44+00:00"
+    },
+    "http://arxiv.org/abs/2502.05044v1": {
+        "entry_id": "http://arxiv.org/abs/2502.05044v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.05044v1",
+        "title": "Hybrid machine learning based scale bridging framework for permeability prediction of fibrous structures",
+        "comment": null,
+        "updated_time": "2025-02-07T16:09:25+00:00",
+        "published_time": "2025-02-07T16:09:25+00:00"
+    },
+    "http://arxiv.org/abs/2502.05020v1": {
+        "entry_id": "http://arxiv.org/abs/2502.05020v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.05020v1",
+        "title": "Analog and Multi-modal Manufacturing Datasets Acquired on the Future Factories Platform V2",
+        "comment": null,
+        "updated_time": "2025-02-07T15:47:27+00:00",
+        "published_time": "2025-02-07T15:47:27+00:00"
+    },
+    "http://arxiv.org/abs/2502.04973v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04973v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04973v1",
+        "title": "DE-PADA: Personalized Augmentation and Domain Adaptation for ECG Biometrics Across Physiological States",
+        "comment": null,
+        "updated_time": "2025-02-07T14:46:13+00:00",
+        "published_time": "2025-02-07T14:46:13+00:00"
+    },
+    "http://arxiv.org/abs/2502.04678v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04678v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04678v1",
+        "title": "Nearly Tight Bounds for Cross-Learning Contextual Bandits with Graphical Feedback",
+        "comment": null,
+        "updated_time": "2025-02-07T05:52:56+00:00",
+        "published_time": "2025-02-07T05:52:56+00:00"
+    },
+    "http://arxiv.org/abs/2502.04659v1": {
+        "entry_id": "http://arxiv.org/abs/2502.04659v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.04659v1",
+        "title": "$\\mathsf{CRATE}$: Cross-Rollup Atomic Transaction Execution",
+        "comment": null,
+        "updated_time": "2025-02-07T04:58:59+00:00",
+        "published_time": "2025-02-07T04:58:59+00:00"
+    },
     "http://arxiv.org/abs/2502.04310v1": {
         "entry_id": "http://arxiv.org/abs/2502.04310v1",
         "pdf_url": "http://arxiv.org/pdf/2502.04310v1",
