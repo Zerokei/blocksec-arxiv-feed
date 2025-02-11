@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2502.06752v1": {
+        "entry_id": "http://arxiv.org/abs/2502.06752v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.06752v1",
+        "title": "Blockchain-Powered Asset Tokenization Platform",
+        "comment": "6 pages",
+        "updated_time": "2025-02-10T18:28:21+00:00",
+        "published_time": "2025-02-10T18:28:21+00:00"
+    },
+    "http://arxiv.org/abs/2502.06657v1": {
+        "entry_id": "http://arxiv.org/abs/2502.06657v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.06657v1",
+        "title": "Onion Routing Key Distribution for QKDN",
+        "comment": "6 pages, 4 figures",
+        "updated_time": "2025-02-10T16:47:42+00:00",
+        "published_time": "2025-02-10T16:47:42+00:00"
+    },
+    "http://arxiv.org/abs/2502.06651v1": {
+        "entry_id": "http://arxiv.org/abs/2502.06651v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.06651v1",
+        "title": "Differentially Private Empirical Cumulative Distribution Functions",
+        "comment": null,
+        "updated_time": "2025-02-10T16:41:49+00:00",
+        "published_time": "2025-02-10T16:41:49+00:00"
+    },
+    "http://arxiv.org/abs/2502.06555v1": {
+        "entry_id": "http://arxiv.org/abs/2502.06555v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.06555v1",
+        "title": "Is API Access to LLMs Useful for Generating Private Synthetic Tabular Data?",
+        "comment": null,
+        "updated_time": "2025-02-10T15:23:52+00:00",
+        "published_time": "2025-02-10T15:23:52+00:00"
+    },
+    "http://arxiv.org/abs/2502.06549v1": {
+        "entry_id": "http://arxiv.org/abs/2502.06549v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.06549v1",
+        "title": "How Does Users' App Knowledge Influence the Preferred Level of Detail and Format of Software Explanations?",
+        "comment": "This paper has been accepted at the research track of the 31st\n  International Working Conference on Requirements Engineering: Foundation for\n  Software Quality (REFSQ 2025)",
+        "updated_time": "2025-02-10T15:18:04+00:00",
+        "published_time": "2025-02-10T15:18:04+00:00"
+    },
+    "http://arxiv.org/abs/2502.06493v1": {
+        "entry_id": "http://arxiv.org/abs/2502.06493v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.06493v1",
+        "title": "EdgeMLBalancer: A Self-Adaptive Approach for Dynamic Model Switching on Resource-Constrained Edge Devices",
+        "comment": null,
+        "updated_time": "2025-02-10T14:11:29+00:00",
+        "published_time": "2025-02-10T14:11:29+00:00"
+    },
+    "http://arxiv.org/abs/2502.06401v1": {
+        "entry_id": "http://arxiv.org/abs/2502.06401v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.06401v1",
+        "title": "Habitizing Diffusion Planning for Efficient and Effective Decision Making",
+        "comment": null,
+        "updated_time": "2025-02-10T12:40:32+00:00",
+        "published_time": "2025-02-10T12:40:32+00:00"
+    },
+    "http://arxiv.org/abs/2502.06099v1": {
+        "entry_id": "http://arxiv.org/abs/2502.06099v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.06099v1",
+        "title": "Fine-Tuning Federated Learning-Based Intrusion Detection Systems for Transportation IoT",
+        "comment": "7 pages, 4 figures. To be published in IEEE SouthEastCon 2025",
+        "updated_time": "2025-02-10T02:12:05+00:00",
+        "published_time": "2025-02-10T02:12:05+00:00"
+    },
+    "http://arxiv.org/abs/2502.05634v1": {
+        "entry_id": "http://arxiv.org/abs/2502.05634v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.05634v1",
+        "title": "ML DevOps Adoption in Practice: A Mixed-Method Study of Implementation Patterns and Organizational Benefits",
+        "comment": "10 Pages,2 Tables",
+        "updated_time": "2025-02-08T16:37:24+00:00",
+        "published_time": "2025-02-08T16:37:24+00:00"
+    },
+    "http://arxiv.org/abs/2502.05321v1": {
+        "entry_id": "http://arxiv.org/abs/2502.05321v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.05321v1",
+        "title": "Using Federated Machine Learning in Predictive Maintenance of Jet Engines",
+        "comment": null,
+        "updated_time": "2025-02-07T20:41:36+00:00",
+        "published_time": "2025-02-07T20:41:36+00:00"
+    },
+    "http://arxiv.org/abs/2502.05273v1": {
+        "entry_id": "http://arxiv.org/abs/2502.05273v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.05273v1",
+        "title": "Principles and Components of Federated Learning Architectures",
+        "comment": null,
+        "updated_time": "2025-02-07T19:09:03+00:00",
+        "published_time": "2025-02-07T19:09:03+00:00"
+    },
     "http://arxiv.org/abs/2502.05160v1": {
         "entry_id": "http://arxiv.org/abs/2502.05160v1",
         "pdf_url": "http://arxiv.org/pdf/2502.05160v1",
