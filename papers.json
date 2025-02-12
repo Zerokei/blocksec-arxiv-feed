@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2502.07719v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07719v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07719v1",
+        "title": "OpenCat: Improving Interoperability of ADS Testing",
+        "comment": "2025 IEEE/ACM International Workshop on Deep Learning for Testing and\n  Testing for Deep Learning (DeepTest)",
+        "updated_time": "2025-02-11T17:23:52+00:00",
+        "published_time": "2025-02-11T17:23:52+00:00"
+    },
+    "http://arxiv.org/abs/2502.07715v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07715v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07715v1",
+        "title": "Near-Optimal Sample Complexity in Reward-Free Kernel-Based Reinforcement Learning",
+        "comment": "Accepted at AISTATS 2025",
+        "updated_time": "2025-02-11T17:15:55+00:00",
+        "published_time": "2025-02-11T17:15:55+00:00"
+    },
+    "http://arxiv.org/abs/2502.07712v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07712v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07712v1",
+        "title": "Mock Deep Testing: Toward Separate Development of Data and Models for Deep Learning",
+        "comment": "Accepted for publication in the proceedings of the 47th International\n  Conference on Software Engineering (ICSE 2025)",
+        "updated_time": "2025-02-11T17:11:11+00:00",
+        "published_time": "2025-02-11T17:11:11+00:00"
+    },
+    "http://arxiv.org/abs/2502.07500v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07500v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07500v1",
+        "title": "Unified Graph Networks (UGN): A Deep Neural Framework for Solving Graph Problems",
+        "comment": null,
+        "updated_time": "2025-02-11T12:03:18+00:00",
+        "published_time": "2025-02-11T12:03:18+00:00"
+    },
+    "http://arxiv.org/abs/2502.07498v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07498v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07498v1",
+        "title": "Decentralized Entropy-Driven Ransomware Detection Using Autonomous Neural Graph Embeddings",
+        "comment": null,
+        "updated_time": "2025-02-11T11:59:10+00:00",
+        "published_time": "2025-02-11T11:59:10+00:00"
+    },
+    "http://arxiv.org/abs/2502.07425v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07425v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07425v1",
+        "title": "Towards a Foundation Model for Physics-Informed Neural Networks: Multi-PDE Learning with Active Sampling",
+        "comment": null,
+        "updated_time": "2025-02-11T10:12:28+00:00",
+        "published_time": "2025-02-11T10:12:28+00:00"
+    },
+    "http://arxiv.org/abs/2502.07414v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07414v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07414v1",
+        "title": "Sample Weight Averaging for Stable Prediction",
+        "comment": null,
+        "updated_time": "2025-02-11T09:51:22+00:00",
+        "published_time": "2025-02-11T09:51:22+00:00"
+    },
+    "http://arxiv.org/abs/2502.07394v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07394v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07394v1",
+        "title": "Interpretable Rules for Online Failure Prediction: A Case Study on the Metro do Porto dataset",
+        "comment": "Under submission at Information Fusion",
+        "updated_time": "2025-02-11T09:23:16+00:00",
+        "published_time": "2025-02-11T09:23:16+00:00"
+    },
+    "http://arxiv.org/abs/2502.07295v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07295v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07295v1",
+        "title": "Treatment Effect Estimation for Exponential Family Outcomes using Neural Networks with Targeted Regularization",
+        "comment": null,
+        "updated_time": "2025-02-11T06:36:20+00:00",
+        "published_time": "2025-02-11T06:36:20+00:00"
+    },
+    "http://arxiv.org/abs/2502.07231v1": {
+        "entry_id": "http://arxiv.org/abs/2502.07231v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.07231v1",
+        "title": "Revisiting the Auxiliary Data in Backdoor Purification",
+        "comment": "Preprint. Code and data are being finalized and will be released\n  incrementally",
+        "updated_time": "2025-02-11T03:46:35+00:00",
+        "published_time": "2025-02-11T03:46:35+00:00"
+    },
     "http://arxiv.org/abs/2502.06752v1": {
         "entry_id": "http://arxiv.org/abs/2502.06752v1",
         "pdf_url": "http://arxiv.org/pdf/2502.06752v1",
