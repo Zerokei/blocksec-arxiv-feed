@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2502.08600v1": {
+        "entry_id": "http://arxiv.org/abs/2502.08600v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.08600v1",
+        "title": "Two-stage hybrid models for enhancing forecasting accuracy on heterogeneous time series",
+        "comment": "14 pages, 2 figures",
+        "updated_time": "2025-02-12T17:39:02+00:00",
+        "published_time": "2025-02-12T17:39:02+00:00"
+    },
+    "http://arxiv.org/abs/2502.08467v1": {
+        "entry_id": "http://arxiv.org/abs/2502.08467v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.08467v1",
+        "title": "Dancer in the Dark: Synthesizing and Evaluating Polyglots for Blind Cross-Site Scripting",
+        "comment": "SEC '24: Proceedings of the 33rd USENIX Conference on Security\n  Symposium Article No.: 376, Pages 6723 - 6740, ISBN 978-1-939133-44-1",
+        "updated_time": "2025-02-12T15:02:30+00:00",
+        "published_time": "2025-02-12T15:02:30+00:00"
+    },
+    "http://arxiv.org/abs/2502.08447v1": {
+        "entry_id": "http://arxiv.org/abs/2502.08447v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.08447v1",
+        "title": "Deserialization Gadget Chains are not a Pathological Problem in Android:an In-Depth Study of Java Gadget Chains in AOSP",
+        "comment": null,
+        "updated_time": "2025-02-12T14:39:30+00:00",
+        "published_time": "2025-02-12T14:39:30+00:00"
+    },
+    "http://arxiv.org/abs/2502.08231v1": {
+        "entry_id": "http://arxiv.org/abs/2502.08231v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.08231v1",
+        "title": "Keep your distance: learning dispersed embeddings on $\\mathbb{S}_d$",
+        "comment": null,
+        "updated_time": "2025-02-12T09:20:08+00:00",
+        "published_time": "2025-02-12T09:20:08+00:00"
+    },
     "http://arxiv.org/abs/2502.07719v1": {
         "entry_id": "http://arxiv.org/abs/2502.07719v1",
         "pdf_url": "http://arxiv.org/pdf/2502.07719v1",
