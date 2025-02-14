@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2502.09535v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09535v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09535v1",
+        "title": "Entropy Collapse in Mobile Sensors: The Hidden Risks of Sensor-Based Security",
+        "comment": null,
+        "updated_time": "2025-02-13T17:50:58+00:00",
+        "published_time": "2025-02-13T17:50:58+00:00"
+    },
+    "http://arxiv.org/abs/2502.09385v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09385v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09385v1",
+        "title": "APT-LLM: Embedding-Based Anomaly Detection of Cyber Advanced Persistent Threats Using Large Language Models",
+        "comment": null,
+        "updated_time": "2025-02-13T15:01:18+00:00",
+        "published_time": "2025-02-13T15:01:18+00:00"
+    },
+    "http://arxiv.org/abs/2502.09374v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09374v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09374v1",
+        "title": "Mitigating multiple single-event upsets during deep neural network inference using fault-aware training",
+        "comment": "7 pages, 4 figures, Topical Workshop on Electronics for Particle\n  Physics",
+        "updated_time": "2025-02-13T14:43:22+00:00",
+        "published_time": "2025-02-13T14:43:22+00:00"
+    },
+    "http://arxiv.org/abs/2502.09340v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09340v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09340v1",
+        "title": "This looks like what? Challenges and Future Research Directions for Part-Prototype Models",
+        "comment": null,
+        "updated_time": "2025-02-13T14:00:55+00:00",
+        "published_time": "2025-02-13T14:00:55+00:00"
+    },
+    "http://arxiv.org/abs/2502.09318v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09318v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09318v1",
+        "title": "SigGate: Enhancing Recurrent Neural Networks with Signature-Based Gating Mechanisms",
+        "comment": null,
+        "updated_time": "2025-02-13T13:33:35+00:00",
+        "published_time": "2025-02-13T13:33:35+00:00"
+    },
+    "http://arxiv.org/abs/2502.09201v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09201v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09201v1",
+        "title": "Commitment Schemes from OWFs with Applications to qOT",
+        "comment": null,
+        "updated_time": "2025-02-13T11:39:58+00:00",
+        "published_time": "2025-02-13T11:39:58+00:00"
+    },
+    "http://arxiv.org/abs/2502.09198v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09198v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09198v1",
+        "title": "Understanding High-Dimensional Bayesian Optimization",
+        "comment": "19 pages, 20 figures",
+        "updated_time": "2025-02-13T11:37:55+00:00",
+        "published_time": "2025-02-13T11:37:55+00:00"
+    },
+    "http://arxiv.org/abs/2502.08882v1": {
+        "entry_id": "http://arxiv.org/abs/2502.08882v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.08882v1",
+        "title": "2D Integrated Bayesian Tomography of Plasma Electron Density Profile for HL-3 Based on Gaussian Process",
+        "comment": null,
+        "updated_time": "2025-02-13T01:43:14+00:00",
+        "published_time": "2025-02-13T01:43:14+00:00"
+    },
     "http://arxiv.org/abs/2502.08600v1": {
         "entry_id": "http://arxiv.org/abs/2502.08600v1",
         "pdf_url": "http://arxiv.org/pdf/2502.08600v1",
