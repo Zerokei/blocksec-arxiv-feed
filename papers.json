@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2502.10330v1": {
+        "entry_id": "http://arxiv.org/abs/2502.10330v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.10330v1",
+        "title": "DiOpt: Self-supervised Diffusion for Constrained Optimization",
+        "comment": null,
+        "updated_time": "2025-02-14T17:43:08+00:00",
+        "published_time": "2025-02-14T17:43:08+00:00"
+    },
+    "http://arxiv.org/abs/2502.10205v1": {
+        "entry_id": "http://arxiv.org/abs/2502.10205v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.10205v1",
+        "title": "Looking around you: external information enhances representations for event sequences",
+        "comment": null,
+        "updated_time": "2025-02-14T14:59:37+00:00",
+        "published_time": "2025-02-14T14:59:37+00:00"
+    },
+    "http://arxiv.org/abs/2502.10119v1": {
+        "entry_id": "http://arxiv.org/abs/2502.10119v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.10119v1",
+        "title": "SeWA: Selective Weight Average via Probabilistic Masking",
+        "comment": null,
+        "updated_time": "2025-02-14T12:35:21+00:00",
+        "published_time": "2025-02-14T12:35:21+00:00"
+    },
+    "http://arxiv.org/abs/2502.09926v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09926v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09926v1",
+        "title": "Robust Anomaly Detection via Tensor Chidori Pseudoskeleton Decomposition",
+        "comment": null,
+        "updated_time": "2025-02-14T05:34:57+00:00",
+        "published_time": "2025-02-14T05:34:57+00:00"
+    },
+    "http://arxiv.org/abs/2502.09833v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09833v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09833v1",
+        "title": "Decentralized Entropy-Based Ransomware Detection Using Autonomous Feature Resonance",
+        "comment": null,
+        "updated_time": "2025-02-14T00:26:10+00:00",
+        "published_time": "2025-02-14T00:26:10+00:00"
+    },
+    "http://arxiv.org/abs/2502.09744v1": {
+        "entry_id": "http://arxiv.org/abs/2502.09744v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.09744v1",
+        "title": "Fine-Tuning Foundation Models with Federated Learning for Privacy Preserving Medical Time Series Forecasting",
+        "comment": "submitted to IEEE EMBC 2025; 7 pages, 4 figures",
+        "updated_time": "2025-02-13T20:01:15+00:00",
+        "published_time": "2025-02-13T20:01:15+00:00"
+    },
     "http://arxiv.org/abs/2502.09535v1": {
         "entry_id": "http://arxiv.org/abs/2502.09535v1",
         "pdf_url": "http://arxiv.org/pdf/2502.09535v1",
