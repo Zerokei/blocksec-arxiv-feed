@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2502.12033v1": {
+        "entry_id": "http://arxiv.org/abs/2502.12033v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.12033v1",
+        "title": "The geometry of BERT",
+        "comment": "28 pages, 13 figures",
+        "updated_time": "2025-02-17T17:03:12+00:00",
+        "published_time": "2025-02-17T17:03:12+00:00"
+    },
+    "http://arxiv.org/abs/2502.11927v1": {
+        "entry_id": "http://arxiv.org/abs/2502.11927v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.11927v1",
+        "title": "Continual Learning Should Move Beyond Incremental Classification",
+        "comment": null,
+        "updated_time": "2025-02-17T15:40:13+00:00",
+        "published_time": "2025-02-17T15:40:13+00:00"
+    },
+    "http://arxiv.org/abs/2502.11836v1": {
+        "entry_id": "http://arxiv.org/abs/2502.11836v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.11836v1",
+        "title": "Model Generalization on Text Attribute Graphs: Principles with Large Language Models",
+        "comment": null,
+        "updated_time": "2025-02-17T14:31:00+00:00",
+        "published_time": "2025-02-17T14:31:00+00:00"
+    },
+    "http://arxiv.org/abs/2502.11616v1": {
+        "entry_id": "http://arxiv.org/abs/2502.11616v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.11616v1",
+        "title": "User-Centric Data Management in Decentralized Internet of Behaviors System",
+        "comment": null,
+        "updated_time": "2025-02-17T09:59:25+00:00",
+        "published_time": "2025-02-17T09:59:25+00:00"
+    },
+    "http://arxiv.org/abs/2502.11260v1": {
+        "entry_id": "http://arxiv.org/abs/2502.11260v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.11260v1",
+        "title": "Scalable Multi-Agent Offline Reinforcement Learning and the Role of Information",
+        "comment": null,
+        "updated_time": "2025-02-16T20:28:42+00:00",
+        "published_time": "2025-02-16T20:28:42+00:00"
+    },
     "http://arxiv.org/abs/2502.10330v1": {
         "entry_id": "http://arxiv.org/abs/2502.10330v1",
         "pdf_url": "http://arxiv.org/pdf/2502.10330v1",
@@ -182,6 +222,14 @@
         "comment": null,
         "updated_time": "2025-02-11T11:59:10+00:00",
         "published_time": "2025-02-11T11:59:10+00:00"
+    },
+    "http://arxiv.org/abs/2502.10448v1": {
+        "entry_id": "http://arxiv.org/abs/2502.10448v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.10448v1",
+        "title": "Supply Chain Network Security Investment Strategies Based on Nonlinear Budget Constraints: The Moderating Roles of Market Share and Attack Risk",
+        "comment": "Under Consideration at Operations Management Research",
+        "updated_time": "2025-02-11T11:37:58+00:00",
+        "published_time": "2025-02-11T11:37:58+00:00"
     },
     "http://arxiv.org/abs/2502.07425v1": {
         "entry_id": "http://arxiv.org/abs/2502.07425v1",
