@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2502.13049v1": {
+        "entry_id": "http://arxiv.org/abs/2502.13049v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.13049v1",
+        "title": "$k$-Graph: A Graph Embedding for Interpretable Time Series Clustering",
+        "comment": null,
+        "updated_time": "2025-02-18T16:59:51+00:00",
+        "published_time": "2025-02-18T16:59:51+00:00"
+    },
+    "http://arxiv.org/abs/2502.12902v1": {
+        "entry_id": "http://arxiv.org/abs/2502.12902v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.12902v1",
+        "title": "Probabilistic neural operators for functional uncertainty quantification",
+        "comment": null,
+        "updated_time": "2025-02-18T14:42:11+00:00",
+        "published_time": "2025-02-18T14:42:11+00:00"
+    },
+    "http://arxiv.org/abs/2502.12802v1": {
+        "entry_id": "http://arxiv.org/abs/2502.12802v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.12802v1",
+        "title": "PPGF: Probability Pattern-Guided Time Series Forecasting",
+        "comment": null,
+        "updated_time": "2025-02-18T12:06:42+00:00",
+        "published_time": "2025-02-18T12:06:42+00:00"
+    },
+    "http://arxiv.org/abs/2502.12796v1": {
+        "entry_id": "http://arxiv.org/abs/2502.12796v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.12796v1",
+        "title": "Learning Counterfactually Fair Models via Improved Generation with Neural Causal Models",
+        "comment": "9 pages, 2 figures",
+        "updated_time": "2025-02-18T11:59:03+00:00",
+        "published_time": "2025-02-18T11:59:03+00:00"
+    },
     "http://arxiv.org/abs/2502.12033v1": {
         "entry_id": "http://arxiv.org/abs/2502.12033v1",
         "pdf_url": "http://arxiv.org/pdf/2502.12033v1",
