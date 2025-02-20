@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2502.13929v1": {
+        "entry_id": "http://arxiv.org/abs/2502.13929v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.13929v1",
+        "title": "Formal verification in Solidity and Move: insights from a comparative analysis",
+        "comment": null,
+        "updated_time": "2025-02-19T18:06:01+00:00",
+        "published_time": "2025-02-19T18:06:01+00:00"
+    },
+    "http://arxiv.org/abs/2502.13900v1": {
+        "entry_id": "http://arxiv.org/abs/2502.13900v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.13900v1",
+        "title": "Optimistically Optimistic Exploration for Provably Efficient Infinite-Horizon Reinforcement and Imitation Learning",
+        "comment": null,
+        "updated_time": "2025-02-19T17:32:35+00:00",
+        "published_time": "2025-02-19T17:32:35+00:00"
+    },
+    "http://arxiv.org/abs/2502.13833v1": {
+        "entry_id": "http://arxiv.org/abs/2502.13833v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.13833v1",
+        "title": "Contrastive Learning-Based privacy metrics in Tabular Synthetic Datasets",
+        "comment": null,
+        "updated_time": "2025-02-19T15:52:23+00:00",
+        "published_time": "2025-02-19T15:52:23+00:00"
+    },
+    "http://arxiv.org/abs/2502.13526v1": {
+        "entry_id": "http://arxiv.org/abs/2502.13526v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.13526v1",
+        "title": "Towards a Robust Quality Assurance Framework for Cloud Computing Environments",
+        "comment": "13 Pages",
+        "updated_time": "2025-02-19T08:29:24+00:00",
+        "published_time": "2025-02-19T08:29:24+00:00"
+    },
+    "http://arxiv.org/abs/2502.13513v1": {
+        "entry_id": "http://arxiv.org/abs/2502.13513v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.13513v1",
+        "title": "Phantom Events: Demystifying the Issues of Log Forgery in Blockchain",
+        "comment": null,
+        "updated_time": "2025-02-19T08:07:26+00:00",
+        "published_time": "2025-02-19T08:07:26+00:00"
+    },
     "http://arxiv.org/abs/2502.13049v1": {
         "entry_id": "http://arxiv.org/abs/2502.13049v1",
         "pdf_url": "http://arxiv.org/pdf/2502.13049v1",
