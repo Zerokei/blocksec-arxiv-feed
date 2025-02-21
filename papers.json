@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2502.14847v1": {
+        "entry_id": "http://arxiv.org/abs/2502.14847v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.14847v1",
+        "title": "Red-Teaming LLM Multi-Agent Systems via Communication Attacks",
+        "comment": null,
+        "updated_time": "2025-02-20T18:55:39+00:00",
+        "published_time": "2025-02-20T18:55:39+00:00"
+    },
+    "http://arxiv.org/abs/2502.14833v1": {
+        "entry_id": "http://arxiv.org/abs/2502.14833v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.14833v1",
+        "title": "Probabilistic Robustness in Deep Learning: A Concise yet Comprehensive Guide",
+        "comment": "This is a preprint of the following chapter: X. Zhao, Probabilistic\n  Robustness in Deep Learning: A Concise yet Comprehensive Guide, published in\n  the book Adversarial Example Detection and Mitigation Using Machine Learning,\n  edited by Ehsan Nowroozi, Rahim Taheri, Lucas Cordeiro, 2025, Springer\n  Nature. The final authenticated version will available online soon",
+        "updated_time": "2025-02-20T18:47:17+00:00",
+        "published_time": "2025-02-20T18:47:17+00:00"
+    },
+    "http://arxiv.org/abs/2502.14770v1": {
+        "entry_id": "http://arxiv.org/abs/2502.14770v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.14770v1",
+        "title": "Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective",
+        "comment": null,
+        "updated_time": "2025-02-20T17:51:10+00:00",
+        "published_time": "2025-02-20T17:51:10+00:00"
+    },
+    "http://arxiv.org/abs/2502.14679v1": {
+        "entry_id": "http://arxiv.org/abs/2502.14679v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.14679v1",
+        "title": "Disentangled Latent Spaces for Reduced Order Models using Deterministic Autoencoders",
+        "comment": null,
+        "updated_time": "2025-02-20T16:09:57+00:00",
+        "published_time": "2025-02-20T16:09:57+00:00"
+    },
+    "http://arxiv.org/abs/2502.14586v1": {
+        "entry_id": "http://arxiv.org/abs/2502.14586v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.14586v1",
+        "title": "Moshi Moshi? A Model Selection Hijacking Adversarial Attack",
+        "comment": null,
+        "updated_time": "2025-02-20T14:16:15+00:00",
+        "published_time": "2025-02-20T14:16:15+00:00"
+    },
+    "http://arxiv.org/abs/2502.14463v1": {
+        "entry_id": "http://arxiv.org/abs/2502.14463v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.14463v1",
+        "title": "Detecting Metadata-Related Bugs in Enterprise Applications",
+        "comment": null,
+        "updated_time": "2025-02-20T11:35:35+00:00",
+        "published_time": "2025-02-20T11:35:35+00:00"
+    },
+    "http://arxiv.org/abs/2502.14432v1": {
+        "entry_id": "http://arxiv.org/abs/2502.14432v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.14432v1",
+        "title": "Port-Hamiltonian Neural Networks with Output Error Noise Models",
+        "comment": "Preprint submitted to Automatica",
+        "updated_time": "2025-02-20T10:33:21+00:00",
+        "published_time": "2025-02-20T10:33:21+00:00"
+    },
     "http://arxiv.org/abs/2502.13929v1": {
         "entry_id": "http://arxiv.org/abs/2502.13929v1",
         "pdf_url": "http://arxiv.org/pdf/2502.13929v1",
