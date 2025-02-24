@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2502.15599v1": {
+        "entry_id": "http://arxiv.org/abs/2502.15599v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.15599v1",
+        "title": "Bugfix: a standard language, database schema and repository for research on bugs and automatic program repair",
+        "comment": null,
+        "updated_time": "2025-02-21T17:17:04+00:00",
+        "published_time": "2025-02-21T17:17:04+00:00"
+    },
+    "http://arxiv.org/abs/2502.15427v1": {
+        "entry_id": "http://arxiv.org/abs/2502.15427v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.15427v1",
+        "title": "Adversarial Prompt Evaluation: Systematic Benchmarking of Guardrails Against Prompt Input Attacks on LLMs",
+        "comment": "NeurIPS 2024, Safe Generative AI Workshop",
+        "updated_time": "2025-02-21T12:54:25+00:00",
+        "published_time": "2025-02-21T12:54:25+00:00"
+    },
+    "http://arxiv.org/abs/2502.15344v1": {
+        "entry_id": "http://arxiv.org/abs/2502.15344v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.15344v1",
+        "title": "Computation Tree Logic Guided Program Repair",
+        "comment": null,
+        "updated_time": "2025-02-21T09:59:38+00:00",
+        "published_time": "2025-02-21T09:59:38+00:00"
+    },
+    "http://arxiv.org/abs/2502.15281v1": {
+        "entry_id": "http://arxiv.org/abs/2502.15281v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.15281v1",
+        "title": "DITING: A Static Analyzer for Identifying Bad Partitioning Issues in TEE Applications",
+        "comment": null,
+        "updated_time": "2025-02-21T08:19:01+00:00",
+        "published_time": "2025-02-21T08:19:01+00:00"
+    },
+    "http://arxiv.org/abs/2502.15262v1": {
+        "entry_id": "http://arxiv.org/abs/2502.15262v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.15262v1",
+        "title": "Towards a Reward-Free Reinforcement Learning Framework for Vehicle Control",
+        "comment": null,
+        "updated_time": "2025-02-21T07:43:24+00:00",
+        "published_time": "2025-02-21T07:43:24+00:00"
+    },
     "http://arxiv.org/abs/2502.14847v1": {
         "entry_id": "http://arxiv.org/abs/2502.14847v1",
         "pdf_url": "http://arxiv.org/pdf/2502.14847v1",
