@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2502.17361v1": {
+        "entry_id": "http://arxiv.org/abs/2502.17361v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.17361v1",
+        "title": "A Closer Look at TabPFN v2: Strength, Limitation, and Extension",
+        "comment": null,
+        "updated_time": "2025-02-24T17:38:42+00:00",
+        "published_time": "2025-02-24T17:38:42+00:00"
+    },
+    "http://arxiv.org/abs/2502.17254v1": {
+        "entry_id": "http://arxiv.org/abs/2502.17254v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.17254v1",
+        "title": "REINFORCE Adversarial Attacks on Large Language Models: An Adaptive, Distributional, and Semantic Objective",
+        "comment": "30 pages, 6 figures, 15 tables",
+        "updated_time": "2025-02-24T15:34:48+00:00",
+        "published_time": "2025-02-24T15:34:48+00:00"
+    },
+    "http://arxiv.org/abs/2502.17170v1": {
+        "entry_id": "http://arxiv.org/abs/2502.17170v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.17170v1",
+        "title": "Software Engineering as a Domain to Formalize",
+        "comment": null,
+        "updated_time": "2025-02-24T14:07:01+00:00",
+        "published_time": "2025-02-24T14:07:01+00:00"
+    },
+    "http://arxiv.org/abs/2502.16955v1": {
+        "entry_id": "http://arxiv.org/abs/2502.16955v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.16955v1",
+        "title": "MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation",
+        "comment": null,
+        "updated_time": "2025-02-24T08:30:53+00:00",
+        "published_time": "2025-02-24T08:30:53+00:00"
+    },
+    "http://arxiv.org/abs/2502.16650v1": {
+        "entry_id": "http://arxiv.org/abs/2502.16650v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.16650v1",
+        "title": "Security Analysis of 5G NR Device-to-Device Sidelink Communications",
+        "comment": null,
+        "updated_time": "2025-02-23T16:55:32+00:00",
+        "published_time": "2025-02-23T16:55:32+00:00"
+    },
+    "http://arxiv.org/abs/2502.16127v1": {
+        "entry_id": "http://arxiv.org/abs/2502.16127v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.16127v1",
+        "title": "A New Era of Elections: Leveraging Blockchain for Fair and Transparent Voting",
+        "comment": null,
+        "updated_time": "2025-02-22T07:45:08+00:00",
+        "published_time": "2025-02-22T07:45:08+00:00"
+    },
+    "http://arxiv.org/abs/2502.16086v1": {
+        "entry_id": "http://arxiv.org/abs/2502.16086v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.16086v1",
+        "title": "Stealing Training Data from Large Language Models in Decentralized Training through Activation Inversion Attack",
+        "comment": "12 pages, 5 figures",
+        "updated_time": "2025-02-22T05:19:20+00:00",
+        "published_time": "2025-02-22T05:19:20+00:00"
+    },
+    "http://arxiv.org/abs/2502.16017v1": {
+        "entry_id": "http://arxiv.org/abs/2502.16017v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.16017v1",
+        "title": "An Extended Pattern Collection for Blockchain-based Applications",
+        "comment": "Accepted by Transactions on Pattern Languages of Programming\n  (https://www.springer.com/series/8677?srsltid=AfmBOoomdUEOPa-9tSOF-DDhmUxUOwk1Vfj_0dkhwjrptiERHvxb-yfX)",
+        "updated_time": "2025-02-22T00:15:30+00:00",
+        "published_time": "2025-02-22T00:15:30+00:00"
+    },
     "http://arxiv.org/abs/2502.15599v1": {
         "entry_id": "http://arxiv.org/abs/2502.15599v1",
         "pdf_url": "http://arxiv.org/pdf/2502.15599v1",
