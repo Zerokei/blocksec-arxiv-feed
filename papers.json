@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2502.19364v1": {
+        "entry_id": "http://arxiv.org/abs/2502.19364v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.19364v1",
+        "title": "Deep Learning For Time Series Analysis With Application On Human Motion",
+        "comment": null,
+        "updated_time": "2025-02-26T18:01:51+00:00",
+        "published_time": "2025-02-26T18:01:51+00:00"
+    },
+    "http://arxiv.org/abs/2502.19335v1": {
+        "entry_id": "http://arxiv.org/abs/2502.19335v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.19335v1",
+        "title": "I Know What I Don't Know: Improving Model Cascades Through Confidence Tuning",
+        "comment": null,
+        "updated_time": "2025-02-26T17:29:08+00:00",
+        "published_time": "2025-02-26T17:29:08+00:00"
+    },
+    "http://arxiv.org/abs/2502.19183v1": {
+        "entry_id": "http://arxiv.org/abs/2502.19183v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.19183v1",
+        "title": "INFO-SEDD: Continuous Time Markov Chains as Scalable Information Metrics Estimators",
+        "comment": null,
+        "updated_time": "2025-02-26T14:40:00+00:00",
+        "published_time": "2025-02-26T14:40:00+00:00"
+    },
+    "http://arxiv.org/abs/2502.19154v1": {
+        "entry_id": "http://arxiv.org/abs/2502.19154v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.19154v1",
+        "title": "Towards Privacy-Preserving Anomaly-Based Intrusion Detection in Energy Communities",
+        "comment": "Under Submission",
+        "updated_time": "2025-02-26T14:13:02+00:00",
+        "published_time": "2025-02-26T14:13:02+00:00"
+    },
+    "http://arxiv.org/abs/2502.19071v1": {
+        "entry_id": "http://arxiv.org/abs/2502.19071v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.19071v1",
+        "title": "MCLRL: A Multi-Domain Contrastive Learning with Reinforcement Learning Framework for Few-Shot Modulation Recognition",
+        "comment": null,
+        "updated_time": "2025-02-26T11:53:31+00:00",
+        "published_time": "2025-02-26T11:53:31+00:00"
+    },
+    "http://arxiv.org/abs/2502.19049v1": {
+        "entry_id": "http://arxiv.org/abs/2502.19049v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.19049v1",
+        "title": "Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation",
+        "comment": null,
+        "updated_time": "2025-02-26T11:04:02+00:00",
+        "published_time": "2025-02-26T11:04:02+00:00"
+    },
+    "http://arxiv.org/abs/2502.19032v1": {
+        "entry_id": "http://arxiv.org/abs/2502.19032v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.19032v1",
+        "title": "WakeMint: Detecting Sleepminting Vulnerabilities in NFT Smart Contracts",
+        "comment": "Accepted by SANER 2025",
+        "updated_time": "2025-02-26T10:39:46+00:00",
+        "published_time": "2025-02-26T10:39:46+00:00"
+    },
+    "http://arxiv.org/abs/2502.18960v1": {
+        "entry_id": "http://arxiv.org/abs/2502.18960v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.18960v1",
+        "title": "Nonparametric Heterogeneous Long-term Causal Effect Estimation via Data Combination",
+        "comment": null,
+        "updated_time": "2025-02-26T09:17:04+00:00",
+        "published_time": "2025-02-26T09:17:04+00:00"
+    },
+    "http://arxiv.org/abs/2502.18793v1": {
+        "entry_id": "http://arxiv.org/abs/2502.18793v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.18793v1",
+        "title": "SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation",
+        "comment": null,
+        "updated_time": "2025-02-26T03:58:31+00:00",
+        "published_time": "2025-02-26T03:58:31+00:00"
+    },
     "http://arxiv.org/abs/2502.18405v1": {
         "entry_id": "http://arxiv.org/abs/2502.18405v1",
         "pdf_url": "http://arxiv.org/pdf/2502.18405v1",
