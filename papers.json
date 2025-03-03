@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2502.21187v1": {
+        "entry_id": "http://arxiv.org/abs/2502.21187v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.21187v1",
+        "title": "SYN-LUNGS: Towards Simulating Lung Nodules with Anatomy-Informed Digital Twins for AI Training",
+        "comment": "6 figures, 12 pages",
+        "updated_time": "2025-02-28T16:02:37+00:00",
+        "published_time": "2025-02-28T16:02:37+00:00"
+    },
+    "http://arxiv.org/abs/2502.21127v1": {
+        "entry_id": "http://arxiv.org/abs/2502.21127v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.21127v1",
+        "title": "CuPID: Leveraging Masked Single-Lead ECG Modelling for Enhancing the Representations",
+        "comment": "Paper under review",
+        "updated_time": "2025-02-28T15:07:40+00:00",
+        "published_time": "2025-02-28T15:07:40+00:00"
+    },
+    "http://arxiv.org/abs/2502.21026v1": {
+        "entry_id": "http://arxiv.org/abs/2502.21026v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.21026v1",
+        "title": "Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis",
+        "comment": "Full version of paper submitted to OOPSLA '25",
+        "updated_time": "2025-02-28T13:14:58+00:00",
+        "published_time": "2025-02-28T13:14:58+00:00"
+    },
+    "http://arxiv.org/abs/2502.20954v1": {
+        "entry_id": "http://arxiv.org/abs/2502.20954v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.20954v1",
+        "title": "Robust and Efficient Writer-Independent IMU-Based Handwriting Recognization",
+        "comment": null,
+        "updated_time": "2025-02-28T11:09:28+00:00",
+        "published_time": "2025-02-28T11:09:28+00:00"
+    },
+    "http://arxiv.org/abs/2502.20952v1": {
+        "entry_id": "http://arxiv.org/abs/2502.20952v1",
+        "pdf_url": "http://arxiv.org/pdf/2502.20952v1",
+        "title": "Efficient Jailbreaking of Large Models by Freeze Training: Lower Layers Exhibit Greater Sensitivity to Harmful Content",
+        "comment": null,
+        "updated_time": "2025-02-28T11:07:41+00:00",
+        "published_time": "2025-02-28T11:07:41+00:00"
+    },
     "http://arxiv.org/abs/2502.20371v1": {
         "entry_id": "http://arxiv.org/abs/2502.20371v1",
         "pdf_url": "http://arxiv.org/pdf/2502.20371v1",
