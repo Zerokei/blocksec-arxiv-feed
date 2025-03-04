@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2502.21026v2": {
+        "entry_id": "http://arxiv.org/abs/2502.21026v2",
+        "pdf_url": "http://arxiv.org/pdf/2502.21026v2",
+        "title": "Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis",
+        "comment": "Full version of paper accepted by OOPSLA '25",
+        "updated_time": "2025-03-03T08:49:07+00:00",
+        "published_time": "2025-02-28T13:14:58+00:00"
+    },
     "http://arxiv.org/abs/2502.21187v1": {
         "entry_id": "http://arxiv.org/abs/2502.21187v1",
         "pdf_url": "http://arxiv.org/pdf/2502.21187v1",
