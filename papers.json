@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2503.02714v1": {
+        "entry_id": "http://arxiv.org/abs/2503.02714v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.02714v1",
+        "title": "S4D-Bio Audio Monitoring of Bone Cement Disintegration in Pulsating Fluid Jet Surgery under Laboratory Conditions",
+        "comment": "submitted to Computers in Biology and Medicine Journal",
+        "updated_time": "2025-03-04T15:30:36+00:00",
+        "published_time": "2025-03-04T15:30:36+00:00"
+    },
+    "http://arxiv.org/abs/2503.02652v1": {
+        "entry_id": "http://arxiv.org/abs/2503.02652v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.02652v1",
+        "title": "Cellular Automaton With CNN",
+        "comment": null,
+        "updated_time": "2025-03-04T14:15:47+00:00",
+        "published_time": "2025-03-04T14:15:47+00:00"
+    },
+    "http://arxiv.org/abs/2503.02455v1": {
+        "entry_id": "http://arxiv.org/abs/2503.02455v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.02455v1",
+        "title": "Privacy Preservation Techniques (PPTs) in IoT Systems: A Scoping Review and Future Directions",
+        "comment": "21 pages, 10 figures, journal",
+        "updated_time": "2025-03-04T10:03:45+00:00",
+        "published_time": "2025-03-04T10:03:45+00:00"
+    },
+    "http://arxiv.org/abs/2503.02449v1": {
+        "entry_id": "http://arxiv.org/abs/2503.02449v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.02449v1",
+        "title": "Joint Tensor and Inter-View Low-Rank Recovery for Incomplete Multiview Clustering",
+        "comment": "The paper is under review at IEEE Transactions on Knowledge and Data\n  Engineering",
+        "updated_time": "2025-03-04T09:50:59+00:00",
+        "published_time": "2025-03-04T09:50:59+00:00"
+    },
+    "http://arxiv.org/abs/2503.02440v1": {
+        "entry_id": "http://arxiv.org/abs/2503.02440v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.02440v1",
+        "title": "Artificial Intelligence in Reactor Physics: Current Status and Future Prospects",
+        "comment": "33 pages, 6 figures",
+        "updated_time": "2025-03-04T09:36:58+00:00",
+        "published_time": "2025-03-04T09:36:58+00:00"
+    },
+    "http://arxiv.org/abs/2503.02161v1": {
+        "entry_id": "http://arxiv.org/abs/2503.02161v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.02161v1",
+        "title": "LLM-TabFlow: Synthetic Tabular Data Generation with Inter-column Logical Relationship Preservation",
+        "comment": null,
+        "updated_time": "2025-03-04T00:47:52+00:00",
+        "published_time": "2025-03-04T00:47:52+00:00"
+    },
+    "http://arxiv.org/abs/2503.01944v1": {
+        "entry_id": "http://arxiv.org/abs/2503.01944v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.01944v1",
+        "title": "Protecting DeFi Platforms against Non-Price Flash Loan Attacks",
+        "comment": "Accepted paper to appear in the 15th ACM Conference on Data and\n  Application Security and Privacy (CODASPY 2025)",
+        "updated_time": "2025-03-03T18:18:05+00:00",
+        "published_time": "2025-03-03T18:18:05+00:00"
+    },
     "http://arxiv.org/abs/2502.21026v2": {
         "entry_id": "http://arxiv.org/abs/2502.21026v2",
         "pdf_url": "http://arxiv.org/pdf/2502.21026v2",
@@ -6,6 +62,14 @@
         "comment": "Full version of paper accepted by OOPSLA '25",
         "updated_time": "2025-03-03T08:49:07+00:00",
         "published_time": "2025-02-28T13:14:58+00:00"
+    },
+    "http://arxiv.org/abs/2503.00812v1": {
+        "entry_id": "http://arxiv.org/abs/2503.00812v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.00812v1",
+        "title": "Toward Stable and Consistent Evaluation Results: A New Methodology for Base Model Evaluation",
+        "comment": null,
+        "updated_time": "2025-03-02T09:38:12+00:00",
+        "published_time": "2025-03-02T09:38:12+00:00"
     },
     "http://arxiv.org/abs/2502.21187v1": {
         "entry_id": "http://arxiv.org/abs/2502.21187v1",
@@ -78,6 +142,14 @@
         "comment": "First page is a graphical abstract, this is a journal article\n  submission",
         "updated_time": "2025-02-27T17:07:32+00:00",
         "published_time": "2025-02-27T17:07:32+00:00"
+    },
+    "http://arxiv.org/abs/2503.00066v1": {
+        "entry_id": "http://arxiv.org/abs/2503.00066v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.00066v1",
+        "title": "CrowdAL: Towards a Blockchain-empowered Active Learning System in Crowd Data Labeling",
+        "comment": "Published in 2024 IEEE 20th International Conference on e-Science\n  (e-Science)",
+        "updated_time": "2025-02-27T11:13:03+00:00",
+        "published_time": "2025-02-27T11:13:03+00:00"
     },
     "http://arxiv.org/abs/2502.19849v1": {
         "entry_id": "http://arxiv.org/abs/2502.19849v1",
