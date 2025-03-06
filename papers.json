@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2503.03747v1": {
+        "entry_id": "http://arxiv.org/abs/2503.03747v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.03747v1",
+        "title": "PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning",
+        "comment": "7 pages, 7 figures",
+        "updated_time": "2025-03-05T18:58:58+00:00",
+        "published_time": "2025-03-05T18:58:58+00:00"
+    },
+    "http://arxiv.org/abs/2503.03704v1": {
+        "entry_id": "http://arxiv.org/abs/2503.03704v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.03704v1",
+        "title": "A Practical Memory Injection Attack against LLM Agents",
+        "comment": null,
+        "updated_time": "2025-03-05T17:53:24+00:00",
+        "published_time": "2025-03-05T17:53:24+00:00"
+    },
+    "http://arxiv.org/abs/2503.03539v1": {
+        "entry_id": "http://arxiv.org/abs/2503.03539v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.03539v1",
+        "title": "Data Sharing, Privacy and Security Considerations in the Energy Sector: A Review from Technical Landscape to Regulatory Specifications",
+        "comment": null,
+        "updated_time": "2025-03-05T14:23:56+00:00",
+        "published_time": "2025-03-05T14:23:56+00:00"
+    },
+    "http://arxiv.org/abs/2503.03499v1": {
+        "entry_id": "http://arxiv.org/abs/2503.03499v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.03499v1",
+        "title": "State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models",
+        "comment": "Code is available at https://github.com/furiosa-ai/ssm-state-tuning",
+        "updated_time": "2025-03-05T13:44:42+00:00",
+        "published_time": "2025-03-05T13:44:42+00:00"
+    },
+    "http://arxiv.org/abs/2503.03455v1": {
+        "entry_id": "http://arxiv.org/abs/2503.03455v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.03455v1",
+        "title": "Towards Continuous Experiment-driven MLOps",
+        "comment": null,
+        "updated_time": "2025-03-05T12:41:37+00:00",
+        "published_time": "2025-03-05T12:41:37+00:00"
+    },
+    "http://arxiv.org/abs/2503.03454v1": {
+        "entry_id": "http://arxiv.org/abs/2503.03454v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.03454v1",
+        "title": "Data Poisoning Attacks to Locally Differentially Private Range Query Protocols",
+        "comment": null,
+        "updated_time": "2025-03-05T12:40:34+00:00",
+        "published_time": "2025-03-05T12:40:34+00:00"
+    },
+    "http://arxiv.org/abs/2503.03384v1": {
+        "entry_id": "http://arxiv.org/abs/2503.03384v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.03384v1",
+        "title": "GNNMerge: Merging of GNN Models Without Accessing Training Data",
+        "comment": null,
+        "updated_time": "2025-03-05T11:02:29+00:00",
+        "published_time": "2025-03-05T11:02:29+00:00"
+    },
+    "http://arxiv.org/abs/2503.03331v1": {
+        "entry_id": "http://arxiv.org/abs/2503.03331v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.03331v1",
+        "title": "Leap: Inductive Link Prediction via Learnable TopologyAugmentation",
+        "comment": "published in Machine Learning, Optimization, and Data Science,\n  Springer Nature Switzerland",
+        "updated_time": "2025-03-05T10:03:59+00:00",
+        "published_time": "2025-03-05T10:03:59+00:00"
+    },
     "http://arxiv.org/abs/2503.02714v1": {
         "entry_id": "http://arxiv.org/abs/2503.02714v1",
         "pdf_url": "http://arxiv.org/pdf/2503.02714v1",
