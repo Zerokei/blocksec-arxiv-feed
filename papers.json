@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2503.04585v1": {
+        "entry_id": "http://arxiv.org/abs/2503.04585v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.04585v1",
+        "title": "Advancing Solutions for the Three-Body Problem Through Physics-Informed Neural Networks",
+        "comment": "14 pages, 25 figures, 3 tables. 75th International Astronautical\n  Congress (IAC), Milan, Italy, 14-18 October",
+        "updated_time": "2025-03-06T16:22:19+00:00",
+        "published_time": "2025-03-06T16:22:19+00:00"
+    },
+    "http://arxiv.org/abs/2503.04582v1": {
+        "entry_id": "http://arxiv.org/abs/2503.04582v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.04582v1",
+        "title": "PSDNorm: Test-Time Temporal Normalization for Deep Learning on EEG Signals",
+        "comment": null,
+        "updated_time": "2025-03-06T16:20:25+00:00",
+        "published_time": "2025-03-06T16:20:25+00:00"
+    },
+    "http://arxiv.org/abs/2503.04549v1": {
+        "entry_id": "http://arxiv.org/abs/2503.04549v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.04549v1",
+        "title": "Lite-PoT: Practical Powers-of-Tau Setup Ceremony",
+        "comment": null,
+        "updated_time": "2025-03-06T15:34:50+00:00",
+        "published_time": "2025-03-06T15:34:50+00:00"
+    },
+    "http://arxiv.org/abs/2503.04528v1": {
+        "entry_id": "http://arxiv.org/abs/2503.04528v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.04528v1",
+        "title": "Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting",
+        "comment": null,
+        "updated_time": "2025-03-06T15:16:57+00:00",
+        "published_time": "2025-03-06T15:16:57+00:00"
+    },
+    "http://arxiv.org/abs/2503.03454v2": {
+        "entry_id": "http://arxiv.org/abs/2503.03454v2",
+        "pdf_url": "http://arxiv.org/pdf/2503.03454v2",
+        "title": "Data Poisoning Attacks to Locally Differentially Private Range Query Protocols",
+        "comment": null,
+        "updated_time": "2025-03-06T14:25:03+00:00",
+        "published_time": "2025-03-05T12:40:34+00:00"
+    },
+    "http://arxiv.org/abs/2503.04359v1": {
+        "entry_id": "http://arxiv.org/abs/2503.04359v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.04359v1",
+        "title": "LONGCODEU: Benchmarking Long-Context Language Models on Long Code Understanding",
+        "comment": "18 pages",
+        "updated_time": "2025-03-06T12:02:31+00:00",
+        "published_time": "2025-03-06T12:02:31+00:00"
+    },
+    "http://arxiv.org/abs/2503.04260v1": {
+        "entry_id": "http://arxiv.org/abs/2503.04260v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.04260v1",
+        "title": "DTL: Data Tumbling Layer. A Composable Unlinkability for Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-03-06T09:43:34+00:00",
+        "published_time": "2025-03-06T09:43:34+00:00"
+    },
     "http://arxiv.org/abs/2503.03747v1": {
         "entry_id": "http://arxiv.org/abs/2503.03747v1",
         "pdf_url": "http://arxiv.org/pdf/2503.03747v1",
