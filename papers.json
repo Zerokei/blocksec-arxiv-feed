@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2503.05622v1": {
+        "entry_id": "http://arxiv.org/abs/2503.05622v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.05622v1",
+        "title": "Decision-aware training of spatiotemporal forecasting models",
+        "comment": "9 pages, 3 figures",
+        "updated_time": "2025-03-07T17:49:55+00:00",
+        "published_time": "2025-03-07T17:49:55+00:00"
+    },
+    "http://arxiv.org/abs/2503.05582v1": {
+        "entry_id": "http://arxiv.org/abs/2503.05582v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.05582v1",
+        "title": "MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification",
+        "comment": "Accepted by AAAI2025",
+        "updated_time": "2025-03-07T17:07:51+00:00",
+        "published_time": "2025-03-07T17:07:51+00:00"
+    },
+    "http://arxiv.org/abs/2503.05561v1": {
+        "entry_id": "http://arxiv.org/abs/2503.05561v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.05561v1",
+        "title": "Test Case Generation for Dialogflow Task-Based Chatbots",
+        "comment": "10 pages, 2 figures",
+        "updated_time": "2025-03-07T16:39:27+00:00",
+        "published_time": "2025-03-07T16:39:27+00:00"
+    },
+    "http://arxiv.org/abs/2503.05378v1": {
+        "entry_id": "http://arxiv.org/abs/2503.05378v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.05378v1",
+        "title": "A Survey on Web Testing: On the Rise of AI and Applications in Industry",
+        "comment": "Survey, software engineering, web fuzzing, web testing, 47 pages,\n  submitted to TOSEM",
+        "updated_time": "2025-03-07T12:39:59+00:00",
+        "published_time": "2025-03-07T12:39:59+00:00"
+    },
+    "http://arxiv.org/abs/2503.05303v1": {
+        "entry_id": "http://arxiv.org/abs/2503.05303v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.05303v1",
+        "title": "Robust Intrusion Detection System with Explainable Artificial Intelligence",
+        "comment": null,
+        "updated_time": "2025-03-07T10:31:59+00:00",
+        "published_time": "2025-03-07T10:31:59+00:00"
+    },
+    "http://arxiv.org/abs/2503.05240v1": {
+        "entry_id": "http://arxiv.org/abs/2503.05240v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.05240v1",
+        "title": "Mining Q&A Platforms for Empirical Evidence on Quantum Software Programming",
+        "comment": null,
+        "updated_time": "2025-03-07T08:43:23+00:00",
+        "published_time": "2025-03-07T08:43:23+00:00"
+    },
     "http://arxiv.org/abs/2503.04585v1": {
         "entry_id": "http://arxiv.org/abs/2503.04585v1",
         "pdf_url": "http://arxiv.org/pdf/2503.04585v1",
@@ -54,6 +102,14 @@
         "comment": null,
         "updated_time": "2025-03-06T09:43:34+00:00",
         "published_time": "2025-03-06T09:43:34+00:00"
+    },
+    "http://arxiv.org/abs/2503.04850v1": {
+        "entry_id": "http://arxiv.org/abs/2503.04850v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.04850v1",
+        "title": "Slow is Fast! Dissecting Ethereum's Slow Liquidity Drain",
+        "comment": null,
+        "updated_time": "2025-03-06T02:24:35+00:00",
+        "published_time": "2025-03-06T02:24:35+00:00"
     },
     "http://arxiv.org/abs/2503.03747v1": {
         "entry_id": "http://arxiv.org/abs/2503.03747v1",
