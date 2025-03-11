@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2503.07555v1": {
+        "entry_id": "http://arxiv.org/abs/2503.07555v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.07555v1",
+        "title": "Graph-Dependent Regret Bounds in Multi-Armed Bandits with Interference",
+        "comment": null,
+        "updated_time": "2025-03-10T17:25:24+00:00",
+        "published_time": "2025-03-10T17:25:24+00:00"
+    },
+    "http://arxiv.org/abs/2503.07552v1": {
+        "entry_id": "http://arxiv.org/abs/2503.07552v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.07552v1",
+        "title": "Federated Multimodal Learning with Dual Adapters and Selective Pruning for Communication and Computational Efficiency",
+        "comment": "Accepted at CCGrid 2025",
+        "updated_time": "2025-03-10T17:21:33+00:00",
+        "published_time": "2025-03-10T17:21:33+00:00"
+    },
     "http://arxiv.org/abs/2503.07424v1": {
         "entry_id": "http://arxiv.org/abs/2503.07424v1",
         "pdf_url": "http://arxiv.org/pdf/2503.07424v1",
