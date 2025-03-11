@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2503.07424v1": {
+        "entry_id": "http://arxiv.org/abs/2503.07424v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.07424v1",
+        "title": "Inorganic Catalyst Efficiency Prediction Based on EAPCR Model: A Deep Learning Solution for Multi-Source Heterogeneous Data",
+        "comment": null,
+        "updated_time": "2025-03-10T15:10:22+00:00",
+        "published_time": "2025-03-10T15:10:22+00:00"
+    },
+    "http://arxiv.org/abs/2503.07302v1": {
+        "entry_id": "http://arxiv.org/abs/2503.07302v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.07302v1",
+        "title": "When Selection Meets Intervention: Additional Complexities in Causal Discovery",
+        "comment": "Appears at ICLR 2025 (oral)",
+        "updated_time": "2025-03-10T13:22:38+00:00",
+        "published_time": "2025-03-10T13:22:38+00:00"
+    },
+    "http://arxiv.org/abs/2503.07243v1": {
+        "entry_id": "http://arxiv.org/abs/2503.07243v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.07243v1",
+        "title": "Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code",
+        "comment": null,
+        "updated_time": "2025-03-10T12:27:05+00:00",
+        "published_time": "2025-03-10T12:27:05+00:00"
+    },
+    "http://arxiv.org/abs/2503.07216v1": {
+        "entry_id": "http://arxiv.org/abs/2503.07216v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.07216v1",
+        "title": "FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates",
+        "comment": "Preprint",
+        "updated_time": "2025-03-10T11:55:50+00:00",
+        "published_time": "2025-03-10T11:55:50+00:00"
+    },
+    "http://arxiv.org/abs/2503.04850v2": {
+        "entry_id": "http://arxiv.org/abs/2503.04850v2",
+        "pdf_url": "http://arxiv.org/pdf/2503.04850v2",
+        "title": "Slow is Fast! Dissecting Ethereum's Slow Liquidity Drain Scams",
+        "comment": null,
+        "updated_time": "2025-03-10T05:01:22+00:00",
+        "published_time": "2025-03-06T02:24:35+00:00"
+    },
+    "http://arxiv.org/abs/2503.06028v1": {
+        "entry_id": "http://arxiv.org/abs/2503.06028v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.06028v1",
+        "title": "Data-Free Black-Box Federated Learning via Zeroth-Order Gradient Estimation",
+        "comment": "Accepted by AAAI 2025",
+        "updated_time": "2025-03-08T03:00:01+00:00",
+        "published_time": "2025-03-08T03:00:01+00:00"
+    },
+    "http://arxiv.org/abs/2503.06021v1": {
+        "entry_id": "http://arxiv.org/abs/2503.06021v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.06021v1",
+        "title": "FedEM: A Privacy-Preserving Framework for Concurrent Utility Preservation in Federated Learning",
+        "comment": null,
+        "updated_time": "2025-03-08T02:48:00+00:00",
+        "published_time": "2025-03-08T02:48:00+00:00"
+    },
+    "http://arxiv.org/abs/2503.05945v1": {
+        "entry_id": "http://arxiv.org/abs/2503.05945v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.05945v1",
+        "title": "Universal Scalability in Declarative Program Analysis (with Choice-Based Combination Pruning)",
+        "comment": null,
+        "updated_time": "2025-03-07T21:23:02+00:00",
+        "published_time": "2025-03-07T21:23:02+00:00"
+    },
     "http://arxiv.org/abs/2503.05622v1": {
         "entry_id": "http://arxiv.org/abs/2503.05622v1",
         "pdf_url": "http://arxiv.org/pdf/2503.05622v1",
