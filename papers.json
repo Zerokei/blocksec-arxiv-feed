@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2503.09576v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09576v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09576v1",
+        "title": "Manify: A Python Library for Learning Non-Euclidean Representations",
+        "comment": "30 pages, 4 figures, 4 tables. Preprint",
+        "updated_time": "2025-03-12T17:44:40+00:00",
+        "published_time": "2025-03-12T17:44:40+00:00"
+    },
+    "http://arxiv.org/abs/2503.09460v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09460v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09460v1",
+        "title": "Automatic Association of Quality Requirements and Quantifiable Metrics for Cloud Security Certification",
+        "comment": "9 pages, 4 figures, workshop paper accepted for the 4th Italian\n  Workshop on Artificial Intelligence and Applications for Business and\n  Industries (AIABI) co-located with AI*IA 2024, to be held on 27 November 2024\n  at the Free University of Bozen-Bolzano, Italy",
+        "updated_time": "2025-03-12T15:06:45+00:00",
+        "published_time": "2025-03-12T15:06:45+00:00"
+    },
+    "http://arxiv.org/abs/2503.09418v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09418v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09418v1",
+        "title": "Efficient dynamic modal load reconstruction using physics-informed Gaussian processes based on frequency-sparse Fourier basis functions",
+        "comment": null,
+        "updated_time": "2025-03-12T14:16:27+00:00",
+        "published_time": "2025-03-12T14:16:27+00:00"
+    },
+    "http://arxiv.org/abs/2503.09395v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09395v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09395v1",
+        "title": "Adjusted Count Quantification Learning on Graphs",
+        "comment": null,
+        "updated_time": "2025-03-12T13:42:13+00:00",
+        "published_time": "2025-03-12T13:42:13+00:00"
+    },
+    "http://arxiv.org/abs/2503.09388v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09388v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09388v1",
+        "title": "Evaluating Reinforcement Learning Safety and Trustworthiness in Cyber-Physical Systems",
+        "comment": null,
+        "updated_time": "2025-03-12T13:33:07+00:00",
+        "published_time": "2025-03-12T13:33:07+00:00"
+    },
+    "http://arxiv.org/abs/2503.09363v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09363v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09363v1",
+        "title": "Towards Graph Foundation Models: A Transferability Perspective",
+        "comment": null,
+        "updated_time": "2025-03-12T13:04:05+00:00",
+        "published_time": "2025-03-12T13:04:05+00:00"
+    },
+    "http://arxiv.org/abs/2503.09317v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09317v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09317v1",
+        "title": "RaceTEE: A Practical Privacy-Preserving Off-Chain Smart Contract Execution Architecture",
+        "comment": "18 pages, 3 figures, 1 table",
+        "updated_time": "2025-03-12T12:10:02+00:00",
+        "published_time": "2025-03-12T12:10:02+00:00"
+    },
+    "http://arxiv.org/abs/2503.09315v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09315v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09315v1",
+        "title": "ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method for Large-Scale Deep Models in Industry",
+        "comment": null,
+        "updated_time": "2025-03-12T12:05:03+00:00",
+        "published_time": "2025-03-12T12:05:03+00:00"
+    },
+    "http://arxiv.org/abs/2503.09291v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09291v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09291v1",
+        "title": "Prompt Inference Attack on Distributed Large Language Model Inference Frameworks",
+        "comment": null,
+        "updated_time": "2025-03-12T11:36:29+00:00",
+        "published_time": "2025-03-12T11:36:29+00:00"
+    },
+    "http://arxiv.org/abs/2503.09238v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09238v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09238v1",
+        "title": "Smart Feeding Station: Non-Invasive, Automated IoT Monitoring of Goodman's Mouse Lemurs in a Semi-Natural Rainforest Habitat",
+        "comment": "Accepted to IEEE International Instrumentation and Measurement\n  Technology Conference(I2MTC) (6 pages)",
+        "updated_time": "2025-03-12T10:34:05+00:00",
+        "published_time": "2025-03-12T10:34:05+00:00"
+    },
+    "http://arxiv.org/abs/2503.09200v1": {
+        "entry_id": "http://arxiv.org/abs/2503.09200v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.09200v1",
+        "title": "Time-EAPCR: A Deep Learning-Based Novel Approach for Anomaly Detection Applied to the Environmental Field",
+        "comment": null,
+        "updated_time": "2025-03-12T09:44:15+00:00",
+        "published_time": "2025-03-12T09:44:15+00:00"
+    },
+    "http://arxiv.org/abs/2503.08961v1": {
+        "entry_id": "http://arxiv.org/abs/2503.08961v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.08961v1",
+        "title": "Multiplayer Information Asymmetric Contextual Bandits",
+        "comment": null,
+        "updated_time": "2025-03-11T23:48:31+00:00",
+        "published_time": "2025-03-11T23:48:31+00:00"
+    },
     "http://arxiv.org/abs/2503.08642v1": {
         "entry_id": "http://arxiv.org/abs/2503.08642v1",
         "pdf_url": "http://arxiv.org/pdf/2503.08642v1",
