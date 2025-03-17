@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2503.11612v1": {
+        "entry_id": "http://arxiv.org/abs/2503.11612v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.11612v1",
+        "title": "Enhanced Soups for Graph Neural Networks",
+        "comment": "10 pages, 4 figures, 3 tables, accepted to GrAPL 2025 (colocated with\n  IPDPS 2025)",
+        "updated_time": "2025-03-14T17:29:27+00:00",
+        "published_time": "2025-03-14T17:29:27+00:00"
+    },
+    "http://arxiv.org/abs/2503.11450v1": {
+        "entry_id": "http://arxiv.org/abs/2503.11450v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.11450v1",
+        "title": "The Road to Hybrid Quantum Programs: Characterizing the Evolution from Classical to Hybrid Quantum Software",
+        "comment": null,
+        "updated_time": "2025-03-14T14:37:57+00:00",
+        "published_time": "2025-03-14T14:37:57+00:00"
+    },
+    "http://arxiv.org/abs/2503.11216v1": {
+        "entry_id": "http://arxiv.org/abs/2503.11216v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.11216v1",
+        "title": "Cross-Platform Benchmarking of the FHE Libraries: Novel Insights into SEAL and Openfhe",
+        "comment": null,
+        "updated_time": "2025-03-14T09:08:30+00:00",
+        "published_time": "2025-03-14T09:08:30+00:00"
+    },
+    "http://arxiv.org/abs/2503.11125v1": {
+        "entry_id": "http://arxiv.org/abs/2503.11125v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.11125v1",
+        "title": "Context-Aware Rule Mining Using a Dynamic Transformer-Based Framework",
+        "comment": null,
+        "updated_time": "2025-03-14T06:37:04+00:00",
+        "published_time": "2025-03-14T06:37:04+00:00"
+    },
     "http://arxiv.org/abs/2503.10573v1": {
         "entry_id": "http://arxiv.org/abs/2503.10573v1",
         "pdf_url": "http://arxiv.org/pdf/2503.10573v1",
