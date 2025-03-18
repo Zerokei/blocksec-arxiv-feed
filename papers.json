@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2503.13113v1": {
+        "entry_id": "http://arxiv.org/abs/2503.13113v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.13113v1",
+        "title": "Exploring the Potential of Bilevel Optimization for Calibrating Neural Networks",
+        "comment": null,
+        "updated_time": "2025-03-17T12:34:55+00:00",
+        "published_time": "2025-03-17T12:34:55+00:00"
+    },
+    "http://arxiv.org/abs/2503.12919v1": {
+        "entry_id": "http://arxiv.org/abs/2503.12919v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.12919v1",
+        "title": "COSMOS: Continuous Simplicial Neural Networks",
+        "comment": "17 pages, 6 figures",
+        "updated_time": "2025-03-17T08:31:25+00:00",
+        "published_time": "2025-03-17T08:31:25+00:00"
+    },
+    "http://arxiv.org/abs/2503.12719v1": {
+        "entry_id": "http://arxiv.org/abs/2503.12719v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.12719v1",
+        "title": "Enabling High-Frequency Trading with Near-Instant, Trustless Cross-Chain Transactions via Pre-Signing Adaptor Signatures",
+        "comment": "Whitepaper draft (v0.1). A future version (v1.0) will include\n  figures, data, and implementation details",
+        "updated_time": "2025-03-17T01:15:33+00:00",
+        "published_time": "2025-03-17T01:15:33+00:00"
+    },
     "http://arxiv.org/abs/2503.11612v1": {
         "entry_id": "http://arxiv.org/abs/2503.11612v1",
         "pdf_url": "http://arxiv.org/pdf/2503.11612v1",
