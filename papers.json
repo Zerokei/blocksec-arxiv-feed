@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2503.14443v1": {
+        "entry_id": "http://arxiv.org/abs/2503.14443v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.14443v1",
+        "title": "EnvBench: A Benchmark for Automated Environment Setup",
+        "comment": "Accepted at the DL4Code workshop at ICLR'25",
+        "updated_time": "2025-03-18T17:19:12+00:00",
+        "published_time": "2025-03-18T17:19:12+00:00"
+    },
+    "http://arxiv.org/abs/2503.14240v1": {
+        "entry_id": "http://arxiv.org/abs/2503.14240v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.14240v1",
+        "title": "Persistent Homology-induced Graph Ensembles for Time Series Regressions",
+        "comment": null,
+        "updated_time": "2025-03-18T13:22:52+00:00",
+        "published_time": "2025-03-18T13:22:52+00:00"
+    },
+    "http://arxiv.org/abs/2503.14217v1": {
+        "entry_id": "http://arxiv.org/abs/2503.14217v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.14217v1",
+        "title": "Decision Tree Induction Through LLMs via Semantically-Aware Evolution",
+        "comment": "*Liu and Huynh contributed equally. Published as a conference paper\n  at ICLR 2025",
+        "updated_time": "2025-03-18T12:52:03+00:00",
+        "published_time": "2025-03-18T12:52:03+00:00"
+    },
+    "http://arxiv.org/abs/2503.14205v1": {
+        "entry_id": "http://arxiv.org/abs/2503.14205v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.14205v1",
+        "title": "Layer-wise Adaptive Gradient Norm Penalizing Method for Efficient and Accurate Deep Learning",
+        "comment": "Published in KDD 2024",
+        "updated_time": "2025-03-18T12:30:57+00:00",
+        "published_time": "2025-03-18T12:30:57+00:00"
+    },
+    "http://arxiv.org/abs/2503.14201v1": {
+        "entry_id": "http://arxiv.org/abs/2503.14201v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.14201v1",
+        "title": "Why Personalizing Deep Learning-Based Code Completion Tools Matters",
+        "comment": "Accepted for publication at ACM TOSEM",
+        "updated_time": "2025-03-18T12:26:06+00:00",
+        "published_time": "2025-03-18T12:26:06+00:00"
+    },
     "http://arxiv.org/abs/2503.13113v1": {
         "entry_id": "http://arxiv.org/abs/2503.13113v1",
         "pdf_url": "http://arxiv.org/pdf/2503.13113v1",
