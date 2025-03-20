@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2503.15456v1": {
+        "entry_id": "http://arxiv.org/abs/2503.15456v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.15456v1",
+        "title": "Temporal Encoding Strategies for Energy Time Series Prediction",
+        "comment": null,
+        "updated_time": "2025-03-19T17:36:53+00:00",
+        "published_time": "2025-03-19T17:36:53+00:00"
+    },
+    "http://arxiv.org/abs/2503.15270v1": {
+        "entry_id": "http://arxiv.org/abs/2503.15270v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.15270v1",
+        "title": "Automating Comment Generation for Smart Contract from Bytecode",
+        "comment": null,
+        "updated_time": "2025-03-19T14:45:40+00:00",
+        "published_time": "2025-03-19T14:45:40+00:00"
+    },
+    "http://arxiv.org/abs/2503.15238v1": {
+        "entry_id": "http://arxiv.org/abs/2503.15238v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.15238v1",
+        "title": "Your Signal, Their Data: An Empirical Privacy Analysis of Wireless-scanning SDKs in Android",
+        "comment": "Proceedings on Privacy Enhancing Technologies",
+        "updated_time": "2025-03-19T14:15:02+00:00",
+        "published_time": "2025-03-19T14:15:02+00:00"
+    },
+    "http://arxiv.org/abs/2503.15036v1": {
+        "entry_id": "http://arxiv.org/abs/2503.15036v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.15036v1",
+        "title": "Multivariate Gaussian Topic Modelling: A novel approach to discover topics with greater semantic coherence",
+        "comment": "12 pages",
+        "updated_time": "2025-03-19T09:25:54+00:00",
+        "published_time": "2025-03-19T09:25:54+00:00"
+    },
+    "http://arxiv.org/abs/2503.15002v1": {
+        "entry_id": "http://arxiv.org/abs/2503.15002v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.15002v1",
+        "title": "Scalable Trajectory-User Linking with Dual-Stream Representation Networks",
+        "comment": "The paper has been accepted by AAAI 2025",
+        "updated_time": "2025-03-19T08:52:23+00:00",
+        "published_time": "2025-03-19T08:52:23+00:00"
+    },
     "http://arxiv.org/abs/2503.14443v1": {
         "entry_id": "http://arxiv.org/abs/2503.14443v1",
         "pdf_url": "http://arxiv.org/pdf/2503.14443v1",
