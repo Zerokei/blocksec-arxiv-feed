@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2503.16287v1": {
+        "entry_id": "http://arxiv.org/abs/2503.16287v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.16287v1",
+        "title": "Securing Satellite Communications: Real-Time Video Encryption Scheme on Satellite Payloads",
+        "comment": null,
+        "updated_time": "2025-03-20T16:14:14+00:00",
+        "published_time": "2025-03-20T16:14:14+00:00"
+    },
+    "http://arxiv.org/abs/2503.16286v1": {
+        "entry_id": "http://arxiv.org/abs/2503.16286v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.16286v1",
+        "title": "Explainable Graph-theoretical Machine Learning: with Application to Alzheimer's Disease Prediction",
+        "comment": null,
+        "updated_time": "2025-03-20T16:13:09+00:00",
+        "published_time": "2025-03-20T16:13:09+00:00"
+    },
+    "http://arxiv.org/abs/2503.16271v1": {
+        "entry_id": "http://arxiv.org/abs/2503.16271v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.16271v1",
+        "title": "Rethinking Robustness in Machine Learning: A Posterior Agreement Approach",
+        "comment": "Preprint submitted to TMLR. 29 pages, 13 figures",
+        "updated_time": "2025-03-20T16:03:39+00:00",
+        "published_time": "2025-03-20T16:03:39+00:00"
+    },
+    "http://arxiv.org/abs/2503.16080v1": {
+        "entry_id": "http://arxiv.org/abs/2503.16080v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.16080v1",
+        "title": "Fast Homomorphic Linear Algebra with BLAS",
+        "comment": null,
+        "updated_time": "2025-03-20T12:19:47+00:00",
+        "published_time": "2025-03-20T12:19:47+00:00"
+    },
+    "http://arxiv.org/abs/2503.16023v1": {
+        "entry_id": "http://arxiv.org/abs/2503.16023v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.16023v1",
+        "title": "BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models",
+        "comment": "This paper is accepted by CVPR 2025",
+        "updated_time": "2025-03-20T10:39:51+00:00",
+        "published_time": "2025-03-20T10:39:51+00:00"
+    },
+    "http://arxiv.org/abs/2503.15964v1": {
+        "entry_id": "http://arxiv.org/abs/2503.15964v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.15964v1",
+        "title": "Are We There Yet? A Study of Decentralized Identity Applications",
+        "comment": "27 pages",
+        "updated_time": "2025-03-20T09:05:16+00:00",
+        "published_time": "2025-03-20T09:05:16+00:00"
+    },
+    "http://arxiv.org/abs/2503.15654v1": {
+        "entry_id": "http://arxiv.org/abs/2503.15654v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.15654v1",
+        "title": "Acurast: Decentralized Serverless Cloud",
+        "comment": "v. 0.2., March 17th 2025, White Paper",
+        "updated_time": "2025-03-19T19:09:21+00:00",
+        "published_time": "2025-03-19T19:09:21+00:00"
+    },
     "http://arxiv.org/abs/2503.15456v1": {
         "entry_id": "http://arxiv.org/abs/2503.15456v1",
         "pdf_url": "http://arxiv.org/pdf/2503.15456v1",
@@ -22,6 +78,14 @@
         "comment": "Proceedings on Privacy Enhancing Technologies",
         "updated_time": "2025-03-19T14:15:02+00:00",
         "published_time": "2025-03-19T14:15:02+00:00"
+    },
+    "http://arxiv.org/abs/2503.15574v1": {
+        "entry_id": "http://arxiv.org/abs/2503.15574v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.15574v1",
+        "title": "Machine Learning Techniques for Multifactor Analysis of National Carbon Dioxide Emissions",
+        "comment": null,
+        "updated_time": "2025-03-19T11:36:08+00:00",
+        "published_time": "2025-03-19T11:36:08+00:00"
     },
     "http://arxiv.org/abs/2503.15036v1": {
         "entry_id": "http://arxiv.org/abs/2503.15036v1",
