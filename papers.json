@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2503.17289v1": {
+        "entry_id": "http://arxiv.org/abs/2503.17289v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.17289v1",
+        "title": "3D Neural Operator-Based Flow Surrogates around 3D geometries: Signed Distance Functions and Derivative Constraints",
+        "comment": null,
+        "updated_time": "2025-03-21T16:40:48+00:00",
+        "published_time": "2025-03-21T16:40:48+00:00"
+    },
+    "http://arxiv.org/abs/2503.17286v1": {
+        "entry_id": "http://arxiv.org/abs/2503.17286v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.17286v1",
+        "title": "Offline Model-Based Optimization: Comprehensive Review",
+        "comment": "29 pages",
+        "updated_time": "2025-03-21T16:35:02+00:00",
+        "published_time": "2025-03-21T16:35:02+00:00"
+    },
+    "http://arxiv.org/abs/2503.17272v1": {
+        "entry_id": "http://arxiv.org/abs/2503.17272v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.17272v1",
+        "title": "Revisiting End To End Sparse Autoencoder Training -- A Short Finetune is All You Need",
+        "comment": null,
+        "updated_time": "2025-03-21T16:15:49+00:00",
+        "published_time": "2025-03-21T16:15:49+00:00"
+    },
+    "http://arxiv.org/abs/2503.17259v1": {
+        "entry_id": "http://arxiv.org/abs/2503.17259v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.17259v1",
+        "title": "Semi-Automated Design of Data-Intensive Architectures",
+        "comment": "Accepted for publication at the 9th International Workshop on Formal\n  Approaches for Advanced Computing Systems, co-located with the 22nd IEEE\n  International Conference on Software Architecture (ICSA 2025)",
+        "updated_time": "2025-03-21T16:01:11+00:00",
+        "published_time": "2025-03-21T16:01:11+00:00"
+    },
+    "http://arxiv.org/abs/2503.17138v1": {
+        "entry_id": "http://arxiv.org/abs/2503.17138v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.17138v1",
+        "title": "Structure Is Not Enough: Leveraging Behavior for Neural Network Weight Reconstruction",
+        "comment": "Accepted at the ICLR Workshop on Neural Network Weights as a New Data\n  Modality 2025",
+        "updated_time": "2025-03-21T13:39:04+00:00",
+        "published_time": "2025-03-21T13:39:04+00:00"
+    },
+    "http://arxiv.org/abs/2503.16991v1": {
+        "entry_id": "http://arxiv.org/abs/2503.16991v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.16991v1",
+        "title": "TRACE: Time SeRies PArameter EffiCient FinE-tuning",
+        "comment": null,
+        "updated_time": "2025-03-21T09:55:43+00:00",
+        "published_time": "2025-03-21T09:55:43+00:00"
+    },
     "http://arxiv.org/abs/2503.16287v1": {
         "entry_id": "http://arxiv.org/abs/2503.16287v1",
         "pdf_url": "http://arxiv.org/pdf/2503.16287v1",
