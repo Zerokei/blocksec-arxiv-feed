@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2503.18857v1": {
+        "entry_id": "http://arxiv.org/abs/2503.18857v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.18857v1",
+        "title": "Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking",
+        "comment": "10 pages, 11 figures, to be published in 2025 ACM Southeast\n  Conference (ACMSE 2025)",
+        "updated_time": "2025-03-24T16:33:25+00:00",
+        "published_time": "2025-03-24T16:33:25+00:00"
+    },
+    "http://arxiv.org/abs/2503.18841v1": {
+        "entry_id": "http://arxiv.org/abs/2503.18841v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.18841v1",
+        "title": "Unsupervised Detection of Fraudulent Transactions in E-commerce Using Contrastive Learning",
+        "comment": null,
+        "updated_time": "2025-03-24T16:14:16+00:00",
+        "published_time": "2025-03-24T16:14:16+00:00"
+    },
+    "http://arxiv.org/abs/2503.18807v1": {
+        "entry_id": "http://arxiv.org/abs/2503.18807v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.18807v1",
+        "title": "Streaming Federated Learning with Markovian Data",
+        "comment": "Work under review",
+        "updated_time": "2025-03-24T15:49:42+00:00",
+        "published_time": "2025-03-24T15:49:42+00:00"
+    },
+    "http://arxiv.org/abs/2503.18748v1": {
+        "entry_id": "http://arxiv.org/abs/2503.18748v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.18748v1",
+        "title": "Simulation-Driven Balancing of Competitive Game Levels with Reinforcement Learning",
+        "comment": "Preprint of the journal (IEEE Transactions on Games) paper of the\n  same name",
+        "updated_time": "2025-03-24T14:57:17+00:00",
+        "published_time": "2025-03-24T14:57:17+00:00"
+    },
+    "http://arxiv.org/abs/2503.18436v1": {
+        "entry_id": "http://arxiv.org/abs/2503.18436v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.18436v1",
+        "title": "Distributionally Robust Federated Learning: An ADMM Algorithm",
+        "comment": null,
+        "updated_time": "2025-03-24T08:35:38+00:00",
+        "published_time": "2025-03-24T08:35:38+00:00"
+    },
+    "http://arxiv.org/abs/2503.17873v1": {
+        "entry_id": "http://arxiv.org/abs/2503.17873v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.17873v1",
+        "title": "A Distributed Blockchain-based Access Control for the Internet of Things",
+        "comment": null,
+        "updated_time": "2025-03-22T22:36:02+00:00",
+        "published_time": "2025-03-22T22:36:02+00:00"
+    },
     "http://arxiv.org/abs/2503.17289v1": {
         "entry_id": "http://arxiv.org/abs/2503.17289v1",
         "pdf_url": "http://arxiv.org/pdf/2503.17289v1",
