@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2503.19872v1": {
+        "entry_id": "http://arxiv.org/abs/2503.19872v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.19872v1",
+        "title": "NickPay, an Auditable, Privacy-Preserving, Nickname-Based Payment System",
+        "comment": "9 pages, 5 figures, 1 table",
+        "updated_time": "2025-03-25T17:36:54+00:00",
+        "published_time": "2025-03-25T17:36:54+00:00"
+    },
+    "http://arxiv.org/abs/2503.19666v1": {
+        "entry_id": "http://arxiv.org/abs/2503.19666v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.19666v1",
+        "title": "Towards Efficient Training of Graph Neural Networks: A Multiscale Approach",
+        "comment": null,
+        "updated_time": "2025-03-25T13:52:26+00:00",
+        "published_time": "2025-03-25T13:52:26+00:00"
+    },
+    "http://arxiv.org/abs/2503.19626v1": {
+        "entry_id": "http://arxiv.org/abs/2503.19626v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.19626v1",
+        "title": "Red Teaming with Artificial Intelligence-Driven Cyberattacks: A Scoping Review",
+        "comment": "An earlier version first published in Good Practices and New\n  Perspectives in Information Systems and Technologies (pp. 129-138), 2024 by\n  Springer Nature",
+        "updated_time": "2025-03-25T13:14:19+00:00",
+        "published_time": "2025-03-25T13:14:19+00:00"
+    },
+    "http://arxiv.org/abs/2503.19618v1": {
+        "entry_id": "http://arxiv.org/abs/2503.19618v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.19618v1",
+        "title": "Learning to chain-of-thought with Jensen's evidence lower bound",
+        "comment": null,
+        "updated_time": "2025-03-25T13:03:09+00:00",
+        "published_time": "2025-03-25T13:03:09+00:00"
+    },
+    "http://arxiv.org/abs/2503.19595v1": {
+        "entry_id": "http://arxiv.org/abs/2503.19595v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.19595v1",
+        "title": "Optimizing Language Models for Inference Time Objectives using Reinforcement Learning",
+        "comment": null,
+        "updated_time": "2025-03-25T12:21:26+00:00",
+        "published_time": "2025-03-25T12:21:26+00:00"
+    },
+    "http://arxiv.org/abs/2503.19548v1": {
+        "entry_id": "http://arxiv.org/abs/2503.19548v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.19548v1",
+        "title": "On-Chain Analysis of Smart Contract Dependency Risks on Ethereum",
+        "comment": null,
+        "updated_time": "2025-03-25T11:02:08+00:00",
+        "published_time": "2025-03-25T11:02:08+00:00"
+    },
+    "http://arxiv.org/abs/2503.19476v1": {
+        "entry_id": "http://arxiv.org/abs/2503.19476v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.19476v1",
+        "title": "Extracting Interpretable Logic Rules from Graph Neural Networks",
+        "comment": "12 pages, 4 figures",
+        "updated_time": "2025-03-25T09:09:46+00:00",
+        "published_time": "2025-03-25T09:09:46+00:00"
+    },
+    "http://arxiv.org/abs/2503.19466v1": {
+        "entry_id": "http://arxiv.org/abs/2503.19466v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.19466v1",
+        "title": "A Probabilistic Neuro-symbolic Layer for Algebraic Constraint Satisfaction",
+        "comment": null,
+        "updated_time": "2025-03-25T08:58:04+00:00",
+        "published_time": "2025-03-25T08:58:04+00:00"
+    },
+    "http://arxiv.org/abs/2503.19402v1": {
+        "entry_id": "http://arxiv.org/abs/2503.19402v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.19402v1",
+        "title": "QUIC-Fuzz: An Effective Greybox Fuzzer For The QUIC Protocol",
+        "comment": "Accepted to ESORICS 2025. For QUIC-Fuzz code, see\n  https://github.com/QUICTester/QUIC-Fuzz",
+        "updated_time": "2025-03-25T07:21:35+00:00",
+        "published_time": "2025-03-25T07:21:35+00:00"
+    },
     "http://arxiv.org/abs/2503.18857v1": {
         "entry_id": "http://arxiv.org/abs/2503.18857v1",
         "pdf_url": "http://arxiv.org/pdf/2503.18857v1",
