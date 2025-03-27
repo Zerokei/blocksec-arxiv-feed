@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2503.20697v1": {
+        "entry_id": "http://arxiv.org/abs/2503.20697v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.20697v1",
+        "title": "Semi-supervised Node Importance Estimation with Informative Distribution Modeling for Uncertainty Regularization",
+        "comment": null,
+        "updated_time": "2025-03-26T16:27:06+00:00",
+        "published_time": "2025-03-26T16:27:06+00:00"
+    },
+    "http://arxiv.org/abs/2503.20583v1": {
+        "entry_id": "http://arxiv.org/abs/2503.20583v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.20583v1",
+        "title": "Feature Statistics with Uncertainty Help Adversarial Robustness",
+        "comment": null,
+        "updated_time": "2025-03-26T14:30:33+00:00",
+        "published_time": "2025-03-26T14:30:33+00:00"
+    },
+    "http://arxiv.org/abs/2503.20536v1": {
+        "entry_id": "http://arxiv.org/abs/2503.20536v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.20536v1",
+        "title": "Knowledge-Based Multi-Agent Framework for Automated Software Architecture Design",
+        "comment": null,
+        "updated_time": "2025-03-26T13:35:10+00:00",
+        "published_time": "2025-03-26T13:35:10+00:00"
+    },
+    "http://arxiv.org/abs/2503.20464v1": {
+        "entry_id": "http://arxiv.org/abs/2503.20464v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.20464v1",
+        "title": "Modelling Privacy Compliance in Cross-border Data Transfers with Bigraphs",
+        "comment": "In Proceedings GCM 2023 and 2024, arXiv:2503.19632",
+        "updated_time": "2025-03-26T11:50:55+00:00",
+        "published_time": "2025-03-26T11:50:55+00:00"
+    },
+    "http://arxiv.org/abs/2503.20414v1": {
+        "entry_id": "http://arxiv.org/abs/2503.20414v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.20414v1",
+        "title": "Active Data Sampling and Generation for Bias Remediation",
+        "comment": null,
+        "updated_time": "2025-03-26T10:42:15+00:00",
+        "published_time": "2025-03-26T10:42:15+00:00"
+    },
+    "http://arxiv.org/abs/2503.20400v1": {
+        "entry_id": "http://arxiv.org/abs/2503.20400v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.20400v1",
+        "title": "Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs",
+        "comment": "Accepted at the Extended Semantic Web Conference 2025",
+        "updated_time": "2025-03-26T10:23:27+00:00",
+        "published_time": "2025-03-26T10:23:27+00:00"
+    },
     "http://arxiv.org/abs/2503.19872v1": {
         "entry_id": "http://arxiv.org/abs/2503.19872v1",
         "pdf_url": "http://arxiv.org/pdf/2503.19872v1",
