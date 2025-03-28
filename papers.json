@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2503.21756v1": {
+        "entry_id": "http://arxiv.org/abs/2503.21756v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.21756v1",
+        "title": "A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schr\u00f6dinger Matching into One",
+        "comment": null,
+        "updated_time": "2025-03-27T17:57:03+00:00",
+        "published_time": "2025-03-27T17:57:03+00:00"
+    },
+    "http://arxiv.org/abs/2503.21448v1": {
+        "entry_id": "http://arxiv.org/abs/2503.21448v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.21448v1",
+        "title": "HORIZON: a Classification and Comparison Framework for Pricing-driven Feature Toggling",
+        "comment": "15 pages, submitted to ICWE'25",
+        "updated_time": "2025-03-27T12:40:10+00:00",
+        "published_time": "2025-03-27T12:40:10+00:00"
+    },
     "http://arxiv.org/abs/2503.20697v1": {
         "entry_id": "http://arxiv.org/abs/2503.20697v1",
         "pdf_url": "http://arxiv.org/pdf/2503.20697v1",
