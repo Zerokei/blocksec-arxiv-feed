@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2503.22629v1": {
+        "entry_id": "http://arxiv.org/abs/2503.22629v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.22629v1",
+        "title": "Sentiment Classification of Thai Central Bank Press Releases Using Supervised Learning",
+        "comment": null,
+        "updated_time": "2025-03-28T17:20:41+00:00",
+        "published_time": "2025-03-28T17:20:41+00:00"
+    },
+    "http://arxiv.org/abs/2503.22576v1": {
+        "entry_id": "http://arxiv.org/abs/2503.22576v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.22576v1",
+        "title": "Drop the Golden Apples: Identifying Third-Party Reuse by DB-Less Software Composition Analysis",
+        "comment": "6 pages, 1 figure, FSE25-IVR",
+        "updated_time": "2025-03-28T16:25:24+00:00",
+        "published_time": "2025-03-28T16:25:24+00:00"
+    },
+    "http://arxiv.org/abs/2503.22516v1": {
+        "entry_id": "http://arxiv.org/abs/2503.22516v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.22516v1",
+        "title": "Assessing Foundation Models for Sea Ice Type Segmentation in Sentinel-1 SAR Imagery",
+        "comment": null,
+        "updated_time": "2025-03-28T15:21:08+00:00",
+        "published_time": "2025-03-28T15:21:08+00:00"
+    },
+    "http://arxiv.org/abs/2503.22156v1": {
+        "entry_id": "http://arxiv.org/abs/2503.22156v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.22156v1",
+        "title": "SoK: Security Analysis of Blockchain-based Cryptocurrency",
+        "comment": null,
+        "updated_time": "2025-03-28T05:21:30+00:00",
+        "published_time": "2025-03-28T05:21:30+00:00"
+    },
     "http://arxiv.org/abs/2503.21756v1": {
         "entry_id": "http://arxiv.org/abs/2503.21756v1",
         "pdf_url": "http://arxiv.org/pdf/2503.21756v1",
