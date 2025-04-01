@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2503.24349v1": {
+        "entry_id": "http://arxiv.org/abs/2503.24349v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.24349v1",
+        "title": "Faster Releases, Fewer Risks: A Study on Maven Artifact Vulnerabilities and Lifecycle Management",
+        "comment": null,
+        "updated_time": "2025-03-31T17:32:45+00:00",
+        "published_time": "2025-03-31T17:32:45+00:00"
+    },
+    "http://arxiv.org/abs/2503.24259v1": {
+        "entry_id": "http://arxiv.org/abs/2503.24259v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.24259v1",
+        "title": "Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review",
+        "comment": null,
+        "updated_time": "2025-03-31T16:06:47+00:00",
+        "published_time": "2025-03-31T16:06:47+00:00"
+    },
+    "http://arxiv.org/abs/2503.24157v1": {
+        "entry_id": "http://arxiv.org/abs/2503.24157v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.24157v1",
+        "title": "LLM4FS: Leveraging Large Language Models for Feature Selection and How to Improve It",
+        "comment": null,
+        "updated_time": "2025-03-31T14:40:31+00:00",
+        "published_time": "2025-03-31T14:40:31+00:00"
+    },
+    "http://arxiv.org/abs/2503.24100v1": {
+        "entry_id": "http://arxiv.org/abs/2503.24100v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.24100v1",
+        "title": "Fuzzing-based Mutation Testing of C/C++ CPS",
+        "comment": null,
+        "updated_time": "2025-03-31T13:55:27+00:00",
+        "published_time": "2025-03-31T13:55:27+00:00"
+    },
+    "http://arxiv.org/abs/2503.23726v1": {
+        "entry_id": "http://arxiv.org/abs/2503.23726v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.23726v1",
+        "title": "PDSL: Privacy-Preserved Decentralized Stochastic Learning with Heterogeneous Data Distribution",
+        "comment": null,
+        "updated_time": "2025-03-31T04:58:05+00:00",
+        "published_time": "2025-03-31T04:58:05+00:00"
+    },
+    "http://arxiv.org/abs/2503.23718v1": {
+        "entry_id": "http://arxiv.org/abs/2503.23718v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.23718v1",
+        "title": "Detecting Functional Bugs in Smart Contracts through LLM-Powered and Bug-Oriented Composite Analysis",
+        "comment": null,
+        "updated_time": "2025-03-31T04:39:51+00:00",
+        "published_time": "2025-03-31T04:39:51+00:00"
+    },
+    "http://arxiv.org/abs/2503.23621v1": {
+        "entry_id": "http://arxiv.org/abs/2503.23621v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.23621v1",
+        "title": "Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting",
+        "comment": null,
+        "updated_time": "2025-03-30T22:56:23+00:00",
+        "published_time": "2025-03-30T22:56:23+00:00"
+    },
+    "http://arxiv.org/abs/2503.23510v1": {
+        "entry_id": "http://arxiv.org/abs/2503.23510v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.23510v1",
+        "title": "Demystifying Private Transactions and Their Impact in PoW and PoS Ethereum",
+        "comment": null,
+        "updated_time": "2025-03-30T16:45:18+00:00",
+        "published_time": "2025-03-30T16:45:18+00:00"
+    },
     "http://arxiv.org/abs/2503.22629v1": {
         "entry_id": "http://arxiv.org/abs/2503.22629v1",
         "pdf_url": "http://arxiv.org/pdf/2503.22629v1",
@@ -102,6 +166,14 @@
         "comment": "9 pages, 5 figures, 1 table",
         "updated_time": "2025-03-25T17:36:54+00:00",
         "published_time": "2025-03-25T17:36:54+00:00"
+    },
+    "http://arxiv.org/abs/2503.22717v1": {
+        "entry_id": "http://arxiv.org/abs/2503.22717v1",
+        "pdf_url": "http://arxiv.org/pdf/2503.22717v1",
+        "title": "FeatherWallet: A Lightweight Mobile Cryptocurrency Wallet Using zk-SNARKs",
+        "comment": "7 pages, 7 figures, 2 tables, zkDApps workshop",
+        "updated_time": "2025-03-25T14:33:58+00:00",
+        "published_time": "2025-03-25T14:33:58+00:00"
     },
     "http://arxiv.org/abs/2503.19666v1": {
         "entry_id": "http://arxiv.org/abs/2503.19666v1",
