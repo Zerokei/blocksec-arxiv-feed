@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2504.01894v1": {
+        "entry_id": "http://arxiv.org/abs/2504.01894v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.01894v1",
+        "title": "Multi-fidelity Parameter Estimation Using Conditional Diffusion Models",
+        "comment": null,
+        "updated_time": "2025-04-02T16:54:47+00:00",
+        "published_time": "2025-04-02T16:54:47+00:00"
+    },
+    "http://arxiv.org/abs/2504.01882v1": {
+        "entry_id": "http://arxiv.org/abs/2504.01882v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.01882v1",
+        "title": "CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection",
+        "comment": "15 pages, 8 figures, 4 tables",
+        "updated_time": "2025-04-02T16:40:01+00:00",
+        "published_time": "2025-04-02T16:40:01+00:00"
+    },
+    "http://arxiv.org/abs/2504.01822v1": {
+        "entry_id": "http://arxiv.org/abs/2504.01822v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.01822v1",
+        "title": "Track and Trace: Automatically Uncovering Cross-chain Transactions in the Multi-blockchain Ecosystems",
+        "comment": null,
+        "updated_time": "2025-04-02T15:28:25+00:00",
+        "published_time": "2025-04-02T15:28:25+00:00"
+    },
+    "http://arxiv.org/abs/2504.01740v1": {
+        "entry_id": "http://arxiv.org/abs/2504.01740v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.01740v1",
+        "title": "Stable Structure Learning with HC-Stable and Tabu-Stable Algorithms",
+        "comment": null,
+        "updated_time": "2025-04-02T13:51:44+00:00",
+        "published_time": "2025-04-02T13:51:44+00:00"
+    },
+    "http://arxiv.org/abs/2503.19548v3": {
+        "entry_id": "http://arxiv.org/abs/2503.19548v3",
+        "pdf_url": "http://arxiv.org/pdf/2503.19548v3",
+        "title": "On-Chain Analysis of Smart Contract Dependency Risks on Ethereum",
+        "comment": null,
+        "updated_time": "2025-04-02T11:20:35+00:00",
+        "published_time": "2025-03-25T11:02:08+00:00"
+    },
+    "http://arxiv.org/abs/2504.01549v1": {
+        "entry_id": "http://arxiv.org/abs/2504.01549v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.01549v1",
+        "title": "Business Process Modeling Using a Metamodeling Approach",
+        "comment": null,
+        "updated_time": "2025-04-02T09:46:54+00:00",
+        "published_time": "2025-04-02T09:46:54+00:00"
+    },
     "http://arxiv.org/abs/2503.19548v2": {
         "entry_id": "http://arxiv.org/abs/2503.19548v2",
         "pdf_url": "http://arxiv.org/pdf/2503.19548v2",
