@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2504.02719v1": {
+        "entry_id": "http://arxiv.org/abs/2504.02719v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.02719v1",
+        "title": "The Myth of Immutability: A Multivocal Review on Smart Contract Upgradeability",
+        "comment": null,
+        "updated_time": "2025-04-03T16:02:46+00:00",
+        "published_time": "2025-04-03T16:02:46+00:00"
+    },
+    "http://arxiv.org/abs/2504.02704v1": {
+        "entry_id": "http://arxiv.org/abs/2504.02704v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.02704v1",
+        "title": "EvoChain: A Framework for Tracking and Visualizing Smart Contract Evolution",
+        "comment": null,
+        "updated_time": "2025-04-03T15:41:48+00:00",
+        "published_time": "2025-04-03T15:41:48+00:00"
+    },
+    "http://arxiv.org/abs/2504.02639v1": {
+        "entry_id": "http://arxiv.org/abs/2504.02639v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.02639v1",
+        "title": "Reservoir Computing: A New Paradigm for Neural Networks",
+        "comment": null,
+        "updated_time": "2025-04-03T14:34:51+00:00",
+        "published_time": "2025-04-03T14:34:51+00:00"
+    },
+    "http://arxiv.org/abs/2504.02459v1": {
+        "entry_id": "http://arxiv.org/abs/2504.02459v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.02459v1",
+        "title": "A Physics-Informed Meta-Learning Framework for the Continuous Solution of Parametric PDEs on Arbitrary Geometries",
+        "comment": null,
+        "updated_time": "2025-04-03T10:24:00+00:00",
+        "published_time": "2025-04-03T10:24:00+00:00"
+    },
+    "http://arxiv.org/abs/2504.02431v1": {
+        "entry_id": "http://arxiv.org/abs/2504.02431v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.02431v1",
+        "title": "Koney: A Cyber Deception Orchestration Framework for Kubernetes",
+        "comment": "to be published in the 4th Workshop on Active Defense and Deception\n  (ADnD 2025) co-located with IEEE EuroS&P, source code available at\n  https://github.com/dynatrace-oss/koney",
+        "updated_time": "2025-04-03T09:37:14+00:00",
+        "published_time": "2025-04-03T09:37:14+00:00"
+    },
+    "http://arxiv.org/abs/2504.02383v1": {
+        "entry_id": "http://arxiv.org/abs/2504.02383v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.02383v1",
+        "title": "Reinforcement Learning for Solving the Pricing Problem in Column Generation: Applications to Vehicle Routing",
+        "comment": "25 pages, 7 figures, 7 tables, Journal Submission",
+        "updated_time": "2025-04-03T08:22:19+00:00",
+        "published_time": "2025-04-03T08:22:19+00:00"
+    },
+    "http://arxiv.org/abs/2504.02213v1": {
+        "entry_id": "http://arxiv.org/abs/2504.02213v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.02213v1",
+        "title": "Secure Generalization through Stochastic Bidirectional Parameter Updates Using Dual-Gradient Mechanism",
+        "comment": null,
+        "updated_time": "2025-04-03T02:06:57+00:00",
+        "published_time": "2025-04-03T02:06:57+00:00"
+    },
+    "http://arxiv.org/abs/2504.02133v1": {
+        "entry_id": "http://arxiv.org/abs/2504.02133v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.02133v1",
+        "title": "Base Station Certificate and Multi-Factor Authentication for Cellular Radio Control Communication Security",
+        "comment": "16 pages, 16 figures",
+        "updated_time": "2025-04-02T21:12:29+00:00",
+        "published_time": "2025-04-02T21:12:29+00:00"
+    },
     "http://arxiv.org/abs/2504.01894v1": {
         "entry_id": "http://arxiv.org/abs/2504.01894v1",
         "pdf_url": "http://arxiv.org/pdf/2504.01894v1",
