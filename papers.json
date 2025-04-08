@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2504.05143v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05143v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05143v1",
+        "title": "Taming Double-Spending in Offline Payments with Reputation-Weighted Loan Networks",
+        "comment": null,
+        "updated_time": "2025-04-07T14:48:19+00:00",
+        "published_time": "2025-04-07T14:48:19+00:00"
+    },
+    "http://arxiv.org/abs/2504.05024v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05024v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05024v1",
+        "title": "Concept Extraction for Time Series with ECLAD-ts",
+        "comment": null,
+        "updated_time": "2025-04-07T12:49:20+00:00",
+        "published_time": "2025-04-07T12:49:20+00:00"
+    },
+    "http://arxiv.org/abs/2504.05006v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05006v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05006v1",
+        "title": "Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM",
+        "comment": null,
+        "updated_time": "2025-04-07T12:32:14+00:00",
+        "published_time": "2025-04-07T12:32:14+00:00"
+    },
+    "http://arxiv.org/abs/2504.05002v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05002v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05002v1",
+        "title": "SmartBugBert: BERT-Enhanced Vulnerability Detection for Smart Contract Bytecode",
+        "comment": null,
+        "updated_time": "2025-04-07T12:30:12+00:00",
+        "published_time": "2025-04-07T12:30:12+00:00"
+    },
+    "http://arxiv.org/abs/2504.04950v1": {
+        "entry_id": "http://arxiv.org/abs/2504.04950v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.04950v1",
+        "title": "A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization",
+        "comment": "11oages,2 figures",
+        "updated_time": "2025-04-07T11:34:48+00:00",
+        "published_time": "2025-04-07T11:34:48+00:00"
+    },
+    "http://arxiv.org/abs/2504.04772v1": {
+        "entry_id": "http://arxiv.org/abs/2504.04772v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.04772v1",
+        "title": "Feedback-Enhanced Hallucination-Resistant Vision-Language Model for Real-Time Scene Understanding",
+        "comment": null,
+        "updated_time": "2025-04-07T06:59:30+00:00",
+        "published_time": "2025-04-07T06:59:30+00:00"
+    },
+    "http://arxiv.org/abs/2504.04685v1": {
+        "entry_id": "http://arxiv.org/abs/2504.04685v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.04685v1",
+        "title": "Generative Large Language Model usage in Smart Contract Vulnerability Detection",
+        "comment": null,
+        "updated_time": "2025-04-07T02:33:40+00:00",
+        "published_time": "2025-04-07T02:33:40+00:00"
+    },
+    "http://arxiv.org/abs/2504.04322v1": {
+        "entry_id": "http://arxiv.org/abs/2504.04322v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.04322v1",
+        "title": "Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation",
+        "comment": null,
+        "updated_time": "2025-04-06T01:42:07+00:00",
+        "published_time": "2025-04-06T01:42:07+00:00"
+    },
+    "http://arxiv.org/abs/2504.04033v1": {
+        "entry_id": "http://arxiv.org/abs/2504.04033v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.04033v1",
+        "title": "Disparate Privacy Vulnerability: Targeted Attribute Inference Attacks and Defenses",
+        "comment": "Selected for publication at 34th USENIX Security Symposium",
+        "updated_time": "2025-04-05T02:58:37+00:00",
+        "published_time": "2025-04-05T02:58:37+00:00"
+    },
+    "http://arxiv.org/abs/2504.03936v1": {
+        "entry_id": "http://arxiv.org/abs/2504.03936v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.03936v1",
+        "title": "Commit-Reveal$^2$: Randomized Reveal Order Mitigates Last-Revealer Attacks in Commit-Reveal",
+        "comment": "This paper will appear in the ICBC 2025 proceedings",
+        "updated_time": "2025-04-04T21:05:51+00:00",
+        "published_time": "2025-04-04T21:05:51+00:00"
+    },
     "http://arxiv.org/abs/2504.03497v1": {
         "entry_id": "http://arxiv.org/abs/2504.03497v1",
         "pdf_url": "http://arxiv.org/pdf/2504.03497v1",
