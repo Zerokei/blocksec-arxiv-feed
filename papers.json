@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2504.06157v1": {
+        "entry_id": "http://arxiv.org/abs/2504.06157v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.06157v1",
+        "title": "Hall Effect Thruster Forecasting using a Topological Approach for Data Assimilation",
+        "comment": "12 pages, 13 figures",
+        "updated_time": "2025-04-08T15:52:50+00:00",
+        "published_time": "2025-04-08T15:52:50+00:00"
+    },
+    "http://arxiv.org/abs/2504.04322v2": {
+        "entry_id": "http://arxiv.org/abs/2504.04322v2",
+        "pdf_url": "http://arxiv.org/pdf/2504.04322v2",
+        "title": "Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation",
+        "comment": null,
+        "updated_time": "2025-04-08T10:31:46+00:00",
+        "published_time": "2025-04-06T01:42:07+00:00"
+    },
+    "http://arxiv.org/abs/2504.05844v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05844v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05844v1",
+        "title": "Adaptive Substructure-Aware Expert Model for Molecular Property Prediction",
+        "comment": null,
+        "updated_time": "2025-04-08T09:25:03+00:00",
+        "published_time": "2025-04-08T09:25:03+00:00"
+    },
+    "http://arxiv.org/abs/2504.05822v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05822v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05822v1",
+        "title": "Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gradients",
+        "comment": null,
+        "updated_time": "2025-04-08T09:05:33+00:00",
+        "published_time": "2025-04-08T09:05:33+00:00"
+    },
+    "http://arxiv.org/abs/2504.05812v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05812v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05812v1",
+        "title": "Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization",
+        "comment": "Ongoing work",
+        "updated_time": "2025-04-08T08:48:51+00:00",
+        "published_time": "2025-04-08T08:48:51+00:00"
+    },
+    "http://arxiv.org/abs/2504.05553v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05553v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05553v1",
+        "title": "Federated Hierarchical Reinforcement Learning for Adaptive Traffic Signal Control",
+        "comment": null,
+        "updated_time": "2025-04-07T23:02:59+00:00",
+        "published_time": "2025-04-07T23:02:59+00:00"
+    },
+    "http://arxiv.org/abs/2504.05515v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05515v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05515v1",
+        "title": "How Do Solidity Versions Affect Vulnerability Detection Tools? An Empirical Study",
+        "comment": null,
+        "updated_time": "2025-04-07T21:15:59+00:00",
+        "published_time": "2025-04-07T21:15:59+00:00"
+    },
+    "http://arxiv.org/abs/2504.05509v1": {
+        "entry_id": "http://arxiv.org/abs/2504.05509v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.05509v1",
+        "title": "Secure Smart Contract with Control Flow Integrity",
+        "comment": "11 pages, 2 figures, 3 tables",
+        "updated_time": "2025-04-07T21:08:16+00:00",
+        "published_time": "2025-04-07T21:08:16+00:00"
+    },
     "http://arxiv.org/abs/2504.05143v1": {
         "entry_id": "http://arxiv.org/abs/2504.05143v1",
         "pdf_url": "http://arxiv.org/pdf/2504.05143v1",
