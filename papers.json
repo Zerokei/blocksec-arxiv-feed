@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2504.07041v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07041v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07041v1",
+        "title": "Efficient Storage Integrity in Adversarial Settings",
+        "comment": "Published in the 2025 IEEE Symposium on Security and Privacy (S&P)",
+        "updated_time": "2025-04-09T16:58:22+00:00",
+        "published_time": "2025-04-09T16:58:22+00:00"
+    },
+    "http://arxiv.org/abs/2504.07027v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07027v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07027v1",
+        "title": "Using ML filters to help automated vulnerability repairs: when it helps and when it doesn't",
+        "comment": null,
+        "updated_time": "2025-04-09T16:39:09+00:00",
+        "published_time": "2025-04-09T16:39:09+00:00"
+    },
+    "http://arxiv.org/abs/2504.07017v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07017v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07017v1",
+        "title": "Adapting GT2-FLS for Uncertainty Quantification: A Blueprint Calibration Strategy",
+        "comment": "in IEEE International Conference on Fuzzy Systems, 2025",
+        "updated_time": "2025-04-09T16:32:43+00:00",
+        "published_time": "2025-04-09T16:32:43+00:00"
+    },
+    "http://arxiv.org/abs/2504.07015v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07015v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07015v1",
+        "title": "LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware",
+        "comment": "This paper is presented at IEEE VLSI Test Symposium (VTS) 2025",
+        "updated_time": "2025-04-09T16:32:13+00:00",
+        "published_time": "2025-04-09T16:32:13+00:00"
+    },
+    "http://arxiv.org/abs/2504.06935v1": {
+        "entry_id": "http://arxiv.org/abs/2504.06935v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.06935v1",
+        "title": "ASRL:A robust loss function with potential for development",
+        "comment": "five pages and three figures",
+        "updated_time": "2025-04-09T14:40:46+00:00",
+        "published_time": "2025-04-09T14:40:46+00:00"
+    },
+    "http://arxiv.org/abs/2504.06927v1": {
+        "entry_id": "http://arxiv.org/abs/2504.06927v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.06927v1",
+        "title": "RO-FIGS: Efficient and Expressive Tree-Based Ensembles for Tabular Data",
+        "comment": null,
+        "updated_time": "2025-04-09T14:35:24+00:00",
+        "published_time": "2025-04-09T14:35:24+00:00"
+    },
+    "http://arxiv.org/abs/2504.06748v1": {
+        "entry_id": "http://arxiv.org/abs/2504.06748v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.06748v1",
+        "title": "Efficient Deployment of Spiking Neural Networks on SpiNNaker2 for DVS Gesture Recognition Using Neuromorphic Intermediate Representation",
+        "comment": "8 pages, 3 figures, 8 tables, Conference-2025 Neuro Inspired\n  Computational Elements (NICE)",
+        "updated_time": "2025-04-09T10:09:29+00:00",
+        "published_time": "2025-04-09T10:09:29+00:00"
+    },
     "http://arxiv.org/abs/2504.06157v1": {
         "entry_id": "http://arxiv.org/abs/2504.06157v1",
         "pdf_url": "http://arxiv.org/pdf/2504.06157v1",
