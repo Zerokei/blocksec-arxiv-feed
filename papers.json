@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2504.07938v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07938v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07938v1",
+        "title": "Development of a Quantum-Resistant File Transfer System with Blockchain Audit Trail",
+        "comment": "5 figures, 7 figures, extract from master's thesis",
+        "updated_time": "2025-04-10T17:51:14+00:00",
+        "published_time": "2025-04-10T17:51:14+00:00"
+    },
+    "http://arxiv.org/abs/2504.07907v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07907v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07907v1",
+        "title": "Porting an LLM based Application from ChatGPT to an On-Premise Environment",
+        "comment": "Actual article is a part of the proceedings of the International\n  Conference on Software Reuse (ICSR) 2025",
+        "updated_time": "2025-04-10T16:29:26+00:00",
+        "published_time": "2025-04-10T16:29:26+00:00"
+    },
+    "http://arxiv.org/abs/2504.07894v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07894v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07894v1",
+        "title": "DiverseFlow: Sample-Efficient Diverse Mode Coverage in Flows",
+        "comment": null,
+        "updated_time": "2025-04-10T16:09:50+00:00",
+        "published_time": "2025-04-10T16:09:50+00:00"
+    },
+    "http://arxiv.org/abs/2504.07787v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07787v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07787v1",
+        "title": "Fairness Mediator: Neutralize Stereotype Associations to Mitigate Bias in Large Language Models",
+        "comment": "Accepted by ISSTA 2025.20 pages",
+        "updated_time": "2025-04-10T14:23:06+00:00",
+        "published_time": "2025-04-10T14:23:06+00:00"
+    },
+    "http://arxiv.org/abs/2504.07707v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07707v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07707v1",
+        "title": "Managing Security Issues in Software Containers: From Practitioners Perspective",
+        "comment": "no comments",
+        "updated_time": "2025-04-10T12:49:00+00:00",
+        "published_time": "2025-04-10T12:49:00+00:00"
+    },
+    "http://arxiv.org/abs/2504.07618v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07618v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07618v1",
+        "title": "CTSR: Cartesian tensor-based sparse regression for data-driven discovery of high-dimensional invariant governing equations",
+        "comment": null,
+        "updated_time": "2025-04-10T10:06:29+00:00",
+        "published_time": "2025-04-10T10:06:29+00:00"
+    },
+    "http://arxiv.org/abs/2504.07611v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07611v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07611v1",
+        "title": "Conditional Conformal Risk Adaptation",
+        "comment": null,
+        "updated_time": "2025-04-10T10:01:06+00:00",
+        "published_time": "2025-04-10T10:01:06+00:00"
+    },
+    "http://arxiv.org/abs/2504.07589v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07589v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07589v1",
+        "title": "Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts",
+        "comment": "Accepted by ISSTA2025",
+        "updated_time": "2025-04-10T09:37:19+00:00",
+        "published_time": "2025-04-10T09:37:19+00:00"
+    },
+    "http://arxiv.org/abs/2504.07419v1": {
+        "entry_id": "http://arxiv.org/abs/2504.07419v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.07419v1",
+        "title": "Exploring Vulnerabilities and Concerns in Solana Smart Contracts",
+        "comment": "18 pages,4 figures",
+        "updated_time": "2025-04-10T03:25:20+00:00",
+        "published_time": "2025-04-10T03:25:20+00:00"
+    },
     "http://arxiv.org/abs/2504.07041v1": {
         "entry_id": "http://arxiv.org/abs/2504.07041v1",
         "pdf_url": "http://arxiv.org/pdf/2504.07041v1",
