@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2504.08618v1": {
+        "entry_id": "http://arxiv.org/abs/2504.08618v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.08618v1",
+        "title": "A Hybrid Chaos-Based Cryptographic Framework for Post-Quantum Secure Communications",
+        "comment": "18 pages, 1 figure, 5 tables",
+        "updated_time": "2025-04-11T15:24:21+00:00",
+        "published_time": "2025-04-11T15:24:21+00:00"
+    },
+    "http://arxiv.org/abs/2504.07589v2": {
+        "entry_id": "http://arxiv.org/abs/2504.07589v2",
+        "pdf_url": "http://arxiv.org/pdf/2504.07589v2",
+        "title": "Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts",
+        "comment": "Accepted by ISSTA2025",
+        "updated_time": "2025-04-11T14:06:19+00:00",
+        "published_time": "2025-04-10T09:37:19+00:00"
+    },
+    "http://arxiv.org/abs/2504.08554v1": {
+        "entry_id": "http://arxiv.org/abs/2504.08554v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.08554v1",
+        "title": "Boosting-inspired online learning with transfer for railway maintenance",
+        "comment": null,
+        "updated_time": "2025-04-11T14:03:31+00:00",
+        "published_time": "2025-04-11T14:03:31+00:00"
+    },
+    "http://arxiv.org/abs/2504.08401v1": {
+        "entry_id": "http://arxiv.org/abs/2504.08401v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.08401v1",
+        "title": "Graph Reduction with Unsupervised Learning in Column Generation: A Routing Application",
+        "comment": "22 pages, 4 figures, 5 tables",
+        "updated_time": "2025-04-11T10:08:38+00:00",
+        "published_time": "2025-04-11T10:08:38+00:00"
+    },
+    "http://arxiv.org/abs/2504.08356v1": {
+        "entry_id": "http://arxiv.org/abs/2504.08356v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.08356v1",
+        "title": "An Adaptive Clustering Scheme for Client Selections in Communication-Efficient Federated Learning",
+        "comment": "Published in the Proceedings of IEEE VTS Asia Pacific Wireless\n  Communications Symposium (APWCS), 2023",
+        "updated_time": "2025-04-11T08:43:12+00:00",
+        "published_time": "2025-04-11T08:43:12+00:00"
+    },
+    "http://arxiv.org/abs/2504.08325v1": {
+        "entry_id": "http://arxiv.org/abs/2504.08325v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.08325v1",
+        "title": "Practical Secure Aggregation by Combining Cryptography and Trusted Execution Environments",
+        "comment": null,
+        "updated_time": "2025-04-11T07:49:09+00:00",
+        "published_time": "2025-04-11T07:49:09+00:00"
+    },
     "http://arxiv.org/abs/2504.07938v1": {
         "entry_id": "http://arxiv.org/abs/2504.07938v1",
         "pdf_url": "http://arxiv.org/pdf/2504.07938v1",
