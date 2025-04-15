@@ -1,4 +1,108 @@
 {
+    "http://arxiv.org/abs/2504.10231v1": {
+        "entry_id": "http://arxiv.org/abs/2504.10231v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.10231v1",
+        "title": "A Model Zoo of Vision Transformers",
+        "comment": "Accepted at the ICLR Workshop on Neural Network Weights as a New Data\n  Modality 2025",
+        "updated_time": "2025-04-14T13:52:26+00:00",
+        "published_time": "2025-04-14T13:52:26+00:00"
+    },
+    "http://arxiv.org/abs/2504.10178v1": {
+        "entry_id": "http://arxiv.org/abs/2504.10178v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.10178v1",
+        "title": "MSCoT: Structured Chain-of-Thought Generation for Multiple Programming Languages",
+        "comment": "Accepted",
+        "updated_time": "2025-04-14T12:30:47+00:00",
+        "published_time": "2025-04-14T12:30:47+00:00"
+    },
+    "http://arxiv.org/abs/2504.10120v1": {
+        "entry_id": "http://arxiv.org/abs/2504.10120v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.10120v1",
+        "title": "Universally Composable Commitments with Communicating Malicious Physically Uncloneable Functions",
+        "comment": "12 pages + 14 pages Appendix",
+        "updated_time": "2025-04-14T11:29:04+00:00",
+        "published_time": "2025-04-14T11:29:04+00:00"
+    },
+    "http://arxiv.org/abs/2504.10097v1": {
+        "entry_id": "http://arxiv.org/abs/2504.10097v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.10097v1",
+        "title": "STaRFormer: Semi-Supervised Task-Informed Representation Learning via Dynamic Attention-Based Regional Masking for Sequential Data",
+        "comment": null,
+        "updated_time": "2025-04-14T11:03:19+00:00",
+        "published_time": "2025-04-14T11:03:19+00:00"
+    },
+    "http://arxiv.org/abs/2504.10006v1": {
+        "entry_id": "http://arxiv.org/abs/2504.10006v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.10006v1",
+        "title": "Improving Controller Generalization with Dimensionless Markov Decision Processes",
+        "comment": "11 pages, 5 figures",
+        "updated_time": "2025-04-14T09:08:53+00:00",
+        "published_time": "2025-04-14T09:08:53+00:00"
+    },
+    "http://arxiv.org/abs/2504.09977v1": {
+        "entry_id": "http://arxiv.org/abs/2504.09977v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.09977v1",
+        "title": "EthCluster: An Unsupervised Static Analysis Method for Ethereum Smart Contract",
+        "comment": "9 pages, 7 figures",
+        "updated_time": "2025-04-14T08:36:21+00:00",
+        "published_time": "2025-04-14T08:36:21+00:00"
+    },
+    "http://arxiv.org/abs/2504.09971v1": {
+        "entry_id": "http://arxiv.org/abs/2504.09971v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.09971v1",
+        "title": "Proofs of Useful Work from Arbitrary Matrix Multiplication",
+        "comment": null,
+        "updated_time": "2025-04-14T08:22:40+00:00",
+        "published_time": "2025-04-14T08:22:40+00:00"
+    },
+    "http://arxiv.org/abs/2504.09792v1": {
+        "entry_id": "http://arxiv.org/abs/2504.09792v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.09792v1",
+        "title": "A Tale of Two Learning Algorithms: Multiple Stream Random Walk and Asynchronous Gossip",
+        "comment": null,
+        "updated_time": "2025-04-14T01:34:22+00:00",
+        "published_time": "2025-04-14T01:34:22+00:00"
+    },
+    "http://arxiv.org/abs/2504.09652v1": {
+        "entry_id": "http://arxiv.org/abs/2504.09652v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.09652v1",
+        "title": "Bridging Immutability with Flexibility: A Scheme for Secure and Efficient Smart Contract Upgrades",
+        "comment": null,
+        "updated_time": "2025-04-13T16:59:28+00:00",
+        "published_time": "2025-04-13T16:59:28+00:00"
+    },
+    "http://arxiv.org/abs/2504.09593v1": {
+        "entry_id": "http://arxiv.org/abs/2504.09593v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.09593v1",
+        "title": "ControlNET: A Firewall for RAG-based LLM System",
+        "comment": null,
+        "updated_time": "2025-04-13T14:18:35+00:00",
+        "published_time": "2025-04-13T14:18:35+00:00"
+    },
+    "http://arxiv.org/abs/2504.09319v1": {
+        "entry_id": "http://arxiv.org/abs/2504.09319v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.09319v1",
+        "title": "CrossLink: A Decentralized Framework for Secure Cross-Chain Smart Contract Execution",
+        "comment": null,
+        "updated_time": "2025-04-12T19:41:57+00:00",
+        "published_time": "2025-04-12T19:41:57+00:00"
+    },
+    "http://arxiv.org/abs/2504.09315v1": {
+        "entry_id": "http://arxiv.org/abs/2504.09315v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.09315v1",
+        "title": "SmartShift: A Secure and Efficient Approach to Smart Contract Migration",
+        "comment": null,
+        "updated_time": "2025-04-12T19:28:23+00:00",
+        "published_time": "2025-04-12T19:28:23+00:00"
+    },
+    "http://arxiv.org/abs/2504.09205v1": {
+        "entry_id": "http://arxiv.org/abs/2504.09205v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.09205v1",
+        "title": "Query-based Knowledge Transfer for Heterogeneous Learning Environments",
+        "comment": "Accepted at ICLR'25",
+        "updated_time": "2025-04-12T13:09:39+00:00",
+        "published_time": "2025-04-12T13:09:39+00:00"
+    },
     "http://arxiv.org/abs/2504.08618v1": {
         "entry_id": "http://arxiv.org/abs/2504.08618v1",
         "pdf_url": "http://arxiv.org/pdf/2504.08618v1",
