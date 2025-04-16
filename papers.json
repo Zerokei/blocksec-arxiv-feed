@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2504.11383v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11383v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11383v1",
+        "title": "Accelerating Multiscale Modeling with Hybrid Solvers: Coupling FEM and Neural Operators with Domain Decomposition",
+        "comment": null,
+        "updated_time": "2025-04-15T16:54:04+00:00",
+        "published_time": "2025-04-15T16:54:04+00:00"
+    },
+    "http://arxiv.org/abs/2504.11321v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11321v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11321v1",
+        "title": "Subset-Contrastive Multi-Omics Network Embedding",
+        "comment": null,
+        "updated_time": "2025-04-15T16:01:39+00:00",
+        "published_time": "2025-04-15T16:01:39+00:00"
+    },
+    "http://arxiv.org/abs/2504.11126v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11126v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11126v1",
+        "title": "KubeFence: Security Hardening of the Kubernetes Attack Surface",
+        "comment": null,
+        "updated_time": "2025-04-15T12:15:34+00:00",
+        "published_time": "2025-04-15T12:15:34+00:00"
+    },
+    "http://arxiv.org/abs/2504.11079v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11079v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11079v1",
+        "title": "Scalability and Maintainability Challenges and Solutions in Machine Learning: Systematic Literature Review",
+        "comment": "Minor Revision ACM Computing Survey",
+        "updated_time": "2025-04-15T11:24:43+00:00",
+        "published_time": "2025-04-15T11:24:43+00:00"
+    },
+    "http://arxiv.org/abs/2504.11053v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11053v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11053v1",
+        "title": "QualiTagger: Automating software quality detection in issue trackers",
+        "comment": "IN Review ASE journal",
+        "updated_time": "2025-04-15T10:40:40+00:00",
+        "published_time": "2025-04-15T10:40:40+00:00"
+    },
+    "http://arxiv.org/abs/2504.11026v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11026v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11026v1",
+        "title": "A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications",
+        "comment": "A preliminary version of this work was accepted at the 20th\n  International Conference on Systems (ICONS 2025), May 18-22, 2025, Nice,\n  France. The conference proceedings will be published by IARIA Press (ISSN:\n  2308-4243, ISBN: 978-1-68558-278-4) and archived in the ThinkMind Digital\n  Library. The proposed Spike Encoding Framework can be accessed at\n  https://github.com/Alex-Vasilache/Spike-Encoding",
+        "updated_time": "2025-04-15T09:50:03+00:00",
+        "published_time": "2025-04-15T09:50:03+00:00"
+    },
+    "http://arxiv.org/abs/2504.10811v1": {
+        "entry_id": "http://arxiv.org/abs/2504.10811v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.10811v1",
+        "title": "FlexiContracts: A Novel and Efficient Scheme for Upgrading Smart Contracts in Ethereum Blockchain",
+        "comment": "Accepted at the IEEE International Conference on Trust, Security and\n  Privacy in Computing and Communications (TrustCom 2024)",
+        "updated_time": "2025-04-15T02:20:42+00:00",
+        "published_time": "2025-04-15T02:20:42+00:00"
+    },
     "http://arxiv.org/abs/2504.10231v1": {
         "entry_id": "http://arxiv.org/abs/2504.10231v1",
         "pdf_url": "http://arxiv.org/pdf/2504.10231v1",
