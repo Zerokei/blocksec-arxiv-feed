@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2504.12234v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12234v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12234v1",
+        "title": "MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models",
+        "comment": null,
+        "updated_time": "2025-04-16T16:33:53+00:00",
+        "published_time": "2025-04-16T16:33:53+00:00"
+    },
+    "http://arxiv.org/abs/2504.12217v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12217v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12217v1",
+        "title": "zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing",
+        "comment": "Accepted by DAC 2025",
+        "updated_time": "2025-04-16T16:11:11+00:00",
+        "published_time": "2025-04-16T16:11:11+00:00"
+    },
+    "http://arxiv.org/abs/2504.12142v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12142v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12142v1",
+        "title": "Overlapping Error Correction Codes on Two-Dimensional Structures",
+        "comment": null,
+        "updated_time": "2025-04-16T14:53:12+00:00",
+        "published_time": "2025-04-16T14:53:12+00:00"
+    },
+    "http://arxiv.org/abs/2504.12086v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12086v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12086v1",
+        "title": "Neural Contextual Bandits Under Delayed Feedback Constraints",
+        "comment": null,
+        "updated_time": "2025-04-16T13:47:25+00:00",
+        "published_time": "2025-04-16T13:47:25+00:00"
+    },
+    "http://arxiv.org/abs/2504.12034v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12034v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12034v1",
+        "title": "OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine",
+        "comment": "To appear in ISSTA'25",
+        "updated_time": "2025-04-16T12:48:00+00:00",
+        "published_time": "2025-04-16T12:48:00+00:00"
+    },
+    "http://arxiv.org/abs/2504.12025v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12025v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12025v1",
+        "title": "FedEPA: Enhancing Personalization and Modality Alignment in Multimodal Federated Learning",
+        "comment": null,
+        "updated_time": "2025-04-16T12:32:37+00:00",
+        "published_time": "2025-04-16T12:32:37+00:00"
+    },
+    "http://arxiv.org/abs/2504.11383v2": {
+        "entry_id": "http://arxiv.org/abs/2504.11383v2",
+        "pdf_url": "http://arxiv.org/pdf/2504.11383v2",
+        "title": "Accelerating Multiscale Modeling with Hybrid Solvers: Coupling FEM and Neural Operators with Domain Decomposition",
+        "comment": null,
+        "updated_time": "2025-04-16T12:26:48+00:00",
+        "published_time": "2025-04-15T16:54:04+00:00"
+    },
+    "http://arxiv.org/abs/2504.12016v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12016v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12016v1",
+        "title": "Active Human Feedback Collection via Neural Contextual Dueling Bandits",
+        "comment": "Accepted at ICLR 2025 Workshop on Bidirectional Human-AI Alignment\n  (BiAlign)",
+        "updated_time": "2025-04-16T12:16:10+00:00",
+        "published_time": "2025-04-16T12:16:10+00:00"
+    },
+    "http://arxiv.org/abs/2504.11860v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11860v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11860v1",
+        "title": "From Data Behavior to Code Analysis: A Multimodal Study on Security and Privacy Challenges in Blockchain-Based DApp",
+        "comment": null,
+        "updated_time": "2025-04-16T08:30:43+00:00",
+        "published_time": "2025-04-16T08:30:43+00:00"
+    },
+    "http://arxiv.org/abs/2504.11735v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11735v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11735v1",
+        "title": "WalletProbe: A Testing Framework for Browser-based Cryptocurrency Wallet Extensions",
+        "comment": null,
+        "updated_time": "2025-04-16T03:24:30+00:00",
+        "published_time": "2025-04-16T03:24:30+00:00"
+    },
+    "http://arxiv.org/abs/2504.11730v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11730v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11730v1",
+        "title": "Blockchain Application in Metaverse: A Review",
+        "comment": "19 pages, 9 figures",
+        "updated_time": "2025-04-16T03:07:35+00:00",
+        "published_time": "2025-04-16T03:07:35+00:00"
+    },
+    "http://arxiv.org/abs/2504.11702v1": {
+        "entry_id": "http://arxiv.org/abs/2504.11702v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.11702v1",
+        "title": "Clustering and analysis of user behaviour in blockchain: A case study of Planet IX",
+        "comment": "15 pages, 8 figures, submitted to Blockchain: Research and\n  Applications",
+        "updated_time": "2025-04-16T01:57:33+00:00",
+        "published_time": "2025-04-16T01:57:33+00:00"
+    },
     "http://arxiv.org/abs/2504.11383v1": {
         "entry_id": "http://arxiv.org/abs/2504.11383v1",
         "pdf_url": "http://arxiv.org/pdf/2504.11383v1",
