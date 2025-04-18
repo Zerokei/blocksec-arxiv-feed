@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2504.13142v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13142v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13142v1",
+        "title": "Transfer Learning via Auxiliary Labels with Application to Cold-Hardiness Prediction",
+        "comment": null,
+        "updated_time": "2025-04-17T17:51:38+00:00",
+        "published_time": "2025-04-17T17:51:38+00:00"
+    },
+    "http://arxiv.org/abs/2504.13112v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13112v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13112v1",
+        "title": "Hadamard product in deep learning: Introduction, Advances and Challenges",
+        "comment": "Accepted in IEEE T-PAMI",
+        "updated_time": "2025-04-17T17:26:29+00:00",
+        "published_time": "2025-04-17T17:26:29+00:00"
+    },
+    "http://arxiv.org/abs/2504.13075v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13075v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13075v1",
+        "title": "An All-Atom Generative Model for Designing Protein Complexes",
+        "comment": null,
+        "updated_time": "2025-04-17T16:37:41+00:00",
+        "published_time": "2025-04-17T16:37:41+00:00"
+    },
+    "http://arxiv.org/abs/2504.13034v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13034v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13034v1",
+        "title": "Inference-friendly Graph Compression for Graph Neural Networks",
+        "comment": null,
+        "updated_time": "2025-04-17T15:42:13+00:00",
+        "published_time": "2025-04-17T15:42:13+00:00"
+    },
+    "http://arxiv.org/abs/2504.12875v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12875v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12875v1",
+        "title": "A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID Federated Learning",
+        "comment": null,
+        "updated_time": "2025-04-17T12:03:02+00:00",
+        "published_time": "2025-04-17T12:03:02+00:00"
+    },
+    "http://arxiv.org/abs/2504.12850v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12850v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12850v1",
+        "title": "iHHO-SMOTe: A Cleansed Approach for Handling Outliers and Reducing Noise to Improve Imbalanced Data Classification",
+        "comment": null,
+        "updated_time": "2025-04-17T11:17:53+00:00",
+        "published_time": "2025-04-17T11:17:53+00:00"
+    },
+    "http://arxiv.org/abs/2504.12849v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12849v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12849v1",
+        "title": "FedX: Adaptive Model Decomposition and Quantization for IoT Federated Learning",
+        "comment": null,
+        "updated_time": "2025-04-17T11:08:51+00:00",
+        "published_time": "2025-04-17T11:08:51+00:00"
+    },
+    "http://arxiv.org/abs/2504.12828v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12828v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12828v1",
+        "title": "Predicting Stock Prices using Permutation Decision Trees and Strategic Trailing",
+        "comment": "17 pages, 7 figures",
+        "updated_time": "2025-04-17T10:42:38+00:00",
+        "published_time": "2025-04-17T10:42:38+00:00"
+    },
+    "http://arxiv.org/abs/2504.12812v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12812v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12812v1",
+        "title": "SoK: Security of EMV Contactless Payment Systems",
+        "comment": "Published at EuroS&P 2025",
+        "updated_time": "2025-04-17T10:16:48+00:00",
+        "published_time": "2025-04-17T10:16:48+00:00"
+    },
+    "http://arxiv.org/abs/2504.12720v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12720v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12720v1",
+        "title": "Malicious Code Detection in Smart Contracts via Opcode Vectorization",
+        "comment": null,
+        "updated_time": "2025-04-17T07:51:48+00:00",
+        "published_time": "2025-04-17T07:51:48+00:00"
+    },
+    "http://arxiv.org/abs/2504.09593v2": {
+        "entry_id": "http://arxiv.org/abs/2504.09593v2",
+        "pdf_url": "http://arxiv.org/pdf/2504.09593v2",
+        "title": "ControlNET: A Firewall for RAG-based LLM System",
+        "comment": "Project Page: https://ai.zjuicsr.cn/firewall",
+        "updated_time": "2025-04-17T03:50:19+00:00",
+        "published_time": "2025-04-13T14:18:35+00:00"
+    },
+    "http://arxiv.org/abs/2504.12443v1": {
+        "entry_id": "http://arxiv.org/abs/2504.12443v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.12443v1",
+        "title": "Bridging the Gap: A Comparative Study of Academic and Developer Approaches to Smart Contract Vulnerabilities",
+        "comment": null,
+        "updated_time": "2025-04-16T19:20:00+00:00",
+        "published_time": "2025-04-16T19:20:00+00:00"
+    },
     "http://arxiv.org/abs/2504.12234v1": {
         "entry_id": "http://arxiv.org/abs/2504.12234v1",
         "pdf_url": "http://arxiv.org/pdf/2504.12234v1",
