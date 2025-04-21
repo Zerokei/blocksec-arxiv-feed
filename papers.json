@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2504.13792v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13792v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13792v1",
+        "title": "The Binary and Ternary Quantization Can Improve Feature Discrimination",
+        "comment": null,
+        "updated_time": "2025-04-18T16:44:12+00:00",
+        "published_time": "2025-04-18T16:44:12+00:00"
+    },
+    "http://arxiv.org/abs/2504.13786v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13786v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13786v1",
+        "title": "On the Relationship Between Robustness and Expressivity of Graph Neural Networks",
+        "comment": "Accepted at AISTAST 2025, will add DOI when available",
+        "updated_time": "2025-04-18T16:38:33+00:00",
+        "published_time": "2025-04-18T16:38:33+00:00"
+    },
+    "http://arxiv.org/abs/2504.13547v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13547v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13547v1",
+        "title": "Version-level Third-Party Library Detection in Android Applications via Class Structural Similarity",
+        "comment": "12 pages",
+        "updated_time": "2025-04-18T08:24:32+00:00",
+        "published_time": "2025-04-18T08:24:32+00:00"
+    },
+    "http://arxiv.org/abs/2504.13527v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13527v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13527v1",
+        "title": "Designing a reliable lateral movement detector using a graph foundation model",
+        "comment": null,
+        "updated_time": "2025-04-18T07:39:21+00:00",
+        "published_time": "2025-04-18T07:39:21+00:00"
+    },
+    "http://arxiv.org/abs/2504.12828v2": {
+        "entry_id": "http://arxiv.org/abs/2504.12828v2",
+        "pdf_url": "http://arxiv.org/pdf/2504.12828v2",
+        "title": "Predicting Stock Prices using Permutation Decision Trees and Strategic Trailing",
+        "comment": "17 pages, 7 figures",
+        "updated_time": "2025-04-18T07:00:06+00:00",
+        "published_time": "2025-04-17T10:42:38+00:00"
+    },
+    "http://arxiv.org/abs/2504.13484v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13484v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13484v1",
+        "title": "Monitor and Recover: A Paradigm for Future Research on Distribution Shift in Learning-Enabled Cyber-Physical Systems",
+        "comment": "Accepted to ICCPS 2025",
+        "updated_time": "2025-04-18T05:48:35+00:00",
+        "published_time": "2025-04-18T05:48:35+00:00"
+    },
+    "http://arxiv.org/abs/2504.13465v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13465v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13465v1",
+        "title": "Are you SURE? Enhancing Multimodal Pretraining with Missing Modalities through Uncertainty Estimation",
+        "comment": null,
+        "updated_time": "2025-04-18T05:07:20+00:00",
+        "published_time": "2025-04-18T05:07:20+00:00"
+    },
+    "http://arxiv.org/abs/2504.13398v1": {
+        "entry_id": "http://arxiv.org/abs/2504.13398v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.13398v1",
+        "title": "Insecurity Through Obscurity: Veiled Vulnerabilities in Closed-Source Contracts",
+        "comment": null,
+        "updated_time": "2025-04-18T01:22:58+00:00",
+        "published_time": "2025-04-18T01:22:58+00:00"
+    },
     "http://arxiv.org/abs/2504.13142v1": {
         "entry_id": "http://arxiv.org/abs/2504.13142v1",
         "pdf_url": "http://arxiv.org/pdf/2504.13142v1",
