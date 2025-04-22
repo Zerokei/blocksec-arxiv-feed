@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2504.15240v1": {
+        "entry_id": "http://arxiv.org/abs/2504.15240v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.15240v1",
+        "title": "Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks (KANs) in Scientific Machine Learning",
+        "comment": "17 pages, 8 figures,",
+        "updated_time": "2025-04-21T17:14:05+00:00",
+        "published_time": "2025-04-21T17:14:05+00:00"
+    },
+    "http://arxiv.org/abs/2504.15037v1": {
+        "entry_id": "http://arxiv.org/abs/2504.15037v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.15037v1",
+        "title": "A Call for New Recipes to Enhance Spatial Reasoning in MLLMs",
+        "comment": null,
+        "updated_time": "2025-04-21T11:48:39+00:00",
+        "published_time": "2025-04-21T11:48:39+00:00"
+    },
+    "http://arxiv.org/abs/2504.14965v1": {
+        "entry_id": "http://arxiv.org/abs/2504.14965v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.14965v1",
+        "title": "A Security Framework for General Blockchain Layer 2 Protocols",
+        "comment": null,
+        "updated_time": "2025-04-21T08:48:24+00:00",
+        "published_time": "2025-04-21T08:48:24+00:00"
+    },
+    "http://arxiv.org/abs/2504.14955v1": {
+        "entry_id": "http://arxiv.org/abs/2504.14955v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.14955v1",
+        "title": "Efficient Document Retrieval with G-Retriever",
+        "comment": "Extended version of a paper presented at NeurIPS 2024\n  (arXiv:2402.07630)",
+        "updated_time": "2025-04-21T08:27:26+00:00",
+        "published_time": "2025-04-21T08:27:26+00:00"
+    },
+    "http://arxiv.org/abs/2504.14917v1": {
+        "entry_id": "http://arxiv.org/abs/2504.14917v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.14917v1",
+        "title": "POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications",
+        "comment": null,
+        "updated_time": "2025-04-21T07:35:24+00:00",
+        "published_time": "2025-04-21T07:35:24+00:00"
+    },
+    "http://arxiv.org/abs/2504.14886v1": {
+        "entry_id": "http://arxiv.org/abs/2504.14886v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.14886v1",
+        "title": "Zero Day Malware Detection with Alpha: Fast DBI with Transformer Models for Real World Application",
+        "comment": null,
+        "updated_time": "2025-04-21T06:30:21+00:00",
+        "published_time": "2025-04-21T06:30:21+00:00"
+    },
+    "http://arxiv.org/abs/2504.14881v1": {
+        "entry_id": "http://arxiv.org/abs/2504.14881v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.14881v1",
+        "title": "Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)",
+        "comment": null,
+        "updated_time": "2025-04-21T06:19:06+00:00",
+        "published_time": "2025-04-21T06:19:06+00:00"
+    },
+    "http://arxiv.org/abs/2504.14188v1": {
+        "entry_id": "http://arxiv.org/abs/2504.14188v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.14188v1",
+        "title": "FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning",
+        "comment": "10 pages, 7 figures; references added",
+        "updated_time": "2025-04-19T05:24:40+00:00",
+        "published_time": "2025-04-19T05:24:40+00:00"
+    },
+    "http://arxiv.org/abs/2504.14069v1": {
+        "entry_id": "http://arxiv.org/abs/2504.14069v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.14069v1",
+        "title": "Towards Stateless Clients in Ethereum: Benchmarking Verkle Trees and Binary Merkle Trees with SNARKs",
+        "comment": null,
+        "updated_time": "2025-04-18T20:40:02+00:00",
+        "published_time": "2025-04-18T20:40:02+00:00"
+    },
     "http://arxiv.org/abs/2504.13792v1": {
         "entry_id": "http://arxiv.org/abs/2504.13792v1",
         "pdf_url": "http://arxiv.org/pdf/2504.13792v1",
