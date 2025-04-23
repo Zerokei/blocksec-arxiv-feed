@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2504.16057v1": {
+        "entry_id": "http://arxiv.org/abs/2504.16057v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.16057v1",
+        "title": "Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach",
+        "comment": null,
+        "updated_time": "2025-04-22T17:33:53+00:00",
+        "published_time": "2025-04-22T17:33:53+00:00"
+    },
+    "http://arxiv.org/abs/2504.15989v1": {
+        "entry_id": "http://arxiv.org/abs/2504.15989v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.15989v1",
+        "title": "Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model",
+        "comment": "11 pages, 10 figures",
+        "updated_time": "2025-04-22T15:51:00+00:00",
+        "published_time": "2025-04-22T15:51:00+00:00"
+    },
+    "http://arxiv.org/abs/2504.15948v1": {
+        "entry_id": "http://arxiv.org/abs/2504.15948v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.15948v1",
+        "title": "Automated Vulnerability Injection in Solidity Smart Contracts: A Mutation-Based Approach for Benchmark Development",
+        "comment": null,
+        "updated_time": "2025-04-22T14:46:18+00:00",
+        "published_time": "2025-04-22T14:46:18+00:00"
+    },
+    "http://arxiv.org/abs/2504.15867v1": {
+        "entry_id": "http://arxiv.org/abs/2504.15867v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.15867v1",
+        "title": "Inducing Vulnerable Code Generation in LLM Coding Assistants",
+        "comment": null,
+        "updated_time": "2025-04-22T13:09:20+00:00",
+        "published_time": "2025-04-22T13:09:20+00:00"
+    },
+    "http://arxiv.org/abs/2504.15771v1": {
+        "entry_id": "http://arxiv.org/abs/2504.15771v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.15771v1",
+        "title": "Grounded in Context: Retrieval-Based Method for Hallucination Detection",
+        "comment": null,
+        "updated_time": "2025-04-22T10:28:23+00:00",
+        "published_time": "2025-04-22T10:28:23+00:00"
+    },
+    "http://arxiv.org/abs/2504.15717v1": {
+        "entry_id": "http://arxiv.org/abs/2504.15717v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.15717v1",
+        "title": "Trusted Compute Units: A Framework for Chained Verifiable Computations",
+        "comment": "To be published in 2025 IEEE International Conference on Blockchain\n  and Cryptocurrency (ICBC'25). 9 pages. 4 figures",
+        "updated_time": "2025-04-22T09:01:55+00:00",
+        "published_time": "2025-04-22T09:01:55+00:00"
+    },
+    "http://arxiv.org/abs/2504.15674v1": {
+        "entry_id": "http://arxiv.org/abs/2504.15674v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.15674v1",
+        "title": "TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data",
+        "comment": null,
+        "updated_time": "2025-04-22T07:56:51+00:00",
+        "published_time": "2025-04-22T07:56:51+00:00"
+    },
+    "http://arxiv.org/abs/2504.15622v1": {
+        "entry_id": "http://arxiv.org/abs/2504.15622v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.15622v1",
+        "title": "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey",
+        "comment": "20 pages, 3 figures",
+        "updated_time": "2025-04-22T06:28:08+00:00",
+        "published_time": "2025-04-22T06:28:08+00:00"
+    },
+    "http://arxiv.org/abs/2504.12875v2": {
+        "entry_id": "http://arxiv.org/abs/2504.12875v2",
+        "pdf_url": "http://arxiv.org/pdf/2504.12875v2",
+        "title": "A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID Federated Learning",
+        "comment": null,
+        "updated_time": "2025-04-21T20:19:21+00:00",
+        "published_time": "2025-04-17T12:03:02+00:00"
+    },
     "http://arxiv.org/abs/2504.15240v1": {
         "entry_id": "http://arxiv.org/abs/2504.15240v1",
         "pdf_url": "http://arxiv.org/pdf/2504.15240v1",
