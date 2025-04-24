@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2504.16875v1": {
+        "entry_id": "http://arxiv.org/abs/2504.16875v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.16875v1",
+        "title": "Hybrid Reinforcement Learning and Model Predictive Control for Adaptive Control of Hydrogen-Diesel Dual-Fuel Combustion",
+        "comment": null,
+        "updated_time": "2025-04-23T16:51:49+00:00",
+        "published_time": "2025-04-23T16:51:49+00:00"
+    },
+    "http://arxiv.org/abs/2504.16866v1": {
+        "entry_id": "http://arxiv.org/abs/2504.16866v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.16866v1",
+        "title": "An Adaptive ML Framework for Power Converter Monitoring via Federated Transfer Learning",
+        "comment": "2025 IEEE. Personal use of this material is permitted. Permission\n  from IEEE must be obtained for all other uses, in any current or future\n  media, including reprinting/republishing this material for advertising or\n  promotional purposes, creating new collective works, for resale or\n  redistribution to servers or lists, or reuse of any copyrighted component of\n  this work in other works",
+        "updated_time": "2025-04-23T16:39:54+00:00",
+        "published_time": "2025-04-23T16:39:54+00:00"
+    },
+    "http://arxiv.org/abs/2504.16833v1": {
+        "entry_id": "http://arxiv.org/abs/2504.16833v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.16833v1",
+        "title": "LRASGen: LLM-based RESTful API Specification Generation",
+        "comment": null,
+        "updated_time": "2025-04-23T15:52:50+00:00",
+        "published_time": "2025-04-23T15:52:50+00:00"
+    },
+    "http://arxiv.org/abs/2504.16748v1": {
+        "entry_id": "http://arxiv.org/abs/2504.16748v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.16748v1",
+        "title": "Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks",
+        "comment": "Submitted to ICML",
+        "updated_time": "2025-04-23T14:17:28+00:00",
+        "published_time": "2025-04-23T14:17:28+00:00"
+    },
+    "http://arxiv.org/abs/2504.16644v1": {
+        "entry_id": "http://arxiv.org/abs/2504.16644v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.16644v1",
+        "title": "A Systematic Review of Common Beginner Programming Mistakes in Data Engineering",
+        "comment": "Accepted to the 2025 IEEE/ACM 37th International Conference on\n  Software Engineering Education and Training (CSEE&T)",
+        "updated_time": "2025-04-23T12:04:09+00:00",
+        "published_time": "2025-04-23T12:04:09+00:00"
+    },
+    "http://arxiv.org/abs/2504.16506v1": {
+        "entry_id": "http://arxiv.org/abs/2504.16506v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.16506v1",
+        "title": "A Comprehensive Survey of Synthetic Tabular Data Generation",
+        "comment": null,
+        "updated_time": "2025-04-23T08:33:34+00:00",
+        "published_time": "2025-04-23T08:33:34+00:00"
+    },
+    "http://arxiv.org/abs/2504.16431v1": {
+        "entry_id": "http://arxiv.org/abs/2504.16431v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.16431v1",
+        "title": "Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion",
+        "comment": null,
+        "updated_time": "2025-04-23T05:32:58+00:00",
+        "published_time": "2025-04-23T05:32:58+00:00"
+    },
     "http://arxiv.org/abs/2504.16057v1": {
         "entry_id": "http://arxiv.org/abs/2504.16057v1",
         "pdf_url": "http://arxiv.org/pdf/2504.16057v1",
