@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2504.17723v1": {
+        "entry_id": "http://arxiv.org/abs/2504.17723v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.17723v1",
+        "title": "Towards Robust LLMs: an Adversarial Robustness Measurement Framework",
+        "comment": "17 pages, 5 figures",
+        "updated_time": "2025-04-24T16:36:19+00:00",
+        "published_time": "2025-04-24T16:36:19+00:00"
+    },
+    "http://arxiv.org/abs/2504.17601v1": {
+        "entry_id": "http://arxiv.org/abs/2504.17601v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.17601v1",
+        "title": "Interpretable non-linear dimensionality reduction using gaussian weighted linear transformation",
+        "comment": "11 pages, 5 figures",
+        "updated_time": "2025-04-24T14:26:42+00:00",
+        "published_time": "2025-04-24T14:26:42+00:00"
+    },
+    "http://arxiv.org/abs/2504.17492v1": {
+        "entry_id": "http://arxiv.org/abs/2504.17492v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.17492v1",
+        "title": "Prototype-enhanced prediction in graph neural networks for climate applications",
+        "comment": null,
+        "updated_time": "2025-04-24T12:34:23+00:00",
+        "published_time": "2025-04-24T12:34:23+00:00"
+    },
+    "http://arxiv.org/abs/2504.17473v1": {
+        "entry_id": "http://arxiv.org/abs/2504.17473v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.17473v1",
+        "title": "Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack",
+        "comment": null,
+        "updated_time": "2025-04-24T12:06:11+00:00",
+        "published_time": "2025-04-24T12:06:11+00:00"
+    },
+    "http://arxiv.org/abs/2504.17256v1": {
+        "entry_id": "http://arxiv.org/abs/2504.17256v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.17256v1",
+        "title": "A Comment on \"e-PoS: Making PoS Decentralized and Fair\"",
+        "comment": "Comment on arXiv:2101.00330",
+        "updated_time": "2025-04-24T05:22:15+00:00",
+        "published_time": "2025-04-24T05:22:15+00:00"
+    },
     "http://arxiv.org/abs/2504.16875v1": {
         "entry_id": "http://arxiv.org/abs/2504.16875v1",
         "pdf_url": "http://arxiv.org/pdf/2504.16875v1",
