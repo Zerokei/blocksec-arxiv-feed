@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2504.18369v1": {
+        "entry_id": "http://arxiv.org/abs/2504.18369v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.18369v1",
+        "title": "ThreMoLIA: Threat Modeling of Large Language Model-Integrated Applications",
+        "comment": null,
+        "updated_time": "2025-04-25T14:11:42+00:00",
+        "published_time": "2025-04-25T14:11:42+00:00"
+    },
+    "http://arxiv.org/abs/2504.18345v1": {
+        "entry_id": "http://arxiv.org/abs/2504.18345v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.18345v1",
+        "title": "NRevisit: A Cognitive Behavioral Metric for Code Understandability Assessment",
+        "comment": null,
+        "updated_time": "2025-04-25T13:34:24+00:00",
+        "published_time": "2025-04-25T13:34:24+00:00"
+    },
+    "http://arxiv.org/abs/2504.18243v1": {
+        "entry_id": "http://arxiv.org/abs/2504.18243v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.18243v1",
+        "title": "DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering",
+        "comment": null,
+        "updated_time": "2025-04-25T10:43:53+00:00",
+        "published_time": "2025-04-25T10:43:53+00:00"
+    },
+    "http://arxiv.org/abs/2504.18181v1": {
+        "entry_id": "http://arxiv.org/abs/2504.18181v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.18181v1",
+        "title": "Unveiling 3D Ocean Biogeochemical Provinces: A Machine Learning Approach for Systematic Clustering and Validation",
+        "comment": "Submitted to Ecological Informatics. Images in this preprint are of\n  lower resolution than in the journal submission",
+        "updated_time": "2025-04-25T08:55:40+00:00",
+        "published_time": "2025-04-25T08:55:40+00:00"
+    },
+    "http://arxiv.org/abs/2504.18147v1": {
+        "entry_id": "http://arxiv.org/abs/2504.18147v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.18147v1",
+        "title": "NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation",
+        "comment": "ICLR 2025 MCDC workshop",
+        "updated_time": "2025-04-25T07:56:24+00:00",
+        "published_time": "2025-04-25T07:56:24+00:00"
+    },
+    "http://arxiv.org/abs/2504.18133v1": {
+        "entry_id": "http://arxiv.org/abs/2504.18133v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.18133v1",
+        "title": "Tree Boosting Methods for Balanced andImbalanced Classification and their Robustness Over Time in Risk Assessment",
+        "comment": "14 pages. arXiv admin note: text overlap with arXiv:2303.15218",
+        "updated_time": "2025-04-25T07:35:38+00:00",
+        "published_time": "2025-04-25T07:35:38+00:00"
+    },
+    "http://arxiv.org/abs/2504.18055v1": {
+        "entry_id": "http://arxiv.org/abs/2504.18055v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.18055v1",
+        "title": "Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain",
+        "comment": null,
+        "updated_time": "2025-04-25T04:05:28+00:00",
+        "published_time": "2025-04-25T04:05:28+00:00"
+    },
+    "http://arxiv.org/abs/2504.17972v1": {
+        "entry_id": "http://arxiv.org/abs/2504.17972v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.17972v1",
+        "title": "Industrial-Scale Neural Network Clone Detection with Disk-Based Similarity Search",
+        "comment": "11 pages, 3 figures, presented at the 32nd IEEE International\n  Conference on Software Analysis, Evolution, and Reengineering (SANER 2025)",
+        "updated_time": "2025-04-24T22:50:23+00:00",
+        "published_time": "2025-04-24T22:50:23+00:00"
+    },
+    "http://arxiv.org/abs/2504.17971v1": {
+        "entry_id": "http://arxiv.org/abs/2504.17971v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.17971v1",
+        "title": "Cluster-Aware Attacks on Graph Watermarks",
+        "comment": "15 pages, 16 figures",
+        "updated_time": "2025-04-24T22:49:28+00:00",
+        "published_time": "2025-04-24T22:49:28+00:00"
+    },
     "http://arxiv.org/abs/2504.17723v1": {
         "entry_id": "http://arxiv.org/abs/2504.17723v1",
         "pdf_url": "http://arxiv.org/pdf/2504.17723v1",
