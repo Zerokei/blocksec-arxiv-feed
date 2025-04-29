@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2504.15717v2": {
+        "entry_id": "http://arxiv.org/abs/2504.15717v2",
+        "pdf_url": "http://arxiv.org/pdf/2504.15717v2",
+        "title": "Trusted Compute Units: A Framework for Chained Verifiable Computations",
+        "comment": "To be published in 2025 IEEE International Conference on Blockchain\n  and Cryptocurrency (ICBC'25). 9 pages. 4 figures",
+        "updated_time": "2025-04-28T14:44:25+00:00",
+        "published_time": "2025-04-22T09:01:55+00:00"
+    },
+    "http://arxiv.org/abs/2504.19785v1": {
+        "entry_id": "http://arxiv.org/abs/2504.19785v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.19785v1",
+        "title": "Heterophily-informed Message Passing",
+        "comment": "Appearing in Transactions on Machine Learning Research (TMLR) 2025",
+        "updated_time": "2025-04-28T13:28:23+00:00",
+        "published_time": "2025-04-28T13:28:23+00:00"
+    },
+    "http://arxiv.org/abs/2504.19774v1": {
+        "entry_id": "http://arxiv.org/abs/2504.19774v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.19774v1",
+        "title": "If Concept Bottlenecks are the Question, are Foundation Models the Answer?",
+        "comment": null,
+        "updated_time": "2025-04-28T13:18:48+00:00",
+        "published_time": "2025-04-28T13:18:48+00:00"
+    },
+    "http://arxiv.org/abs/2504.19658v1": {
+        "entry_id": "http://arxiv.org/abs/2504.19658v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.19658v1",
+        "title": "Auxiliary Artifacts in Requirements Traceability: A Systematic Mapping Study",
+        "comment": "Submitted to Euromicro Conference Series on Software Engineering and\n  Advanced Applications",
+        "updated_time": "2025-04-28T10:18:34+00:00",
+        "published_time": "2025-04-28T10:18:34+00:00"
+    },
+    "http://arxiv.org/abs/2504.19640v1": {
+        "entry_id": "http://arxiv.org/abs/2504.19640v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.19640v1",
+        "title": "From Paper Trails to Trust on Tracks: Adding Public Transparency to Railways via zk-SNARKs",
+        "comment": null,
+        "updated_time": "2025-04-28T09:54:38+00:00",
+        "published_time": "2025-04-28T09:54:38+00:00"
+    },
+    "http://arxiv.org/abs/2504.19602v1": {
+        "entry_id": "http://arxiv.org/abs/2504.19602v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.19602v1",
+        "title": "Soft-Label Caching and Sharpening for Communication-Efficient Federated Distillation",
+        "comment": null,
+        "updated_time": "2025-04-28T09:04:30+00:00",
+        "published_time": "2025-04-28T09:04:30+00:00"
+    },
+    "http://arxiv.org/abs/2504.19284v1": {
+        "entry_id": "http://arxiv.org/abs/2504.19284v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.19284v1",
+        "title": "Ethical Challenges of Using Artificial Intelligence in Judiciary",
+        "comment": "2023 IEEE MetroXRAINE 2023",
+        "updated_time": "2025-04-27T15:51:56+00:00",
+        "published_time": "2025-04-27T15:51:56+00:00"
+    },
+    "http://arxiv.org/abs/2504.19137v1": {
+        "entry_id": "http://arxiv.org/abs/2504.19137v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.19137v1",
+        "title": "Validation Framework for E-Contract and Smart Contract",
+        "comment": null,
+        "updated_time": "2025-04-27T07:23:46+00:00",
+        "published_time": "2025-04-27T07:23:46+00:00"
+    },
+    "http://arxiv.org/abs/2504.18956v1": {
+        "entry_id": "http://arxiv.org/abs/2504.18956v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.18956v1",
+        "title": "Towards Automated Detection of Inline Code Comment Smells",
+        "comment": null,
+        "updated_time": "2025-04-26T15:38:14+00:00",
+        "published_time": "2025-04-26T15:38:14+00:00"
+    },
     "http://arxiv.org/abs/2504.18369v1": {
         "entry_id": "http://arxiv.org/abs/2504.18369v1",
         "pdf_url": "http://arxiv.org/pdf/2504.18369v1",
