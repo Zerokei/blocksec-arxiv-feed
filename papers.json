@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2504.20926v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20926v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20926v1",
+        "title": "Bipartite Randomized Response Mechanism for Local Differential Privacy",
+        "comment": null,
+        "updated_time": "2025-04-29T16:39:50+00:00",
+        "published_time": "2025-04-29T16:39:50+00:00"
+    },
+    "http://arxiv.org/abs/2504.20907v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20907v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20907v1",
+        "title": "MANILA: A Low-Code Application to Benchmark Machine Learning Models and Fairness-Enhancing Methods",
+        "comment": "Accepted at FSE 2025 Demonstration Track",
+        "updated_time": "2025-04-29T16:24:48+00:00",
+        "published_time": "2025-04-29T16:24:48+00:00"
+    },
+    "http://arxiv.org/abs/2504.20900v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20900v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20900v1",
+        "title": "Evaluating Generative Models for Tabular Data: Novel Metrics and Benchmarking",
+        "comment": "Tabular Data, Generative Models, Evaluation Metrics, Network\n  Intrusion Detection, Outlier Detection, Anomaly Detection",
+        "updated_time": "2025-04-29T16:16:51+00:00",
+        "published_time": "2025-04-29T16:16:51+00:00"
+    },
+    "http://arxiv.org/abs/2504.20896v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20896v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20896v1",
+        "title": "LELANTE: LEveraging LLM for Automated ANdroid TEsting",
+        "comment": "6 pages, 4 figures, 29th International Conference on Evaluation and\n  Assessment in Software Engineering (EASE)",
+        "updated_time": "2025-04-29T16:13:49+00:00",
+        "published_time": "2025-04-29T16:13:49+00:00"
+    },
+    "http://arxiv.org/abs/2504.20827v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20827v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20827v1",
+        "title": "DP-SMOTE: Integrating Differential Privacy and Oversampling Technique to Preserve Privacy in Smart Homes",
+        "comment": null,
+        "updated_time": "2025-04-29T14:50:50+00:00",
+        "published_time": "2025-04-29T14:50:50+00:00"
+    },
+    "http://arxiv.org/abs/2504.20801v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20801v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20801v1",
+        "title": "Unlocking User-oriented Pages: Intention-driven Black-box Scanner for Real-world Web Applications",
+        "comment": null,
+        "updated_time": "2025-04-29T14:14:30+00:00",
+        "published_time": "2025-04-29T14:14:30+00:00"
+    },
+    "http://arxiv.org/abs/2504.20700v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20700v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20700v1",
+        "title": "Building Trust in Healthcare with Privacy Techniques: Blockchain in the Cloud",
+        "comment": "29 oages",
+        "updated_time": "2025-04-29T12:31:37+00:00",
+        "published_time": "2025-04-29T12:31:37+00:00"
+    },
+    "http://arxiv.org/abs/2504.20650v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20650v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20650v1",
+        "title": "RuleKit 2: Faster and simpler rule learning",
+        "comment": "10 pages, 3 figures, 2 tables",
+        "updated_time": "2025-04-29T11:21:11+00:00",
+        "published_time": "2025-04-29T11:21:11+00:00"
+    },
+    "http://arxiv.org/abs/2504.20570v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20570v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20570v1",
+        "title": "ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models",
+        "comment": null,
+        "updated_time": "2025-04-29T09:23:19+00:00",
+        "published_time": "2025-04-29T09:23:19+00:00"
+    },
+    "http://arxiv.org/abs/2504.20568v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20568v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20568v1",
+        "title": "Digital Shielding for Cross-Domain Wi-Fi Signal Adaptation using Relativistic Average Generative Adversarial Network",
+        "comment": null,
+        "updated_time": "2025-04-29T09:18:02+00:00",
+        "published_time": "2025-04-29T09:18:02+00:00"
+    },
+    "http://arxiv.org/abs/2504.20535v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20535v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20535v1",
+        "title": "DeeP-Mod: Deep Dynamic Programming based Environment Modelling using Feature Extraction",
+        "comment": null,
+        "updated_time": "2025-04-29T08:30:11+00:00",
+        "published_time": "2025-04-29T08:30:11+00:00"
+    },
+    "http://arxiv.org/abs/2504.20260v1": {
+        "entry_id": "http://arxiv.org/abs/2504.20260v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.20260v1",
+        "title": "SA2FE: A Secure, Anonymous, Auditable, and Fair Edge Computing Service Offloading Framework",
+        "comment": null,
+        "updated_time": "2025-04-28T21:05:03+00:00",
+        "published_time": "2025-04-28T21:05:03+00:00"
+    },
     "http://arxiv.org/abs/2504.15717v2": {
         "entry_id": "http://arxiv.org/abs/2504.15717v2",
         "pdf_url": "http://arxiv.org/pdf/2504.15717v2",
