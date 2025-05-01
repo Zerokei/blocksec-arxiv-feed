@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2504.21679v1": {
+        "entry_id": "http://arxiv.org/abs/2504.21679v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.21679v1",
+        "title": "Canonicalization for Unreproducible Builds in Java",
+        "comment": null,
+        "updated_time": "2025-04-30T14:17:54+00:00",
+        "published_time": "2025-04-30T14:17:54+00:00"
+    },
+    "http://arxiv.org/abs/2504.21662v1": {
+        "entry_id": "http://arxiv.org/abs/2504.21662v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.21662v1",
+        "title": "On Advancements of the Forward-Forward Algorithm",
+        "comment": "This work has been submitted to the IEEE for possible publication",
+        "updated_time": "2025-04-30T14:03:52+00:00",
+        "published_time": "2025-04-30T14:03:52+00:00"
+    },
+    "http://arxiv.org/abs/2504.21520v1": {
+        "entry_id": "http://arxiv.org/abs/2504.21520v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.21520v1",
+        "title": "Padding Matters -- Exploring Function Detection in PE Files",
+        "comment": "extended version of the paper \"Padding Matters - Exploring Function\n  Detection in PE Files (Dataset/Tool Paper)\" to be published in Proceedings of\n  the Fifteenth ACM Conference on Data and Application Security and Privacy\n  (CODASPY '25)",
+        "updated_time": "2025-04-30T11:15:09+00:00",
+        "published_time": "2025-04-30T11:15:09+00:00"
+    },
+    "http://arxiv.org/abs/2504.21436v1": {
+        "entry_id": "http://arxiv.org/abs/2504.21436v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.21436v1",
+        "title": "Whispers of Data: Unveiling Label Distributions in Federated Learning Through Virtual Client Simulation",
+        "comment": null,
+        "updated_time": "2025-04-30T08:51:06+00:00",
+        "published_time": "2025-04-30T08:51:06+00:00"
+    },
+    "http://arxiv.org/abs/2504.21375v1": {
+        "entry_id": "http://arxiv.org/abs/2504.21375v1",
+        "pdf_url": "http://arxiv.org/pdf/2504.21375v1",
+        "title": "Synergy-CLIP: Extending CLIP with Multi-modal Integration for Robust Representation Learning",
+        "comment": "Multi-modal, Multi-modal Representation Learning, Missing Modality,\n  Missing Modality Reconstruction, Speech and Multi-modality, Vision and\n  Language",
+        "updated_time": "2025-04-30T07:14:58+00:00",
+        "published_time": "2025-04-30T07:14:58+00:00"
+    },
     "http://arxiv.org/abs/2504.20926v1": {
         "entry_id": "http://arxiv.org/abs/2504.20926v1",
         "pdf_url": "http://arxiv.org/pdf/2504.20926v1",
