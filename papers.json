@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2505.00593v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00593v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00593v1",
+        "title": "A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks",
+        "comment": null,
+        "updated_time": "2025-05-01T15:26:48+00:00",
+        "published_time": "2025-05-01T15:26:48+00:00"
+    },
+    "http://arxiv.org/abs/2505.00590v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00590v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00590v1",
+        "title": "Unlocking the Potential of Linear Networks for Irregular Multivariate Time Series Forecasting",
+        "comment": null,
+        "updated_time": "2025-05-01T15:24:48+00:00",
+        "published_time": "2025-05-01T15:24:48+00:00"
+    },
+    "http://arxiv.org/abs/2505.00580v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00580v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00580v1",
+        "title": "Parameter-Efficient Fine-Tuning with Circulant and Diagonal Vectors",
+        "comment": "to appear in Proceedings of the 2025 International Joint Conference\n  on Artificial Intelligence (IJCAI-2025)",
+        "updated_time": "2025-05-01T15:11:46+00:00",
+        "published_time": "2025-05-01T15:11:46+00:00"
+    },
+    "http://arxiv.org/abs/2505.00541v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00541v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00541v1",
+        "title": "KnowEEG: Explainable Knowledge Driven EEG Classification",
+        "comment": null,
+        "updated_time": "2025-05-01T14:05:55+00:00",
+        "published_time": "2025-05-01T14:05:55+00:00"
+    },
+    "http://arxiv.org/abs/2505.00480v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00480v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00480v1",
+        "title": "Decentralized Vulnerability Disclosure via Permissioned Blockchain: A Secure, Transparent Alternative to Centralized CVE Management",
+        "comment": null,
+        "updated_time": "2025-05-01T12:12:08+00:00",
+        "published_time": "2025-05-01T12:12:08+00:00"
+    },
+    "http://arxiv.org/abs/2505.00415v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00415v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00415v1",
+        "title": "CICADA: Cross-Domain Interpretable Coding for Anomaly Detection and Adaptation in Multivariate Time Series",
+        "comment": null,
+        "updated_time": "2025-05-01T09:26:40+00:00",
+        "published_time": "2025-05-01T09:26:40+00:00"
+    },
+    "http://arxiv.org/abs/2505.00410v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00410v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00410v1",
+        "title": "Machine Learning Meets Transparency in Osteoporosis Risk Assessment: A Comparative Study of ML and Explainability Analysis",
+        "comment": "Submitted in an international conference",
+        "updated_time": "2025-05-01T09:05:02+00:00",
+        "published_time": "2025-05-01T09:05:02+00:00"
+    },
+    "http://arxiv.org/abs/2505.00348v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00348v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00348v1",
+        "title": "Validation of a 24-hour-ahead Prediction model for a Residential Electrical Load under diverse climate",
+        "comment": null,
+        "updated_time": "2025-05-01T06:48:26+00:00",
+        "published_time": "2025-05-01T06:48:26+00:00"
+    },
+    "http://arxiv.org/abs/2504.19602v2": {
+        "entry_id": "http://arxiv.org/abs/2504.19602v2",
+        "pdf_url": "http://arxiv.org/pdf/2504.19602v2",
+        "title": "Soft-Label Caching and Sharpening for Communication-Efficient Federated Distillation",
+        "comment": "15 pages, 12 figures",
+        "updated_time": "2025-05-01T00:13:06+00:00",
+        "published_time": "2025-04-28T09:04:30+00:00"
+    },
     "http://arxiv.org/abs/2504.21679v1": {
         "entry_id": "http://arxiv.org/abs/2504.21679v1",
         "pdf_url": "http://arxiv.org/pdf/2504.21679v1",
