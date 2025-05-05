@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2505.01415v1": {
+        "entry_id": "http://arxiv.org/abs/2505.01415v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.01415v1",
+        "title": "How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades",
+        "comment": null,
+        "updated_time": "2025-05-02T17:48:20+00:00",
+        "published_time": "2025-05-02T17:48:20+00:00"
+    },
+    "http://arxiv.org/abs/2505.01336v1": {
+        "entry_id": "http://arxiv.org/abs/2505.01336v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.01336v1",
+        "title": "Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story",
+        "comment": null,
+        "updated_time": "2025-05-02T15:08:17+00:00",
+        "published_time": "2025-05-02T15:08:17+00:00"
+    },
+    "http://arxiv.org/abs/2505.01292v1": {
+        "entry_id": "http://arxiv.org/abs/2505.01292v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.01292v1",
+        "title": "Fine-grained Manipulation Attacks to Local Differential Privacy Protocols for Data Streams",
+        "comment": null,
+        "updated_time": "2025-05-02T14:09:56+00:00",
+        "published_time": "2025-05-02T14:09:56+00:00"
+    },
+    "http://arxiv.org/abs/2505.01199v1": {
+        "entry_id": "http://arxiv.org/abs/2505.01199v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.01199v1",
+        "title": "CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning",
+        "comment": "Accepted at AHLI CHIL 2025",
+        "updated_time": "2025-05-02T11:42:46+00:00",
+        "published_time": "2025-05-02T11:42:46+00:00"
+    },
+    "http://arxiv.org/abs/2505.01163v1": {
+        "entry_id": "http://arxiv.org/abs/2505.01163v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.01163v1",
+        "title": "Empirical Comparison of Lightweight Forecasting Models for Seasonal and Non-Seasonal Time Series",
+        "comment": null,
+        "updated_time": "2025-05-02T10:12:23+00:00",
+        "published_time": "2025-05-02T10:12:23+00:00"
+    },
+    "http://arxiv.org/abs/2505.01160v1": {
+        "entry_id": "http://arxiv.org/abs/2505.01160v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.01160v1",
+        "title": "TActiLE: Tiny Active LEarning for wearable devices",
+        "comment": "Accepted to the \"Eyes Of The Future: Integrating Artificial\n  Intelligence in Smart Eyewear (IAISE)\" Workshop, Held at the \"International\n  Joint Conference on Neural Networks (IJCNN) 2025\"",
+        "updated_time": "2025-05-02T10:05:50+00:00",
+        "published_time": "2025-05-02T10:05:50+00:00"
+    },
+    "http://arxiv.org/abs/2505.01139v1": {
+        "entry_id": "http://arxiv.org/abs/2505.01139v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.01139v1",
+        "title": "Active Sybil Attack and Efficient Defense Strategy in IPFS DHT",
+        "comment": null,
+        "updated_time": "2025-05-02T09:31:14+00:00",
+        "published_time": "2025-05-02T09:31:14+00:00"
+    },
+    "http://arxiv.org/abs/2505.01048v1": {
+        "entry_id": "http://arxiv.org/abs/2505.01048v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.01048v1",
+        "title": "Capability-Based Multi-Tenant Access Management in Crowdsourced Drone Services",
+        "comment": "6 pages, 2 figures, Accepted to be published in IEEE International\n  Conference on Communications 2025",
+        "updated_time": "2025-05-02T06:46:47+00:00",
+        "published_time": "2025-05-02T06:46:47+00:00"
+    },
+    "http://arxiv.org/abs/2505.00941v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00941v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00941v1",
+        "title": "FreCT: Frequency-augmented Convolutional Transformer for Robust Time Series Anomaly Detection",
+        "comment": null,
+        "updated_time": "2025-05-02T00:56:24+00:00",
+        "published_time": "2025-05-02T00:56:24+00:00"
+    },
+    "http://arxiv.org/abs/2505.00888v1": {
+        "entry_id": "http://arxiv.org/abs/2505.00888v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.00888v1",
+        "title": "Balancing Security and Liquidity: A Time-Weighted Snapshot Framework for DAO Governance Voting",
+        "comment": null,
+        "updated_time": "2025-05-01T22:06:36+00:00",
+        "published_time": "2025-05-01T22:06:36+00:00"
+    },
     "http://arxiv.org/abs/2505.00593v1": {
         "entry_id": "http://arxiv.org/abs/2505.00593v1",
         "pdf_url": "http://arxiv.org/pdf/2505.00593v1",
