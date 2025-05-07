@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2505.03677v1": {
+        "entry_id": "http://arxiv.org/abs/2505.03677v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.03677v1",
+        "title": "Neural Integral Operators for Inverse problems in Spectroscopy",
+        "comment": "13 pages. Codes available upon request",
+        "updated_time": "2025-05-06T16:22:46+00:00",
+        "published_time": "2025-05-06T16:22:46+00:00"
+    },
+    "http://arxiv.org/abs/2505.03639v1": {
+        "entry_id": "http://arxiv.org/abs/2505.03639v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.03639v1",
+        "title": "Differential Privacy for Network Assortativity",
+        "comment": null,
+        "updated_time": "2025-05-06T15:40:47+00:00",
+        "published_time": "2025-05-06T15:40:47+00:00"
+    },
+    "http://arxiv.org/abs/2505.03595v1": {
+        "entry_id": "http://arxiv.org/abs/2505.03595v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.03595v1",
+        "title": "Anant-Net: Breaking the Curse of Dimensionality with Scalable and Interpretable Neural Surrogate for High-Dimensional PDEs",
+        "comment": "27 pages, 13 figures",
+        "updated_time": "2025-05-06T14:56:43+00:00",
+        "published_time": "2025-05-06T14:56:43+00:00"
+    },
+    "http://arxiv.org/abs/2505.03533v1": {
+        "entry_id": "http://arxiv.org/abs/2505.03533v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.03533v1",
+        "title": "Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning",
+        "comment": null,
+        "updated_time": "2025-05-06T13:41:59+00:00",
+        "published_time": "2025-05-06T13:41:59+00:00"
+    },
+    "http://arxiv.org/abs/2505.03323v1": {
+        "entry_id": "http://arxiv.org/abs/2505.03323v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.03323v1",
+        "title": "Unraveling the Rainbow: can value-based methods schedule?",
+        "comment": null,
+        "updated_time": "2025-05-06T08:51:17+00:00",
+        "published_time": "2025-05-06T08:51:17+00:00"
+    },
+    "http://arxiv.org/abs/2505.00888v2": {
+        "entry_id": "http://arxiv.org/abs/2505.00888v2",
+        "pdf_url": "http://arxiv.org/pdf/2505.00888v2",
+        "title": "Balancing Security and Liquidity: A Time-Weighted Snapshot Framework for DAO Governance Voting",
+        "comment": null,
+        "updated_time": "2025-05-05T22:14:15+00:00",
+        "published_time": "2025-05-01T22:06:36+00:00"
+    },
     "http://arxiv.org/abs/2505.02392v1": {
         "entry_id": "http://arxiv.org/abs/2505.02392v1",
         "pdf_url": "http://arxiv.org/pdf/2505.02392v1",
