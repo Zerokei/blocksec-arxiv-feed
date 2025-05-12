@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2505.06224v1": {
+        "entry_id": "http://arxiv.org/abs/2505.06224v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.06224v1",
+        "title": "Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks",
+        "comment": "Accepted at IJCNN 2025",
+        "updated_time": "2025-05-09T17:58:52+00:00",
+        "published_time": "2025-05-09T17:58:52+00:00"
+    },
+    "http://arxiv.org/abs/2505.06174v1": {
+        "entry_id": "http://arxiv.org/abs/2505.06174v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.06174v1",
+        "title": "Leakage-resilient Algebraic Manipulation Detection Codes with Optimal Parameters",
+        "comment": null,
+        "updated_time": "2025-05-09T16:28:37+00:00",
+        "published_time": "2025-05-09T16:28:37+00:00"
+    },
+    "http://arxiv.org/abs/2505.02392v2": {
+        "entry_id": "http://arxiv.org/abs/2505.02392v2",
+        "pdf_url": "http://arxiv.org/pdf/2505.02392v2",
+        "title": "Moneros Decentralized P2P Exchanges: Functionality, Adoption, and Privacy Risks",
+        "comment": "Accepted submission to the 9th Workshop on Trusted Smart Contracts\n  (WTSC) 2025, to be published in the Springer-Verlag Lecture Notes in Computer\n  Science (LNCS) series",
+        "updated_time": "2025-05-09T15:32:20+00:00",
+        "published_time": "2025-05-05T06:27:37+00:00"
+    },
+    "http://arxiv.org/abs/2505.06114v1": {
+        "entry_id": "http://arxiv.org/abs/2505.06114v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.06114v1",
+        "title": "FIC-TSC: Learning Time Series Classification with Fisher Information Constraint",
+        "comment": "Accepted by ICML2025. Pre camera-ready version",
+        "updated_time": "2025-05-09T15:13:27+00:00",
+        "published_time": "2025-05-09T15:13:27+00:00"
+    },
+    "http://arxiv.org/abs/2505.06080v1": {
+        "entry_id": "http://arxiv.org/abs/2505.06080v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.06080v1",
+        "title": "Fault Diagnosis of 3D-Printed Scaled Wind Turbine Blades",
+        "comment": null,
+        "updated_time": "2025-05-09T14:25:57+00:00",
+        "published_time": "2025-05-09T14:25:57+00:00"
+    },
+    "http://arxiv.org/abs/2505.05934v1": {
+        "entry_id": "http://arxiv.org/abs/2505.05934v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.05934v1",
+        "title": "Cryptanalysis of a Lattice-Based PIR Scheme for Arbitrary Database Sizes",
+        "comment": null,
+        "updated_time": "2025-05-09T10:25:03+00:00",
+        "published_time": "2025-05-09T10:25:03+00:00"
+    },
+    "http://arxiv.org/abs/2505.05920v1": {
+        "entry_id": "http://arxiv.org/abs/2505.05920v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.05920v1",
+        "title": "Privacy-Preserving Credit Card Approval Using Homomorphic SVM: Toward Secure Inference in FinTech Applications",
+        "comment": null,
+        "updated_time": "2025-05-09T09:46:56+00:00",
+        "published_time": "2025-05-09T09:46:56+00:00"
+    },
+    "http://arxiv.org/abs/2505.05897v1": {
+        "entry_id": "http://arxiv.org/abs/2505.05897v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.05897v1",
+        "title": "Exploring the Susceptibility to Fraud of Monetary Incentive Mechanisms for Strengthening FOSS Projects",
+        "comment": "Accepted at ARES 2025",
+        "updated_time": "2025-05-09T09:05:38+00:00",
+        "published_time": "2025-05-09T09:05:38+00:00"
+    },
+    "http://arxiv.org/abs/2505.01941v2": {
+        "entry_id": "http://arxiv.org/abs/2505.01941v2",
+        "pdf_url": "http://arxiv.org/pdf/2505.01941v2",
+        "title": "UK Finfluencers: Exploring Content, Reach, and Responsibility",
+        "comment": "16 Pages",
+        "updated_time": "2025-05-09T08:34:17+00:00",
+        "published_time": "2025-05-03T22:28:36+00:00"
+    },
+    "http://arxiv.org/abs/2505.05843v1": {
+        "entry_id": "http://arxiv.org/abs/2505.05843v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.05843v1",
+        "title": "Enhancing Noisy Functional Encryption for Privacy-Preserving Machine Learning",
+        "comment": null,
+        "updated_time": "2025-05-09T07:33:09+00:00",
+        "published_time": "2025-05-09T07:33:09+00:00"
+    },
+    "http://arxiv.org/abs/2505.05584v1": {
+        "entry_id": "http://arxiv.org/abs/2505.05584v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.05584v1",
+        "title": "PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization",
+        "comment": null,
+        "updated_time": "2025-05-08T18:30:22+00:00",
+        "published_time": "2025-05-08T18:30:22+00:00"
+    },
     "http://arxiv.org/abs/2505.05413v1": {
         "entry_id": "http://arxiv.org/abs/2505.05413v1",
         "pdf_url": "http://arxiv.org/pdf/2505.05413v1",
