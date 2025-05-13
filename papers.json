@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2505.07783v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07783v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07783v1",
+        "title": "Relative Overfitting and Accept-Reject Framework",
+        "comment": null,
+        "updated_time": "2025-05-12T17:36:14+00:00",
+        "published_time": "2025-05-12T17:36:14+00:00"
+    },
+    "http://arxiv.org/abs/2505.07735v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07735v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07735v1",
+        "title": "Assessing the Chemical Intelligence of Large Language Models",
+        "comment": null,
+        "updated_time": "2025-05-12T16:44:38+00:00",
+        "published_time": "2025-05-12T16:44:38+00:00"
+    },
+    "http://arxiv.org/abs/2505.07629v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07629v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07629v1",
+        "title": "Enhancing Federated Learning with Kolmogorov-Arnold Networks: A Comparative Study Across Diverse Aggregation Strategies",
+        "comment": "This preprint has not undergone peer review or any post-submission\n  improvements or corrections. It was prepared prior to submission to, and has\n  since been accepted at, ICIC 2025. The final Version of Record will be\n  published in the ICIC 2025 proceedings by Springer",
+        "updated_time": "2025-05-12T14:56:27+00:00",
+        "published_time": "2025-05-12T14:56:27+00:00"
+    },
+    "http://arxiv.org/abs/2505.07583v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07583v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07583v1",
+        "title": "Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI",
+        "comment": null,
+        "updated_time": "2025-05-12T14:05:39+00:00",
+        "published_time": "2025-05-12T14:05:39+00:00"
+    },
+    "http://arxiv.org/abs/2505.07542v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07542v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07542v1",
+        "title": "A Systematic Mapping Study on Contract-based Software Design for Dependable Systems",
+        "comment": "8 pages, 7 figures",
+        "updated_time": "2025-05-12T13:25:29+00:00",
+        "published_time": "2025-05-12T13:25:29+00:00"
+    },
+    "http://arxiv.org/abs/2505.07522v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07522v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07522v1",
+        "title": "Byam: Fixing Breaking Dependency Updates with Large Language Models",
+        "comment": null,
+        "updated_time": "2025-05-12T13:03:26+00:00",
+        "published_time": "2025-05-12T13:03:26+00:00"
+    },
+    "http://arxiv.org/abs/2505.07376v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07376v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07376v1",
+        "title": "A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection",
+        "comment": "8 pages, 3 figures",
+        "updated_time": "2025-05-12T09:19:31+00:00",
+        "published_time": "2025-05-12T09:19:31+00:00"
+    },
+    "http://arxiv.org/abs/2505.07360v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07360v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07360v1",
+        "title": "BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models",
+        "comment": "23 pages, 5 figures, to be published in IJCAI 2025",
+        "updated_time": "2025-05-12T08:54:07+00:00",
+        "published_time": "2025-05-12T08:54:07+00:00"
+    },
+    "http://arxiv.org/abs/2505.07329v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07329v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07329v1",
+        "title": "Private LoRA Fine-tuning of Open-Source LLMs with Homomorphic Encryption",
+        "comment": null,
+        "updated_time": "2025-05-12T08:14:33+00:00",
+        "published_time": "2025-05-12T08:14:33+00:00"
+    },
+    "http://arxiv.org/abs/2505.07309v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07309v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07309v1",
+        "title": "Uncertainty Profiles for LLMs: Uncertainty Source Decomposition and Adaptive Model-Metric Selection",
+        "comment": null,
+        "updated_time": "2025-05-12T07:55:22+00:00",
+        "published_time": "2025-05-12T07:55:22+00:00"
+    },
+    "http://arxiv.org/abs/2505.07270v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07270v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07270v1",
+        "title": "Automated Repair of Ambiguous Natural Language Requirements",
+        "comment": null,
+        "updated_time": "2025-05-12T06:47:53+00:00",
+        "published_time": "2025-05-12T06:47:53+00:00"
+    },
+    "http://arxiv.org/abs/2505.07149v1": {
+        "entry_id": "http://arxiv.org/abs/2505.07149v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.07149v1",
+        "title": "AugMixCloak: A Defense against Membership Inference Attacks via Image Transformation",
+        "comment": null,
+        "updated_time": "2025-05-11T23:38:44+00:00",
+        "published_time": "2025-05-11T23:38:44+00:00"
+    },
     "http://arxiv.org/abs/2505.06224v1": {
         "entry_id": "http://arxiv.org/abs/2505.06224v1",
         "pdf_url": "http://arxiv.org/pdf/2505.06224v1",
