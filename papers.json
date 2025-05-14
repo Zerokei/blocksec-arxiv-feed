@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2505.08748v1": {
+        "entry_id": "http://arxiv.org/abs/2505.08748v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.08748v1",
+        "title": "Implet: A Post-hoc Subsequence Explainer for Time Series Models",
+        "comment": null,
+        "updated_time": "2025-05-13T17:01:23+00:00",
+        "published_time": "2025-05-13T17:01:23+00:00"
+    },
+    "http://arxiv.org/abs/2505.08652v1": {
+        "entry_id": "http://arxiv.org/abs/2505.08652v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.08652v1",
+        "title": "Comparative Analysis of Blockchain Systems",
+        "comment": "16 pages, 5 figures",
+        "updated_time": "2025-05-13T15:13:37+00:00",
+        "published_time": "2025-05-13T15:13:37+00:00"
+    },
+    "http://arxiv.org/abs/2505.08646v1": {
+        "entry_id": "http://arxiv.org/abs/2505.08646v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.08646v1",
+        "title": "Modular Federated Learning: A Meta-Framework Perspective",
+        "comment": null,
+        "updated_time": "2025-05-13T15:04:55+00:00",
+        "published_time": "2025-05-13T15:04:55+00:00"
+    },
+    "http://arxiv.org/abs/2505.08557v1": {
+        "entry_id": "http://arxiv.org/abs/2505.08557v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.08557v1",
+        "title": "Online Learning and Unlearning",
+        "comment": null,
+        "updated_time": "2025-05-13T13:33:36+00:00",
+        "published_time": "2025-05-13T13:33:36+00:00"
+    },
+    "http://arxiv.org/abs/2505.08544v1": {
+        "entry_id": "http://arxiv.org/abs/2505.08544v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.08544v1",
+        "title": "ROSA: Finding Backdoors with Fuzzing",
+        "comment": null,
+        "updated_time": "2025-05-13T13:16:06+00:00",
+        "published_time": "2025-05-13T13:16:06+00:00"
+    },
     "http://arxiv.org/abs/2505.07783v1": {
         "entry_id": "http://arxiv.org/abs/2505.07783v1",
         "pdf_url": "http://arxiv.org/pdf/2505.07783v1",
