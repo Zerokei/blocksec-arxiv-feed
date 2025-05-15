@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2505.09593v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09593v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09593v1",
+        "title": "Online Isolation Forest",
+        "comment": "Accepted at International Conference on Machine Learning (ICML 2024)",
+        "updated_time": "2025-05-14T17:42:50+00:00",
+        "published_time": "2025-05-14T17:42:50+00:00"
+    },
+    "http://arxiv.org/abs/2505.09501v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09501v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09501v1",
+        "title": "Scaling Up: Revisiting Mining Android Sandboxes at Scale for Malware Classification",
+        "comment": "12 pages, 2 figures, ECOOP 2025",
+        "updated_time": "2025-05-14T15:52:09+00:00",
+        "published_time": "2025-05-14T15:52:09+00:00"
+    },
+    "http://arxiv.org/abs/2505.09361v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09361v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09361v1",
+        "title": "Efficient Mixed Precision Quantization in Graph Neural Networks",
+        "comment": null,
+        "updated_time": "2025-05-14T13:11:39+00:00",
+        "published_time": "2025-05-14T13:11:39+00:00"
+    },
+    "http://arxiv.org/abs/2505.09331v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09331v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09331v1",
+        "title": "MUST: Multi-Scale Structural-Temporal Link Prediction Model for UAV Ad Hoc Networks",
+        "comment": null,
+        "updated_time": "2025-05-14T12:26:46+00:00",
+        "published_time": "2025-05-14T12:26:46+00:00"
+    },
+    "http://arxiv.org/abs/2505.09294v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09294v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09294v1",
+        "title": "On the Learning with Augmented Class via Forests",
+        "comment": "Accepted by IJCAI 2025",
+        "updated_time": "2025-05-14T11:22:22+00:00",
+        "published_time": "2025-05-14T11:22:22+00:00"
+    },
+    "http://arxiv.org/abs/2505.09261v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09261v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09261v1",
+        "title": "Instantiating Standards: Enabling Standard-Driven Text TTP Extraction with Evolvable Memory",
+        "comment": null,
+        "updated_time": "2025-05-14T10:22:13+00:00",
+        "published_time": "2025-05-14T10:22:13+00:00"
+    },
+    "http://arxiv.org/abs/2505.09214v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09214v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09214v1",
+        "title": "The Larger the Merrier? Efficient Large AI Model Inference in Wireless Edge Networks",
+        "comment": null,
+        "updated_time": "2025-05-14T08:18:55+00:00",
+        "published_time": "2025-05-14T08:18:55+00:00"
+    },
+    "http://arxiv.org/abs/2505.09034v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09034v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09034v1",
+        "title": "Multiparty Selective Disclosure using Attribute-Based Encryption",
+        "comment": null,
+        "updated_time": "2025-05-14T00:08:30+00:00",
+        "published_time": "2025-05-14T00:08:30+00:00"
+    },
     "http://arxiv.org/abs/2505.08748v1": {
         "entry_id": "http://arxiv.org/abs/2505.08748v1",
         "pdf_url": "http://arxiv.org/pdf/2505.08748v1",
