@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2505.10430v1": {
+        "entry_id": "http://arxiv.org/abs/2505.10430v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.10430v1",
+        "title": "The Ephemeral Threat: Assessing the Security of Algorithmic Trading Systems powered by Deep Learning",
+        "comment": "To appear at ACM CODASPY 2025. 12 pages",
+        "updated_time": "2025-05-15T15:50:10+00:00",
+        "published_time": "2025-05-15T15:50:10+00:00"
+    },
+    "http://arxiv.org/abs/2505.10307v1": {
+        "entry_id": "http://arxiv.org/abs/2505.10307v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.10307v1",
+        "title": "Negative Metric Learning for Graphs",
+        "comment": null,
+        "updated_time": "2025-05-15T13:53:48+00:00",
+        "published_time": "2025-05-15T13:53:48+00:00"
+    },
+    "http://arxiv.org/abs/2505.10296v1": {
+        "entry_id": "http://arxiv.org/abs/2505.10296v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.10296v1",
+        "title": "Optimizing Electric Bus Charging Scheduling with Uncertainties Using Hierarchical Deep Reinforcement Learning",
+        "comment": null,
+        "updated_time": "2025-05-15T13:44:27+00:00",
+        "published_time": "2025-05-15T13:44:27+00:00"
+    },
+    "http://arxiv.org/abs/2505.10198v1": {
+        "entry_id": "http://arxiv.org/abs/2505.10198v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.10198v1",
+        "title": "A multi-head deep fusion model for recognition of cattle foraging events using sound and movement signals",
+        "comment": "Preprint submitted to Engineering Applications of Artificial\n  Intelligence",
+        "updated_time": "2025-05-15T11:55:16+00:00",
+        "published_time": "2025-05-15T11:55:16+00:00"
+    },
+    "http://arxiv.org/abs/2505.09928v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09928v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09928v1",
+        "title": "DeFeed: Secure Decentralized Cross-Contract Data Feed in Web 3.0 for Connected Autonomous Vehicles",
+        "comment": null,
+        "updated_time": "2025-05-15T03:25:41+00:00",
+        "published_time": "2025-05-15T03:25:41+00:00"
+    },
+    "http://arxiv.org/abs/2505.09892v1": {
+        "entry_id": "http://arxiv.org/abs/2505.09892v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.09892v1",
+        "title": "Correlating Account on Ethereum Mixing Service via Domain-Invariant feature learning",
+        "comment": "Cryptocurrency, Ethereum, mixing services, GNN",
+        "updated_time": "2025-05-15T01:27:12+00:00",
+        "published_time": "2025-05-15T01:27:12+00:00"
+    },
     "http://arxiv.org/abs/2505.09593v1": {
         "entry_id": "http://arxiv.org/abs/2505.09593v1",
         "pdf_url": "http://arxiv.org/pdf/2505.09593v1",
