@@ -1,4 +1,108 @@
 {
+    "http://arxiv.org/abs/2505.11461v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11461v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11461v1",
+        "title": "Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks",
+        "comment": "7 pages, 1 figure",
+        "updated_time": "2025-05-16T17:14:37+00:00",
+        "published_time": "2025-05-16T17:14:37+00:00"
+    },
+    "http://arxiv.org/abs/2505.11459v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11459v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11459v1",
+        "title": "ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks",
+        "comment": null,
+        "updated_time": "2025-05-16T17:13:45+00:00",
+        "published_time": "2025-05-16T17:13:45+00:00"
+    },
+    "http://arxiv.org/abs/2505.11360v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11360v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11360v1",
+        "title": "Efficient End-to-End Learning for Decision-Making: A Meta-Optimization Approach",
+        "comment": null,
+        "updated_time": "2025-05-16T15:27:50+00:00",
+        "published_time": "2025-05-16T15:27:50+00:00"
+    },
+    "http://arxiv.org/abs/2505.11320v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11320v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11320v1",
+        "title": "Understanding and Characterizing Obfuscated Funds Transfers in Ethereum Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-05-16T14:42:51+00:00",
+        "published_time": "2025-05-16T14:42:51+00:00"
+    },
+    "http://arxiv.org/abs/2505.11283v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11283v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11283v1",
+        "title": "SubROC: AUC-Based Discovery of Exceptional Subgroup Performance for Binary Classifiers",
+        "comment": "49 pages, 8 figures",
+        "updated_time": "2025-05-16T14:18:40+00:00",
+        "published_time": "2025-05-16T14:18:40+00:00"
+    },
+    "http://arxiv.org/abs/2505.11239v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11239v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11239v1",
+        "title": "Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins -- Dataset and Benchmarks",
+        "comment": null,
+        "updated_time": "2025-05-16T13:29:18+00:00",
+        "published_time": "2025-05-16T13:29:18+00:00"
+    },
+    "http://arxiv.org/abs/2505.11221v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11221v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11221v1",
+        "title": "Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation",
+        "comment": "5 pages, ICASSP 2025. The first two authors are equally contributed",
+        "updated_time": "2025-05-16T13:15:54+00:00",
+        "published_time": "2025-05-16T13:15:54+00:00"
+    },
+    "http://arxiv.org/abs/2505.11153v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11153v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11153v1",
+        "title": "Bi-directional Recurrence Improves Transformer in Partially Observable Markov Decision Processes",
+        "comment": null,
+        "updated_time": "2025-05-16T11:54:48+00:00",
+        "published_time": "2025-05-16T11:54:48+00:00"
+    },
+    "http://arxiv.org/abs/2505.11139v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11139v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11139v1",
+        "title": "Covariance Density Neural Networks",
+        "comment": null,
+        "updated_time": "2025-05-16T11:38:13+00:00",
+        "published_time": "2025-05-16T11:38:13+00:00"
+    },
+    "http://arxiv.org/abs/2505.11132v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11132v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11132v1",
+        "title": "Fairness-aware Anomaly Detection via Fair Projection",
+        "comment": null,
+        "updated_time": "2025-05-16T11:26:00+00:00",
+        "published_time": "2025-05-16T11:26:00+00:00"
+    },
+    "http://arxiv.org/abs/2505.11094v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11094v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11094v1",
+        "title": "Blockchain-Enabled Decentralized Privacy-Preserving Group Purchasing for Energy Plans",
+        "comment": null,
+        "updated_time": "2025-05-16T10:26:15+00:00",
+        "published_time": "2025-05-16T10:26:15+00:00"
+    },
+    "http://arxiv.org/abs/2505.10965v1": {
+        "entry_id": "http://arxiv.org/abs/2505.10965v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.10965v1",
+        "title": "Privacy and Confidentiality Requirements Engineering for Process Data",
+        "comment": null,
+        "updated_time": "2025-05-16T08:03:02+00:00",
+        "published_time": "2025-05-16T08:03:02+00:00"
+    },
+    "http://arxiv.org/abs/2505.10942v1": {
+        "entry_id": "http://arxiv.org/abs/2505.10942v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.10942v1",
+        "title": "Nosy Layers, Noisy Fixes: Tackling DRAs in Federated Learning Systems using Explainable AI",
+        "comment": "Accepted to AsiaCCS 2025",
+        "updated_time": "2025-05-16T07:28:15+00:00",
+        "published_time": "2025-05-16T07:28:15+00:00"
+    },
     "http://arxiv.org/abs/2505.10430v1": {
         "entry_id": "http://arxiv.org/abs/2505.10430v1",
         "pdf_url": "http://arxiv.org/pdf/2505.10430v1",
