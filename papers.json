@@ -1,4 +1,132 @@
 {
+    "http://arxiv.org/abs/2505.13421v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13421v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13421v1",
+        "title": "Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard",
+        "comment": null,
+        "updated_time": "2025-05-19T17:52:58+00:00",
+        "published_time": "2025-05-19T17:52:58+00:00"
+    },
+    "http://arxiv.org/abs/2505.13362v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13362v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13362v1",
+        "title": "DynaNoise: Dynamic Probabilistic Noise Injection for Defending Against Membership Inference Attacks",
+        "comment": null,
+        "updated_time": "2025-05-19T17:07:00+00:00",
+        "published_time": "2025-05-19T17:07:00+00:00"
+    },
+    "http://arxiv.org/abs/2505.13249v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13249v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13249v1",
+        "title": "RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models",
+        "comment": "12 pages, 4 figures, 3 tables",
+        "updated_time": "2025-05-19T15:32:49+00:00",
+        "published_time": "2025-05-19T15:32:49+00:00"
+    },
+    "http://arxiv.org/abs/2505.13239v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13239v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13239v1",
+        "title": "Network-wide Quantum Key Distribution with Onion Routing Relay",
+        "comment": null,
+        "updated_time": "2025-05-19T15:21:11+00:00",
+        "published_time": "2025-05-19T15:21:11+00:00"
+    },
+    "http://arxiv.org/abs/2505.13169v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13169v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13169v1",
+        "title": "RIFLES: Resource-effIcient Federated LEarning via Scheduling",
+        "comment": null,
+        "updated_time": "2025-05-19T14:26:33+00:00",
+        "published_time": "2025-05-19T14:26:33+00:00"
+    },
+    "http://arxiv.org/abs/2505.13158v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13158v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13158v1",
+        "title": "Network-wide Quantum Key Distribution with Onion Routing Relay (Conference Version)",
+        "comment": null,
+        "updated_time": "2025-05-19T14:18:19+00:00",
+        "published_time": "2025-05-19T14:18:19+00:00"
+    },
+    "http://arxiv.org/abs/2505.13150v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13150v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13150v1",
+        "title": "Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics",
+        "comment": null,
+        "updated_time": "2025-05-19T14:12:19+00:00",
+        "published_time": "2025-05-19T14:12:19+00:00"
+    },
+    "http://arxiv.org/abs/2505.13103v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13103v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13103v1",
+        "title": "Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair",
+        "comment": null,
+        "updated_time": "2025-05-19T13:32:51+00:00",
+        "published_time": "2025-05-19T13:32:51+00:00"
+    },
+    "http://arxiv.org/abs/2505.13071v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13071v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13071v1",
+        "title": "OmniFC: Rethinking Federated Clustering via Lossless and Secure Distance Reconstruction",
+        "comment": null,
+        "updated_time": "2025-05-19T13:04:59+00:00",
+        "published_time": "2025-05-19T13:04:59+00:00"
+    },
+    "http://arxiv.org/abs/2505.13027v1": {
+        "entry_id": "http://arxiv.org/abs/2505.13027v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.13027v1",
+        "title": "Unpacking Positional Encoding in Transformers: A Spectral Analysis of Content-Position Coupling",
+        "comment": null,
+        "updated_time": "2025-05-19T12:11:13+00:00",
+        "published_time": "2025-05-19T12:11:13+00:00"
+    },
+    "http://arxiv.org/abs/2505.12995v1": {
+        "entry_id": "http://arxiv.org/abs/2505.12995v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.12995v1",
+        "title": "ACE: Confidential Computing for Embedded RISC-V Systems",
+        "comment": null,
+        "updated_time": "2025-05-19T11:32:43+00:00",
+        "published_time": "2025-05-19T11:32:43+00:00"
+    },
+    "http://arxiv.org/abs/2505.09928v2": {
+        "entry_id": "http://arxiv.org/abs/2505.09928v2",
+        "pdf_url": "http://arxiv.org/pdf/2505.09928v2",
+        "title": "DeFeed: Secure Decentralized Cross-Contract Data Feed in Web 3.0 for Connected Autonomous Vehicles",
+        "comment": null,
+        "updated_time": "2025-05-19T10:13:31+00:00",
+        "published_time": "2025-05-15T03:25:41+00:00"
+    },
+    "http://arxiv.org/abs/2505.12700v1": {
+        "entry_id": "http://arxiv.org/abs/2505.12700v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.12700v1",
+        "title": "Writing a Good Security Paper for ISSCC (2025)",
+        "comment": null,
+        "updated_time": "2025-05-19T04:41:49+00:00",
+        "published_time": "2025-05-19T04:41:49+00:00"
+    },
+    "http://arxiv.org/abs/2505.12610v1": {
+        "entry_id": "http://arxiv.org/abs/2505.12610v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.12610v1",
+        "title": "hChain: Blockchain Based Large Scale EHR Data Sharing with Enhanced Security and Privacy",
+        "comment": null,
+        "updated_time": "2025-05-19T01:47:01+00:00",
+        "published_time": "2025-05-19T01:47:01+00:00"
+    },
+    "http://arxiv.org/abs/2505.11982v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11982v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11982v1",
+        "title": "FedHQ: Hybrid Runtime Quantization for Federated Learning",
+        "comment": "5 figures and 4 tables",
+        "updated_time": "2025-05-17T12:30:27+00:00",
+        "published_time": "2025-05-17T12:30:27+00:00"
+    },
+    "http://arxiv.org/abs/2505.11744v1": {
+        "entry_id": "http://arxiv.org/abs/2505.11744v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.11744v1",
+        "title": "Decentralized Multi-Authority Attribute-Based Inner-Product Functional Encryption: Noisy and Evasive Constructions from Lattices",
+        "comment": null,
+        "updated_time": "2025-05-16T23:03:23+00:00",
+        "published_time": "2025-05-16T23:03:23+00:00"
+    },
     "http://arxiv.org/abs/2505.11461v1": {
         "entry_id": "http://arxiv.org/abs/2505.11461v1",
         "pdf_url": "http://arxiv.org/pdf/2505.11461v1",
