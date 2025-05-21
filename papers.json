@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2505.14595v1": {
+        "entry_id": "http://arxiv.org/abs/2505.14595v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.14595v1",
+        "title": "Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers",
+        "comment": null,
+        "updated_time": "2025-05-20T16:47:04+00:00",
+        "published_time": "2025-05-20T16:47:04+00:00"
+    },
+    "http://arxiv.org/abs/2505.02392v3": {
+        "entry_id": "http://arxiv.org/abs/2505.02392v3",
+        "pdf_url": "http://arxiv.org/pdf/2505.02392v3",
+        "title": "Moneros Decentralized P2P Exchanges: Functionality, Adoption, and Privacy Risks",
+        "comment": "Accepted submission to the 9th Workshop on Trusted Smart Contracts\n  (WTSC) 2025, to be published in the Springer-Verlag Lecture Notes in Computer\n  Science (LNCS) series",
+        "updated_time": "2025-05-20T16:06:42+00:00",
+        "published_time": "2025-05-05T06:27:37+00:00"
+    },
+    "http://arxiv.org/abs/2505.14531v1": {
+        "entry_id": "http://arxiv.org/abs/2505.14531v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.14531v1",
+        "title": "SifterNet: A Generalized and Model-Agnostic Trigger Purification Approach",
+        "comment": null,
+        "updated_time": "2025-05-20T15:51:17+00:00",
+        "published_time": "2025-05-20T15:51:17+00:00"
+    },
+    "http://arxiv.org/abs/2505.14528v1": {
+        "entry_id": "http://arxiv.org/abs/2505.14528v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.14528v1",
+        "title": "BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration",
+        "comment": null,
+        "updated_time": "2025-05-20T15:48:34+00:00",
+        "published_time": "2025-05-20T15:48:34+00:00"
+    },
+    "http://arxiv.org/abs/2505.14437v1": {
+        "entry_id": "http://arxiv.org/abs/2505.14437v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.14437v1",
+        "title": "Building Reuse-Sensitive Control Flow Graphs (CFGs) for EVM Bytecode",
+        "comment": null,
+        "updated_time": "2025-05-20T14:42:06+00:00",
+        "published_time": "2025-05-20T14:42:06+00:00"
+    },
     "http://arxiv.org/abs/2505.13421v1": {
         "entry_id": "http://arxiv.org/abs/2505.13421v1",
         "pdf_url": "http://arxiv.org/pdf/2505.13421v1",
