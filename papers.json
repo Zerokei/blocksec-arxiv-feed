@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2505.15798v1": {
+        "entry_id": "http://arxiv.org/abs/2505.15798v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.15798v1",
+        "title": "Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning",
+        "comment": null,
+        "updated_time": "2025-05-21T17:51:05+00:00",
+        "published_time": "2025-05-21T17:51:05+00:00"
+    },
+    "http://arxiv.org/abs/2505.15797v1": {
+        "entry_id": "http://arxiv.org/abs/2505.15797v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.15797v1",
+        "title": "VoteMate: A Decentralized Application for Scalable Electronic Voting on EVM-Based Blockchain",
+        "comment": null,
+        "updated_time": "2025-05-21T17:50:18+00:00",
+        "published_time": "2025-05-21T17:50:18+00:00"
+    },
+    "http://arxiv.org/abs/2505.15756v1": {
+        "entry_id": "http://arxiv.org/abs/2505.15756v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.15756v1",
+        "title": "An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities",
+        "comment": "38 pages, 3 figures",
+        "updated_time": "2025-05-21T17:01:18+00:00",
+        "published_time": "2025-05-21T17:01:18+00:00"
+    },
+    "http://arxiv.org/abs/2505.15622v1": {
+        "entry_id": "http://arxiv.org/abs/2505.15622v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.15622v1",
+        "title": "Benchmarking Energy and Latency in TinyML: A Novel Method for Resource-Constrained AI",
+        "comment": "8 pages, 6 figures The article is already accepted for International\n  Joint Conference on Neural Networks (IJCNN) 2025",
+        "updated_time": "2025-05-21T15:12:14+00:00",
+        "published_time": "2025-05-21T15:12:14+00:00"
+    },
+    "http://arxiv.org/abs/2505.15376v1": {
+        "entry_id": "http://arxiv.org/abs/2505.15376v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.15376v1",
+        "title": "Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT",
+        "comment": null,
+        "updated_time": "2025-05-21T11:11:44+00:00",
+        "published_time": "2025-05-21T11:11:44+00:00"
+    },
+    "http://arxiv.org/abs/2505.15051v1": {
+        "entry_id": "http://arxiv.org/abs/2505.15051v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.15051v1",
+        "title": "An Empirical Analysis of EOS Blockchain: Architecture, Contract, and Security",
+        "comment": null,
+        "updated_time": "2025-05-21T03:16:07+00:00",
+        "published_time": "2025-05-21T03:16:07+00:00"
+    },
+    "http://arxiv.org/abs/2505.14802v1": {
+        "entry_id": "http://arxiv.org/abs/2505.14802v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.14802v1",
+        "title": "Text embedding models can be great data engineers",
+        "comment": null,
+        "updated_time": "2025-05-20T18:12:19+00:00",
+        "published_time": "2025-05-20T18:12:19+00:00"
+    },
     "http://arxiv.org/abs/2505.14595v1": {
         "entry_id": "http://arxiv.org/abs/2505.14595v1",
         "pdf_url": "http://arxiv.org/pdf/2505.14595v1",
