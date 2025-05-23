@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2505.16952v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16952v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16952v1",
+        "title": "A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization",
+        "comment": null,
+        "updated_time": "2025-05-22T17:34:38+00:00",
+        "published_time": "2025-05-22T17:34:38+00:00"
+    },
+    "http://arxiv.org/abs/2505.16936v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16936v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16936v1",
+        "title": "SPAR: Self-supervised Placement-Aware Representation Learning for Multi-Node IoT Systems",
+        "comment": null,
+        "updated_time": "2025-05-22T17:26:23+00:00",
+        "published_time": "2025-05-22T17:26:23+00:00"
+    },
+    "http://arxiv.org/abs/2505.16925v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16925v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16925v1",
+        "title": "Risk-Averse Reinforcement Learning with Itakura-Saito Loss",
+        "comment": null,
+        "updated_time": "2025-05-22T17:18:07+00:00",
+        "published_time": "2025-05-22T17:18:07+00:00"
+    },
+    "http://arxiv.org/abs/2505.16918v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16918v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16918v1",
+        "title": "Scalable and Interpretable Contextual Bandits: A Literature Review and Retail Offer Prototype",
+        "comment": null,
+        "updated_time": "2025-05-22T17:13:01+00:00",
+        "published_time": "2025-05-22T17:13:01+00:00"
+    },
+    "http://arxiv.org/abs/2505.16833v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16833v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16833v1",
+        "title": "Strategically Linked Decisions in Long-Term Planning and Reinforcement Learning",
+        "comment": null,
+        "updated_time": "2025-05-22T16:04:17+00:00",
+        "published_time": "2025-05-22T16:04:17+00:00"
+    },
+    "http://arxiv.org/abs/2505.16620v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16620v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16620v1",
+        "title": "CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models",
+        "comment": "16+19 pages, 5+8 figures",
+        "updated_time": "2025-05-22T12:54:30+00:00",
+        "published_time": "2025-05-22T12:54:30+00:00"
+    },
+    "http://arxiv.org/abs/2505.16587v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16587v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16587v1",
+        "title": "A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems",
+        "comment": "17 pages, 9 figures",
+        "updated_time": "2025-05-22T12:25:44+00:00",
+        "published_time": "2025-05-22T12:25:44+00:00"
+    },
+    "http://arxiv.org/abs/2505.16527v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16527v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16527v1",
+        "title": "Joint Relational Database Generation via Graph-Conditional Diffusion Models",
+        "comment": null,
+        "updated_time": "2025-05-22T11:12:56+00:00",
+        "published_time": "2025-05-22T11:12:56+00:00"
+    },
+    "http://arxiv.org/abs/2505.16494v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16494v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16494v1",
+        "title": "Accuracy vs. Accuracy: Computational Tradeoffs Between Classification Rates and Utility",
+        "comment": null,
+        "updated_time": "2025-05-22T10:26:30+00:00",
+        "published_time": "2025-05-22T10:26:30+00:00"
+    },
+    "http://arxiv.org/abs/2505.16371v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16371v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16371v1",
+        "title": "Privacy-Aware Cyberterrorism Network Analysis using Graph Neural Networks and Federated Learning",
+        "comment": null,
+        "updated_time": "2025-05-22T08:26:09+00:00",
+        "published_time": "2025-05-22T08:26:09+00:00"
+    },
+    "http://arxiv.org/abs/2505.16190v1": {
+        "entry_id": "http://arxiv.org/abs/2505.16190v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.16190v1",
+        "title": "Enhancing Federated Survival Analysis through Peer-Driven Client Reputation in Healthcare",
+        "comment": null,
+        "updated_time": "2025-05-22T03:49:51+00:00",
+        "published_time": "2025-05-22T03:49:51+00:00"
+    },
     "http://arxiv.org/abs/2505.15798v1": {
         "entry_id": "http://arxiv.org/abs/2505.15798v1",
         "pdf_url": "http://arxiv.org/pdf/2505.15798v1",
