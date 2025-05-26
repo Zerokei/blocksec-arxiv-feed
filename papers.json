@@ -1,4 +1,108 @@
 {
+    "http://arxiv.org/abs/2505.18017v1": {
+        "entry_id": "http://arxiv.org/abs/2505.18017v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.18017v1",
+        "title": "Strictly Constrained Generative Modeling via Split Augmented Langevin Sampling",
+        "comment": null,
+        "updated_time": "2025-05-23T15:21:10+00:00",
+        "published_time": "2025-05-23T15:21:10+00:00"
+    },
+    "http://arxiv.org/abs/2505.18002v1": {
+        "entry_id": "http://arxiv.org/abs/2505.18002v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.18002v1",
+        "title": "Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective",
+        "comment": null,
+        "updated_time": "2025-05-23T15:05:56+00:00",
+        "published_time": "2025-05-23T15:05:56+00:00"
+    },
+    "http://arxiv.org/abs/2505.17977v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17977v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17977v1",
+        "title": "SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works",
+        "comment": "In Proceedings of the ACM International Conference on the Foundations\n  of Software Engineering (FSE) (FSE 2025)",
+        "updated_time": "2025-05-23T14:45:44+00:00",
+        "published_time": "2025-05-23T14:45:44+00:00"
+    },
+    "http://arxiv.org/abs/2505.17939v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17939v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17939v1",
+        "title": "Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding",
+        "comment": null,
+        "updated_time": "2025-05-23T14:15:44+00:00",
+        "published_time": "2025-05-23T14:15:44+00:00"
+    },
+    "http://arxiv.org/abs/2505.17929v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17929v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17929v1",
+        "title": "Predicting Length of Stay in Neurological ICU Patients Using Classical Machine Learning and Neural Network Models: A Benchmark Study on MIMIC-IV",
+        "comment": null,
+        "updated_time": "2025-05-23T14:06:42+00:00",
+        "published_time": "2025-05-23T14:06:42+00:00"
+    },
+    "http://arxiv.org/abs/2505.17927v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17927v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17927v1",
+        "title": "Automatic Design-Time Detection of Anomalies in Migrating Monolithic Applications to Microservices",
+        "comment": null,
+        "updated_time": "2025-05-23T14:04:59+00:00",
+        "published_time": "2025-05-23T14:04:59+00:00"
+    },
+    "http://arxiv.org/abs/2505.17918v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17918v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17918v1",
+        "title": "LLM Meeting Decision Trees on Tabular Data",
+        "comment": null,
+        "updated_time": "2025-05-23T13:57:53+00:00",
+        "published_time": "2025-05-23T13:57:53+00:00"
+    },
+    "http://arxiv.org/abs/2505.17902v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17902v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17902v1",
+        "title": "Evolving Machine Learning: A Survey",
+        "comment": null,
+        "updated_time": "2025-05-23T13:50:02+00:00",
+        "published_time": "2025-05-23T13:50:02+00:00"
+    },
+    "http://arxiv.org/abs/2505.17854v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17854v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17854v1",
+        "title": "Out of the Shadows: Exploring a Latent Space for Neural Network Verification",
+        "comment": null,
+        "updated_time": "2025-05-23T13:05:07+00:00",
+        "published_time": "2025-05-23T13:05:07+00:00"
+    },
+    "http://arxiv.org/abs/2505.17708v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17708v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17708v1",
+        "title": "The Third Pillar of Causal Analysis? A Measurement Perspective on Causal Representations",
+        "comment": "22 pages, 12 figures, 2 tables",
+        "updated_time": "2025-05-23T10:25:17+00:00",
+        "published_time": "2025-05-23T10:25:17+00:00"
+    },
+    "http://arxiv.org/abs/2505.17483v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17483v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17483v1",
+        "title": "Hyperspectral in situ remote sensing of water surface nitrate in the Fitzroy River estuary, Queensland, Australia, using deep learning",
+        "comment": "Submitted to IGARSS2025",
+        "updated_time": "2025-05-23T05:22:29+00:00",
+        "published_time": "2025-05-23T05:22:29+00:00"
+    },
+    "http://arxiv.org/abs/2505.17416v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17416v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17416v1",
+        "title": "LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework",
+        "comment": "10 pages, 8 figures",
+        "updated_time": "2025-05-23T03:05:09+00:00",
+        "published_time": "2025-05-23T03:05:09+00:00"
+    },
+    "http://arxiv.org/abs/2505.17226v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17226v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.17226v1",
+        "title": "Secure and Private Federated Learning: Achieving Adversarial Resilience through Robust Aggregation",
+        "comment": null,
+        "updated_time": "2025-05-22T19:01:09+00:00",
+        "published_time": "2025-05-22T19:01:09+00:00"
+    },
     "http://arxiv.org/abs/2505.16952v1": {
         "entry_id": "http://arxiv.org/abs/2505.16952v1",
         "pdf_url": "http://arxiv.org/pdf/2505.16952v1",
