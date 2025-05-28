@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2505.21462v1": {
+        "entry_id": "http://arxiv.org/abs/2505.21462v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.21462v1",
+        "title": "M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery",
+        "comment": null,
+        "updated_time": "2025-05-27T17:34:01+00:00",
+        "published_time": "2025-05-27T17:34:01+00:00"
+    },
+    "http://arxiv.org/abs/2505.21425v1": {
+        "entry_id": "http://arxiv.org/abs/2505.21425v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.21425v1",
+        "title": "GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation",
+        "comment": "under review",
+        "updated_time": "2025-05-27T16:55:46+00:00",
+        "published_time": "2025-05-27T16:55:46+00:00"
+    },
+    "http://arxiv.org/abs/2505.21406v1": {
+        "entry_id": "http://arxiv.org/abs/2505.21406v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.21406v1",
+        "title": "Enhancing JavaScript Malware Detection through Weighted Behavioral DFAs",
+        "comment": "14 pages, 1 figure, EICC 2025",
+        "updated_time": "2025-05-27T16:29:47+00:00",
+        "published_time": "2025-05-27T16:29:47+00:00"
+    },
+    "http://arxiv.org/abs/2505.21382v1": {
+        "entry_id": "http://arxiv.org/abs/2505.21382v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.21382v1",
+        "title": "DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models",
+        "comment": null,
+        "updated_time": "2025-05-27T16:10:53+00:00",
+        "published_time": "2025-05-27T16:10:53+00:00"
+    },
+    "http://arxiv.org/abs/2505.21323v1": {
+        "entry_id": "http://arxiv.org/abs/2505.21323v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.21323v1",
+        "title": "A first look at ROS~2 applications written in asynchronous Rust",
+        "comment": null,
+        "updated_time": "2025-05-27T15:21:58+00:00",
+        "published_time": "2025-05-27T15:21:58+00:00"
+    },
+    "http://arxiv.org/abs/2505.21147v1": {
+        "entry_id": "http://arxiv.org/abs/2505.21147v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.21147v1",
+        "title": "Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score",
+        "comment": null,
+        "updated_time": "2025-05-27T12:57:44+00:00",
+        "published_time": "2025-05-27T12:57:44+00:00"
+    },
+    "http://arxiv.org/abs/2505.21069v1": {
+        "entry_id": "http://arxiv.org/abs/2505.21069v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.21069v1",
+        "title": "CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building",
+        "comment": null,
+        "updated_time": "2025-05-27T11:54:56+00:00",
+        "published_time": "2025-05-27T11:54:56+00:00"
+    },
+    "http://arxiv.org/abs/2505.19888v2": {
+        "entry_id": "http://arxiv.org/abs/2505.19888v2",
+        "pdf_url": "http://arxiv.org/pdf/2505.19888v2",
+        "title": "Generalized and Personalized Federated Learning with Foundation Models via Orthogonal Transformations",
+        "comment": "27 pages, 5 figures",
+        "updated_time": "2025-05-27T03:22:47+00:00",
+        "published_time": "2025-05-26T12:18:24+00:00"
+    },
     "http://arxiv.org/abs/2505.20136v1": {
         "entry_id": "http://arxiv.org/abs/2505.20136v1",
         "pdf_url": "http://arxiv.org/pdf/2505.20136v1",
