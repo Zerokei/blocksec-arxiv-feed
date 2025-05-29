@@ -1,4 +1,108 @@
 {
+    "http://arxiv.org/abs/2505.22638v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22638v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22638v1",
+        "title": "SimProcess: High Fidelity Simulation of Noisy ICS Physical Processes",
+        "comment": "In 11th ACM Cyber-Physical System Security Workshop (CPSS '25),\n  August 25-29, 2025, Hanoi, Vietnam",
+        "updated_time": "2025-05-28T17:54:23+00:00",
+        "published_time": "2025-05-28T17:54:23+00:00"
+    },
+    "http://arxiv.org/abs/2505.22612v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22612v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22612v1",
+        "title": "BPMN to Smart Contract by Business Analyst",
+        "comment": null,
+        "updated_time": "2025-05-28T17:28:38+00:00",
+        "published_time": "2025-05-28T17:28:38+00:00"
+    },
+    "http://arxiv.org/abs/2505.22605v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22605v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22605v1",
+        "title": "Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook",
+        "comment": null,
+        "updated_time": "2025-05-28T17:22:14+00:00",
+        "published_time": "2025-05-28T17:22:14+00:00"
+    },
+    "http://arxiv.org/abs/2505.22573v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22573v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22573v1",
+        "title": "FNOPE: Simulation-based inference on function spaces with Fourier Neural Operators",
+        "comment": null,
+        "updated_time": "2025-05-28T16:46:56+00:00",
+        "published_time": "2025-05-28T16:46:56+00:00"
+    },
+    "http://arxiv.org/abs/2505.22524v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22524v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22524v1",
+        "title": "Test-Time Alignment of Discrete Diffusion Models with Sequential Monte Carlo",
+        "comment": null,
+        "updated_time": "2025-05-28T16:12:03+00:00",
+        "published_time": "2025-05-28T16:12:03+00:00"
+    },
+    "http://arxiv.org/abs/2505.22450v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22450v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22450v1",
+        "title": "Position: All Current Generative Fidelity and Diversity Metrics are Flawed",
+        "comment": "ICML 2025",
+        "updated_time": "2025-05-28T15:10:33+00:00",
+        "published_time": "2025-05-28T15:10:33+00:00"
+    },
+    "http://arxiv.org/abs/2505.22440v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22440v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22440v1",
+        "title": "Data-Driven Antenna Miniaturization: A Knowledge-Based System Integrating Quantum PSO and Predictive Machine Learning Models",
+        "comment": null,
+        "updated_time": "2025-05-28T15:04:36+00:00",
+        "published_time": "2025-05-28T15:04:36+00:00"
+    },
+    "http://arxiv.org/abs/2505.22435v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22435v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22435v1",
+        "title": "Does Johnny Get the Message? Evaluating Cybersecurity Notifications for Everyday Users",
+        "comment": null,
+        "updated_time": "2025-05-28T14:58:29+00:00",
+        "published_time": "2025-05-28T14:58:29+00:00"
+    },
+    "http://arxiv.org/abs/2505.22422v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22422v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22422v1",
+        "title": "STaR-Bets: Sequential Target-Recalculating Bets for Tighter Confidence Intervals",
+        "comment": "comments are welcome",
+        "updated_time": "2025-05-28T14:48:07+00:00",
+        "published_time": "2025-05-28T14:48:07+00:00"
+    },
+    "http://arxiv.org/abs/2505.22162v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22162v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22162v1",
+        "title": "Accountable, Scalable and DoS-resilient Secure Vehicular Communication",
+        "comment": null,
+        "updated_time": "2025-05-28T09:25:34+00:00",
+        "published_time": "2025-05-28T09:25:34+00:00"
+    },
+    "http://arxiv.org/abs/2505.22158v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22158v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22158v1",
+        "title": "The informativeness of the gradient revisited",
+        "comment": null,
+        "updated_time": "2025-05-28T09:23:37+00:00",
+        "published_time": "2025-05-28T09:23:37+00:00"
+    },
+    "http://arxiv.org/abs/2505.19105v2": {
+        "entry_id": "http://arxiv.org/abs/2505.19105v2",
+        "pdf_url": "http://arxiv.org/pdf/2505.19105v2",
+        "title": "Latent Mamba Operator for Partial Differential Equations",
+        "comment": "Proceedings of the 42 nd International Conference on Machine\n  Learning, Vancouver, Canada. PMLR 267, 2025. Copyright 2025 by the author(s)",
+        "updated_time": "2025-05-28T07:11:21+00:00",
+        "published_time": "2025-05-25T11:51:31+00:00"
+    },
+    "http://arxiv.org/abs/2505.22023v1": {
+        "entry_id": "http://arxiv.org/abs/2505.22023v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.22023v1",
+        "title": "Securing the Software Package Supply Chain for Critical Systems",
+        "comment": "14 Pages,3 Figures. Published as a chapter in the book,\n  \"Cybersecurity and Data Science Innovations for Sustainable Development of\n  HEICC\". CRC Press, eBook ISBN: 9781032711300",
+        "updated_time": "2025-05-28T06:42:37+00:00",
+        "published_time": "2025-05-28T06:42:37+00:00"
+    },
     "http://arxiv.org/abs/2505.21462v1": {
         "entry_id": "http://arxiv.org/abs/2505.21462v1",
         "pdf_url": "http://arxiv.org/pdf/2505.21462v1",
