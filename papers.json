@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2505.23721v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23721v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23721v1",
+        "title": "DiffER: Categorical Diffusion for Chemical Retrosynthesis",
+        "comment": "25 pages, 3 figures, 3 tables",
+        "updated_time": "2025-05-29T17:53:37+00:00",
+        "published_time": "2025-05-29T17:53:37+00:00"
+    },
+    "http://arxiv.org/abs/2505.23681v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23681v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23681v1",
+        "title": "Understanding Mode Connectivity via Parameter Space Symmetry",
+        "comment": "20 pages, 4 figures, ICML 2025",
+        "updated_time": "2025-05-29T17:20:54+00:00",
+        "published_time": "2025-05-29T17:20:54+00:00"
+    },
+    "http://arxiv.org/abs/2505.23673v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23673v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23673v1",
+        "title": "Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds",
+        "comment": null,
+        "updated_time": "2025-05-29T17:17:29+00:00",
+        "published_time": "2025-05-29T17:17:29+00:00"
+    },
+    "http://arxiv.org/abs/2505.23607v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23607v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23607v1",
+        "title": "Data Model Design for Explainable Machine Learning-based Electricity Applications",
+        "comment": null,
+        "updated_time": "2025-05-29T16:16:16+00:00",
+        "published_time": "2025-05-29T16:16:16+00:00"
+    },
+    "http://arxiv.org/abs/2505.23583v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23583v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23583v1",
+        "title": "Improving Time Series Forecasting via Instance-aware Post-hoc Revision",
+        "comment": null,
+        "updated_time": "2025-05-29T15:56:41+00:00",
+        "published_time": "2025-05-29T15:56:41+00:00"
+    },
+    "http://arxiv.org/abs/2505.23528v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23528v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23528v1",
+        "title": "Comparative assessment of fairness definitions and bias mitigation strategies in machine learning-based diagnosis of Alzheimer's disease from MR images",
+        "comment": "(C) 2025 IEEE Paper accepted at IEEE Engineering in Medicine and\n  Biology Society Conference, 2025",
+        "updated_time": "2025-05-29T15:07:19+00:00",
+        "published_time": "2025-05-29T15:07:19+00:00"
+    },
+    "http://arxiv.org/abs/2505.23378v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23378v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23378v1",
+        "title": "Meta-Learning Approaches for Speaker-Dependent Voice Fatigue Models",
+        "comment": "5 pages, 3 figures. To appear at Interspeech 2025",
+        "updated_time": "2025-05-29T11:58:04+00:00",
+        "published_time": "2025-05-29T11:58:04+00:00"
+    },
+    "http://arxiv.org/abs/2505.23334v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23334v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23334v1",
+        "title": "X2Graph for Cancer Subtyping Prediction on Biological Tabular Data",
+        "comment": "IEEE Engineering in Medicine and Biology Society (EMBC) 2025",
+        "updated_time": "2025-05-29T10:50:02+00:00",
+        "published_time": "2025-05-29T10:50:02+00:00"
+    },
+    "http://arxiv.org/abs/2505.23285v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23285v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23285v1",
+        "title": "Comparative Analysis of the Land Use and Land Cover Changes in Different Governorates of Oman using Spatiotemporal Multi-spectral Satellite Data",
+        "comment": null,
+        "updated_time": "2025-05-29T09:36:23+00:00",
+        "published_time": "2025-05-29T09:36:23+00:00"
+    },
+    "http://arxiv.org/abs/2505.23246v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23246v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23246v1",
+        "title": "Measuring Participant Contributions in Decentralized Federated Learning",
+        "comment": null,
+        "updated_time": "2025-05-29T08:53:47+00:00",
+        "published_time": "2025-05-29T08:53:47+00:00"
+    },
+    "http://arxiv.org/abs/2505.23223v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23223v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23223v1",
+        "title": "Daunce: Data Attribution through Uncertainty Estimation",
+        "comment": null,
+        "updated_time": "2025-05-29T08:08:38+00:00",
+        "published_time": "2025-05-29T08:08:38+00:00"
+    },
+    "http://arxiv.org/abs/2505.23063v1": {
+        "entry_id": "http://arxiv.org/abs/2505.23063v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.23063v1",
+        "title": "Loss-Guided Model Sharing and Local Learning Correction in Decentralized Federated Learning for Crop Disease Classification",
+        "comment": null,
+        "updated_time": "2025-05-29T04:12:53+00:00",
+        "published_time": "2025-05-29T04:12:53+00:00"
+    },
     "http://arxiv.org/abs/2505.22638v1": {
         "entry_id": "http://arxiv.org/abs/2505.22638v1",
         "pdf_url": "http://arxiv.org/pdf/2505.22638v1",
