@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2505.24835v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24835v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24835v1",
+        "title": "Timing is important: Risk-aware Fund Allocation based on Time-Series Forecasting",
+        "comment": "Accepted by KDD 2025 ADS Track",
+        "updated_time": "2025-05-30T17:36:45+00:00",
+        "published_time": "2025-05-30T17:36:45+00:00"
+    },
+    "http://arxiv.org/abs/2505.24776v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24776v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24776v1",
+        "title": "Diffusion-Based Symbolic Regression",
+        "comment": null,
+        "updated_time": "2025-05-30T16:39:29+00:00",
+        "published_time": "2025-05-30T16:39:29+00:00"
+    },
+    "http://arxiv.org/abs/2505.24773v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24773v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24773v1",
+        "title": "AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption",
+        "comment": null,
+        "updated_time": "2025-05-30T16:35:32+00:00",
+        "published_time": "2025-05-30T16:35:32+00:00"
+    },
+    "http://arxiv.org/abs/2505.24756v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24756v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24756v1",
+        "title": "TESTQUEST: A Web Gamification Tool to Improve Locators and Page Objects Quality",
+        "comment": "4 pages, 3 figures, submitted to 51st Euromicro Conference Series on\n  Software Engineering and Advanced Applications (SEAA) 2025",
+        "updated_time": "2025-05-30T16:18:10+00:00",
+        "published_time": "2025-05-30T16:18:10+00:00"
+    },
+    "http://arxiv.org/abs/2505.24724v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24724v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24724v1",
+        "title": "Talking Transactions: Decentralized Communication through Ethereum Input Data Messages (IDMs)",
+        "comment": null,
+        "updated_time": "2025-05-30T15:47:13+00:00",
+        "published_time": "2025-05-30T15:47:13+00:00"
+    },
+    "http://arxiv.org/abs/2505.24697v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24697v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24697v1",
+        "title": "Towards a unified user modeling language for engineering human centered AI systems",
+        "comment": "Accepted at the Third Workshop on Engineering Interactive Systems\n  Embedding AI Technologies (EISEAIT workshop at EICS 2025)",
+        "updated_time": "2025-05-30T15:20:15+00:00",
+        "published_time": "2025-05-30T15:20:15+00:00"
+    },
+    "http://arxiv.org/abs/2505.24664v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24664v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24664v1",
+        "title": "Learning Distributions over Permutations and Rankings with Factorized Representations",
+        "comment": null,
+        "updated_time": "2025-05-30T14:53:40+00:00",
+        "published_time": "2025-05-30T14:53:40+00:00"
+    },
+    "http://arxiv.org/abs/2505.24603v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24603v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24603v1",
+        "title": "The Gaussian Mixing Mechanism: Renyi Differential Privacy via Gaussian Sketches",
+        "comment": null,
+        "updated_time": "2025-05-30T13:52:48+00:00",
+        "published_time": "2025-05-30T13:52:48+00:00"
+    },
+    "http://arxiv.org/abs/2505.24578v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24578v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24578v1",
+        "title": "Neuro-Symbolic Operator for Interpretable and Generalizable Characterization of Complex Piezoelectric Systems",
+        "comment": null,
+        "updated_time": "2025-05-30T13:28:11+00:00",
+        "published_time": "2025-05-30T13:28:11+00:00"
+    },
+    "http://arxiv.org/abs/2505.24469v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24469v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24469v1",
+        "title": "Smooth Model Compression without Fine-Tuning",
+        "comment": null,
+        "updated_time": "2025-05-30T11:13:48+00:00",
+        "published_time": "2025-05-30T11:13:48+00:00"
+    },
+    "http://arxiv.org/abs/2505.24461v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24461v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24461v1",
+        "title": "Logits-Based Finetuning",
+        "comment": null,
+        "updated_time": "2025-05-30T10:57:09+00:00",
+        "published_time": "2025-05-30T10:57:09+00:00"
+    },
+    "http://arxiv.org/abs/2505.24399v1": {
+        "entry_id": "http://arxiv.org/abs/2505.24399v1",
+        "pdf_url": "http://arxiv.org/pdf/2505.24399v1",
+        "title": "LightSAM: Parameter-Agnostic Sharpness-Aware Minimization",
+        "comment": null,
+        "updated_time": "2025-05-30T09:28:38+00:00",
+        "published_time": "2025-05-30T09:28:38+00:00"
+    },
     "http://arxiv.org/abs/2505.23721v1": {
         "entry_id": "http://arxiv.org/abs/2505.23721v1",
         "pdf_url": "http://arxiv.org/pdf/2505.23721v1",
