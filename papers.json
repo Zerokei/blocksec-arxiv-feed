@@ -1,4 +1,148 @@
 {
+    "http://arxiv.org/abs/2506.03013v1": {
+        "entry_id": "http://arxiv.org/abs/2506.03013v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.03013v1",
+        "title": "How do Pre-Trained Models Support Software Engineering? An Empirical Study in Hugging Face",
+        "comment": null,
+        "updated_time": "2025-06-03T15:51:17+00:00",
+        "published_time": "2025-06-03T15:51:17+00:00"
+    },
+    "http://arxiv.org/abs/2506.03006v1": {
+        "entry_id": "http://arxiv.org/abs/2506.03006v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.03006v1",
+        "title": "A Preference-Driven Methodology for High-Quality Solidity Code Generation",
+        "comment": null,
+        "updated_time": "2025-06-03T15:45:31+00:00",
+        "published_time": "2025-06-03T15:45:31+00:00"
+    },
+    "http://arxiv.org/abs/2506.02978v1": {
+        "entry_id": "http://arxiv.org/abs/2506.02978v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.02978v1",
+        "title": "On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses",
+        "comment": null,
+        "updated_time": "2025-06-03T15:15:36+00:00",
+        "published_time": "2025-06-03T15:15:36+00:00"
+    },
+    "http://arxiv.org/abs/2506.02965v1": {
+        "entry_id": "http://arxiv.org/abs/2506.02965v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.02965v1",
+        "title": "Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs",
+        "comment": "20 pages, 4 figures,",
+        "updated_time": "2025-06-03T15:00:18+00:00",
+        "published_time": "2025-06-03T15:00:18+00:00"
+    },
+    "http://arxiv.org/abs/2506.02946v1": {
+        "entry_id": "http://arxiv.org/abs/2506.02946v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.02946v1",
+        "title": "Abstract Counterfactuals for Language Model Agents",
+        "comment": null,
+        "updated_time": "2025-06-03T14:44:26+00:00",
+        "published_time": "2025-06-03T14:44:26+00:00"
+    },
+    "http://arxiv.org/abs/2506.02727v1": {
+        "entry_id": "http://arxiv.org/abs/2506.02727v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.02727v1",
+        "title": "Transforming Automatically BPMN Models to Smart Contracts with Nested Collaborative Transactions (TABS+)",
+        "comment": "Preprint. arXiv admin note: substantial text overlap with\n  arXiv:2505.24309",
+        "updated_time": "2025-06-03T10:37:41+00:00",
+        "published_time": "2025-06-03T10:37:41+00:00"
+    },
+    "http://arxiv.org/abs/2506.02679v1": {
+        "entry_id": "http://arxiv.org/abs/2506.02679v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.02679v1",
+        "title": "Poster: FedBlockParadox -- A Framework for Simulating and Securing Decentralized Federated Learning",
+        "comment": "International Conference on Detection of Intrusions and Malware, and\n  Vulnerability Assessment (DIMVA '25), 2025",
+        "updated_time": "2025-06-03T09:25:06+00:00",
+        "published_time": "2025-06-03T09:25:06+00:00"
+    },
+    "http://arxiv.org/abs/2506.02324v1": {
+        "entry_id": "http://arxiv.org/abs/2506.02324v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.02324v1",
+        "title": "Are Crypto Ecosystems (De)centralizing? A Framework for Longitudinal Analysis",
+        "comment": "25 pages",
+        "updated_time": "2025-06-02T23:45:33+00:00",
+        "published_time": "2025-06-02T23:45:33+00:00"
+    },
+    "http://arxiv.org/abs/2506.02243v1": {
+        "entry_id": "http://arxiv.org/abs/2506.02243v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.02243v1",
+        "title": "From Features to Structure: Task-Aware Graph Construction for Relational and Tabular Learning with GNNs",
+        "comment": "5 pages, 2 figures",
+        "updated_time": "2025-06-02T20:42:53+00:00",
+        "published_time": "2025-06-02T20:42:53+00:00"
+    },
+    "http://arxiv.org/abs/2506.01780v1": {
+        "entry_id": "http://arxiv.org/abs/2506.01780v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.01780v1",
+        "title": "Federated Gaussian Mixture Models",
+        "comment": "19 pages, 6 figures. Submitted to ACM",
+        "updated_time": "2025-06-02T15:23:53+00:00",
+        "published_time": "2025-06-02T15:23:53+00:00"
+    },
+    "http://arxiv.org/abs/2506.01777v1": {
+        "entry_id": "http://arxiv.org/abs/2506.01777v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.01777v1",
+        "title": "DRAUN: An Algorithm-Agnostic Data Reconstruction Attack on Federated Unlearning Systems",
+        "comment": null,
+        "updated_time": "2025-06-02T15:20:54+00:00",
+        "published_time": "2025-06-02T15:20:54+00:00"
+    },
+    "http://arxiv.org/abs/2506.01352v1": {
+        "entry_id": "http://arxiv.org/abs/2506.01352v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.01352v1",
+        "title": "TAH-QUANT: Effective Activation Quantization in Pipeline Parallelism over Slow Network",
+        "comment": null,
+        "updated_time": "2025-06-02T06:13:41+00:00",
+        "published_time": "2025-06-02T06:13:41+00:00"
+    },
+    "http://arxiv.org/abs/2506.01260v1": {
+        "entry_id": "http://arxiv.org/abs/2506.01260v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.01260v1",
+        "title": "Protocol Models: Scaling Decentralized Training with Communication-Efficient Model Parallelism",
+        "comment": null,
+        "updated_time": "2025-06-02T02:19:22+00:00",
+        "published_time": "2025-06-02T02:19:22+00:00"
+    },
+    "http://arxiv.org/abs/2506.00932v1": {
+        "entry_id": "http://arxiv.org/abs/2506.00932v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.00932v1",
+        "title": "Addressing the Collaboration Dilemma in Low-Data Federated Learning via Transient Sparsity",
+        "comment": null,
+        "updated_time": "2025-06-01T09:53:54+00:00",
+        "published_time": "2025-06-01T09:53:54+00:00"
+    },
+    "http://arxiv.org/abs/2506.00505v1": {
+        "entry_id": "http://arxiv.org/abs/2506.00505v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.00505v1",
+        "title": "From Rules to Rewards: Reinforcement Learning for Interest Rate Adjustment in DeFi Lending",
+        "comment": null,
+        "updated_time": "2025-05-31T10:56:07+00:00",
+        "published_time": "2025-05-31T10:56:07+00:00"
+    },
+    "http://arxiv.org/abs/2506.00500v1": {
+        "entry_id": "http://arxiv.org/abs/2506.00500v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.00500v1",
+        "title": "Scaling DeFi with ZK Rollups: Design, Deployment, and Evaluation of a Real-Time Proof-of-Concept",
+        "comment": null,
+        "updated_time": "2025-05-31T10:39:24+00:00",
+        "published_time": "2025-05-31T10:39:24+00:00"
+    },
+    "http://arxiv.org/abs/2506.00440v1": {
+        "entry_id": "http://arxiv.org/abs/2506.00440v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.00440v1",
+        "title": "PSI-PFL: Population Stability Index for Client Selection in non-IID Personalized Federated Learning",
+        "comment": null,
+        "updated_time": "2025-05-31T07:41:42+00:00",
+        "published_time": "2025-05-31T07:41:42+00:00"
+    },
+    "http://arxiv.org/abs/2506.02038v1": {
+        "entry_id": "http://arxiv.org/abs/2506.02038v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.02038v1",
+        "title": "Blockchain Powered Edge Intelligence for U-Healthcare in Privacy Critical and Time Sensitive Environment",
+        "comment": null,
+        "updated_time": "2025-05-31T06:58:52+00:00",
+        "published_time": "2025-05-31T06:58:52+00:00"
+    },
     "http://arxiv.org/abs/2505.24835v1": {
         "entry_id": "http://arxiv.org/abs/2505.24835v1",
         "pdf_url": "http://arxiv.org/pdf/2505.24835v1",
