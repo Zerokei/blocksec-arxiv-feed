@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2506.04190v1": {
+        "entry_id": "http://arxiv.org/abs/2506.04190v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.04190v1",
+        "title": "How to Use Graph Data in the Wild to Help Graph Anomaly Detection?",
+        "comment": "Accepted by SIGKDD2025",
+        "updated_time": "2025-06-04T17:37:47+00:00",
+        "published_time": "2025-06-04T17:37:47+00:00"
+    },
+    "http://arxiv.org/abs/2506.04090v1": {
+        "entry_id": "http://arxiv.org/abs/2506.04090v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.04090v1",
+        "title": "A Reference Architecture for Gamified Cultural Heritage Applications Leveraging Generative AI and Augmented Reality",
+        "comment": null,
+        "updated_time": "2025-06-04T15:49:05+00:00",
+        "published_time": "2025-06-04T15:49:05+00:00"
+    },
+    "http://arxiv.org/abs/2506.03909v1": {
+        "entry_id": "http://arxiv.org/abs/2506.03909v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.03909v1",
+        "title": "Solsmith: Solidity Random Program Generator for Compiler Testing",
+        "comment": "11 pages, 12 figures",
+        "updated_time": "2025-06-04T13:04:17+00:00",
+        "published_time": "2025-06-04T13:04:17+00:00"
+    },
+    "http://arxiv.org/abs/2506.03877v1": {
+        "entry_id": "http://arxiv.org/abs/2506.03877v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.03877v1",
+        "title": "Automated Mechanism to Support Trade Transactions in Smart Contracts with Upgrade and Repair",
+        "comment": null,
+        "updated_time": "2025-06-04T12:13:07+00:00",
+        "published_time": "2025-06-04T12:13:07+00:00"
+    },
+    "http://arxiv.org/abs/2506.03817v1": {
+        "entry_id": "http://arxiv.org/abs/2506.03817v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.03817v1",
+        "title": "Survey of Active Learning Hyperparameters: Insights from a Large-Scale Experimental Grid",
+        "comment": null,
+        "updated_time": "2025-06-04T10:41:37+00:00",
+        "published_time": "2025-06-04T10:41:37+00:00"
+    },
+    "http://arxiv.org/abs/2506.03777v1": {
+        "entry_id": "http://arxiv.org/abs/2506.03777v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.03777v1",
+        "title": "FedFACT: A Provable Framework for Controllable Group-Fairness Calibration in Federated Learning",
+        "comment": null,
+        "updated_time": "2025-06-04T09:39:57+00:00",
+        "published_time": "2025-06-04T09:39:57+00:00"
+    },
+    "http://arxiv.org/abs/2506.02965v2": {
+        "entry_id": "http://arxiv.org/abs/2506.02965v2",
+        "pdf_url": "http://arxiv.org/pdf/2506.02965v2",
+        "title": "PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs",
+        "comment": "20 pages, 4 figures",
+        "updated_time": "2025-06-04T05:38:31+00:00",
+        "published_time": "2025-06-03T15:00:18+00:00"
+    },
     "http://arxiv.org/abs/2506.03013v1": {
         "entry_id": "http://arxiv.org/abs/2506.03013v1",
         "pdf_url": "http://arxiv.org/pdf/2506.03013v1",
