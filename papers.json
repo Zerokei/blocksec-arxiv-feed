@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2506.05321v1": {
+        "entry_id": "http://arxiv.org/abs/2506.05321v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.05321v1",
+        "title": "LSM-2: Learning from Incomplete Wearable Sensor Data",
+        "comment": "Xu and Narayanswamy are co-first authors. McDuff and Liu are co-last\n  authors",
+        "updated_time": "2025-06-05T17:57:11+00:00",
+        "published_time": "2025-06-05T17:57:11+00:00"
+    },
+    "http://arxiv.org/abs/2506.05215v1": {
+        "entry_id": "http://arxiv.org/abs/2506.05215v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.05215v1",
+        "title": "Learning Theory of Decentralized Robust Kernel-Based Learning Algorithm",
+        "comment": null,
+        "updated_time": "2025-06-05T16:30:05+00:00",
+        "published_time": "2025-06-05T16:30:05+00:00"
+    },
+    "http://arxiv.org/abs/2506.05039v1": {
+        "entry_id": "http://arxiv.org/abs/2506.05039v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.05039v1",
+        "title": "iN2V: Bringing Transductive Node Embeddings to Inductive Graphs",
+        "comment": null,
+        "updated_time": "2025-06-05T13:43:24+00:00",
+        "published_time": "2025-06-05T13:43:24+00:00"
+    },
+    "http://arxiv.org/abs/2506.05027v1": {
+        "entry_id": "http://arxiv.org/abs/2506.05027v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.05027v1",
+        "title": "Tuning the Right Foundation Models is What you Need for Partial Label Learning",
+        "comment": "The code can be found at \\url{https://github.com/SEU-hk/PartialCLIP}",
+        "updated_time": "2025-06-05T13:37:33+00:00",
+        "published_time": "2025-06-05T13:37:33+00:00"
+    },
+    "http://arxiv.org/abs/2506.04877v1": {
+        "entry_id": "http://arxiv.org/abs/2506.04877v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.04877v1",
+        "title": "There Was Never a Bottleneck in Concept Bottleneck Models",
+        "comment": null,
+        "updated_time": "2025-06-05T10:50:42+00:00",
+        "published_time": "2025-06-05T10:50:42+00:00"
+    },
+    "http://arxiv.org/abs/2506.04870v1": {
+        "entry_id": "http://arxiv.org/abs/2506.04870v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.04870v1",
+        "title": "Aligning Multimodal Representations through an Information Bottleneck",
+        "comment": null,
+        "updated_time": "2025-06-05T10:47:14+00:00",
+        "published_time": "2025-06-05T10:47:14+00:00"
+    },
+    "http://arxiv.org/abs/2506.04383v1": {
+        "entry_id": "http://arxiv.org/abs/2506.04383v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.04383v1",
+        "title": "The Hashed Fractal Key Recovery (HFKR) Problem: From Symbolic Path Inversion to Post-Quantum Cryptographic Keys",
+        "comment": null,
+        "updated_time": "2025-06-04T18:54:33+00:00",
+        "published_time": "2025-06-04T18:54:33+00:00"
+    },
+    "http://arxiv.org/abs/2506.04307v1": {
+        "entry_id": "http://arxiv.org/abs/2506.04307v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.04307v1",
+        "title": "Hello, won't you tell me your name?: Investigating Anonymity Abuse in IPFS",
+        "comment": "To appear at 13th International Workshop on Cyber Crime (IWCC), in\n  conjunction with the 19th International Conference on Availability,\n  Reliability and Security (ARES)",
+        "updated_time": "2025-06-04T17:54:56+00:00",
+        "published_time": "2025-06-04T17:54:56+00:00"
+    },
     "http://arxiv.org/abs/2506.04190v1": {
         "entry_id": "http://arxiv.org/abs/2506.04190v1",
         "pdf_url": "http://arxiv.org/pdf/2506.04190v1",
