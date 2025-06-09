@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2506.06188v1": {
+        "entry_id": "http://arxiv.org/abs/2506.06188v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.06188v1",
+        "title": "Physics-Informed Neural Networks for Control of Single-Phase Flow Systems Governed by Partial Differential Equations",
+        "comment": "62 pages, 14 figures",
+        "updated_time": "2025-06-06T15:50:19+00:00",
+        "published_time": "2025-06-06T15:50:19+00:00"
+    },
+    "http://arxiv.org/abs/2506.06039v1": {
+        "entry_id": "http://arxiv.org/abs/2506.06039v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.06039v1",
+        "title": "Do-PFN: In-Context Learning for Causal Effect Estimation",
+        "comment": null,
+        "updated_time": "2025-06-06T12:43:57+00:00",
+        "published_time": "2025-06-06T12:43:57+00:00"
+    },
+    "http://arxiv.org/abs/2506.06021v1": {
+        "entry_id": "http://arxiv.org/abs/2506.06021v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.06021v1",
+        "title": "Unisoma: A Unified Transformer-based Solver for Multi-Solid Systems",
+        "comment": "Proceedings of the 42nd International Conference on Machine Learning",
+        "updated_time": "2025-06-06T12:12:02+00:00",
+        "published_time": "2025-06-06T12:12:02+00:00"
+    },
+    "http://arxiv.org/abs/2506.06001v1": {
+        "entry_id": "http://arxiv.org/abs/2506.06001v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.06001v1",
+        "title": "LaDEEP: A Deep Learning-based Surrogate Model for Large Deformation of Elastic-Plastic Solids",
+        "comment": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery\n  and Data Mining V.2 (KDD '25)",
+        "updated_time": "2025-06-06T11:47:37+00:00",
+        "published_time": "2025-06-06T11:47:37+00:00"
+    },
+    "http://arxiv.org/abs/2506.05940v1": {
+        "entry_id": "http://arxiv.org/abs/2506.05940v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.05940v1",
+        "title": "Exponential Family Variational Flow Matching for Tabular Data Generation",
+        "comment": "14 pages, 1 figure, and 9 tables; To be published in the Proceedings\n  of the Forty-Second International Conference on Machine Learning",
+        "updated_time": "2025-06-06T10:07:48+00:00",
+        "published_time": "2025-06-06T10:07:48+00:00"
+    },
+    "http://arxiv.org/abs/2506.05877v1": {
+        "entry_id": "http://arxiv.org/abs/2506.05877v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.05877v1",
+        "title": "Interpretable Clustering Ensemble",
+        "comment": null,
+        "updated_time": "2025-06-06T08:42:38+00:00",
+        "published_time": "2025-06-06T08:42:38+00:00"
+    },
+    "http://arxiv.org/abs/2506.03006v2": {
+        "entry_id": "http://arxiv.org/abs/2506.03006v2",
+        "pdf_url": "http://arxiv.org/pdf/2506.03006v2",
+        "title": "A Preference-Driven Methodology for High-Quality Solidity Code Generation",
+        "comment": null,
+        "updated_time": "2025-06-06T08:39:17+00:00",
+        "published_time": "2025-06-03T15:45:31+00:00"
+    },
+    "http://arxiv.org/abs/2506.05822v1": {
+        "entry_id": "http://arxiv.org/abs/2506.05822v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.05822v1",
+        "title": "Towards Mixed-Criticality Software Architectures for Centralized HPC Platforms in Software-Defined Vehicles: A Systematic Literature Review",
+        "comment": "Preprint for research paper track of ECSA 2025",
+        "updated_time": "2025-06-06T07:40:30+00:00",
+        "published_time": "2025-06-06T07:40:30+00:00"
+    },
+    "http://arxiv.org/abs/2506.05799v1": {
+        "entry_id": "http://arxiv.org/abs/2506.05799v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.05799v1",
+        "title": "Option Pricing Using Ensemble Learning",
+        "comment": null,
+        "updated_time": "2025-06-06T06:55:49+00:00",
+        "published_time": "2025-06-06T06:55:49+00:00"
+    },
     "http://arxiv.org/abs/2506.05321v1": {
         "entry_id": "http://arxiv.org/abs/2506.05321v1",
         "pdf_url": "http://arxiv.org/pdf/2506.05321v1",
