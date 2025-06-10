@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2506.07988v1": {
+        "entry_id": "http://arxiv.org/abs/2506.07988v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.07988v1",
+        "title": "Unraveling Ethereum's Mempool: The Impact of Fee Fairness, Transaction Prioritization, and Consensus Efficiency",
+        "comment": "7 pages, 6 figures and 1 table",
+        "updated_time": "2025-06-09T17:55:25+00:00",
+        "published_time": "2025-06-09T17:55:25+00:00"
+    },
+    "http://arxiv.org/abs/2506.07980v1": {
+        "entry_id": "http://arxiv.org/abs/2506.07980v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.07980v1",
+        "title": "Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator",
+        "comment": "21 pages, 7 figures",
+        "updated_time": "2025-06-09T17:51:45+00:00",
+        "published_time": "2025-06-09T17:51:45+00:00"
+    },
+    "http://arxiv.org/abs/2506.07975v1": {
+        "entry_id": "http://arxiv.org/abs/2506.07975v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.07975v1",
+        "title": "Hyperpruning: Efficient Search through Pruned Variants of Recurrent Neural Networks Leveraging Lyapunov Spectrum",
+        "comment": "26 pages, 3 figures",
+        "updated_time": "2025-06-09T17:49:29+00:00",
+        "published_time": "2025-06-09T17:49:29+00:00"
+    },
+    "http://arxiv.org/abs/2506.07974v1": {
+        "entry_id": "http://arxiv.org/abs/2506.07974v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.07974v1",
+        "title": "Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns",
+        "comment": "10 Pages, 4 Figures",
+        "updated_time": "2025-06-09T17:49:04+00:00",
+        "published_time": "2025-06-09T17:49:04+00:00"
+    },
+    "http://arxiv.org/abs/2506.07894v1": {
+        "entry_id": "http://arxiv.org/abs/2506.07894v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.07894v1",
+        "title": "Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption",
+        "comment": null,
+        "updated_time": "2025-06-09T16:12:18+00:00",
+        "published_time": "2025-06-09T16:12:18+00:00"
+    },
+    "http://arxiv.org/abs/2506.07882v1": {
+        "entry_id": "http://arxiv.org/abs/2506.07882v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.07882v1",
+        "title": "Evaluating explainable AI for deep learning-based network intrusion detection system alert classification",
+        "comment": "Accepted version of a paper published in the Proceedings of the 11th\n  International Conference on Information Systems Security and Privacy (ICISSP\n  2025). Final version available via SCITEPRESS",
+        "updated_time": "2025-06-09T15:53:30+00:00",
+        "published_time": "2025-06-09T15:53:30+00:00"
+    },
+    "http://arxiv.org/abs/2506.07596v1": {
+        "entry_id": "http://arxiv.org/abs/2506.07596v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.07596v1",
+        "title": "TwinBreak: Jailbreaking LLM Security Alignments based on Twin Prompts",
+        "comment": "26 pages, 25 tables, 13 figures, 2 algorithms, to appear in the 43th\n  USENIX Security Symposium (USENIX Security 2025)",
+        "updated_time": "2025-06-09T09:54:25+00:00",
+        "published_time": "2025-06-09T09:54:25+00:00"
+    },
+    "http://arxiv.org/abs/2506.07033v1": {
+        "entry_id": "http://arxiv.org/abs/2506.07033v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.07033v1",
+        "title": "Mixture Experts with Test-Time Self-Supervised Aggregation for Tabular Imbalanced Regression",
+        "comment": "Preprint",
+        "updated_time": "2025-06-08T07:53:03+00:00",
+        "published_time": "2025-06-08T07:53:03+00:00"
+    },
+    "http://arxiv.org/abs/2506.06694v1": {
+        "entry_id": "http://arxiv.org/abs/2506.06694v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.06694v1",
+        "title": "Breaking Data Silos: Towards Open and Scalable Mobility Foundation Models via Generative Continual Learning",
+        "comment": null,
+        "updated_time": "2025-06-07T07:19:11+00:00",
+        "published_time": "2025-06-07T07:19:11+00:00"
+    },
     "http://arxiv.org/abs/2506.06188v1": {
         "entry_id": "http://arxiv.org/abs/2506.06188v1",
         "pdf_url": "http://arxiv.org/pdf/2506.06188v1",
