@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2506.08939v1": {
+        "entry_id": "http://arxiv.org/abs/2506.08939v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.08939v1",
+        "title": "KARMA: A Multilevel Decomposition Hybrid Mamba Framework for Multivariate Long-Term Time Series Forecasting",
+        "comment": "10 pages,3 figures, published to WASA2025",
+        "updated_time": "2025-06-10T16:03:33+00:00",
+        "published_time": "2025-06-10T16:03:33+00:00"
+    },
+    "http://arxiv.org/abs/2506.08882v1": {
+        "entry_id": "http://arxiv.org/abs/2506.08882v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.08882v1",
+        "title": "Filling in the Blanks: Applying Data Imputation in incomplete Water Metering Data",
+        "comment": null,
+        "updated_time": "2025-06-10T15:13:05+00:00",
+        "published_time": "2025-06-10T15:13:05+00:00"
+    },
+    "http://arxiv.org/abs/2506.08850v1": {
+        "entry_id": "http://arxiv.org/abs/2506.08850v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.08850v1",
+        "title": "Agile Reinforcement Learning for Real-Time Task Scheduling in Edge Computing",
+        "comment": null,
+        "updated_time": "2025-06-10T14:38:07+00:00",
+        "published_time": "2025-06-10T14:38:07+00:00"
+    },
+    "http://arxiv.org/abs/2506.08837v1": {
+        "entry_id": "http://arxiv.org/abs/2506.08837v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.08837v1",
+        "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
+        "comment": null,
+        "updated_time": "2025-06-10T14:23:55+00:00",
+        "published_time": "2025-06-10T14:23:55+00:00"
+    },
+    "http://arxiv.org/abs/2506.08828v1": {
+        "entry_id": "http://arxiv.org/abs/2506.08828v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.08828v1",
+        "title": "Lightweight Electronic Signatures and Reliable Access Control Included in Sensor Networks to Prevent Cyber Attacks from Modifying Patient Data",
+        "comment": "22 pages, 11 figures, conference",
+        "updated_time": "2025-06-10T14:17:46+00:00",
+        "published_time": "2025-06-10T14:17:46+00:00"
+    },
+    "http://arxiv.org/abs/2506.08740v1": {
+        "entry_id": "http://arxiv.org/abs/2506.08740v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.08740v1",
+        "title": "Urban Incident Prediction with Graph Neural Networks: Integrating Government Ratings and Crowdsourced Reports",
+        "comment": null,
+        "updated_time": "2025-06-10T12:37:17+00:00",
+        "published_time": "2025-06-10T12:37:17+00:00"
+    },
+    "http://arxiv.org/abs/2506.08628v1": {
+        "entry_id": "http://arxiv.org/abs/2506.08628v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.08628v1",
+        "title": "Logic Mining from Process Logs: Towards Automated Specification and Verification",
+        "comment": "This is a draft version of the article submitted to a journal from\n  the JCR list",
+        "updated_time": "2025-06-10T09:44:19+00:00",
+        "published_time": "2025-06-10T09:44:19+00:00"
+    },
+    "http://arxiv.org/abs/2506.08561v1": {
+        "entry_id": "http://arxiv.org/abs/2506.08561v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.08561v1",
+        "title": "Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis",
+        "comment": null,
+        "updated_time": "2025-06-10T08:31:44+00:00",
+        "published_time": "2025-06-10T08:31:44+00:00"
+    },
     "http://arxiv.org/abs/2506.07988v1": {
         "entry_id": "http://arxiv.org/abs/2506.07988v1",
         "pdf_url": "http://arxiv.org/pdf/2506.07988v1",
