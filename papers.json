@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2506.10744v1": {
+        "entry_id": "http://arxiv.org/abs/2506.10744v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.10744v1",
+        "title": "ObfusBFA: A Holistic Approach to Safeguarding DNNs from Different Types of Bit-Flip Attacks",
+        "comment": null,
+        "updated_time": "2025-06-12T14:31:27+00:00",
+        "published_time": "2025-06-12T14:31:27+00:00"
+    },
+    "http://arxiv.org/abs/2506.10721v1": {
+        "entry_id": "http://arxiv.org/abs/2506.10721v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.10721v1",
+        "title": "Commitment Schemes for Multi-Party Computation",
+        "comment": null,
+        "updated_time": "2025-06-12T14:11:59+00:00",
+        "published_time": "2025-06-12T14:11:59+00:00"
+    },
+    "http://arxiv.org/abs/2506.10665v1": {
+        "entry_id": "http://arxiv.org/abs/2506.10665v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.10665v1",
+        "title": "GOLIATH: A Decentralized Framework for Data Collection in Intelligent Transportation Systems",
+        "comment": null,
+        "updated_time": "2025-06-12T12:55:25+00:00",
+        "published_time": "2025-06-12T12:55:25+00:00"
+    },
+    "http://arxiv.org/abs/2506.10638v1": {
+        "entry_id": "http://arxiv.org/abs/2506.10638v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.10638v1",
+        "title": "CyFence: Securing Cyber-Physical Controllers via Trusted Execution Environment",
+        "comment": null,
+        "updated_time": "2025-06-12T12:22:45+00:00",
+        "published_time": "2025-06-12T12:22:45+00:00"
+    },
+    "http://arxiv.org/abs/2506.09562v2": {
+        "entry_id": "http://arxiv.org/abs/2506.09562v2",
+        "pdf_url": "http://arxiv.org/pdf/2506.09562v2",
+        "title": "TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning",
+        "comment": null,
+        "updated_time": "2025-06-12T06:32:32+00:00",
+        "published_time": "2025-06-11T09:50:17+00:00"
+    },
+    "http://arxiv.org/abs/2506.10352v1": {
+        "entry_id": "http://arxiv.org/abs/2506.10352v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.10352v1",
+        "title": "History-Aware Neural Operator: Robust Data-Driven Constitutive Modeling of Path-Dependent Materials",
+        "comment": null,
+        "updated_time": "2025-06-12T05:19:17+00:00",
+        "published_time": "2025-06-12T05:19:17+00:00"
+    },
+    "http://arxiv.org/abs/2506.10244v1": {
+        "entry_id": "http://arxiv.org/abs/2506.10244v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.10244v1",
+        "title": "A new type of federated clustering: A non-model-sharing approach",
+        "comment": null,
+        "updated_time": "2025-06-11T23:57:26+00:00",
+        "published_time": "2025-06-11T23:57:26+00:00"
+    },
+    "http://arxiv.org/abs/2506.10127v1": {
+        "entry_id": "http://arxiv.org/abs/2506.10127v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.10127v1",
+        "title": "Meet Me at the Arm: The Cooperative Multi-Armed Bandits Problem with Shareable Arms",
+        "comment": null,
+        "updated_time": "2025-06-11T19:14:32+00:00",
+        "published_time": "2025-06-11T19:14:32+00:00"
+    },
     "http://arxiv.org/abs/2506.09867v1": {
         "entry_id": "http://arxiv.org/abs/2506.09867v1",
         "pdf_url": "http://arxiv.org/pdf/2506.09867v1",
