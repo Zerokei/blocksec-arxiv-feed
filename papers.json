@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2506.11786v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11786v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11786v1",
+        "title": "SSPINNpose: A Self-Supervised PINN for Inertial Pose and Dynamics Estimation",
+        "comment": null,
+        "updated_time": "2025-06-13T13:47:27+00:00",
+        "published_time": "2025-06-13T13:47:27+00:00"
+    },
+    "http://arxiv.org/abs/2506.11722v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11722v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11722v1",
+        "title": "Classification of Quality Characteristics in Online User Feedback using Linguistic Analysis, Crowdsourcing and LLMs",
+        "comment": "Accepted at the Journal of Systems and Software (JSS); online\n  appendix and supplementary material available at\n  https://doi.org/10.5281/zenodo.15604749",
+        "updated_time": "2025-06-13T12:37:07+00:00",
+        "published_time": "2025-06-13T12:37:07+00:00"
+    },
+    "http://arxiv.org/abs/2506.11700v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11700v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11700v1",
+        "title": "Geometry-Aware Edge Pooling for Graph Neural Networks",
+        "comment": null,
+        "updated_time": "2025-06-13T12:01:46+00:00",
+        "published_time": "2025-06-13T12:01:46+00:00"
+    },
+    "http://arxiv.org/abs/2506.11598v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11598v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11598v1",
+        "title": "Understanding API Usage and Testing: An Empirical Study of C Libraries",
+        "comment": "The 29th International Conference on Evaluation and Assessment in\n  Software Engineering, 17 to 20 June, 2025, Istanbul, Turkey",
+        "updated_time": "2025-06-13T09:07:16+00:00",
+        "published_time": "2025-06-13T09:07:16+00:00"
+    },
+    "http://arxiv.org/abs/2506.11597v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11597v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11597v1",
+        "title": "Further Evidence on a Controversial Topic about Human-Based Experiments: Professionals vs. Students",
+        "comment": null,
+        "updated_time": "2025-06-13T09:05:36+00:00",
+        "published_time": "2025-06-13T09:05:36+00:00"
+    },
+    "http://arxiv.org/abs/2506.11588v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11588v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11588v1",
+        "title": "MBSR at Work: Perspectives from an Instructor and Software Developers",
+        "comment": null,
+        "updated_time": "2025-06-13T08:51:07+00:00",
+        "published_time": "2025-06-13T08:51:07+00:00"
+    },
+    "http://arxiv.org/abs/2506.11586v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11586v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11586v1",
+        "title": "SecONNds: Secure Outsourced Neural Network Inference on ImageNet",
+        "comment": null,
+        "updated_time": "2025-06-13T08:49:39+00:00",
+        "published_time": "2025-06-13T08:49:39+00:00"
+    },
+    "http://arxiv.org/abs/2506.11548v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11548v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11548v1",
+        "title": "Augmenting the Generality and Performance of Large Language Models for Software Engineering",
+        "comment": null,
+        "updated_time": "2025-06-13T08:00:38+00:00",
+        "published_time": "2025-06-13T08:00:38+00:00"
+    },
+    "http://arxiv.org/abs/2506.11528v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11528v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11528v1",
+        "title": "Delayformer: spatiotemporal transformation for predicting high-dimensional dynamics",
+        "comment": "This paper is currently under review",
+        "updated_time": "2025-06-13T07:30:12+00:00",
+        "published_time": "2025-06-13T07:30:12+00:00"
+    },
+    "http://arxiv.org/abs/2506.11451v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11451v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11451v1",
+        "title": "Understanding the Issue Types in Open Source Blockchain-based Software Projects with the Transformer-based BERTopic",
+        "comment": null,
+        "updated_time": "2025-06-13T04:02:13+00:00",
+        "published_time": "2025-06-13T04:02:13+00:00"
+    },
+    "http://arxiv.org/abs/2506.11413v1": {
+        "entry_id": "http://arxiv.org/abs/2506.11413v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.11413v1",
+        "title": "Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates",
+        "comment": null,
+        "updated_time": "2025-06-13T02:23:41+00:00",
+        "published_time": "2025-06-13T02:23:41+00:00"
+    },
     "http://arxiv.org/abs/2506.10744v1": {
         "entry_id": "http://arxiv.org/abs/2506.10744v1",
         "pdf_url": "http://arxiv.org/pdf/2506.10744v1",
