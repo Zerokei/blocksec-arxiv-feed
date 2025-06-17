@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2506.13758v1": {
+        "entry_id": "http://arxiv.org/abs/2506.13758v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.13758v1",
+        "title": "AI reconstruction of European weather from the Euro-Atlantic regimes",
+        "comment": null,
+        "updated_time": "2025-06-16T17:59:02+00:00",
+        "published_time": "2025-06-16T17:59:02+00:00"
+    },
+    "http://arxiv.org/abs/2506.13755v1": {
+        "entry_id": "http://arxiv.org/abs/2506.13755v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.13755v1",
+        "title": "MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering",
+        "comment": null,
+        "updated_time": "2025-06-16T17:58:09+00:00",
+        "published_time": "2025-06-16T17:58:09+00:00"
+    },
+    "http://arxiv.org/abs/2506.13494v1": {
+        "entry_id": "http://arxiv.org/abs/2506.13494v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.13494v1",
+        "title": "Watermarking LLM-Generated Datasets in Downstream Tasks",
+        "comment": null,
+        "updated_time": "2025-06-16T13:51:49+00:00",
+        "published_time": "2025-06-16T13:51:49+00:00"
+    },
+    "http://arxiv.org/abs/2506.13434v1": {
+        "entry_id": "http://arxiv.org/abs/2506.13434v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.13434v1",
+        "title": "From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs",
+        "comment": "10 pages",
+        "updated_time": "2025-06-16T12:52:19+00:00",
+        "published_time": "2025-06-16T12:52:19+00:00"
+    },
+    "http://arxiv.org/abs/2506.13360v1": {
+        "entry_id": "http://arxiv.org/abs/2506.13360v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.13360v1",
+        "title": "The Rich Get Richer in Bitcoin Mining Induced by Blockchain Forks",
+        "comment": null,
+        "updated_time": "2025-06-16T11:03:50+00:00",
+        "published_time": "2025-06-16T11:03:50+00:00"
+    },
+    "http://arxiv.org/abs/2506.12760v1": {
+        "entry_id": "http://arxiv.org/abs/2506.12760v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.12760v1",
+        "title": "IDOL: Improved Different Optimization Levels Testing for Solidity Compilers",
+        "comment": "Accepted by QRS 2025 (Fast Abstracts track)",
+        "updated_time": "2025-06-15T08:00:12+00:00",
+        "published_time": "2025-06-15T08:00:12+00:00"
+    },
+    "http://arxiv.org/abs/2506.12616v1": {
+        "entry_id": "http://arxiv.org/abs/2506.12616v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.12616v1",
+        "title": "Real-Time Agile Software Management for Edge and Fog Computing Based Smart City Infrastructure",
+        "comment": "The paper has been published at the Fifth International Conference on\n  Computing and Communication Networks (ICCCN 2025), Volume 1",
+        "updated_time": "2025-06-14T20:00:53+00:00",
+        "published_time": "2025-06-14T20:00:53+00:00"
+    },
     "http://arxiv.org/abs/2506.11786v1": {
         "entry_id": "http://arxiv.org/abs/2506.11786v1",
         "pdf_url": "http://arxiv.org/pdf/2506.11786v1",
