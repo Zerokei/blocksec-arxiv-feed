@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2506.14619v1": {
+        "entry_id": "http://arxiv.org/abs/2506.14619v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.14619v1",
+        "title": "Feasibility-Driven Trust Region Bayesian Optimization",
+        "comment": "Accepted for publication at AutoML2025",
+        "updated_time": "2025-06-17T15:16:22+00:00",
+        "published_time": "2025-06-17T15:16:22+00:00"
+    },
+    "http://arxiv.org/abs/2506.14563v1": {
+        "entry_id": "http://arxiv.org/abs/2506.14563v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.14563v1",
+        "title": "Single-Example Learning in a Mixture of GPDMs with Latent Geometries",
+        "comment": "13 pages, 2 figures, 3 tables",
+        "updated_time": "2025-06-17T14:22:07+00:00",
+        "published_time": "2025-06-17T14:22:07+00:00"
+    },
     "http://arxiv.org/abs/2506.13758v1": {
         "entry_id": "http://arxiv.org/abs/2506.13758v1",
         "pdf_url": "http://arxiv.org/pdf/2506.13758v1",
