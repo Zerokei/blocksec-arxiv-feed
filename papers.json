@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2506.15656v1": {
+        "entry_id": "http://arxiv.org/abs/2506.15656v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.15656v1",
+        "title": "PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection",
+        "comment": null,
+        "updated_time": "2025-06-18T17:33:18+00:00",
+        "published_time": "2025-06-18T17:33:18+00:00"
+    },
+    "http://arxiv.org/abs/2506.15506v1": {
+        "entry_id": "http://arxiv.org/abs/2506.15506v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.15506v1",
+        "title": "Insights on Adversarial Attacks for Tabular Machine Learning via a Systematic Literature Review",
+        "comment": "This paper is currently under review at ACM Computing Surveys",
+        "updated_time": "2025-06-18T14:43:26+00:00",
+        "published_time": "2025-06-18T14:43:26+00:00"
+    },
+    "http://arxiv.org/abs/2506.10244v2": {
+        "entry_id": "http://arxiv.org/abs/2506.10244v2",
+        "pdf_url": "http://arxiv.org/pdf/2506.10244v2",
+        "title": "A new type of federated clustering: A non-model-sharing approach",
+        "comment": null,
+        "updated_time": "2025-06-18T14:06:53+00:00",
+        "published_time": "2025-06-11T23:57:26+00:00"
+    },
+    "http://arxiv.org/abs/2506.15346v1": {
+        "entry_id": "http://arxiv.org/abs/2506.15346v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.15346v1",
+        "title": "Acoustic Waveform Inversion with Image-to-Image Schr\u00f6dinger Bridges",
+        "comment": "Submitted to \"Computational Mathematics And Mathematical Physics\",\n  ISSN 1555-6662, issue 8, August 2025",
+        "updated_time": "2025-06-18T10:55:26+00:00",
+        "published_time": "2025-06-18T10:55:26+00:00"
+    },
+    "http://arxiv.org/abs/2506.15307v1": {
+        "entry_id": "http://arxiv.org/abs/2506.15307v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.15307v1",
+        "title": "SecFwT: Efficient Privacy-Preserving Fine-Tuning of Large Language Models Using Forward-Only Passes",
+        "comment": null,
+        "updated_time": "2025-06-18T09:36:57+00:00",
+        "published_time": "2025-06-18T09:36:57+00:00"
+    },
+    "http://arxiv.org/abs/2506.15227v1": {
+        "entry_id": "http://arxiv.org/abs/2506.15227v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.15227v1",
+        "title": "Large Language Models for Unit Testing: A Systematic Literature Review",
+        "comment": null,
+        "updated_time": "2025-06-18T08:11:10+00:00",
+        "published_time": "2025-06-18T08:11:10+00:00"
+    },
+    "http://arxiv.org/abs/2506.15181v1": {
+        "entry_id": "http://arxiv.org/abs/2506.15181v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.15181v1",
+        "title": "ImprovDML: Improved Trade-off in Private Byzantine-Resilient Distributed Machine Learning",
+        "comment": null,
+        "updated_time": "2025-06-18T06:53:52+00:00",
+        "published_time": "2025-06-18T06:53:52+00:00"
+    },
+    "http://arxiv.org/abs/2506.15112v1": {
+        "entry_id": "http://arxiv.org/abs/2506.15112v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.15112v1",
+        "title": "PDLRecover: Privacy-preserving Decentralized Model Recovery with Machine Unlearning",
+        "comment": null,
+        "updated_time": "2025-06-18T03:30:07+00:00",
+        "published_time": "2025-06-18T03:30:07+00:00"
+    },
     "http://arxiv.org/abs/2506.14619v1": {
         "entry_id": "http://arxiv.org/abs/2506.14619v1",
         "pdf_url": "http://arxiv.org/pdf/2506.14619v1",
