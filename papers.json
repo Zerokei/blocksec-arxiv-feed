@@ -1,4 +1,132 @@
 {
+    "http://arxiv.org/abs/2506.17162v1": {
+        "entry_id": "http://arxiv.org/abs/2506.17162v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.17162v1",
+        "title": "Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model",
+        "comment": "Accepted by ACM CCS 2025",
+        "updated_time": "2025-06-20T17:08:08+00:00",
+        "published_time": "2025-06-20T17:08:08+00:00"
+    },
+    "http://arxiv.org/abs/2506.17125v1": {
+        "entry_id": "http://arxiv.org/abs/2506.17125v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.17125v1",
+        "title": "Large Language Model Unlearning for Source Code",
+        "comment": null,
+        "updated_time": "2025-06-20T16:27:59+00:00",
+        "published_time": "2025-06-20T16:27:59+00:00"
+    },
+    "http://arxiv.org/abs/2506.17095v1": {
+        "entry_id": "http://arxiv.org/abs/2506.17095v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.17095v1",
+        "title": "Software Fairness Testing in Practice",
+        "comment": null,
+        "updated_time": "2025-06-20T16:03:02+00:00",
+        "published_time": "2025-06-20T16:03:02+00:00"
+    },
+    "http://arxiv.org/abs/2506.17047v1": {
+        "entry_id": "http://arxiv.org/abs/2506.17047v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.17047v1",
+        "title": "Navigating the Deep: Signature Extraction on Deep Neural Networks",
+        "comment": "26 pages",
+        "updated_time": "2025-06-20T14:59:47+00:00",
+        "published_time": "2025-06-20T14:59:47+00:00"
+    },
+    "http://arxiv.org/abs/2506.17035v1": {
+        "entry_id": "http://arxiv.org/abs/2506.17035v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.17035v1",
+        "title": "Critical Appraisal of Fairness Metrics in Clinical Predictive AI",
+        "comment": "32 pages, 1 figure, 2 tables, 5 boxes, 4 linked supplementary\n  materials",
+        "updated_time": "2025-06-20T14:43:36+00:00",
+        "published_time": "2025-06-20T14:43:36+00:00"
+    },
+    "http://arxiv.org/abs/2506.17029v1": {
+        "entry_id": "http://arxiv.org/abs/2506.17029v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.17029v1",
+        "title": "Scalable and Reliable Multi-agent Reinforcement Learning for Traffic Assignment",
+        "comment": null,
+        "updated_time": "2025-06-20T14:25:23+00:00",
+        "published_time": "2025-06-20T14:25:23+00:00"
+    },
+    "http://arxiv.org/abs/2506.17012v1": {
+        "entry_id": "http://arxiv.org/abs/2506.17012v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.17012v1",
+        "title": "A Novel Approach to Differential Privacy with Alpha Divergence",
+        "comment": "Published in CSF 2025",
+        "updated_time": "2025-06-20T14:10:18+00:00",
+        "published_time": "2025-06-20T14:10:18+00:00"
+    },
+    "http://arxiv.org/abs/2506.16997v1": {
+        "entry_id": "http://arxiv.org/abs/2506.16997v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.16997v1",
+        "title": "Identifying Explanation Needs: Towards a Catalog of User-based Indicators",
+        "comment": "This paper has been accepted at the research track of the 33rd IEEE\n  International Requirements Engineering Conference (RE 2025)",
+        "updated_time": "2025-06-20T13:49:43+00:00",
+        "published_time": "2025-06-20T13:49:43+00:00"
+    },
+    "http://arxiv.org/abs/2506.16891v1": {
+        "entry_id": "http://arxiv.org/abs/2506.16891v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.16891v1",
+        "title": "Tracker Installations Are Not Created Equal: Understanding Tracker Configuration of Form Data Collection",
+        "comment": null,
+        "updated_time": "2025-06-20T10:29:13+00:00",
+        "published_time": "2025-06-20T10:29:13+00:00"
+    },
+    "http://arxiv.org/abs/2506.16878v1": {
+        "entry_id": "http://arxiv.org/abs/2506.16878v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.16878v1",
+        "title": "Quantum Optimization for Software Engineering: A Survey",
+        "comment": null,
+        "updated_time": "2025-06-20T10:01:26+00:00",
+        "published_time": "2025-06-20T10:01:26+00:00"
+    },
+    "http://arxiv.org/abs/2506.16853v1": {
+        "entry_id": "http://arxiv.org/abs/2506.16853v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.16853v1",
+        "title": "Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models",
+        "comment": "28 pages, Under review",
+        "updated_time": "2025-06-20T09:02:05+00:00",
+        "published_time": "2025-06-20T09:02:05+00:00"
+    },
+    "http://arxiv.org/abs/2506.16840v1": {
+        "entry_id": "http://arxiv.org/abs/2506.16840v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.16840v1",
+        "title": "FedFitTech: A Baseline in Federated Learning for Fitness Tracking",
+        "comment": "This submission includes a total of 7 pages and 6 figures",
+        "updated_time": "2025-06-20T08:43:39+00:00",
+        "published_time": "2025-06-20T08:43:39+00:00"
+    },
+    "http://arxiv.org/abs/2506.16831v1": {
+        "entry_id": "http://arxiv.org/abs/2506.16831v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.16831v1",
+        "title": "Accountability of Robust and Reliable AI-Enabled Systems: A Preliminary Study and Roadmap",
+        "comment": "To be published in https://link.springer.com/book/9789819672370",
+        "updated_time": "2025-06-20T08:35:11+00:00",
+        "published_time": "2025-06-20T08:35:11+00:00"
+    },
+    "http://arxiv.org/abs/2506.16824v1": {
+        "entry_id": "http://arxiv.org/abs/2506.16824v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.16824v1",
+        "title": "Predicting New Research Directions in Materials Science using Large Language Models and Concept Graphs",
+        "comment": null,
+        "updated_time": "2025-06-20T08:26:12+00:00",
+        "published_time": "2025-06-20T08:26:12+00:00"
+    },
+    "http://arxiv.org/abs/2506.16458v1": {
+        "entry_id": "http://arxiv.org/abs/2506.16458v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.16458v1",
+        "title": "SecureFed: A Two-Phase Framework for Detecting Malicious Clients in Federated Learning",
+        "comment": null,
+        "updated_time": "2025-06-19T16:52:48+00:00",
+        "published_time": "2025-06-19T16:52:48+00:00"
+    },
+    "http://arxiv.org/abs/2506.16404v1": {
+        "entry_id": "http://arxiv.org/abs/2506.16404v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.16404v1",
+        "title": "Generating Directed Graphs with Dual Attention and Asymmetric Encoding",
+        "comment": null,
+        "updated_time": "2025-06-19T15:35:20+00:00",
+        "published_time": "2025-06-19T15:35:20+00:00"
+    },
     "http://arxiv.org/abs/2506.15656v1": {
         "entry_id": "http://arxiv.org/abs/2506.15656v1",
         "pdf_url": "http://arxiv.org/pdf/2506.15656v1",
