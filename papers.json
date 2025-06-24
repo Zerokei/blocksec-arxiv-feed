@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2506.18767v1": {
+        "entry_id": "http://arxiv.org/abs/2506.18767v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.18767v1",
+        "title": "Physical Layer Challenge-Response Authentication between Ambient Backscatter Devices",
+        "comment": null,
+        "updated_time": "2025-06-23T15:36:27+00:00",
+        "published_time": "2025-06-23T15:36:27+00:00"
+    },
+    "http://arxiv.org/abs/2506.18685v1": {
+        "entry_id": "http://arxiv.org/abs/2506.18685v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.18685v1",
+        "title": "Understanding the Theoretical Guarantees of DPM",
+        "comment": null,
+        "updated_time": "2025-06-23T14:27:19+00:00",
+        "published_time": "2025-06-23T14:27:19+00:00"
+    },
+    "http://arxiv.org/abs/2506.18614v1": {
+        "entry_id": "http://arxiv.org/abs/2506.18614v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.18614v1",
+        "title": "Policy gradient methods for ordinal policies",
+        "comment": "in French language, Journ{\\'e}es de statistiques 2025,\n  Soci{\\'e}t{\\'e} Fran\\c{c}aise des Statistiques, Jun 2023, Marseille, France",
+        "updated_time": "2025-06-23T13:19:36+00:00",
+        "published_time": "2025-06-23T13:19:36+00:00"
+    },
+    "http://arxiv.org/abs/2506.18522v1": {
+        "entry_id": "http://arxiv.org/abs/2506.18522v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.18522v1",
+        "title": "DDOT: A Derivative-directed Dual-decoder Ordinary Differential Equation Transformer for Dynamic System Modeling",
+        "comment": null,
+        "updated_time": "2025-06-23T11:24:52+00:00",
+        "published_time": "2025-06-23T11:24:52+00:00"
+    },
+    "http://arxiv.org/abs/2506.18398v1": {
+        "entry_id": "http://arxiv.org/abs/2506.18398v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.18398v1",
+        "title": "Your Token Becomes Worthless: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis",
+        "comment": null,
+        "updated_time": "2025-06-23T08:34:15+00:00",
+        "published_time": "2025-06-23T08:34:15+00:00"
+    },
+    "http://arxiv.org/abs/2506.18359v1": {
+        "entry_id": "http://arxiv.org/abs/2506.18359v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.18359v1",
+        "title": "Recipe for Discovery: A Framework for Systematic Open Source Project Identification",
+        "comment": null,
+        "updated_time": "2025-06-23T07:43:21+00:00",
+        "published_time": "2025-06-23T07:43:21+00:00"
+    },
+    "http://arxiv.org/abs/2506.18155v1": {
+        "entry_id": "http://arxiv.org/abs/2506.18155v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.18155v1",
+        "title": "Probabilistic and reinforced mining of association rules",
+        "comment": "205 pages",
+        "updated_time": "2025-06-22T19:51:15+00:00",
+        "published_time": "2025-06-22T19:51:15+00:00"
+    },
+    "http://arxiv.org/abs/2506.18046v1": {
+        "entry_id": "http://arxiv.org/abs/2506.18046v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.18046v1",
+        "title": "TAB: Unified Benchmarking of Time Series Anomaly Detection Methods",
+        "comment": "Accepted by PVLDB2025",
+        "updated_time": "2025-06-22T14:19:36+00:00",
+        "published_time": "2025-06-22T14:19:36+00:00"
+    },
+    "http://arxiv.org/abs/2506.17622v1": {
+        "entry_id": "http://arxiv.org/abs/2506.17622v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.17622v1",
+        "title": "SoK: Stablecoin Designs, Risks, and the Stablecoin LEGO",
+        "comment": null,
+        "updated_time": "2025-06-21T07:19:42+00:00",
+        "published_time": "2025-06-21T07:19:42+00:00"
+    },
+    "http://arxiv.org/abs/2506.17504v1": {
+        "entry_id": "http://arxiv.org/abs/2506.17504v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.17504v1",
+        "title": "A Smart Contract-based Non-Transferable Signature Verification System using Nominative Signatures",
+        "comment": "An extended abstract appeared at the 20th Asia Joint Conference on\n  Information Security (AsiaJCIS) 2025",
+        "updated_time": "2025-06-20T22:54:13+00:00",
+        "published_time": "2025-06-20T22:54:13+00:00"
+    },
     "http://arxiv.org/abs/2506.17162v1": {
         "entry_id": "http://arxiv.org/abs/2506.17162v1",
         "pdf_url": "http://arxiv.org/pdf/2506.17162v1",
