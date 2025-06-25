@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2506.19836v1": {
+        "entry_id": "http://arxiv.org/abs/2506.19836v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.19836v1",
+        "title": "Machine Learning with Privacy for Protected Attributes",
+        "comment": null,
+        "updated_time": "2025-06-24T17:53:28+00:00",
+        "published_time": "2025-06-24T17:53:28+00:00"
+    },
+    "http://arxiv.org/abs/2506.19624v1": {
+        "entry_id": "http://arxiv.org/abs/2506.19624v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.19624v1",
+        "title": "Decompiling Smart Contracts with a Large Language Model",
+        "comment": null,
+        "updated_time": "2025-06-24T13:42:59+00:00",
+        "published_time": "2025-06-24T13:42:59+00:00"
+    },
+    "http://arxiv.org/abs/2506.19481v1": {
+        "entry_id": "http://arxiv.org/abs/2506.19481v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.19481v1",
+        "title": "LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code",
+        "comment": "arXiv admin note: text overlap with arXiv:2502.07928",
+        "updated_time": "2025-06-24T10:17:34+00:00",
+        "published_time": "2025-06-24T10:17:34+00:00"
+    },
+    "http://arxiv.org/abs/2506.19480v1": {
+        "entry_id": "http://arxiv.org/abs/2506.19480v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.19480v1",
+        "title": "PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes",
+        "comment": null,
+        "updated_time": "2025-06-24T10:16:47+00:00",
+        "published_time": "2025-06-24T10:16:47+00:00"
+    },
+    "http://arxiv.org/abs/2506.19393v1": {
+        "entry_id": "http://arxiv.org/abs/2506.19393v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.19393v1",
+        "title": "ZK-SERIES: Privacy-Preserving Authentication using Temporal Biometric Data",
+        "comment": null,
+        "updated_time": "2025-06-24T07:45:43+00:00",
+        "published_time": "2025-06-24T07:45:43+00:00"
+    },
+    "http://arxiv.org/abs/2506.19368v1": {
+        "entry_id": "http://arxiv.org/abs/2506.19368v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.19368v1",
+        "title": "Yotta: A Large-Scale Trustless Data Trading Scheme for Blockchain System",
+        "comment": "9 pages, 2 figures, Exploratory Paper",
+        "updated_time": "2025-06-24T06:57:25+00:00",
+        "published_time": "2025-06-24T06:57:25+00:00"
+    },
+    "http://arxiv.org/abs/2506.19153v1": {
+        "entry_id": "http://arxiv.org/abs/2506.19153v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.19153v1",
+        "title": "Dataset of Yul Contracts to Support Solidity Compiler Research",
+        "comment": "4 pages",
+        "updated_time": "2025-06-23T21:43:05+00:00",
+        "published_time": "2025-06-23T21:43:05+00:00"
+    },
     "http://arxiv.org/abs/2506.18767v1": {
         "entry_id": "http://arxiv.org/abs/2506.18767v1",
         "pdf_url": "http://arxiv.org/pdf/2506.18767v1",
@@ -270,6 +326,14 @@
         "comment": null,
         "updated_time": "2025-06-18T03:30:07+00:00",
         "published_time": "2025-06-18T03:30:07+00:00"
+    },
+    "http://arxiv.org/abs/2506.19054v1": {
+        "entry_id": "http://arxiv.org/abs/2506.19054v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.19054v1",
+        "title": "PolyGuard: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset",
+        "comment": null,
+        "updated_time": "2025-06-18T01:35:33+00:00",
+        "published_time": "2025-06-18T01:35:33+00:00"
     },
     "http://arxiv.org/abs/2506.14619v1": {
         "entry_id": "http://arxiv.org/abs/2506.14619v1",
