@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2506.21461v1": {
+        "entry_id": "http://arxiv.org/abs/2506.21461v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.21461v1",
+        "title": "A Keyword-Based Technique to Evaluate Broad Question Answer Script",
+        "comment": "ACM Conference Proceedings (9 Pages)",
+        "updated_time": "2025-06-26T16:42:49+00:00",
+        "published_time": "2025-06-26T16:42:49+00:00"
+    },
+    "http://arxiv.org/abs/2506.21343v1": {
+        "entry_id": "http://arxiv.org/abs/2506.21343v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.21343v1",
+        "title": "DynamicBench: Evaluating Real-Time Report Generation in Large Language Models",
+        "comment": null,
+        "updated_time": "2025-06-26T14:53:44+00:00",
+        "published_time": "2025-06-26T14:53:44+00:00"
+    },
+    "http://arxiv.org/abs/2506.21158v1": {
+        "entry_id": "http://arxiv.org/abs/2506.21158v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.21158v1",
+        "title": "Diverse Mini-Batch Selection in Reinforcement Learning for Efficient Chemical Exploration in de novo Drug Design",
+        "comment": null,
+        "updated_time": "2025-06-26T11:31:30+00:00",
+        "published_time": "2025-06-26T11:31:30+00:00"
+    },
     "http://arxiv.org/abs/2506.20644v1": {
         "entry_id": "http://arxiv.org/abs/2506.20644v1",
         "pdf_url": "http://arxiv.org/pdf/2506.20644v1",
