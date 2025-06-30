@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2506.22301v1": {
+        "entry_id": "http://arxiv.org/abs/2506.22301v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.22301v1",
+        "title": "Weakly-Supervised Domain Adaptation with Proportion-Constrained Pseudo-Labeling",
+        "comment": "Accepted at IJCNN2025",
+        "updated_time": "2025-06-27T15:13:05+00:00",
+        "published_time": "2025-06-27T15:13:05+00:00"
+    },
+    "http://arxiv.org/abs/2506.22295v1": {
+        "entry_id": "http://arxiv.org/abs/2506.22295v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.22295v1",
+        "title": "Score-Based Model for Low-Rank Tensor Recovery",
+        "comment": null,
+        "updated_time": "2025-06-27T15:05:37+00:00",
+        "published_time": "2025-06-27T15:05:37+00:00"
+    },
+    "http://arxiv.org/abs/2506.22253v1": {
+        "entry_id": "http://arxiv.org/abs/2506.22253v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.22253v1",
+        "title": "Risk-Averse Best Arm Set Identification with Fixed Budget and Fixed Confidence",
+        "comment": null,
+        "updated_time": "2025-06-27T14:21:03+00:00",
+        "published_time": "2025-06-27T14:21:03+00:00"
+    },
+    "http://arxiv.org/abs/2506.22186v1": {
+        "entry_id": "http://arxiv.org/abs/2506.22186v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.22186v1",
+        "title": "Thompson Sampling-Based Learning and Control for Unknown Dynamic Systems",
+        "comment": null,
+        "updated_time": "2025-06-27T12:49:43+00:00",
+        "published_time": "2025-06-27T12:49:43+00:00"
+    },
+    "http://arxiv.org/abs/2506.22004v1": {
+        "entry_id": "http://arxiv.org/abs/2506.22004v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.22004v1",
+        "title": "GKNet: Graph Kalman Filtering and Model Inference via Model-based Deep Learning",
+        "comment": null,
+        "updated_time": "2025-06-27T08:17:07+00:00",
+        "published_time": "2025-06-27T08:17:07+00:00"
+    },
+    "http://arxiv.org/abs/2506.21797v1": {
+        "entry_id": "http://arxiv.org/abs/2506.21797v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.21797v1",
+        "title": "Why Neural Network Can Discover Symbolic Structures with Gradient-based Training: An Algebraic and Geometric Foundation for Neurosymbolic Reasoning",
+        "comment": "International Conference on Neuro-symbolic Systems (NeuS), 2025",
+        "updated_time": "2025-06-26T22:40:30+00:00",
+        "published_time": "2025-06-26T22:40:30+00:00"
+    },
     "http://arxiv.org/abs/2506.21461v1": {
         "entry_id": "http://arxiv.org/abs/2506.21461v1",
         "pdf_url": "http://arxiv.org/pdf/2506.21461v1",
