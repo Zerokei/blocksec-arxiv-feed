@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2506.23977v1": {
+        "entry_id": "http://arxiv.org/abs/2506.23977v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.23977v1",
+        "title": "A Scalable Approach for Safe and Robust Learning via Lipschitz-Constrained Networks",
+        "comment": null,
+        "updated_time": "2025-06-30T15:42:23+00:00",
+        "published_time": "2025-06-30T15:42:23+00:00"
+    },
+    "http://arxiv.org/abs/2506.23971v1": {
+        "entry_id": "http://arxiv.org/abs/2506.23971v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.23971v1",
+        "title": "UMA: A Family of Universal Models for Atoms",
+        "comment": "29 pages, 5 figures",
+        "updated_time": "2025-06-30T15:38:13+00:00",
+        "published_time": "2025-06-30T15:38:13+00:00"
+    },
+    "http://arxiv.org/abs/2506.23872v1": {
+        "entry_id": "http://arxiv.org/abs/2506.23872v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.23872v1",
+        "title": "When Plants Respond: Electrophysiology and Machine Learning for Green Monitoring Systems",
+        "comment": "Submitted and Accepted at the 14th international conference on\n  biomimetic and biohybrid systems (Living Machines)",
+        "updated_time": "2025-06-30T14:04:31+00:00",
+        "published_time": "2025-06-30T14:04:31+00:00"
+    },
+    "http://arxiv.org/abs/2506.23800v1": {
+        "entry_id": "http://arxiv.org/abs/2506.23800v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.23800v1",
+        "title": "Towards the Training of Deeper Predictive Coding Neural Networks",
+        "comment": "18 Pages, 7 figures",
+        "updated_time": "2025-06-30T12:44:47+00:00",
+        "published_time": "2025-06-30T12:44:47+00:00"
+    },
+    "http://arxiv.org/abs/2506.23749v1": {
+        "entry_id": "http://arxiv.org/abs/2506.23749v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.23749v1",
+        "title": "A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications",
+        "comment": null,
+        "updated_time": "2025-06-30T11:46:01+00:00",
+        "published_time": "2025-06-30T11:46:01+00:00"
+    },
+    "http://arxiv.org/abs/2506.23715v1": {
+        "entry_id": "http://arxiv.org/abs/2506.23715v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.23715v1",
+        "title": "Towards a Science of Developer eXperience (DevX)",
+        "comment": null,
+        "updated_time": "2025-06-30T10:42:57+00:00",
+        "published_time": "2025-06-30T10:42:57+00:00"
+    },
+    "http://arxiv.org/abs/2506.18398v2": {
+        "entry_id": "http://arxiv.org/abs/2506.18398v2",
+        "pdf_url": "http://arxiv.org/pdf/2506.18398v2",
+        "title": "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis",
+        "comment": null,
+        "updated_time": "2025-06-29T09:39:05+00:00",
+        "published_time": "2025-06-23T08:34:15+00:00"
+    },
+    "http://arxiv.org/abs/2506.22927v1": {
+        "entry_id": "http://arxiv.org/abs/2506.22927v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.22927v1",
+        "title": "Towards Time Series Generation Conditioned on Unstructured Natural Language",
+        "comment": null,
+        "updated_time": "2025-06-28T15:28:01+00:00",
+        "published_time": "2025-06-28T15:28:01+00:00"
+    },
+    "http://arxiv.org/abs/2506.22727v1": {
+        "entry_id": "http://arxiv.org/abs/2506.22727v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.22727v1",
+        "title": "Convergent Privacy Framework with Contractive GNN Layers for Multi-hop Aggregations",
+        "comment": "23 pages",
+        "updated_time": "2025-06-28T02:17:53+00:00",
+        "published_time": "2025-06-28T02:17:53+00:00"
+    },
+    "http://arxiv.org/abs/2506.22606v1": {
+        "entry_id": "http://arxiv.org/abs/2506.22606v1",
+        "pdf_url": "http://arxiv.org/pdf/2506.22606v1",
+        "title": "A User-Centric, Privacy-Preserving, and Verifiable Ecosystem for Personal Data Management and Utilization",
+        "comment": null,
+        "updated_time": "2025-06-27T20:05:46+00:00",
+        "published_time": "2025-06-27T20:05:46+00:00"
+    },
     "http://arxiv.org/abs/2506.22301v1": {
         "entry_id": "http://arxiv.org/abs/2506.22301v1",
         "pdf_url": "http://arxiv.org/pdf/2506.22301v1",
