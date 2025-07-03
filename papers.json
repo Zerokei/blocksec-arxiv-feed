@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2507.01803v1": {
+        "entry_id": "http://arxiv.org/abs/2507.01803v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.01803v1",
+        "title": "Towards Decentralized and Sustainable Foundation Model Training with the Edge",
+        "comment": null,
+        "updated_time": "2025-07-02T15:21:40+00:00",
+        "published_time": "2025-07-02T15:21:40+00:00"
+    },
+    "http://arxiv.org/abs/2507.01699v1": {
+        "entry_id": "http://arxiv.org/abs/2507.01699v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.01699v1",
+        "title": "Variational Graph Convolutional Neural Networks",
+        "comment": "This work has been submitted to the IEEE for possible publication. 9\n  pages, 6 figures",
+        "updated_time": "2025-07-02T13:28:37+00:00",
+        "published_time": "2025-07-02T13:28:37+00:00"
+    },
+    "http://arxiv.org/abs/2507.01635v1": {
+        "entry_id": "http://arxiv.org/abs/2507.01635v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.01635v1",
+        "title": "EGNInfoLeaker: Unveiling the Risks of Public Key Reuse and User Identity Leakage in Blockchain",
+        "comment": null,
+        "updated_time": "2025-07-02T12:07:03+00:00",
+        "published_time": "2025-07-02T12:07:03+00:00"
+    },
+    "http://arxiv.org/abs/2507.01544v1": {
+        "entry_id": "http://arxiv.org/abs/2507.01544v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.01544v1",
+        "title": "MARVIS: Modality Adaptive Reasoning over VISualizations",
+        "comment": null,
+        "updated_time": "2025-07-02T09:56:24+00:00",
+        "published_time": "2025-07-02T09:56:24+00:00"
+    },
+    "http://arxiv.org/abs/2506.21797v2": {
+        "entry_id": "http://arxiv.org/abs/2506.21797v2",
+        "pdf_url": "http://arxiv.org/pdf/2506.21797v2",
+        "title": "Why Neural Network Can Discover Symbolic Structures with Gradient-based Training: An Algebraic and Geometric Foundation for Neurosymbolic Reasoning",
+        "comment": "International Conference on Neuro-symbolic Systems (NeuS), 2025",
+        "updated_time": "2025-07-01T18:25:12+00:00",
+        "published_time": "2025-06-26T22:40:30+00:00"
+    },
+    "http://arxiv.org/abs/2507.00733v1": {
+        "entry_id": "http://arxiv.org/abs/2507.00733v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.00733v1",
+        "title": "Aleatoric and Epistemic Uncertainty Measures for Ordinal Classification through Binary Reduction",
+        "comment": null,
+        "updated_time": "2025-07-01T13:31:58+00:00",
+        "published_time": "2025-07-01T13:31:58+00:00"
+    },
     "http://arxiv.org/abs/2506.23800v2": {
         "entry_id": "http://arxiv.org/abs/2506.23800v2",
         "pdf_url": "http://arxiv.org/pdf/2506.23800v2",
