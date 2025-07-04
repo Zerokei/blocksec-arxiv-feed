@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2507.02843v1": {
+        "entry_id": "http://arxiv.org/abs/2507.02843v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.02843v1",
+        "title": "LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding",
+        "comment": null,
+        "updated_time": "2025-07-03T17:52:27+00:00",
+        "published_time": "2025-07-03T17:52:27+00:00"
+    },
+    "http://arxiv.org/abs/2507.02770v1": {
+        "entry_id": "http://arxiv.org/abs/2507.02770v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.02770v1",
+        "title": "NVIDIA GPU Confidential Computing Demystified",
+        "comment": null,
+        "updated_time": "2025-07-03T16:31:07+00:00",
+        "published_time": "2025-07-03T16:31:07+00:00"
+    },
+    "http://arxiv.org/abs/2507.02710v1": {
+        "entry_id": "http://arxiv.org/abs/2507.02710v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.02710v1",
+        "title": "Fluid Democracy in Federated Data Aggregation",
+        "comment": "ICML 2025 Workshop on Collaborative and Federated Agentic Workflows",
+        "updated_time": "2025-07-03T15:26:24+00:00",
+        "published_time": "2025-07-03T15:26:24+00:00"
+    },
+    "http://arxiv.org/abs/2507.02690v1": {
+        "entry_id": "http://arxiv.org/abs/2507.02690v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.02690v1",
+        "title": "RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes",
+        "comment": "15 pages, 7 figures. Business process prediction using reinforcement\n  learning and heterogeneous graph neural networks",
+        "updated_time": "2025-07-03T15:01:08+00:00",
+        "published_time": "2025-07-03T15:01:08+00:00"
+    },
+    "http://arxiv.org/abs/2507.02607v1": {
+        "entry_id": "http://arxiv.org/abs/2507.02607v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.02607v1",
+        "title": "Alleviating Attack Data Scarcity: SCANIA's Experience Towards Enhancing In-Vehicle Cyber Security Measures",
+        "comment": null,
+        "updated_time": "2025-07-03T13:31:33+00:00",
+        "published_time": "2025-07-03T13:31:33+00:00"
+    },
+    "http://arxiv.org/abs/2507.02533v1": {
+        "entry_id": "http://arxiv.org/abs/2507.02533v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.02533v1",
+        "title": "Meta-Fair: AI-Assisted Fairness Testing of Large Language Models",
+        "comment": null,
+        "updated_time": "2025-07-03T11:20:59+00:00",
+        "published_time": "2025-07-03T11:20:59+00:00"
+    },
+    "http://arxiv.org/abs/2507.02529v1": {
+        "entry_id": "http://arxiv.org/abs/2507.02529v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.02529v1",
+        "title": "RetrySQL: text-to-SQL training with retry data for self-correcting query generation",
+        "comment": null,
+        "updated_time": "2025-07-03T11:00:49+00:00",
+        "published_time": "2025-07-03T11:00:49+00:00"
+    },
+    "http://arxiv.org/abs/2507.02466v1": {
+        "entry_id": "http://arxiv.org/abs/2507.02466v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.02466v1",
+        "title": "Variational Kolmogorov-Arnold Network",
+        "comment": "A preliminary (short paper) version presented at ComBayNS Workshop at\n  IJCNN'25",
+        "updated_time": "2025-07-03T09:24:09+00:00",
+        "published_time": "2025-07-03T09:24:09+00:00"
+    },
     "http://arxiv.org/abs/2507.01803v1": {
         "entry_id": "http://arxiv.org/abs/2507.01803v1",
         "pdf_url": "http://arxiv.org/pdf/2507.01803v1",
