@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2507.04889v1": {
+        "entry_id": "http://arxiv.org/abs/2507.04889v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.04889v1",
+        "title": "Fine-tuning on simulated data outperforms prompting for agent tone of voice",
+        "comment": "22 pages, 5 figures, 6 tables",
+        "updated_time": "2025-07-07T11:23:20+00:00",
+        "published_time": "2025-07-07T11:23:20+00:00"
+    },
+    "http://arxiv.org/abs/2507.03690v1": {
+        "entry_id": "http://arxiv.org/abs/2507.03690v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.03690v1",
+        "title": "Plugging Attention into Power Grids: Towards Transparent Forecasting",
+        "comment": "16 pages",
+        "updated_time": "2025-07-04T16:18:18+00:00",
+        "published_time": "2025-07-04T16:18:18+00:00"
+    },
+    "http://arxiv.org/abs/2507.03545v1": {
+        "entry_id": "http://arxiv.org/abs/2507.03545v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.03545v1",
+        "title": "Communication Efficient, Differentially Private Distributed Optimization using Correlation-Aware Sketching",
+        "comment": null,
+        "updated_time": "2025-07-04T12:54:21+00:00",
+        "published_time": "2025-07-04T12:54:21+00:00"
+    },
+    "http://arxiv.org/abs/2507.03392v1": {
+        "entry_id": "http://arxiv.org/abs/2507.03392v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.03392v1",
+        "title": "Absolute Evaluation Measures for Machine Learning: A Survey",
+        "comment": null,
+        "updated_time": "2025-07-04T08:53:08+00:00",
+        "published_time": "2025-07-04T08:53:08+00:00"
+    },
     "http://arxiv.org/abs/2507.02843v1": {
         "entry_id": "http://arxiv.org/abs/2507.02843v1",
         "pdf_url": "http://arxiv.org/pdf/2507.02843v1",
