@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2507.06064v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06064v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06064v1",
+        "title": "Wrapless: The trustless lending protocol on top of Bitcoin",
+        "comment": null,
+        "updated_time": "2025-07-08T15:08:30+00:00",
+        "published_time": "2025-07-08T15:08:30+00:00"
+    },
+    "http://arxiv.org/abs/2507.06026v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06026v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06026v1",
+        "title": "Multi-view mid fusion: a universal approach for learning in an HDLSS setting",
+        "comment": null,
+        "updated_time": "2025-07-08T14:31:53+00:00",
+        "published_time": "2025-07-08T14:31:53+00:00"
+    },
+    "http://arxiv.org/abs/2506.18398v3": {
+        "entry_id": "http://arxiv.org/abs/2506.18398v3",
+        "pdf_url": "http://arxiv.org/pdf/2506.18398v3",
+        "title": "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis",
+        "comment": null,
+        "updated_time": "2025-07-08T14:26:58+00:00",
+        "published_time": "2025-06-23T08:34:15+00:00"
+    },
+    "http://arxiv.org/abs/2507.06009v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06009v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06009v1",
+        "title": "KnowIt: Deep Time Series Modeling and Interpretation",
+        "comment": null,
+        "updated_time": "2025-07-08T14:14:05+00:00",
+        "published_time": "2025-07-08T14:14:05+00:00"
+    },
+    "http://arxiv.org/abs/2507.05981v1": {
+        "entry_id": "http://arxiv.org/abs/2507.05981v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.05981v1",
+        "title": "Multi-Agent Debate Strategies to Enhance Requirements Engineering with Large Language Models",
+        "comment": null,
+        "updated_time": "2025-07-08T13:37:59+00:00",
+        "published_time": "2025-07-08T13:37:59+00:00"
+    },
     "http://arxiv.org/abs/2507.04889v1": {
         "entry_id": "http://arxiv.org/abs/2507.04889v1",
         "pdf_url": "http://arxiv.org/pdf/2507.04889v1",
