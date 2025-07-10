@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2507.07026v1": {
+        "entry_id": "http://arxiv.org/abs/2507.07026v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.07026v1",
+        "title": "Exploring Fairness Interventions in Open Source Projects",
+        "comment": "Revised version accepted at the 1st International Workshop on\n  Fairness in Software Systems(SANER 2025)",
+        "updated_time": "2025-07-09T16:57:59+00:00",
+        "published_time": "2025-07-09T16:57:59+00:00"
+    },
+    "http://arxiv.org/abs/2507.06986v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06986v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06986v1",
+        "title": "BarkBeetle: Stealing Decision Tree Models with Fault Injection",
+        "comment": null,
+        "updated_time": "2025-07-09T16:08:58+00:00",
+        "published_time": "2025-07-09T16:08:58+00:00"
+    },
+    "http://arxiv.org/abs/2507.06907v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06907v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06907v1",
+        "title": "Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting",
+        "comment": "27 pages including appendix, 1 figure",
+        "updated_time": "2025-07-09T14:46:31+00:00",
+        "published_time": "2025-07-09T14:46:31+00:00"
+    },
+    "http://arxiv.org/abs/2507.06901v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06901v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06901v1",
+        "title": "Designing Adaptive Algorithms Based on Reinforcement Learning for Dynamic Optimization of Sliding Window Size in Multi-Dimensional Data Streams",
+        "comment": null,
+        "updated_time": "2025-07-09T14:40:35+00:00",
+        "published_time": "2025-07-09T14:40:35+00:00"
+    },
+    "http://arxiv.org/abs/2507.06888v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06888v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06888v1",
+        "title": "Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants",
+        "comment": null,
+        "updated_time": "2025-07-09T14:25:51+00:00",
+        "published_time": "2025-07-09T14:25:51+00:00"
+    },
+    "http://arxiv.org/abs/2507.06859v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06859v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06859v1",
+        "title": "Episodic Contextual Bandits with Knapsacks under Conversion Models",
+        "comment": null,
+        "updated_time": "2025-07-09T14:00:05+00:00",
+        "published_time": "2025-07-09T14:00:05+00:00"
+    },
+    "http://arxiv.org/abs/2507.06064v2": {
+        "entry_id": "http://arxiv.org/abs/2507.06064v2",
+        "pdf_url": "http://arxiv.org/pdf/2507.06064v2",
+        "title": "Wrapless: The trustless lending protocol on top of Bitcoin",
+        "comment": null,
+        "updated_time": "2025-07-09T13:49:58+00:00",
+        "published_time": "2025-07-08T15:08:30+00:00"
+    },
+    "http://arxiv.org/abs/2507.06802v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06802v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06802v1",
+        "title": "Speech Tokenizer is Key to Consistent Representation",
+        "comment": null,
+        "updated_time": "2025-07-09T12:43:39+00:00",
+        "published_time": "2025-07-09T12:43:39+00:00"
+    },
+    "http://arxiv.org/abs/2507.06742v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06742v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06742v1",
+        "title": "PenTest2.0: Towards Autonomous Privilege Escalation Using GenAI",
+        "comment": "45 pages, 23 figures",
+        "updated_time": "2025-07-09T10:56:32+00:00",
+        "published_time": "2025-07-09T10:56:32+00:00"
+    },
+    "http://arxiv.org/abs/2507.06701v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06701v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06701v1",
+        "title": "Value from Observations: Towards Large-Scale Imitation Learning via Self-Improvement",
+        "comment": null,
+        "updated_time": "2025-07-09T09:55:23+00:00",
+        "published_time": "2025-07-09T09:55:23+00:00"
+    },
+    "http://arxiv.org/abs/2507.06652v1": {
+        "entry_id": "http://arxiv.org/abs/2507.06652v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.06652v1",
+        "title": "Federated Learning Inspired Fuzzy Systems: Decentralized Rule Updating for Privacy and Scalable Decision Making",
+        "comment": null,
+        "updated_time": "2025-07-09T08:34:24+00:00",
+        "published_time": "2025-07-09T08:34:24+00:00"
+    },
     "http://arxiv.org/abs/2507.06064v1": {
         "entry_id": "http://arxiv.org/abs/2507.06064v1",
         "pdf_url": "http://arxiv.org/pdf/2507.06064v1",
