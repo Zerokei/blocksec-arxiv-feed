@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2507.07972v1": {
+        "entry_id": "http://arxiv.org/abs/2507.07972v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.07972v1",
+        "title": "EinHops: Einsum Notation for Expressive Homomorphic Operations on RNS-CKKS Tensors",
+        "comment": "11 pages, 7 figures, 1 table",
+        "updated_time": "2025-07-10T17:50:10+00:00",
+        "published_time": "2025-07-10T17:50:10+00:00"
+    },
+    "http://arxiv.org/abs/2507.07901v1": {
+        "entry_id": "http://arxiv.org/abs/2507.07901v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.07901v1",
+        "title": "The Trust Fabric: Decentralized Interoperability and Economic Coordination for the Agentic Web",
+        "comment": null,
+        "updated_time": "2025-07-10T16:33:06+00:00",
+        "published_time": "2025-07-10T16:33:06+00:00"
+    },
+    "http://arxiv.org/abs/2507.07848v1": {
+        "entry_id": "http://arxiv.org/abs/2507.07848v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.07848v1",
+        "title": "\"So, Tell Me About Your Policy...\": Distillation of interpretable policies from Deep Reinforcement Learning agents",
+        "comment": null,
+        "updated_time": "2025-07-10T15:27:44+00:00",
+        "published_time": "2025-07-10T15:27:44+00:00"
+    },
+    "http://arxiv.org/abs/2507.07637v1": {
+        "entry_id": "http://arxiv.org/abs/2507.07637v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.07637v1",
+        "title": "HLF-FSL. A Decentralized Federated Split Learning Solution for IoT on Hyperledger Fabric",
+        "comment": "19 pages, 7 figures and 6 tables",
+        "updated_time": "2025-07-10T11:06:25+00:00",
+        "published_time": "2025-07-10T11:06:25+00:00"
+    },
+    "http://arxiv.org/abs/2507.07316v1": {
+        "entry_id": "http://arxiv.org/abs/2507.07316v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.07316v1",
+        "title": "AdeptHEQ-FL: Adaptive Homomorphic Encryption for Federated Learning of Hybrid Classical-Quantum Models with Dynamic Layer Sparing",
+        "comment": "Accepted in 1st International Workshop on ICCV'25 BISCUIT (Biomedical\n  Image and Signal Computing for Unbiasedness, Interpretability, and\n  Trustworthiness)",
+        "updated_time": "2025-07-09T22:29:02+00:00",
+        "published_time": "2025-07-09T22:29:02+00:00"
+    },
     "http://arxiv.org/abs/2507.07026v1": {
         "entry_id": "http://arxiv.org/abs/2507.07026v1",
         "pdf_url": "http://arxiv.org/pdf/2507.07026v1",
