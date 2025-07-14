@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2507.08749v1": {
+        "entry_id": "http://arxiv.org/abs/2507.08749v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.08749v1",
+        "title": "Modeling Partially Observed Nonlinear Dynamical Systems and Efficient Data Assimilation via Discrete-Time Conditional Gaussian Koopman Network",
+        "comment": null,
+        "updated_time": "2025-07-11T16:59:27+00:00",
+        "published_time": "2025-07-11T16:59:27+00:00"
+    },
+    "http://arxiv.org/abs/2507.08505v1": {
+        "entry_id": "http://arxiv.org/abs/2507.08505v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.08505v1",
+        "title": "Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R",
+        "comment": null,
+        "updated_time": "2025-07-11T11:30:57+00:00",
+        "published_time": "2025-07-11T11:30:57+00:00"
+    },
+    "http://arxiv.org/abs/2507.08467v1": {
+        "entry_id": "http://arxiv.org/abs/2507.08467v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.08467v1",
+        "title": "Computing Floating-Point Errors by Injecting Perturbations",
+        "comment": "arXiv admin note: text overlap with arXiv:2412.20804",
+        "updated_time": "2025-07-11T10:19:14+00:00",
+        "published_time": "2025-07-11T10:19:14+00:00"
+    },
+    "http://arxiv.org/abs/2507.08424v1": {
+        "entry_id": "http://arxiv.org/abs/2507.08424v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.08424v1",
+        "title": "RTNinja: a generalized machine learning framework for analyzing random telegraph noise signals in nanoelectronic devices",
+        "comment": null,
+        "updated_time": "2025-07-11T09:09:01+00:00",
+        "published_time": "2025-07-11T09:09:01+00:00"
+    },
+    "http://arxiv.org/abs/2507.08382v1": {
+        "entry_id": "http://arxiv.org/abs/2507.08382v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.08382v1",
+        "title": "Two-cluster test",
+        "comment": null,
+        "updated_time": "2025-07-11T07:54:16+00:00",
+        "published_time": "2025-07-11T07:54:16+00:00"
+    },
+    "http://arxiv.org/abs/2507.08331v1": {
+        "entry_id": "http://arxiv.org/abs/2507.08331v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.08331v1",
+        "title": "Qualcomm Trusted Application Emulation for Fuzzing Testing",
+        "comment": "This work is currently under review for presentation at the USENIX\n  Security 2025 poster session",
+        "updated_time": "2025-07-11T06:10:15+00:00",
+        "published_time": "2025-07-11T06:10:15+00:00"
+    },
+    "http://arxiv.org/abs/2507.07901v2": {
+        "entry_id": "http://arxiv.org/abs/2507.07901v2",
+        "pdf_url": "http://arxiv.org/pdf/2507.07901v2",
+        "title": "The Trust Fabric: Decentralized Interoperability and Economic Coordination for the Agentic Web",
+        "comment": null,
+        "updated_time": "2025-07-11T03:11:21+00:00",
+        "published_time": "2025-07-10T16:33:06+00:00"
+    },
     "http://arxiv.org/abs/2507.07972v1": {
         "entry_id": "http://arxiv.org/abs/2507.07972v1",
         "pdf_url": "http://arxiv.org/pdf/2507.07972v1",
