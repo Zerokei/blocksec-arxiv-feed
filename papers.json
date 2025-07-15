@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2507.10540v1": {
+        "entry_id": "http://arxiv.org/abs/2507.10540v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.10540v1",
+        "title": "Fusing LLM Capabilities with Routing Data",
+        "comment": null,
+        "updated_time": "2025-07-14T17:58:02+00:00",
+        "published_time": "2025-07-14T17:58:02+00:00"
+    },
+    "http://arxiv.org/abs/2507.10489v1": {
+        "entry_id": "http://arxiv.org/abs/2507.10489v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.10489v1",
+        "title": "SynthGuard: Redefining Synthetic Data Generation with a Scalable and Privacy-Preserving Workflow Framework",
+        "comment": "This is the extended version of the paper to appear in the\n  Proceedings of the 1st International Workshop on Responsible Data Governance,\n  Privacy, and Digital Transformation (RDGPT 2025), held in conjunction with\n  the 20th International Conference on Availability, Reliability and Security\n  (ARES 2025)",
+        "updated_time": "2025-07-14T17:11:20+00:00",
+        "published_time": "2025-07-14T17:11:20+00:00"
+    },
+    "http://arxiv.org/abs/2507.10382v1": {
+        "entry_id": "http://arxiv.org/abs/2507.10382v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.10382v1",
+        "title": "Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis",
+        "comment": null,
+        "updated_time": "2025-07-14T15:23:11+00:00",
+        "published_time": "2025-07-14T15:23:11+00:00"
+    },
+    "http://arxiv.org/abs/2507.10334v1": {
+        "entry_id": "http://arxiv.org/abs/2507.10334v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.10334v1",
+        "title": "MoCap-Impute: A Comprehensive Benchmark and Comparative Analysis of Imputation Methods for IMU-based Motion Capture Data",
+        "comment": "22 pages, 7 figures, 3 algorithms, 2 tables",
+        "updated_time": "2025-07-14T14:41:19+00:00",
+        "published_time": "2025-07-14T14:41:19+00:00"
+    },
+    "http://arxiv.org/abs/2507.10170v1": {
+        "entry_id": "http://arxiv.org/abs/2507.10170v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.10170v1",
+        "title": "Understanding the Rank of Tensor Networks via an Intuitive Example-Driven Approach",
+        "comment": null,
+        "updated_time": "2025-07-14T11:33:14+00:00",
+        "published_time": "2025-07-14T11:33:14+00:00"
+    },
     "http://arxiv.org/abs/2507.08749v1": {
         "entry_id": "http://arxiv.org/abs/2507.08749v1",
         "pdf_url": "http://arxiv.org/pdf/2507.08749v1",
