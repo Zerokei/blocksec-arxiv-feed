@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2507.11246v1": {
+        "entry_id": "http://arxiv.org/abs/2507.11246v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.11246v1",
+        "title": "Generative Click-through Rate Prediction with Applications to Search Advertising",
+        "comment": "This work was first submitted on February 9, 2024",
+        "updated_time": "2025-07-15T12:21:30+00:00",
+        "published_time": "2025-07-15T12:21:30+00:00"
+    },
+    "http://arxiv.org/abs/2507.11183v1": {
+        "entry_id": "http://arxiv.org/abs/2507.11183v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.11183v1",
+        "title": "Quantized Rank Reduction: A Communications-Efficient Federated Learning Scheme for Network-Critical Applications",
+        "comment": "In Proceedings of the 2025 IARIA Annual Congress on Frontiers in\n  Science, Technology, Services, and Applications (IARIA Congress 2025),\n  Venice, Italy, July 6-10, 2025",
+        "updated_time": "2025-07-15T10:37:59+00:00",
+        "published_time": "2025-07-15T10:37:59+00:00"
+    },
+    "http://arxiv.org/abs/2507.11137v1": {
+        "entry_id": "http://arxiv.org/abs/2507.11137v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.11137v1",
+        "title": "Hashed Watermark as a Filter: Defeating Forging and Overwriting Attacks in Weight-based Neural Network Watermarking",
+        "comment": null,
+        "updated_time": "2025-07-15T09:38:11+00:00",
+        "published_time": "2025-07-15T09:38:11+00:00"
+    },
+    "http://arxiv.org/abs/2507.10927v1": {
+        "entry_id": "http://arxiv.org/abs/2507.10927v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.10927v1",
+        "title": "DVFS: A Dynamic Verifiable Fuzzy Search Service for Encrypted Cloud Data",
+        "comment": null,
+        "updated_time": "2025-07-15T02:36:30+00:00",
+        "published_time": "2025-07-15T02:36:30+00:00"
+    },
     "http://arxiv.org/abs/2507.10540v1": {
         "entry_id": "http://arxiv.org/abs/2507.10540v1",
         "pdf_url": "http://arxiv.org/pdf/2507.10540v1",
