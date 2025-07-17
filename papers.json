@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2507.12453v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12453v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12453v1",
+        "title": "Cost-aware Stopping for Bayesian Optimization",
+        "comment": null,
+        "updated_time": "2025-07-16T17:54:14+00:00",
+        "published_time": "2025-07-16T17:54:14+00:00"
+    },
+    "http://arxiv.org/abs/2507.12345v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12345v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12345v1",
+        "title": "Efficient Control Flow Attestation by Speculating on Control Flow Path Representations",
+        "comment": null,
+        "updated_time": "2025-07-16T15:38:58+00:00",
+        "published_time": "2025-07-16T15:38:58+00:00"
+    },
+    "http://arxiv.org/abs/2507.12165v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12165v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12165v1",
+        "title": "Multi-Component VAE with Gaussian Markov Random Field",
+        "comment": null,
+        "updated_time": "2025-07-16T11:53:08+00:00",
+        "published_time": "2025-07-16T11:53:08+00:00"
+    },
+    "http://arxiv.org/abs/2507.12084v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12084v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12084v1",
+        "title": "LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation",
+        "comment": null,
+        "updated_time": "2025-07-16T09:46:58+00:00",
+        "published_time": "2025-07-16T09:46:58+00:00"
+    },
+    "http://arxiv.org/abs/2507.12053v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12053v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12053v1",
+        "title": "FloGAN: Scenario-Based Urban Mobility Flow Generation via Conditional GANs and Dynamic Region Decoupling",
+        "comment": "International Conference on Intelligent Digitization of Systems and\n  Services, Valencia, Spain, 2025 (IDSS 2025)",
+        "updated_time": "2025-07-16T09:12:38+00:00",
+        "published_time": "2025-07-16T09:12:38+00:00"
+    },
+    "http://arxiv.org/abs/2507.12043v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12043v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12043v1",
+        "title": "Information-Theoretic Generalization Bounds of Replay-based Continual Learning",
+        "comment": null,
+        "updated_time": "2025-07-16T09:00:57+00:00",
+        "published_time": "2025-07-16T09:00:57+00:00"
+    },
+    "http://arxiv.org/abs/2507.12041v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12041v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12041v1",
+        "title": "Granular feedback merits sophisticated aggregation",
+        "comment": "31 pages, 8 figures",
+        "updated_time": "2025-07-16T08:58:27+00:00",
+        "published_time": "2025-07-16T08:58:27+00:00"
+    },
+    "http://arxiv.org/abs/2507.11590v1": {
+        "entry_id": "http://arxiv.org/abs/2507.11590v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.11590v1",
+        "title": "Synthetic Tabular Data Generation: A Comparative Survey for Modern Techniques",
+        "comment": null,
+        "updated_time": "2025-07-15T14:57:23+00:00",
+        "published_time": "2025-07-15T14:57:23+00:00"
+    },
     "http://arxiv.org/abs/2507.11246v1": {
         "entry_id": "http://arxiv.org/abs/2507.11246v1",
         "pdf_url": "http://arxiv.org/pdf/2507.11246v1",
