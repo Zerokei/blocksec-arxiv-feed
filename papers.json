@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2507.13313v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13313v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13313v1",
+        "title": "A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models",
+        "comment": null,
+        "updated_time": "2025-07-17T17:33:11+00:00",
+        "published_time": "2025-07-17T17:33:11+00:00"
+    },
+    "http://arxiv.org/abs/2507.13305v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13305v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13305v1",
+        "title": "Boosting Team Modeling through Tempo-Relational Representation Learning",
+        "comment": null,
+        "updated_time": "2025-07-17T17:22:41+00:00",
+        "published_time": "2025-07-17T17:22:41+00:00"
+    },
+    "http://arxiv.org/abs/2507.13191v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13191v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13191v1",
+        "title": "GradNetOT: Learning Optimal Transport Maps with GradNets",
+        "comment": null,
+        "updated_time": "2025-07-17T14:59:24+00:00",
+        "published_time": "2025-07-17T14:59:24+00:00"
+    },
+    "http://arxiv.org/abs/2507.13123v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13123v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13123v1",
+        "title": "Detecting LLM-generated Code with Subtle Modification by Adversarial Training",
+        "comment": null,
+        "updated_time": "2025-07-17T13:38:16+00:00",
+        "published_time": "2025-07-17T13:38:16+00:00"
+    },
+    "http://arxiv.org/abs/2507.13042v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13042v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13042v1",
+        "title": "Backscattering-Based Security in Wireless Power Transfer Applied to Battery-Free BLE Sensors",
+        "comment": null,
+        "updated_time": "2025-07-17T12:15:09+00:00",
+        "published_time": "2025-07-17T12:15:09+00:00"
+    },
+    "http://arxiv.org/abs/2507.13028v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13028v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13028v1",
+        "title": "From Paranoia to Compliance: The Bumpy Road of System Hardening Practices on Stack Exchange",
+        "comment": "14 pages, 5 figures",
+        "updated_time": "2025-07-17T11:57:11+00:00",
+        "published_time": "2025-07-17T11:57:11+00:00"
+    },
+    "http://arxiv.org/abs/2507.12950v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12950v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12950v1",
+        "title": "Insights into a radiology-specialised multimodal large language model with sparse autoencoders",
+        "comment": "Actionable Interpretability Workshop at ICML 2025. 24 pages, 7\n  figures, 5 tables",
+        "updated_time": "2025-07-17T09:43:20+00:00",
+        "published_time": "2025-07-17T09:43:20+00:00"
+    },
+    "http://arxiv.org/abs/2507.12937v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12937v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12937v1",
+        "title": "Enterprise Security Incident Analysis and Countermeasures Based on the T-Mobile Data Breach",
+        "comment": null,
+        "updated_time": "2025-07-17T09:22:52+00:00",
+        "published_time": "2025-07-17T09:22:52+00:00"
+    },
+    "http://arxiv.org/abs/2507.12908v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12908v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12908v1",
+        "title": "Fremer: Lightweight and Effective Frequency Transformer for Workload Forecasting in Cloud Services",
+        "comment": "12 pages, 11 figures",
+        "updated_time": "2025-07-17T08:51:28+00:00",
+        "published_time": "2025-07-17T08:51:28+00:00"
+    },
+    "http://arxiv.org/abs/2507.12900v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12900v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12900v1",
+        "title": "Learning to Reject Low-Quality Explanations via User Feedback",
+        "comment": null,
+        "updated_time": "2025-07-17T08:40:28+00:00",
+        "published_time": "2025-07-17T08:40:28+00:00"
+    },
+    "http://arxiv.org/abs/2507.12787v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12787v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12787v1",
+        "title": "Multi-Channel Graph Neural Network for Financial Risk Prediction of NEEQ Enterprises",
+        "comment": "10 pages, 4 figures. Submitted for conference review",
+        "updated_time": "2025-07-17T04:57:51+00:00",
+        "published_time": "2025-07-17T04:57:51+00:00"
+    },
+    "http://arxiv.org/abs/2507.12670v1": {
+        "entry_id": "http://arxiv.org/abs/2507.12670v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.12670v1",
+        "title": "On the Consideration of Vanity Address Generation via Identity-Based Signatures",
+        "comment": null,
+        "updated_time": "2025-07-16T23:04:57+00:00",
+        "published_time": "2025-07-16T23:04:57+00:00"
+    },
     "http://arxiv.org/abs/2507.12453v1": {
         "entry_id": "http://arxiv.org/abs/2507.12453v1",
         "pdf_url": "http://arxiv.org/pdf/2507.12453v1",
