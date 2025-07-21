@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2507.14066v1": {
+        "entry_id": "http://arxiv.org/abs/2507.14066v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.14066v1",
+        "title": "Preference-based Multi-Objective Reinforcement Learning",
+        "comment": "This article has been accepted for publication in IEEE Transactions\n  on Automation Science and Engineering. This is the author's version, which\n  has not been fully edited, and the content may change prior to final\n  publication. \\c{opyright} 2025 IEEE. All rights reserved, including rights\n  for text and data mining and training of artificial intelligence and similar\n  technologies",
+        "updated_time": "2025-07-18T16:43:04+00:00",
+        "published_time": "2025-07-18T16:43:04+00:00"
+    },
+    "http://arxiv.org/abs/2507.13992v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13992v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13992v1",
+        "title": "Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks",
+        "comment": null,
+        "updated_time": "2025-07-18T14:58:05+00:00",
+        "published_time": "2025-07-18T14:58:05+00:00"
+    },
+    "http://arxiv.org/abs/2507.13959v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13959v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13959v1",
+        "title": "Signs of the Past, Patterns of the Present: On the Automatic Classification of Old Babylonian Cuneiform Signs",
+        "comment": "Paper under review at JOCCH",
+        "updated_time": "2025-07-18T14:24:22+00:00",
+        "published_time": "2025-07-18T14:24:22+00:00"
+    },
+    "http://arxiv.org/abs/2507.13718v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13718v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13718v1",
+        "title": "Bi-GRU Based Deception Detection using EEG Signals",
+        "comment": null,
+        "updated_time": "2025-07-18T07:59:23+00:00",
+        "published_time": "2025-07-18T07:59:23+00:00"
+    },
+    "http://arxiv.org/abs/2507.13716v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13716v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13716v1",
+        "title": "Benchmarking of EEG Analysis Techniques for Parkinson's Disease Diagnosis: A Comparison between Traditional ML Methods and Foundation DL Methods",
+        "comment": null,
+        "updated_time": "2025-07-18T07:59:17+00:00",
+        "published_time": "2025-07-18T07:59:17+00:00"
+    },
+    "http://arxiv.org/abs/2507.13591v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13591v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13591v1",
+        "title": "FuSeFL: Fully Secure and Scalable Cross-Silo Federated Learning",
+        "comment": "15 Pages, 12 Figures",
+        "updated_time": "2025-07-18T00:50:44+00:00",
+        "published_time": "2025-07-18T00:50:44+00:00"
+    },
+    "http://arxiv.org/abs/2507.13555v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13555v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13555v1",
+        "title": "Demystifying Feature Requests: Leveraging LLMs to Refine Feature Requests in Open-Source Software",
+        "comment": "Accepted at the 33rd IEEE International Requirements Engineering 2025",
+        "updated_time": "2025-07-17T22:16:13+00:00",
+        "published_time": "2025-07-17T22:16:13+00:00"
+    },
     "http://arxiv.org/abs/2507.13313v1": {
         "entry_id": "http://arxiv.org/abs/2507.13313v1",
         "pdf_url": "http://arxiv.org/pdf/2507.13313v1",
@@ -126,6 +182,14 @@
         "comment": null,
         "updated_time": "2025-07-16T09:46:58+00:00",
         "published_time": "2025-07-16T09:46:58+00:00"
+    },
+    "http://arxiv.org/abs/2507.13393v1": {
+        "entry_id": "http://arxiv.org/abs/2507.13393v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.13393v1",
+        "title": "Improving KAN with CDF normalization to quantiles",
+        "comment": "7 pages, 9 figures",
+        "updated_time": "2025-07-16T09:24:11+00:00",
+        "published_time": "2025-07-16T09:24:11+00:00"
     },
     "http://arxiv.org/abs/2507.12053v1": {
         "entry_id": "http://arxiv.org/abs/2507.12053v1",
