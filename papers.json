@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2507.15624v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15624v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15624v1",
+        "title": "Hot Topics and Common Challenges: an Empirical Study of React Discussions on Stack Overflow",
+        "comment": "6 pages, 4 figures, 4 tables, conference paper",
+        "updated_time": "2025-07-21T13:49:20+00:00",
+        "published_time": "2025-07-21T13:49:20+00:00"
+    },
+    "http://arxiv.org/abs/2507.15599v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15599v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15599v1",
+        "title": "Applying the Chinese Wall Reverse Engineering Technique to Large Language Model Code Editing",
+        "comment": null,
+        "updated_time": "2025-07-21T13:21:29+00:00",
+        "published_time": "2025-07-21T13:21:29+00:00"
+    },
+    "http://arxiv.org/abs/2507.15584v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15584v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15584v1",
+        "title": "We Need to Rethink Benchmarking in Anomaly Detection",
+        "comment": null,
+        "updated_time": "2025-07-21T13:02:49+00:00",
+        "published_time": "2025-07-21T13:02:49+00:00"
+    },
+    "http://arxiv.org/abs/2507.15545v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15545v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15545v1",
+        "title": "Data Aware Differentiable Neural Architecture Search for Tiny Keyword Spotting Applications",
+        "comment": null,
+        "updated_time": "2025-07-21T12:18:38+00:00",
+        "published_time": "2025-07-21T12:18:38+00:00"
+    },
+    "http://arxiv.org/abs/2507.15431v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15431v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15431v1",
+        "title": "The calculus of variations of the Transformer on the hyperspherical tangent bundle",
+        "comment": "First version",
+        "updated_time": "2025-07-21T09:43:33+00:00",
+        "published_time": "2025-07-21T09:43:33+00:00"
+    },
+    "http://arxiv.org/abs/2507.15377v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15377v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15377v1",
+        "title": "The Matrix Subcode Equivalence problem and its application to signature with MPC-in-the-Head",
+        "comment": null,
+        "updated_time": "2025-07-21T08:33:24+00:00",
+        "published_time": "2025-07-21T08:33:24+00:00"
+    },
+    "http://arxiv.org/abs/2507.15260v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15260v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15260v1",
+        "title": "CHORDS: Diffusion Sampling Accelerator with Multi-core Hierarchical ODE Solvers",
+        "comment": "ICCV 2025",
+        "updated_time": "2025-07-21T05:48:47+00:00",
+        "published_time": "2025-07-21T05:48:47+00:00"
+    },
+    "http://arxiv.org/abs/2507.15174v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15174v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15174v1",
+        "title": "Joint-Local Grounded Action Transformation for Sim-to-Real Transfer in Multi-Agent Traffic Control",
+        "comment": "This paper was accepted to RLC/RLJ 2025",
+        "updated_time": "2025-07-21T01:33:59+00:00",
+        "published_time": "2025-07-21T01:33:59+00:00"
+    },
+    "http://arxiv.org/abs/2507.15119v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15119v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15119v1",
+        "title": "Are We Overlooking the Dimensions? Learning Latent Hierarchical Channel Structure for High-Dimensional Time Series Forecasting",
+        "comment": null,
+        "updated_time": "2025-07-20T20:47:32+00:00",
+        "published_time": "2025-07-20T20:47:32+00:00"
+    },
+    "http://arxiv.org/abs/2507.14853v1": {
+        "entry_id": "http://arxiv.org/abs/2507.14853v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.14853v1",
+        "title": "A Privacy-Centric Approach: Scalable and Secure Federated Learning Enabled by Hybrid Homomorphic Encryption",
+        "comment": null,
+        "updated_time": "2025-07-20T07:46:53+00:00",
+        "published_time": "2025-07-20T07:46:53+00:00"
+    },
     "http://arxiv.org/abs/2507.14066v1": {
         "entry_id": "http://arxiv.org/abs/2507.14066v1",
         "pdf_url": "http://arxiv.org/pdf/2507.14066v1",
