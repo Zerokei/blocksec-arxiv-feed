@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2507.16419v1": {
+        "entry_id": "http://arxiv.org/abs/2507.16419v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.16419v1",
+        "title": "Improving Predictions on Highly Unbalanced Data Using Open Source Synthetic Data Upsampling",
+        "comment": null,
+        "updated_time": "2025-07-22T10:11:32+00:00",
+        "published_time": "2025-07-22T10:11:32+00:00"
+    },
+    "http://arxiv.org/abs/2507.16276v1": {
+        "entry_id": "http://arxiv.org/abs/2507.16276v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.16276v1",
+        "title": "From Contracts to Code: Automating Smart Contract Generation with Multi-Level Finite State Machines",
+        "comment": null,
+        "updated_time": "2025-07-22T06:41:30+00:00",
+        "published_time": "2025-07-22T06:41:30+00:00"
+    },
+    "http://arxiv.org/abs/2507.16060v1": {
+        "entry_id": "http://arxiv.org/abs/2507.16060v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.16060v1",
+        "title": "MFAz: Historical Access Based Multi-Factor Authorization",
+        "comment": null,
+        "updated_time": "2025-07-21T20:54:04+00:00",
+        "published_time": "2025-07-21T20:54:04+00:00"
+    },
+    "http://arxiv.org/abs/2507.16044v1": {
+        "entry_id": "http://arxiv.org/abs/2507.16044v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.16044v1",
+        "title": "Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs",
+        "comment": null,
+        "updated_time": "2025-07-21T20:20:31+00:00",
+        "published_time": "2025-07-21T20:20:31+00:00"
+    },
+    "http://arxiv.org/abs/2507.15917v1": {
+        "entry_id": "http://arxiv.org/abs/2507.15917v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.15917v1",
+        "title": "HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs",
+        "comment": "8 pages, 4 figures",
+        "updated_time": "2025-07-21T17:57:17+00:00",
+        "published_time": "2025-07-21T17:57:17+00:00"
+    },
     "http://arxiv.org/abs/2507.15624v1": {
         "entry_id": "http://arxiv.org/abs/2507.15624v1",
         "pdf_url": "http://arxiv.org/pdf/2507.15624v1",
