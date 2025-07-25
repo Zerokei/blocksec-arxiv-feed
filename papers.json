@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2507.18631v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18631v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18631v1",
+        "title": "Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment",
+        "comment": null,
+        "updated_time": "2025-07-24T17:59:24+00:00",
+        "published_time": "2025-07-24T17:59:24+00:00"
+    },
+    "http://arxiv.org/abs/2507.18603v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18603v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18603v1",
+        "title": "Demystify Protein Generation with Hierarchical Conditional Diffusion Models",
+        "comment": null,
+        "updated_time": "2025-07-24T17:34:02+00:00",
+        "published_time": "2025-07-24T17:34:02+00:00"
+    },
+    "http://arxiv.org/abs/2507.18376v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18376v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18376v1",
+        "title": "A Comprehensive Review of Diffusion Models in Smart Agriculture: Progress, Applications, and Challenges",
+        "comment": null,
+        "updated_time": "2025-07-24T12:52:32+00:00",
+        "published_time": "2025-07-24T12:52:32+00:00"
+    },
+    "http://arxiv.org/abs/2507.18320v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18320v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18320v1",
+        "title": "State of Health Estimation of Batteries Using a Time-Informed Dynamic Sequence-Inverted Transformer",
+        "comment": "11 pages, 3 figures",
+        "updated_time": "2025-07-24T11:43:46+00:00",
+        "published_time": "2025-07-24T11:43:46+00:00"
+    },
+    "http://arxiv.org/abs/2507.18313v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18313v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18313v1",
+        "title": "Regression-aware Continual Learning for Android Malware Detection",
+        "comment": "Submitted to IEEE Transactions on Information Forensics and Security",
+        "updated_time": "2025-07-24T11:31:23+00:00",
+        "published_time": "2025-07-24T11:31:23+00:00"
+    },
+    "http://arxiv.org/abs/2507.18105v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18105v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18105v1",
+        "title": "Understanding the Supply Chain and Risks of Large Language Model Applications",
+        "comment": "26 pages",
+        "updated_time": "2025-07-24T05:30:54+00:00",
+        "published_time": "2025-07-24T05:30:54+00:00"
+    },
+    "http://arxiv.org/abs/2507.17903v1": {
+        "entry_id": "http://arxiv.org/abs/2507.17903v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.17903v1",
+        "title": "Federated Learning for Large-Scale Cloud Robotic Manipulation: Opportunities and Challenges",
+        "comment": "Accepted for Presentation at IEEE International Conference on Machine\n  Learning and Cybernetics (ICMLC) 2025",
+        "updated_time": "2025-07-23T20:01:36+00:00",
+        "published_time": "2025-07-23T20:01:36+00:00"
+    },
     "http://arxiv.org/abs/2507.17743v1": {
         "entry_id": "http://arxiv.org/abs/2507.17743v1",
         "pdf_url": "http://arxiv.org/pdf/2507.17743v1",
