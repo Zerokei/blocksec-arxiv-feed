@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2507.19455v1": {
+        "entry_id": "http://arxiv.org/abs/2507.19455v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.19455v1",
+        "title": "Forest-Guided Clustering -- Shedding Light into the Random Forest Black Box",
+        "comment": null,
+        "updated_time": "2025-07-25T17:41:39+00:00",
+        "published_time": "2025-07-25T17:41:39+00:00"
+    },
+    "http://arxiv.org/abs/2507.19174v1": {
+        "entry_id": "http://arxiv.org/abs/2507.19174v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.19174v1",
+        "title": "Automatic Cough Analysis for Non-Small Cell Lung Cancer Detection",
+        "comment": "Emilia Ambrosini and Simona Ferrante equally contributed to the work",
+        "updated_time": "2025-07-25T11:30:22+00:00",
+        "published_time": "2025-07-25T11:30:22+00:00"
+    },
+    "http://arxiv.org/abs/2507.19113v1": {
+        "entry_id": "http://arxiv.org/abs/2507.19113v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.19113v1",
+        "title": "Exploring the Use of LLMs for Requirements Specification in an IT Consulting Company",
+        "comment": "11 pages, 5 figures. Accepted for presentation at the Industrial\n  Innovation Track of the 33rd IEEE International Requirements Engineering\n  Conference (RE 2025), Valencia, Spain",
+        "updated_time": "2025-07-25T09:49:37+00:00",
+        "published_time": "2025-07-25T09:49:37+00:00"
+    },
+    "http://arxiv.org/abs/2507.19031v1": {
+        "entry_id": "http://arxiv.org/abs/2507.19031v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.19031v1",
+        "title": "ProGMLP: A Progressive Framework for GNN-to-MLP Knowledge Distillation with Efficient Trade-offs",
+        "comment": null,
+        "updated_time": "2025-07-25T07:35:09+00:00",
+        "published_time": "2025-07-25T07:35:09+00:00"
+    },
+    "http://arxiv.org/abs/2507.18996v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18996v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18996v1",
+        "title": "Adapting to Fragmented and Evolving Data: A Fisher Information Perspective",
+        "comment": null,
+        "updated_time": "2025-07-25T06:50:09+00:00",
+        "published_time": "2025-07-25T06:50:09+00:00"
+    },
+    "http://arxiv.org/abs/2507.18992v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18992v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18992v1",
+        "title": "Reinforcement Learning via Conservative Agent for Environments with Random Delays",
+        "comment": null,
+        "updated_time": "2025-07-25T06:41:06+00:00",
+        "published_time": "2025-07-25T06:41:06+00:00"
+    },
+    "http://arxiv.org/abs/2507.18983v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18983v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18983v1",
+        "title": "KASPER: Kolmogorov Arnold Networks for Stock Prediction and Explainable Regimes",
+        "comment": "11 pages, 7 figures, 3 tables",
+        "updated_time": "2025-07-25T06:21:24+00:00",
+        "published_time": "2025-07-25T06:21:24+00:00"
+    },
+    "http://arxiv.org/abs/2507.18726v1": {
+        "entry_id": "http://arxiv.org/abs/2507.18726v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.18726v1",
+        "title": "Exploring the Landscape of Fairness Interventions in Software Engineering",
+        "comment": null,
+        "updated_time": "2025-07-24T18:16:44+00:00",
+        "published_time": "2025-07-24T18:16:44+00:00"
+    },
     "http://arxiv.org/abs/2507.18631v1": {
         "entry_id": "http://arxiv.org/abs/2507.18631v1",
         "pdf_url": "http://arxiv.org/pdf/2507.18631v1",
