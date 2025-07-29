@@ -1,4 +1,100 @@
 {
+    "http://arxiv.org/abs/2507.21024v1": {
+        "entry_id": "http://arxiv.org/abs/2507.21024v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.21024v1",
+        "title": "Optimization Performance of Factorization Machine with Annealing under Limited Training Data",
+        "comment": "9 pages, 4 figures",
+        "updated_time": "2025-07-28T17:45:10+00:00",
+        "published_time": "2025-07-28T17:45:10+00:00"
+    },
+    "http://arxiv.org/abs/2507.20967v1": {
+        "entry_id": "http://arxiv.org/abs/2507.20967v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.20967v1",
+        "title": "PROVCREATOR: Synthesizing Complex Heterogenous Graphs with Node and Edge Attributes",
+        "comment": null,
+        "updated_time": "2025-07-28T16:22:50+00:00",
+        "published_time": "2025-07-28T16:22:50+00:00"
+    },
+    "http://arxiv.org/abs/2507.20891v1": {
+        "entry_id": "http://arxiv.org/abs/2507.20891v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.20891v1",
+        "title": "Characterizing the Sensitivity to Individual Bit Flips in Client-Side Operations of the CKKS Scheme",
+        "comment": null,
+        "updated_time": "2025-07-28T14:42:09+00:00",
+        "published_time": "2025-07-28T14:42:09+00:00"
+    },
+    "http://arxiv.org/abs/2507.20862v1": {
+        "entry_id": "http://arxiv.org/abs/2507.20862v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.20862v1",
+        "title": "Bi-cephalic self-attended model to classify Parkinson's disease patients with freezing of gait",
+        "comment": "26 pages, 5944 words, 4 figures, 2 tables, European Journal of\n  Neuroscience: Special edition FOG",
+        "updated_time": "2025-07-28T14:16:01+00:00",
+        "published_time": "2025-07-28T14:16:01+00:00"
+    },
+    "http://arxiv.org/abs/2507.20840v1": {
+        "entry_id": "http://arxiv.org/abs/2507.20840v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.20840v1",
+        "title": "Towards Explainable Deep Clustering for Time Series Data",
+        "comment": "14 pages, accepted at TempXAI Workshop at ECML-PKDD 2025",
+        "updated_time": "2025-07-28T13:50:10+00:00",
+        "published_time": "2025-07-28T13:50:10+00:00"
+    },
+    "http://arxiv.org/abs/2507.20814v1": {
+        "entry_id": "http://arxiv.org/abs/2507.20814v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.20814v1",
+        "title": "Client--Library Compatibility Testing with API Interaction Snapshots",
+        "comment": null,
+        "updated_time": "2025-07-28T13:22:19+00:00",
+        "published_time": "2025-07-28T13:22:19+00:00"
+    },
+    "http://arxiv.org/abs/2507.20718v1": {
+        "entry_id": "http://arxiv.org/abs/2507.20718v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.20718v1",
+        "title": "Uncertainty-driven Embedding Convolution",
+        "comment": null,
+        "updated_time": "2025-07-28T11:15:25+00:00",
+        "published_time": "2025-07-28T11:15:25+00:00"
+    },
+    "http://arxiv.org/abs/2507.20554v1": {
+        "entry_id": "http://arxiv.org/abs/2507.20554v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.20554v1",
+        "title": "MPC-EVM: Enabling MPC Execution by Smart Contracts In An Asynchronous Manner",
+        "comment": null,
+        "updated_time": "2025-07-28T06:39:17+00:00",
+        "published_time": "2025-07-28T06:39:17+00:00"
+    },
+    "http://arxiv.org/abs/2507.20175v1": {
+        "entry_id": "http://arxiv.org/abs/2507.20175v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.20175v1",
+        "title": "SoK: Root Cause of \\$1 Billion Loss in Smart Contract Real-World Attacks via a Systematic Literature Review of Vulnerabilities",
+        "comment": null,
+        "updated_time": "2025-07-27T08:33:56+00:00",
+        "published_time": "2025-07-27T08:33:56+00:00"
+    },
+    "http://arxiv.org/abs/2507.19976v1": {
+        "entry_id": "http://arxiv.org/abs/2507.19976v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.19976v1",
+        "title": "\"Blockchain-Enabled Zero Trust Framework for Securing FinTech Ecosystems Against Insider Threats and Cyber Attacks\"",
+        "comment": null,
+        "updated_time": "2025-07-26T15:21:04+00:00",
+        "published_time": "2025-07-26T15:21:04+00:00"
+    },
+    "http://arxiv.org/abs/2507.19964v1": {
+        "entry_id": "http://arxiv.org/abs/2507.19964v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.19964v1",
+        "title": "Who Owns This Sample: Cross-Client Membership Inference Attack in Federated Graph Neural Networks",
+        "comment": null,
+        "updated_time": "2025-07-26T14:32:38+00:00",
+        "published_time": "2025-07-26T14:32:38+00:00"
+    },
+    "http://arxiv.org/abs/2507.19894v1": {
+        "entry_id": "http://arxiv.org/abs/2507.19894v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.19894v1",
+        "title": "A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction",
+        "comment": null,
+        "updated_time": "2025-07-26T09:49:57+00:00",
+        "published_time": "2025-07-26T09:49:57+00:00"
+    },
     "http://arxiv.org/abs/2507.19455v1": {
         "entry_id": "http://arxiv.org/abs/2507.19455v1",
         "pdf_url": "http://arxiv.org/pdf/2507.19455v1",
