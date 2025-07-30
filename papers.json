@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2507.21803v1": {
+        "entry_id": "http://arxiv.org/abs/2507.21803v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.21803v1",
+        "title": "Bayesian Neural Network Surrogates for Bayesian Optimization of Carbon Capture and Storage Operations",
+        "comment": null,
+        "updated_time": "2025-07-29T13:40:46+00:00",
+        "published_time": "2025-07-29T13:40:46+00:00"
+    },
+    "http://arxiv.org/abs/2507.21720v1": {
+        "entry_id": "http://arxiv.org/abs/2507.21720v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.21720v1",
+        "title": "Data-Driven Extended Corresponding State Approach for Residual Property Prediction of Hydrofluoroolefins",
+        "comment": null,
+        "updated_time": "2025-07-29T11:51:50+00:00",
+        "published_time": "2025-07-29T11:51:50+00:00"
+    },
+    "http://arxiv.org/abs/2507.21678v1": {
+        "entry_id": "http://arxiv.org/abs/2507.21678v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.21678v1",
+        "title": "Predicting Maintenance Cessation of Open Source Software Repositories with An Integrated Feature Framework",
+        "comment": null,
+        "updated_time": "2025-07-29T10:45:24+00:00",
+        "published_time": "2025-07-29T10:45:24+00:00"
+    },
+    "http://arxiv.org/abs/2507.21648v1": {
+        "entry_id": "http://arxiv.org/abs/2507.21648v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.21648v1",
+        "title": "Hyperbolic Genome Embeddings",
+        "comment": "30 pages, 16 figures, 10 tables. Camera-ready version for ICLR 2025",
+        "updated_time": "2025-07-29T10:06:17+00:00",
+        "published_time": "2025-07-29T10:06:17+00:00"
+    },
+    "http://arxiv.org/abs/2507.21494v1": {
+        "entry_id": "http://arxiv.org/abs/2507.21494v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.21494v1",
+        "title": "Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning",
+        "comment": "Accepted by ICCV 2025",
+        "updated_time": "2025-07-29T04:27:29+00:00",
+        "published_time": "2025-07-29T04:27:29+00:00"
+    },
+    "http://arxiv.org/abs/2507.21398v1": {
+        "entry_id": "http://arxiv.org/abs/2507.21398v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.21398v1",
+        "title": "Digital identity management system with blockchain:An implementation with Ethereum and Ganache",
+        "comment": null,
+        "updated_time": "2025-07-29T00:14:01+00:00",
+        "published_time": "2025-07-29T00:14:01+00:00"
+    },
     "http://arxiv.org/abs/2507.21024v1": {
         "entry_id": "http://arxiv.org/abs/2507.21024v1",
         "pdf_url": "http://arxiv.org/pdf/2507.21024v1",
