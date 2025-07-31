@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2507.22849v1": {
+        "entry_id": "http://arxiv.org/abs/2507.22849v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.22849v1",
+        "title": "Decentralized Differentially Private Power Method",
+        "comment": null,
+        "updated_time": "2025-07-30T17:15:50+00:00",
+        "published_time": "2025-07-30T17:15:50+00:00"
+    },
+    "http://arxiv.org/abs/2507.22611v1": {
+        "entry_id": "http://arxiv.org/abs/2507.22611v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.22611v1",
+        "title": "DoS Attacks and Defense Technologies in Blockchain Systems: A Hierarchical Analysis",
+        "comment": null,
+        "updated_time": "2025-07-30T12:29:34+00:00",
+        "published_time": "2025-07-30T12:29:34+00:00"
+    },
+    "http://arxiv.org/abs/2507.22538v1": {
+        "entry_id": "http://arxiv.org/abs/2507.22538v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.22538v1",
+        "title": "Inside madupite: Technical Design and Performance",
+        "comment": null,
+        "updated_time": "2025-07-30T10:06:35+00:00",
+        "published_time": "2025-07-30T10:06:35+00:00"
+    },
+    "http://arxiv.org/abs/2507.22447v1": {
+        "entry_id": "http://arxiv.org/abs/2507.22447v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.22447v1",
+        "title": "Breaking Obfuscation: Cluster-Aware Graph with LLM-Aided Recovery for Malicious JavaScript Detection",
+        "comment": null,
+        "updated_time": "2025-07-30T07:46:49+00:00",
+        "published_time": "2025-07-30T07:46:49+00:00"
+    },
     "http://arxiv.org/abs/2507.21803v1": {
         "entry_id": "http://arxiv.org/abs/2507.21803v1",
         "pdf_url": "http://arxiv.org/pdf/2507.21803v1",
