@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2507.23665v1": {
+        "entry_id": "http://arxiv.org/abs/2507.23665v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.23665v1",
+        "title": "SHAP-Guided Regularization in Machine Learning Models",
+        "comment": null,
+        "updated_time": "2025-07-31T15:45:38+00:00",
+        "published_time": "2025-07-31T15:45:38+00:00"
+    },
+    "http://arxiv.org/abs/2507.23604v1": {
+        "entry_id": "http://arxiv.org/abs/2507.23604v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.23604v1",
+        "title": "Hierarchical Message-Passing Policies for Multi-Agent Reinforcement Learning",
+        "comment": null,
+        "updated_time": "2025-07-31T14:42:12+00:00",
+        "published_time": "2025-07-31T14:42:12+00:00"
+    },
+    "http://arxiv.org/abs/2507.23504v1": {
+        "entry_id": "http://arxiv.org/abs/2507.23504v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.23504v1",
+        "title": "A Verifier Hierarchy",
+        "comment": "This paper is primarily relevant to cs.CC, but submitted under cs.ML\n  due to lack of endorsement. The paper is under review at \"Information and\n  Communication\"",
+        "updated_time": "2025-07-31T12:42:42+00:00",
+        "published_time": "2025-07-31T12:42:42+00:00"
+    },
+    "http://arxiv.org/abs/2507.23491v1": {
+        "entry_id": "http://arxiv.org/abs/2507.23491v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.23491v1",
+        "title": "Explainable artificial intelligence model predicting the risk of all-cause mortality in patients with type 2 diabetes mellitus",
+        "comment": null,
+        "updated_time": "2025-07-31T12:23:10+00:00",
+        "published_time": "2025-07-31T12:23:10+00:00"
+    },
+    "http://arxiv.org/abs/2507.23425v1": {
+        "entry_id": "http://arxiv.org/abs/2507.23425v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.23425v1",
+        "title": "Dynamic and Static Analysis of Python Software with Kieker Including Reconstructed Architectures",
+        "comment": "9 pages, 9 figures",
+        "updated_time": "2025-07-31T11:05:23+00:00",
+        "published_time": "2025-07-31T11:05:23+00:00"
+    },
+    "http://arxiv.org/abs/2507.23335v1": {
+        "entry_id": "http://arxiv.org/abs/2507.23335v1",
+        "pdf_url": "http://arxiv.org/pdf/2507.23335v1",
+        "title": "Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions",
+        "comment": "accepted by QRS 2025",
+        "updated_time": "2025-07-31T08:31:59+00:00",
+        "published_time": "2025-07-31T08:31:59+00:00"
+    },
     "http://arxiv.org/abs/2507.22849v1": {
         "entry_id": "http://arxiv.org/abs/2507.22849v1",
         "pdf_url": "http://arxiv.org/pdf/2507.22849v1",
