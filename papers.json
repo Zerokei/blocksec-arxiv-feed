@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2508.00785v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00785v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00785v1",
+        "title": "Explainable AI and Machine Learning for Exam-based Student Evaluation: Causal and Predictive Analysis of Socio-academic and Economic Factors",
+        "comment": null,
+        "updated_time": "2025-08-01T17:09:49+00:00",
+        "published_time": "2025-08-01T17:09:49+00:00"
+    },
+    "http://arxiv.org/abs/2508.00706v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00706v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00706v1",
+        "title": "Learning Network Dismantling without Handcrafted Inputs",
+        "comment": null,
+        "updated_time": "2025-08-01T15:22:37+00:00",
+        "published_time": "2025-08-01T15:22:37+00:00"
+    },
+    "http://arxiv.org/abs/2508.00682v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00682v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00682v1",
+        "title": "Unveiling Dynamic Binary Instrumentation Techniques",
+        "comment": null,
+        "updated_time": "2025-08-01T14:53:03+00:00",
+        "published_time": "2025-08-01T14:53:03+00:00"
+    },
+    "http://arxiv.org/abs/2508.00664v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00664v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00664v1",
+        "title": "DP-DGAD: A Generalist Dynamic Graph Anomaly Detector with Dynamic Prototypes",
+        "comment": null,
+        "updated_time": "2025-08-01T14:35:50+00:00",
+        "published_time": "2025-08-01T14:35:50+00:00"
+    },
+    "http://arxiv.org/abs/2508.00643v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00643v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00643v1",
+        "title": "Light-Weight Diffusion Multiplier and Uncertainty Quantification for Fourier Neural Operators",
+        "comment": null,
+        "updated_time": "2025-08-01T13:57:19+00:00",
+        "published_time": "2025-08-01T13:57:19+00:00"
+    },
+    "http://arxiv.org/abs/2508.00628v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00628v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00628v1",
+        "title": "Separated-Variable Spectral Neural Networks: A Physics-Informed Learning Approach for High-Frequency PDEs",
+        "comment": null,
+        "updated_time": "2025-08-01T13:40:10+00:00",
+        "published_time": "2025-08-01T13:40:10+00:00"
+    },
+    "http://arxiv.org/abs/2508.00513v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00513v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00513v1",
+        "title": "Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning",
+        "comment": "Accepted by ECAI 2025",
+        "updated_time": "2025-08-01T10:47:07+00:00",
+        "published_time": "2025-08-01T10:47:07+00:00"
+    },
+    "http://arxiv.org/abs/2508.00507v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00507v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00507v1",
+        "title": "Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection",
+        "comment": "Accepted by ACM Multimedia 2025 (MM '25)",
+        "updated_time": "2025-08-01T10:36:39+00:00",
+        "published_time": "2025-08-01T10:36:39+00:00"
+    },
+    "http://arxiv.org/abs/2508.00415v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00415v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00415v1",
+        "title": "Transforming Credit Risk Analysis: A Time-Series-Driven ResE-BiLSTM Framework for Post-Loan Default Detection",
+        "comment": null,
+        "updated_time": "2025-08-01T08:13:14+00:00",
+        "published_time": "2025-08-01T08:13:14+00:00"
+    },
+    "http://arxiv.org/abs/2508.00392v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00392v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00392v1",
+        "title": "Dual Adaptivity: Universal Algorithms for Minimizing the Adaptive Regret of Convex Functions",
+        "comment": "arXiv admin note: text overlap with arXiv:1906.10851",
+        "updated_time": "2025-08-01T07:42:38+00:00",
+        "published_time": "2025-08-01T07:42:38+00:00"
+    },
+    "http://arxiv.org/abs/2508.00351v1": {
+        "entry_id": "http://arxiv.org/abs/2508.00351v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.00351v1",
+        "title": "Cryptanalysis of Isogeny-Based Quantum Money with Rational Points",
+        "comment": null,
+        "updated_time": "2025-08-01T06:35:26+00:00",
+        "published_time": "2025-08-01T06:35:26+00:00"
+    },
     "http://arxiv.org/abs/2507.23665v1": {
         "entry_id": "http://arxiv.org/abs/2507.23665v1",
         "pdf_url": "http://arxiv.org/pdf/2507.23665v1",
