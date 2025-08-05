@@ -1,4 +1,132 @@
 {
+    "http://arxiv.org/abs/2508.02551v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02551v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02551v1",
+        "title": "PrivAR: Real-Time Privacy Protection for Location-Based Augmented Reality Applications",
+        "comment": null,
+        "updated_time": "2025-08-04T16:02:10+00:00",
+        "published_time": "2025-08-04T16:02:10+00:00"
+    },
+    "http://arxiv.org/abs/2508.02518v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02518v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02518v1",
+        "title": "AnalogCoder-Pro: Unifying Analog Circuit Generation and Optimization via Multi-modal LLMs",
+        "comment": null,
+        "updated_time": "2025-08-04T15:25:48+00:00",
+        "published_time": "2025-08-04T15:25:48+00:00"
+    },
+    "http://arxiv.org/abs/2508.02510v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02510v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02510v1",
+        "title": "On Distributional Dependent Performance of Classical and Neural Routing Solvers",
+        "comment": "9 pages, 2 figures",
+        "updated_time": "2025-08-04T15:17:08+00:00",
+        "published_time": "2025-08-04T15:17:08+00:00"
+    },
+    "http://arxiv.org/abs/2508.02487v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02487v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02487v1",
+        "title": "Commit Stability as a Signal for Risk in Open-Source Projects",
+        "comment": null,
+        "updated_time": "2025-08-04T14:58:39+00:00",
+        "published_time": "2025-08-04T14:58:39+00:00"
+    },
+    "http://arxiv.org/abs/2508.02485v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02485v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02485v1",
+        "title": "Federated Graph Unlearning",
+        "comment": "under review",
+        "updated_time": "2025-08-04T14:57:03+00:00",
+        "published_time": "2025-08-04T14:57:03+00:00"
+    },
+    "http://arxiv.org/abs/2508.02461v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02461v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02461v1",
+        "title": "Experimental Evaluation of Post-Quantum Homomorphic Encryption for Privacy-Preserving V2X Communication",
+        "comment": "This version has been submitted to the TRB Annual Meeting 2026 and is\n  currently under review",
+        "updated_time": "2025-08-04T14:28:19+00:00",
+        "published_time": "2025-08-04T14:28:19+00:00"
+    },
+    "http://arxiv.org/abs/2508.02438v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02438v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02438v1",
+        "title": "SoftPUF: a Software-Based Blockchain Framework using PUF and Machine Learning",
+        "comment": "8 figures, 4 tables",
+        "updated_time": "2025-08-04T13:59:44+00:00",
+        "published_time": "2025-08-04T13:59:44+00:00"
+    },
+    "http://arxiv.org/abs/2508.02414v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02414v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02414v1",
+        "title": "ASMR: Angular Support for Malfunctioning Client Resilience in Federated Learning",
+        "comment": null,
+        "updated_time": "2025-08-04T13:36:41+00:00",
+        "published_time": "2025-08-04T13:36:41+00:00"
+    },
+    "http://arxiv.org/abs/2508.02381v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02381v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02381v1",
+        "title": "Beyond Manually Designed Pruning Policies with Second-Level Performance Prediction: A Pruning Framework for LLMs",
+        "comment": null,
+        "updated_time": "2025-08-04T13:08:35+00:00",
+        "published_time": "2025-08-04T13:08:35+00:00"
+    },
+    "http://arxiv.org/abs/2508.02145v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02145v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02145v1",
+        "title": "The Dark Side of Upgrades: Uncovering Security Risks in Smart Contract Upgrades",
+        "comment": null,
+        "updated_time": "2025-08-04T07:43:43+00:00",
+        "published_time": "2025-08-04T07:43:43+00:00"
+    },
+    "http://arxiv.org/abs/2508.02116v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02116v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02116v1",
+        "title": "SUAD: Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants",
+        "comment": null,
+        "updated_time": "2025-08-04T06:51:36+00:00",
+        "published_time": "2025-08-04T06:51:36+00:00"
+    },
+    "http://arxiv.org/abs/2508.01474v1": {
+        "entry_id": "http://arxiv.org/abs/2508.01474v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.01474v1",
+        "title": "HT-Transformer: Event Sequences Classification by Accumulating Prefix Information with History Tokens",
+        "comment": null,
+        "updated_time": "2025-08-02T19:50:58+00:00",
+        "published_time": "2025-08-02T19:50:58+00:00"
+    },
+    "http://arxiv.org/abs/2508.01351v1": {
+        "entry_id": "http://arxiv.org/abs/2508.01351v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.01351v1",
+        "title": "NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM",
+        "comment": null,
+        "updated_time": "2025-08-02T12:56:27+00:00",
+        "published_time": "2025-08-02T12:56:27+00:00"
+    },
+    "http://arxiv.org/abs/2508.01346v1": {
+        "entry_id": "http://arxiv.org/abs/2508.01346v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.01346v1",
+        "title": "MultiCFV: Detecting Control Flow Vulnerabilities in Smart Contracts Leveraging Multimodal Deep Learning",
+        "comment": null,
+        "updated_time": "2025-08-02T12:49:41+00:00",
+        "published_time": "2025-08-02T12:49:41+00:00"
+    },
+    "http://arxiv.org/abs/2508.01280v1": {
+        "entry_id": "http://arxiv.org/abs/2508.01280v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.01280v1",
+        "title": "Blockchain security based on cryptography: a review",
+        "comment": null,
+        "updated_time": "2025-08-02T09:24:37+00:00",
+        "published_time": "2025-08-02T09:24:37+00:00"
+    },
+    "http://arxiv.org/abs/2508.01251v1": {
+        "entry_id": "http://arxiv.org/abs/2508.01251v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.01251v1",
+        "title": "Soft Separation and Distillation: Toward Global Uniformity in Federated Unsupervised Learning",
+        "comment": "Published at ICCV 2025",
+        "updated_time": "2025-08-02T08:02:34+00:00",
+        "published_time": "2025-08-02T08:02:34+00:00"
+    },
     "http://arxiv.org/abs/2508.00785v1": {
         "entry_id": "http://arxiv.org/abs/2508.00785v1",
         "pdf_url": "http://arxiv.org/pdf/2508.00785v1",
