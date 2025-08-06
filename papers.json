@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2508.03660v1": {
+        "entry_id": "http://arxiv.org/abs/2508.03660v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.03660v1",
+        "title": "Efficient Morphology-Aware Policy Transfer to New Embodiments",
+        "comment": "19 pages, 10 Figures, Published at the 2025 Reinforcement Learning\n  Conference",
+        "updated_time": "2025-08-05T17:15:35+00:00",
+        "published_time": "2025-08-05T17:15:35+00:00"
+    },
+    "http://arxiv.org/abs/2508.03369v1": {
+        "entry_id": "http://arxiv.org/abs/2508.03369v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.03369v1",
+        "title": "Psychological safety in software workplaces: A systematic literature review",
+        "comment": null,
+        "updated_time": "2025-08-05T12:19:17+00:00",
+        "published_time": "2025-08-05T12:19:17+00:00"
+    },
+    "http://arxiv.org/abs/2508.03323v1": {
+        "entry_id": "http://arxiv.org/abs/2508.03323v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.03323v1",
+        "title": "Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?",
+        "comment": "Accepted by the ACM International Conference on the Foundations of\n  Software Engineering (FSE 2025)",
+        "updated_time": "2025-08-05T11:05:20+00:00",
+        "published_time": "2025-08-05T11:05:20+00:00"
+    },
+    "http://arxiv.org/abs/2508.03298v1": {
+        "entry_id": "http://arxiv.org/abs/2508.03298v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.03298v1",
+        "title": "GUI-ReRank: Enhancing GUI Retrieval with Multi-Modal LLM-based Reranking",
+        "comment": null,
+        "updated_time": "2025-08-05T10:17:38+00:00",
+        "published_time": "2025-08-05T10:17:38+00:00"
+    },
+    "http://arxiv.org/abs/2508.03269v1": {
+        "entry_id": "http://arxiv.org/abs/2508.03269v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.03269v1",
+        "title": "Towards Interpretable Concept Learning over Time Series via Temporal Logic Semantics",
+        "comment": null,
+        "updated_time": "2025-08-05T09:50:55+00:00",
+        "published_time": "2025-08-05T09:50:55+00:00"
+    },
+    "http://arxiv.org/abs/2508.03258v1": {
+        "entry_id": "http://arxiv.org/abs/2508.03258v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.03258v1",
+        "title": "SmartLLMs Scheduler: A Framework for Cost-Effective LLMs Utilization",
+        "comment": null,
+        "updated_time": "2025-08-05T09:35:52+00:00",
+        "published_time": "2025-08-05T09:35:52+00:00"
+    },
+    "http://arxiv.org/abs/2508.03194v1": {
+        "entry_id": "http://arxiv.org/abs/2508.03194v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.03194v1",
+        "title": "Scaling DRL for Decision Making: A Survey on Data, Network, and Training Budget Strategies",
+        "comment": null,
+        "updated_time": "2025-08-05T08:03:12+00:00",
+        "published_time": "2025-08-05T08:03:12+00:00"
+    },
+    "http://arxiv.org/abs/2508.02993v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02993v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02993v1",
+        "title": "On the Fast Adaptation of Delayed Clients in Decentralized Federated Learning: A Centroid-Aligned Distillation Approach",
+        "comment": "This paper is currently under peer review",
+        "updated_time": "2025-08-05T01:41:30+00:00",
+        "published_time": "2025-08-05T01:41:30+00:00"
+    },
+    "http://arxiv.org/abs/2508.02943v1": {
+        "entry_id": "http://arxiv.org/abs/2508.02943v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.02943v1",
+        "title": "A Non-leveled and Reliable Approximate FHE Framework through Binarized Polynomial Rings",
+        "comment": null,
+        "updated_time": "2025-08-04T22:53:36+00:00",
+        "published_time": "2025-08-04T22:53:36+00:00"
+    },
     "http://arxiv.org/abs/2508.02551v1": {
         "entry_id": "http://arxiv.org/abs/2508.02551v1",
         "pdf_url": "http://arxiv.org/pdf/2508.02551v1",
