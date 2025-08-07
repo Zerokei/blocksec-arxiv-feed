@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2508.04595v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04595v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04595v1",
+        "title": "Improved Training Strategies for Physics-Informed Neural Networks using Real Experimental Data in Aluminum Spot Welding",
+        "comment": null,
+        "updated_time": "2025-08-06T16:14:00+00:00",
+        "published_time": "2025-08-06T16:14:00+00:00"
+    },
+    "http://arxiv.org/abs/2508.04583v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04583v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04583v1",
+        "title": "Measuring the Carbon Footprint of Cryptographic Privacy-Enhancing Technologies",
+        "comment": null,
+        "updated_time": "2025-08-06T16:07:29+00:00",
+        "published_time": "2025-08-06T16:07:29+00:00"
+    },
+    "http://arxiv.org/abs/2508.04470v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04470v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04470v1",
+        "title": "FedHiP: Heterogeneity-Invariant Personalized Federated Learning Through Closed-Form Solutions",
+        "comment": "11 pages, 5 figures, 3 tables",
+        "updated_time": "2025-08-06T14:15:57+00:00",
+        "published_time": "2025-08-06T14:15:57+00:00"
+    },
+    "http://arxiv.org/abs/2508.04308v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04308v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04308v1",
+        "title": "WSS-CL: Weight Saliency Soft-Guided Contrastive Learning for Efficient Machine Unlearning Image Classification",
+        "comment": "17th International Conference on Computational Collective\n  Intelligence 2025",
+        "updated_time": "2025-08-06T10:47:36+00:00",
+        "published_time": "2025-08-06T10:47:36+00:00"
+    },
+    "http://arxiv.org/abs/2508.04279v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04279v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04279v1",
+        "title": "Mockingbird: How does LLM perform in general machine learning tasks?",
+        "comment": null,
+        "updated_time": "2025-08-06T10:08:47+00:00",
+        "published_time": "2025-08-06T10:08:47+00:00"
+    },
+    "http://arxiv.org/abs/2508.04208v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04208v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04208v1",
+        "title": "DP-DocLDM: Differentially Private Document Image Generation using Latent Diffusion Models",
+        "comment": "Accepted in ICDAR 2025",
+        "updated_time": "2025-08-06T08:43:08+00:00",
+        "published_time": "2025-08-06T08:43:08+00:00"
+    },
+    "http://arxiv.org/abs/2508.04189v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04189v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04189v1",
+        "title": "BadTime: An Effective Backdoor Attack on Multivariate Long-Term Time Series Forecasting",
+        "comment": null,
+        "updated_time": "2025-08-06T08:18:01+00:00",
+        "published_time": "2025-08-06T08:18:01+00:00"
+    },
+    "http://arxiv.org/abs/2508.04097v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04097v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04097v1",
+        "title": "Model Inversion Attacks on Vision-Language Models: Do They Leak What They Learn?",
+        "comment": "Under review",
+        "updated_time": "2025-08-06T05:30:05+00:00",
+        "published_time": "2025-08-06T05:30:05+00:00"
+    },
+    "http://arxiv.org/abs/2508.04045v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04045v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04045v1",
+        "title": "FeDaL: Federated Dataset Learning for Time Series Foundation Models",
+        "comment": "28 pages, scaling FL to time series foundation models",
+        "updated_time": "2025-08-06T03:14:31+00:00",
+        "published_time": "2025-08-06T03:14:31+00:00"
+    },
     "http://arxiv.org/abs/2508.03660v1": {
         "entry_id": "http://arxiv.org/abs/2508.03660v1",
         "pdf_url": "http://arxiv.org/pdf/2508.03660v1",
@@ -54,6 +126,14 @@
         "comment": null,
         "updated_time": "2025-08-05T08:03:12+00:00",
         "published_time": "2025-08-05T08:03:12+00:00"
+    },
+    "http://arxiv.org/abs/2508.03766v1": {
+        "entry_id": "http://arxiv.org/abs/2508.03766v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.03766v1",
+        "title": "LLM-Prior: A Framework for Knowledge-Driven Prior Elicitation and Aggregation",
+        "comment": null,
+        "updated_time": "2025-08-05T01:43:29+00:00",
+        "published_time": "2025-08-05T01:43:29+00:00"
     },
     "http://arxiv.org/abs/2508.02993v1": {
         "entry_id": "http://arxiv.org/abs/2508.02993v1",
