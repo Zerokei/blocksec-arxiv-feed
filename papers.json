@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2508.05428v1": {
+        "entry_id": "http://arxiv.org/abs/2508.05428v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.05428v1",
+        "title": "Group Causal Policy Optimization for Post-Training Large Language Models",
+        "comment": null,
+        "updated_time": "2025-08-07T14:17:28+00:00",
+        "published_time": "2025-08-07T14:17:28+00:00"
+    },
+    "http://arxiv.org/abs/2508.05334v1": {
+        "entry_id": "http://arxiv.org/abs/2508.05334v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.05334v1",
+        "title": "ShikkhaChain: A Blockchain-Powered Academic Credential Verification System for Bangladesh",
+        "comment": null,
+        "updated_time": "2025-08-07T12:35:12+00:00",
+        "published_time": "2025-08-07T12:35:12+00:00"
+    },
+    "http://arxiv.org/abs/2508.05232v1": {
+        "entry_id": "http://arxiv.org/abs/2508.05232v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.05232v1",
+        "title": "Cross-LoRA: A Data-Free LoRA Transfer Framework across Heterogeneous LLMs",
+        "comment": null,
+        "updated_time": "2025-08-07T10:21:08+00:00",
+        "published_time": "2025-08-07T10:21:08+00:00"
+    },
+    "http://arxiv.org/abs/2508.05005v1": {
+        "entry_id": "http://arxiv.org/abs/2508.05005v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.05005v1",
+        "title": "Generative AI for Object-Oriented Programming: Writing the Right Code and Reasoning the Right Logic",
+        "comment": null,
+        "updated_time": "2025-08-07T03:38:17+00:00",
+        "published_time": "2025-08-07T03:38:17+00:00"
+    },
+    "http://arxiv.org/abs/2508.04843v1": {
+        "entry_id": "http://arxiv.org/abs/2508.04843v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.04843v1",
+        "title": "Unified Flow Matching for Long Horizon Event Forecasting",
+        "comment": "7 pages",
+        "updated_time": "2025-08-06T19:42:49+00:00",
+        "published_time": "2025-08-06T19:42:49+00:00"
+    },
     "http://arxiv.org/abs/2508.04595v1": {
         "entry_id": "http://arxiv.org/abs/2508.04595v1",
         "pdf_url": "http://arxiv.org/pdf/2508.04595v1",
