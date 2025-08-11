@@ -1,4 +1,76 @@
 {
+    "http://arxiv.org/abs/2508.06414v1": {
+        "entry_id": "http://arxiv.org/abs/2508.06414v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.06414v1",
+        "title": "What Builds Effective In-Context Examples for Code Generation?",
+        "comment": null,
+        "updated_time": "2025-08-08T15:58:11+00:00",
+        "published_time": "2025-08-08T15:58:11+00:00"
+    },
+    "http://arxiv.org/abs/2508.06353v1": {
+        "entry_id": "http://arxiv.org/abs/2508.06353v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.06353v1",
+        "title": "Geometric-k-means: A Bound Free Approach to Fast and Eco-Friendly k-means",
+        "comment": null,
+        "updated_time": "2025-08-08T14:32:42+00:00",
+        "published_time": "2025-08-08T14:32:42+00:00"
+    },
+    "http://arxiv.org/abs/2508.06299v1": {
+        "entry_id": "http://arxiv.org/abs/2508.06299v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.06299v1",
+        "title": "Improving the Developer Experience with a Low-Code Process Modelling Language",
+        "comment": "Preprint",
+        "updated_time": "2025-08-08T13:20:18+00:00",
+        "published_time": "2025-08-08T13:20:18+00:00"
+    },
+    "http://arxiv.org/abs/2508.06257v1": {
+        "entry_id": "http://arxiv.org/abs/2508.06257v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.06257v1",
+        "title": "Multi-Omics Analysis for Cancer Subtype Inference via Unrolling Graph Smoothness Priors",
+        "comment": null,
+        "updated_time": "2025-08-08T12:22:36+00:00",
+        "published_time": "2025-08-08T12:22:36+00:00"
+    },
+    "http://arxiv.org/abs/2508.06192v1": {
+        "entry_id": "http://arxiv.org/abs/2508.06192v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.06192v1",
+        "title": "Understanding Inconsistent State Update Vulnerabilities in Smart Contracts",
+        "comment": "31 pages, 11 figures",
+        "updated_time": "2025-08-08T10:15:29+00:00",
+        "published_time": "2025-08-08T10:15:29+00:00"
+    },
+    "http://arxiv.org/abs/2508.06106v1": {
+        "entry_id": "http://arxiv.org/abs/2508.06106v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.06106v1",
+        "title": "Simulation in Cybersecurity: Understanding Techniques, Applications, and Goals",
+        "comment": "Working paper",
+        "updated_time": "2025-08-08T08:11:13+00:00",
+        "published_time": "2025-08-08T08:11:13+00:00"
+    },
+    "http://arxiv.org/abs/2508.06097v1": {
+        "entry_id": "http://arxiv.org/abs/2508.06097v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.06097v1",
+        "title": "Recurrent Deep Differentiable Logic Gate Networks",
+        "comment": null,
+        "updated_time": "2025-08-08T07:49:38+00:00",
+        "published_time": "2025-08-08T07:49:38+00:00"
+    },
+    "http://arxiv.org/abs/2508.06071v1": {
+        "entry_id": "http://arxiv.org/abs/2508.06071v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.06071v1",
+        "title": "A Game-Theoretic Foundation for Bitcoin's Price: A Security-Utility Equilibrium",
+        "comment": null,
+        "updated_time": "2025-08-08T07:09:21+00:00",
+        "published_time": "2025-08-08T07:09:21+00:00"
+    },
+    "http://arxiv.org/abs/2508.05984v1": {
+        "entry_id": "http://arxiv.org/abs/2508.05984v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.05984v1",
+        "title": "Parameter-free Optimal Rates for Nonlinear Semi-Norm Contractions with Applications to $Q$-Learning",
+        "comment": null,
+        "updated_time": "2025-08-08T03:35:29+00:00",
+        "published_time": "2025-08-08T03:35:29+00:00"
+    },
     "http://arxiv.org/abs/2508.05428v1": {
         "entry_id": "http://arxiv.org/abs/2508.05428v1",
         "pdf_url": "http://arxiv.org/pdf/2508.05428v1",
