@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2508.08151v1": {
+        "entry_id": "http://arxiv.org/abs/2508.08151v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.08151v1",
+        "title": "FairFLRep: Fairness aware fault localization and repair of Deep Neural Networks",
+        "comment": null,
+        "updated_time": "2025-08-11T16:28:42+00:00",
+        "published_time": "2025-08-11T16:28:42+00:00"
+    },
+    "http://arxiv.org/abs/2508.08124v1": {
+        "entry_id": "http://arxiv.org/abs/2508.08124v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.08124v1",
+        "title": "NeuroDx-LM: A Clinical Large-Scale Model for EEG-based Neurological Disorder Detection",
+        "comment": null,
+        "updated_time": "2025-08-11T16:02:25+00:00",
+        "published_time": "2025-08-11T16:02:25+00:00"
+    },
+    "http://arxiv.org/abs/2508.07881v1": {
+        "entry_id": "http://arxiv.org/abs/2508.07881v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.07881v1",
+        "title": "Adopting Road-Weather Open Data in Route Recommendation Engine",
+        "comment": null,
+        "updated_time": "2025-08-11T11:55:32+00:00",
+        "published_time": "2025-08-11T11:55:32+00:00"
+    },
+    "http://arxiv.org/abs/2508.06071v2": {
+        "entry_id": "http://arxiv.org/abs/2508.06071v2",
+        "pdf_url": "http://arxiv.org/pdf/2508.06071v2",
+        "title": "A Game-Theoretic Foundation for Bitcoin's Price: A Security-Utility Equilibrium",
+        "comment": null,
+        "updated_time": "2025-08-11T01:48:49+00:00",
+        "published_time": "2025-08-08T07:09:21+00:00"
+    },
+    "http://arxiv.org/abs/2508.07094v1": {
+        "entry_id": "http://arxiv.org/abs/2508.07094v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.07094v1",
+        "title": "ScamDetect: Towards a Robust, Agnostic Framework to Uncover Threats in Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-08-09T20:38:07+00:00",
+        "published_time": "2025-08-09T20:38:07+00:00"
+    },
+    "http://arxiv.org/abs/2508.06813v1": {
+        "entry_id": "http://arxiv.org/abs/2508.06813v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.06813v1",
+        "title": "Technical Report: Full-Stack Fine-Tuning for the Q Programming Language",
+        "comment": "40 pages",
+        "updated_time": "2025-08-09T04:22:07+00:00",
+        "published_time": "2025-08-09T04:22:07+00:00"
+    },
     "http://arxiv.org/abs/2508.06414v1": {
         "entry_id": "http://arxiv.org/abs/2508.06414v1",
         "pdf_url": "http://arxiv.org/pdf/2508.06414v1",
