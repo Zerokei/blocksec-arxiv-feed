@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2508.06813v2": {
+        "entry_id": "http://arxiv.org/abs/2508.06813v2",
+        "pdf_url": "http://arxiv.org/pdf/2508.06813v2",
+        "title": "Technical Report: Full-Stack Fine-Tuning for the Q Programming Language",
+        "comment": "40 pages",
+        "updated_time": "2025-08-12T15:49:05+00:00",
+        "published_time": "2025-08-09T04:22:07+00:00"
+    },
+    "http://arxiv.org/abs/2508.08945v1": {
+        "entry_id": "http://arxiv.org/abs/2508.08945v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.08945v1",
+        "title": "Load-Altering Attacks Against Power Grids: A Case Study Using the GB-36 Bus System Open Dataset",
+        "comment": null,
+        "updated_time": "2025-08-12T13:57:16+00:00",
+        "published_time": "2025-08-12T13:57:16+00:00"
+    },
+    "http://arxiv.org/abs/2508.08919v1": {
+        "entry_id": "http://arxiv.org/abs/2508.08919v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.08919v1",
+        "title": "Stationarity Exploration for Multivariate Time Series Forecasting",
+        "comment": null,
+        "updated_time": "2025-08-12T13:15:51+00:00",
+        "published_time": "2025-08-12T13:15:51+00:00"
+    },
+    "http://arxiv.org/abs/2508.08868v1": {
+        "entry_id": "http://arxiv.org/abs/2508.08868v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.08868v1",
+        "title": "Description and Comparative Analysis of QuRE: A New Industrial Requirements Quality Dataset",
+        "comment": null,
+        "updated_time": "2025-08-12T11:51:15+00:00",
+        "published_time": "2025-08-12T11:51:15+00:00"
+    },
+    "http://arxiv.org/abs/2508.07094v2": {
+        "entry_id": "http://arxiv.org/abs/2508.07094v2",
+        "pdf_url": "http://arxiv.org/pdf/2508.07094v2",
+        "title": "ScamDetect: Towards a Robust, Agnostic Framework to Uncover Threats in Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-08-12T11:39:01+00:00",
+        "published_time": "2025-08-09T20:38:07+00:00"
+    },
+    "http://arxiv.org/abs/2508.08635v1": {
+        "entry_id": "http://arxiv.org/abs/2508.08635v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.08635v1",
+        "title": "Classifier Language Models: Unifying Sparse Finetuning and Adaptive Tokenization for Specialized Classification Tasks",
+        "comment": "10 pages, 4 figures, currently under review",
+        "updated_time": "2025-08-12T04:59:01+00:00",
+        "published_time": "2025-08-12T04:59:01+00:00"
+    },
+    "http://arxiv.org/abs/2508.08625v1": {
+        "entry_id": "http://arxiv.org/abs/2508.08625v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.08625v1",
+        "title": "Dynamic Rank Adjustment for Accurate and Efficient Neural Network Training",
+        "comment": null,
+        "updated_time": "2025-08-12T04:30:52+00:00",
+        "published_time": "2025-08-12T04:30:52+00:00"
+    },
     "http://arxiv.org/abs/2508.08151v1": {
         "entry_id": "http://arxiv.org/abs/2508.08151v1",
         "pdf_url": "http://arxiv.org/pdf/2508.08151v1",
