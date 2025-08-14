@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2508.09875v1": {
+        "entry_id": "http://arxiv.org/abs/2508.09875v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.09875v1",
+        "title": "An Empirical Study of CGO Usage in Go Projects -- Distribution, Purposes, Patterns and Critical Issues",
+        "comment": "Accepted for publication in The Journal of Systems and Software",
+        "updated_time": "2025-08-13T15:16:37+00:00",
+        "published_time": "2025-08-13T15:16:37+00:00"
+    },
+    "http://arxiv.org/abs/2508.09866v1": {
+        "entry_id": "http://arxiv.org/abs/2508.09866v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.09866v1",
+        "title": "FedShard: Federated Unlearning with Efficiency Fairness and Performance Fairness",
+        "comment": null,
+        "updated_time": "2025-08-13T15:02:07+00:00",
+        "published_time": "2025-08-13T15:02:07+00:00"
+    },
+    "http://arxiv.org/abs/2508.09826v1": {
+        "entry_id": "http://arxiv.org/abs/2508.09826v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.09826v1",
+        "title": "RankList -- A Listwise Preference Learning Framework for Predicting Subjective Preferences",
+        "comment": "12 pages, 2 figures",
+        "updated_time": "2025-08-13T13:59:41+00:00",
+        "published_time": "2025-08-13T13:59:41+00:00"
+    },
+    "http://arxiv.org/abs/2508.09753v1": {
+        "entry_id": "http://arxiv.org/abs/2508.09753v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.09753v1",
+        "title": "TriForecaster: A Mixture of Experts Framework for Multi-Region Electric Load Forecasting with Tri-dimensional Specialization",
+        "comment": "11 pages, 4 figures",
+        "updated_time": "2025-08-13T12:34:15+00:00",
+        "published_time": "2025-08-13T12:34:15+00:00"
+    },
+    "http://arxiv.org/abs/2508.09673v1": {
+        "entry_id": "http://arxiv.org/abs/2508.09673v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.09673v1",
+        "title": "Succinct Oblivious Tensor Evaluation and Applications: Adaptively-Secure Laconic Function Evaluation and Trapdoor Hashing for All Circuits",
+        "comment": null,
+        "updated_time": "2025-08-13T10:03:03+00:00",
+        "published_time": "2025-08-13T10:03:03+00:00"
+    },
+    "http://arxiv.org/abs/2508.09561v1": {
+        "entry_id": "http://arxiv.org/abs/2508.09561v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.09561v1",
+        "title": "Edge General Intelligence Through World Models and Agentic AI: Fundamentals, Solutions, and Challenges",
+        "comment": "21 pages. 9 figures",
+        "updated_time": "2025-08-13T07:29:40+00:00",
+        "published_time": "2025-08-13T07:29:40+00:00"
+    },
+    "http://arxiv.org/abs/2508.09467v1": {
+        "entry_id": "http://arxiv.org/abs/2508.09467v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.09467v1",
+        "title": "Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation",
+        "comment": null,
+        "updated_time": "2025-08-13T03:43:59+00:00",
+        "published_time": "2025-08-13T03:43:59+00:00"
+    },
     "http://arxiv.org/abs/2508.06813v2": {
         "entry_id": "http://arxiv.org/abs/2508.06813v2",
         "pdf_url": "http://arxiv.org/pdf/2508.06813v2",
