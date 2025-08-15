@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2508.10866v1": {
+        "entry_id": "http://arxiv.org/abs/2508.10866v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.10866v1",
+        "title": "Efficiently Verifiable Proofs of Data Attribution",
+        "comment": null,
+        "updated_time": "2025-08-14T17:36:01+00:00",
+        "published_time": "2025-08-14T17:36:01+00:00"
+    },
+    "http://arxiv.org/abs/2508.10836v1": {
+        "entry_id": "http://arxiv.org/abs/2508.10836v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.10836v1",
+        "title": "SoK: Data Minimization in Machine Learning",
+        "comment": null,
+        "updated_time": "2025-08-14T17:00:13+00:00",
+        "published_time": "2025-08-14T17:00:13+00:00"
+    },
+    "http://arxiv.org/abs/2508.10804v1": {
+        "entry_id": "http://arxiv.org/abs/2508.10804v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.10804v1",
+        "title": "Non-Stationary Restless Multi-Armed Bandits with Provable Guarantee",
+        "comment": null,
+        "updated_time": "2025-08-14T16:26:00+00:00",
+        "published_time": "2025-08-14T16:26:00+00:00"
+    },
+    "http://arxiv.org/abs/2508.10639v1": {
+        "entry_id": "http://arxiv.org/abs/2508.10639v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.10639v1",
+        "title": "MirGuard: Towards a Robust Provenance-based Intrusion Detection System Against Graph Manipulation Attacks",
+        "comment": null,
+        "updated_time": "2025-08-14T13:35:51+00:00",
+        "published_time": "2025-08-14T13:35:51+00:00"
+    },
+    "http://arxiv.org/abs/2508.10531v1": {
+        "entry_id": "http://arxiv.org/abs/2508.10531v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.10531v1",
+        "title": "Projected Coupled Diffusion for Test-Time Constrained Joint Generation",
+        "comment": "37 pages",
+        "updated_time": "2025-08-14T11:05:31+00:00",
+        "published_time": "2025-08-14T11:05:31+00:00"
+    },
+    "http://arxiv.org/abs/2508.10517v1": {
+        "entry_id": "http://arxiv.org/abs/2508.10517v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.10517v1",
+        "title": "Bridging Solidity Evolution Gaps: An LLM-Enhanced Approach for Smart Contract Compilation Error Resolution",
+        "comment": "International Conference on Software Maintenance and Evolution\n  (ICSME) 2025",
+        "updated_time": "2025-08-14T10:42:26+00:00",
+        "published_time": "2025-08-14T10:42:26+00:00"
+    },
+    "http://arxiv.org/abs/2508.10489v1": {
+        "entry_id": "http://arxiv.org/abs/2508.10489v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.10489v1",
+        "title": "Learning State-Space Models of Dynamic Systems from Arbitrary Data using Joint Embedding Predictive Architectures",
+        "comment": "6 Pages, Published in IFAC Joint Symposia on Mechatronics & Robotics\n  2025",
+        "updated_time": "2025-08-14T09:46:11+00:00",
+        "published_time": "2025-08-14T09:46:11+00:00"
+    },
+    "http://arxiv.org/abs/2508.10471v1": {
+        "entry_id": "http://arxiv.org/abs/2508.10471v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.10471v1",
+        "title": "GraphFedMIG: Tackling Class Imbalance in Federated Graph Learning via Mutual Information-Guided Generation",
+        "comment": null,
+        "updated_time": "2025-08-14T09:16:56+00:00",
+        "published_time": "2025-08-14T09:16:56+00:00"
+    },
     "http://arxiv.org/abs/2508.09875v1": {
         "entry_id": "http://arxiv.org/abs/2508.09875v1",
         "pdf_url": "http://arxiv.org/pdf/2508.09875v1",
