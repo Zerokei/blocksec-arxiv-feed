@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2508.11530v1": {
+        "entry_id": "http://arxiv.org/abs/2508.11530v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.11530v1",
+        "title": "DFed-SST: Building Semantic- and Structure-aware Topologies for Decentralized Federated Graph Learning",
+        "comment": null,
+        "updated_time": "2025-08-15T15:15:54+00:00",
+        "published_time": "2025-08-15T15:15:54+00:00"
+    },
+    "http://arxiv.org/abs/2508.11390v1": {
+        "entry_id": "http://arxiv.org/abs/2508.11390v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.11390v1",
+        "title": "A Remedy for Over-Squashing in Graph Learning via Forman-Ricci Curvature based Graph-to-Hypergraph Structural Lifting",
+        "comment": null,
+        "updated_time": "2025-08-15T10:46:27+00:00",
+        "published_time": "2025-08-15T10:46:27+00:00"
+    },
+    "http://arxiv.org/abs/2508.11353v1": {
+        "entry_id": "http://arxiv.org/abs/2508.11353v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.11353v1",
+        "title": "Harmonized Gradient Descent for Class Imbalanced Data Stream Online Learning",
+        "comment": null,
+        "updated_time": "2025-08-15T09:35:13+00:00",
+        "published_time": "2025-08-15T09:35:13+00:00"
+    },
+    "http://arxiv.org/abs/2508.11235v1": {
+        "entry_id": "http://arxiv.org/abs/2508.11235v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.11235v1",
+        "title": "Enhancing Interactive Voting-Based Map Matching: Improving Efficiency and Robustness for Heterogeneous GPS Trajectories",
+        "comment": null,
+        "updated_time": "2025-08-15T05:51:59+00:00",
+        "published_time": "2025-08-15T05:51:59+00:00"
+    },
+    "http://arxiv.org/abs/2508.11215v1": {
+        "entry_id": "http://arxiv.org/abs/2508.11215v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.11215v1",
+        "title": "Air Quality PM2.5 Index Prediction Model Based on CNN-LSTM",
+        "comment": null,
+        "updated_time": "2025-08-15T04:46:25+00:00",
+        "published_time": "2025-08-15T04:46:25+00:00"
+    },
+    "http://arxiv.org/abs/2508.11205v1": {
+        "entry_id": "http://arxiv.org/abs/2508.11205v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.11205v1",
+        "title": "Meta-learning Structure-Preserving Dynamics",
+        "comment": null,
+        "updated_time": "2025-08-15T04:30:27+00:00",
+        "published_time": "2025-08-15T04:30:27+00:00"
+    },
+    "http://arxiv.org/abs/2508.11179v1": {
+        "entry_id": "http://arxiv.org/abs/2508.11179v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.11179v1",
+        "title": "PTMPicker: Facilitating Efficient Pretrained Model Selection for Application Developers",
+        "comment": null,
+        "updated_time": "2025-08-15T03:09:18+00:00",
+        "published_time": "2025-08-15T03:09:18+00:00"
+    },
     "http://arxiv.org/abs/2508.10866v1": {
         "entry_id": "http://arxiv.org/abs/2508.10866v1",
         "pdf_url": "http://arxiv.org/pdf/2508.10866v1",
