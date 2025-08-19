@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2508.13135v1": {
+        "entry_id": "http://arxiv.org/abs/2508.13135v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.13135v1",
+        "title": "Training Machine Learning Models on Human Spatio-temporal Mobility Data: An Experimental Study [Experiment Paper]",
+        "comment": null,
+        "updated_time": "2025-08-18T17:49:10+00:00",
+        "published_time": "2025-08-18T17:49:10+00:00"
+    },
+    "http://arxiv.org/abs/2508.13018v1": {
+        "entry_id": "http://arxiv.org/abs/2508.13018v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.13018v1",
+        "title": "Design and Analysis of Robust Adaptive Filtering with the Hyperbolic Tangent Exponential Kernel M-Estimator Function for Active Noise Control",
+        "comment": "12 figures, 11 pages",
+        "updated_time": "2025-08-18T15:37:11+00:00",
+        "published_time": "2025-08-18T15:37:11+00:00"
+    },
+    "http://arxiv.org/abs/2508.12773v1": {
+        "entry_id": "http://arxiv.org/abs/2508.12773v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.12773v1",
+        "title": "Online Ensemble Transformer for Accurate Cloud Workload Forecasting in Predictive Auto-Scaling",
+        "comment": "12 pages, 11 figures",
+        "updated_time": "2025-08-18T09:48:12+00:00",
+        "published_time": "2025-08-18T09:48:12+00:00"
+    },
+    "http://arxiv.org/abs/2508.12727v1": {
+        "entry_id": "http://arxiv.org/abs/2508.12727v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.12727v1",
+        "title": "FedSODA: Federated Fine-tuning of LLMs via Similarity Group Pruning and Orchestrated Distillation Alignment",
+        "comment": null,
+        "updated_time": "2025-08-18T08:49:32+00:00",
+        "published_time": "2025-08-18T08:49:32+00:00"
+    },
+    "http://arxiv.org/abs/2508.12546v1": {
+        "entry_id": "http://arxiv.org/abs/2508.12546v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.12546v1",
+        "title": "XAMT: Cross-Framework API Matching for Testing Deep Learning Libraries",
+        "comment": null,
+        "updated_time": "2025-08-18T00:48:50+00:00",
+        "published_time": "2025-08-18T00:48:50+00:00"
+    },
+    "http://arxiv.org/abs/2508.12303v1": {
+        "entry_id": "http://arxiv.org/abs/2508.12303v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.12303v1",
+        "title": "From Fomo3D to Lottery DAPP: Analysis of Ethereum-Based Gambling Applications",
+        "comment": null,
+        "updated_time": "2025-08-17T09:38:55+00:00",
+        "published_time": "2025-08-17T09:38:55+00:00"
+    },
+    "http://arxiv.org/abs/2508.12042v1": {
+        "entry_id": "http://arxiv.org/abs/2508.12042v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.12042v1",
+        "title": "Fairness Regularization in Federated Learning",
+        "comment": "25 pages",
+        "updated_time": "2025-08-16T13:32:41+00:00",
+        "published_time": "2025-08-16T13:32:41+00:00"
+    },
     "http://arxiv.org/abs/2508.11530v1": {
         "entry_id": "http://arxiv.org/abs/2508.11530v1",
         "pdf_url": "http://arxiv.org/pdf/2508.11530v1",
@@ -54,6 +110,14 @@
         "comment": null,
         "updated_time": "2025-08-15T03:09:18+00:00",
         "published_time": "2025-08-15T03:09:18+00:00"
+    },
+    "http://arxiv.org/abs/2508.11717v1": {
+        "entry_id": "http://arxiv.org/abs/2508.11717v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.11717v1",
+        "title": "WIP: Leveraging LLMs for Enforcing Design Principles in Student Code: Analysis of Prompting Strategies and RAG",
+        "comment": "Accepted for presentation at the Frontiers in Education Conference,\n  Nashville, Tennessee, USA, 2-5 November 2025",
+        "updated_time": "2025-08-14T19:56:03+00:00",
+        "published_time": "2025-08-14T19:56:03+00:00"
     },
     "http://arxiv.org/abs/2508.10866v1": {
         "entry_id": "http://arxiv.org/abs/2508.10866v1",
