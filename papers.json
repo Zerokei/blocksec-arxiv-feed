@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2508.14000v1": {
+        "entry_id": "http://arxiv.org/abs/2508.14000v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.14000v1",
+        "title": "Formal Algorithms for Model Efficiency",
+        "comment": "17 pages, 0 figures",
+        "updated_time": "2025-08-19T16:54:02+00:00",
+        "published_time": "2025-08-19T16:54:02+00:00"
+    },
+    "http://arxiv.org/abs/2508.13932v1": {
+        "entry_id": "http://arxiv.org/abs/2508.13932v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.13932v1",
+        "title": "How Usable is Automated Feature Engineering for Tabular Data?",
+        "comment": "Accepted as a short paper at the non-archival content track of AutoML\n  2025",
+        "updated_time": "2025-08-19T15:23:52+00:00",
+        "published_time": "2025-08-19T15:23:52+00:00"
+    },
+    "http://arxiv.org/abs/2508.13803v1": {
+        "entry_id": "http://arxiv.org/abs/2508.13803v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.13803v1",
+        "title": "Communication-Efficient Federated Learning with Adaptive Number of Participants",
+        "comment": null,
+        "updated_time": "2025-08-19T13:04:10+00:00",
+        "published_time": "2025-08-19T13:04:10+00:00"
+    },
+    "http://arxiv.org/abs/2508.13750v1": {
+        "entry_id": "http://arxiv.org/abs/2508.13750v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.13750v1",
+        "title": "NodeShield: Runtime Enforcement of Security-Enhanced SBOMs for Node.js",
+        "comment": "15 pages, 3 figures, 9 tables",
+        "updated_time": "2025-08-19T11:43:06+00:00",
+        "published_time": "2025-08-19T11:43:06+00:00"
+    },
+    "http://arxiv.org/abs/2508.13666v1": {
+        "entry_id": "http://arxiv.org/abs/2508.13666v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.13666v1",
+        "title": "The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget",
+        "comment": "Accepted by ICSE'26 (First Cycle)",
+        "updated_time": "2025-08-19T09:13:48+00:00",
+        "published_time": "2025-08-19T09:13:48+00:00"
+    },
+    "http://arxiv.org/abs/2508.13642v1": {
+        "entry_id": "http://arxiv.org/abs/2508.13642v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.13642v1",
+        "title": "Personalized Subgraph Federated Learning with Sheaf Collaboration",
+        "comment": "Full version of our ECAI 2025 accepted paper",
+        "updated_time": "2025-08-19T08:52:50+00:00",
+        "published_time": "2025-08-19T08:52:50+00:00"
+    },
+    "http://arxiv.org/abs/2508.13633v1": {
+        "entry_id": "http://arxiv.org/abs/2508.13633v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.13633v1",
+        "title": "Text2Weight: Bridging Natural Language and Neural Network Weight Spaces",
+        "comment": "Accepted By ACM MM 2025 Main Track",
+        "updated_time": "2025-08-19T08:47:34+00:00",
+        "published_time": "2025-08-19T08:47:34+00:00"
+    },
+    "http://arxiv.org/abs/2508.13588v1": {
+        "entry_id": "http://arxiv.org/abs/2508.13588v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.13588v1",
+        "title": "CAI Fluency: A Framework for Cybersecurity AI Fluency",
+        "comment": null,
+        "updated_time": "2025-08-19T07:42:54+00:00",
+        "published_time": "2025-08-19T07:42:54+00:00"
+    },
     "http://arxiv.org/abs/2508.13135v1": {
         "entry_id": "http://arxiv.org/abs/2508.13135v1",
         "pdf_url": "http://arxiv.org/pdf/2508.13135v1",
