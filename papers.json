@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2508.14853v1": {
+        "entry_id": "http://arxiv.org/abs/2508.14853v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.14853v1",
+        "title": "Universal and Transferable Adversarial Attack on Large Language Models Using Exponentiated Gradient Descent",
+        "comment": null,
+        "updated_time": "2025-08-20T17:03:32+00:00",
+        "published_time": "2025-08-20T17:03:32+00:00"
+    },
+    "http://arxiv.org/abs/2508.14530v1": {
+        "entry_id": "http://arxiv.org/abs/2508.14530v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.14530v1",
+        "title": "DOPA: Stealthy and Generalizable Backdoor Attacks from a Single Client under Challenging Federated Constraints",
+        "comment": null,
+        "updated_time": "2025-08-20T08:39:12+00:00",
+        "published_time": "2025-08-20T08:39:12+00:00"
+    },
+    "http://arxiv.org/abs/2508.14523v1": {
+        "entry_id": "http://arxiv.org/abs/2508.14523v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.14523v1",
+        "title": "Great GATsBi: Hybrid, Multimodal, Trajectory Forecasting for Bicycles using Anticipation Mechanism",
+        "comment": null,
+        "updated_time": "2025-08-20T08:31:35+00:00",
+        "published_time": "2025-08-20T08:31:35+00:00"
+    },
+    "http://arxiv.org/abs/2508.14496v1": {
+        "entry_id": "http://arxiv.org/abs/2508.14496v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.14496v1",
+        "title": "Semantic Energy: Detecting LLM Hallucination Beyond Entropy",
+        "comment": null,
+        "updated_time": "2025-08-20T07:33:50+00:00",
+        "published_time": "2025-08-20T07:33:50+00:00"
+    },
     "http://arxiv.org/abs/2508.14000v1": {
         "entry_id": "http://arxiv.org/abs/2508.14000v1",
         "pdf_url": "http://arxiv.org/pdf/2508.14000v1",
