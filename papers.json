@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2508.15695v1": {
+        "entry_id": "http://arxiv.org/abs/2508.15695v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.15695v1",
+        "title": "Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems using artificial neural networks",
+        "comment": "37 pages, 23 figures",
+        "updated_time": "2025-08-21T16:22:40+00:00",
+        "published_time": "2025-08-21T16:22:40+00:00"
+    },
+    "http://arxiv.org/abs/2508.15606v1": {
+        "entry_id": "http://arxiv.org/abs/2508.15606v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.15606v1",
+        "title": "Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models",
+        "comment": null,
+        "updated_time": "2025-08-21T14:33:13+00:00",
+        "published_time": "2025-08-21T14:33:13+00:00"
+    },
+    "http://arxiv.org/abs/2508.15593v1": {
+        "entry_id": "http://arxiv.org/abs/2508.15593v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.15593v1",
+        "title": "Inductive Domain Transfer In Misspecified Simulation-Based Inference",
+        "comment": null,
+        "updated_time": "2025-08-21T14:06:42+00:00",
+        "published_time": "2025-08-21T14:06:42+00:00"
+    },
+    "http://arxiv.org/abs/2508.15570v1": {
+        "entry_id": "http://arxiv.org/abs/2508.15570v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.15570v1",
+        "title": "Establishing Technical Debt Management -- A Five-Step Workshop Approach and an Action Research Study",
+        "comment": "Accepted for publication by the Journal of Systems and Software --\n  Special Issue on Managing Technical Debt in Software-Intensive Products and\n  Services",
+        "updated_time": "2025-08-21T13:44:01+00:00",
+        "published_time": "2025-08-21T13:44:01+00:00"
+    },
+    "http://arxiv.org/abs/2508.15569v1": {
+        "entry_id": "http://arxiv.org/abs/2508.15569v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.15569v1",
+        "title": "Conformalized Exceptional Model Mining: Telling Where Your Model Performs (Not) Well",
+        "comment": "Accepted by ECML-PKDD",
+        "updated_time": "2025-08-21T13:43:14+00:00",
+        "published_time": "2025-08-21T13:43:14+00:00"
+    },
+    "http://arxiv.org/abs/2508.15541v1": {
+        "entry_id": "http://arxiv.org/abs/2508.15541v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.15541v1",
+        "title": "BadFU: Backdoor Federated Learning through Adversarial Machine Unlearning",
+        "comment": null,
+        "updated_time": "2025-08-21T13:17:01+00:00",
+        "published_time": "2025-08-21T13:17:01+00:00"
+    },
+    "http://arxiv.org/abs/2508.15499v1": {
+        "entry_id": "http://arxiv.org/abs/2508.15499v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.15499v1",
+        "title": "Let's Grow an Unbiased Community: Guiding the Fairness of Graphs via New Links",
+        "comment": null,
+        "updated_time": "2025-08-21T12:26:46+00:00",
+        "published_time": "2025-08-21T12:26:46+00:00"
+    },
+    "http://arxiv.org/abs/2508.15495v1": {
+        "entry_id": "http://arxiv.org/abs/2508.15495v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.15495v1",
+        "title": "SynthCoder: A Synthetical Strategy to Tune LLMs for Code Completion",
+        "comment": null,
+        "updated_time": "2025-08-21T12:23:49+00:00",
+        "published_time": "2025-08-21T12:23:49+00:00"
+    },
     "http://arxiv.org/abs/2508.14853v1": {
         "entry_id": "http://arxiv.org/abs/2508.14853v1",
         "pdf_url": "http://arxiv.org/pdf/2508.14853v1",
