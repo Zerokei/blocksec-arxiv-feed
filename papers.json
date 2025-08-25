@@ -1,4 +1,84 @@
 {
+    "http://arxiv.org/abs/2508.16503v1": {
+        "entry_id": "http://arxiv.org/abs/2508.16503v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.16503v1",
+        "title": "MuST2-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation",
+        "comment": "Accepted to SIGSPATIAL 2025",
+        "updated_time": "2025-08-22T16:28:57+00:00",
+        "published_time": "2025-08-22T16:28:57+00:00"
+    },
+    "http://arxiv.org/abs/2508.16481v1": {
+        "entry_id": "http://arxiv.org/abs/2508.16481v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.16481v1",
+        "title": "Benchmarking the Robustness of Agentic Systems to Adversarially-Induced Harms",
+        "comment": "52 Pages",
+        "updated_time": "2025-08-22T15:53:22+00:00",
+        "published_time": "2025-08-22T15:53:22+00:00"
+    },
+    "http://arxiv.org/abs/2508.16445v1": {
+        "entry_id": "http://arxiv.org/abs/2508.16445v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.16445v1",
+        "title": "Using LLMs and Essence to Support Software Practice Adoption",
+        "comment": null,
+        "updated_time": "2025-08-22T14:59:35+00:00",
+        "published_time": "2025-08-22T14:59:35+00:00"
+    },
+    "http://arxiv.org/abs/2508.16420v1": {
+        "entry_id": "http://arxiv.org/abs/2508.16420v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.16420v1",
+        "title": "Double Check My Desired Return: Transformer with Target Alignment for Offline Reinforcement Learning",
+        "comment": null,
+        "updated_time": "2025-08-22T14:30:53+00:00",
+        "published_time": "2025-08-22T14:30:53+00:00"
+    },
+    "http://arxiv.org/abs/2508.16419v1": {
+        "entry_id": "http://arxiv.org/abs/2508.16419v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.16419v1",
+        "title": "LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python",
+        "comment": null,
+        "updated_time": "2025-08-22T14:30:24+00:00",
+        "published_time": "2025-08-22T14:30:24+00:00"
+    },
+    "http://arxiv.org/abs/2508.16377v1": {
+        "entry_id": "http://arxiv.org/abs/2508.16377v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.16377v1",
+        "title": "Applications and Challenges of Fairness APIs in Machine Learning Software",
+        "comment": null,
+        "updated_time": "2025-08-22T13:33:37+00:00",
+        "published_time": "2025-08-22T13:33:37+00:00"
+    },
+    "http://arxiv.org/abs/2508.16307v1": {
+        "entry_id": "http://arxiv.org/abs/2508.16307v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.16307v1",
+        "title": "Metamorphic Coverage",
+        "comment": null,
+        "updated_time": "2025-08-22T11:32:56+00:00",
+        "published_time": "2025-08-22T11:32:56+00:00"
+    },
+    "http://arxiv.org/abs/2508.16273v1": {
+        "entry_id": "http://arxiv.org/abs/2508.16273v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.16273v1",
+        "title": "A Systematic Mapping Study on Smart Cities Modeling Approaches",
+        "comment": null,
+        "updated_time": "2025-08-22T10:14:22+00:00",
+        "published_time": "2025-08-22T10:14:22+00:00"
+    },
+    "http://arxiv.org/abs/2508.16261v1": {
+        "entry_id": "http://arxiv.org/abs/2508.16261v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.16261v1",
+        "title": "On the Evolution of Federated Post-Training Large Language Models: A Model Accessibility View",
+        "comment": null,
+        "updated_time": "2025-08-22T09:52:31+00:00",
+        "published_time": "2025-08-22T09:52:31+00:00"
+    },
+    "http://arxiv.org/abs/2508.15998v1": {
+        "entry_id": "http://arxiv.org/abs/2508.15998v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.15998v1",
+        "title": "Quantum Federated Learning: A Comprehensive Survey",
+        "comment": "37 pages, under revision at IEEE Communications Surveys & Tutorials",
+        "updated_time": "2025-08-21T23:11:58+00:00",
+        "published_time": "2025-08-21T23:11:58+00:00"
+    },
     "http://arxiv.org/abs/2508.15695v1": {
         "entry_id": "http://arxiv.org/abs/2508.15695v1",
         "pdf_url": "http://arxiv.org/pdf/2508.15695v1",
