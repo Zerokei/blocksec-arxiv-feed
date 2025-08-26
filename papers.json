@@ -1,4 +1,92 @@
 {
+    "http://arxiv.org/abs/2508.18196v1": {
+        "entry_id": "http://arxiv.org/abs/2508.18196v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.18196v1",
+        "title": "HypER: Hyperbolic Echo State Networks for Capturing Stretch-and-Fold Dynamics in Chaotic Flows",
+        "comment": "8 pages, accepted in ECAI 2025",
+        "updated_time": "2025-08-25T16:55:16+00:00",
+        "published_time": "2025-08-25T16:55:16+00:00"
+    },
+    "http://arxiv.org/abs/2508.18085v1": {
+        "entry_id": "http://arxiv.org/abs/2508.18085v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.18085v1",
+        "title": "Quantum-Classical Hybrid Framework for Zero-Day Time-Push GNSS Spoofing Detection",
+        "comment": "This work has been submitted to the IEEE Internet of Things Journal\n  for possible publication",
+        "updated_time": "2025-08-25T14:46:22+00:00",
+        "published_time": "2025-08-25T14:46:22+00:00"
+    },
+    "http://arxiv.org/abs/2508.18019v1": {
+        "entry_id": "http://arxiv.org/abs/2508.18019v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.18019v1",
+        "title": "Does simple trump complex? Comparing strategies for adversarial robustness in DNNs",
+        "comment": null,
+        "updated_time": "2025-08-25T13:33:38+00:00",
+        "published_time": "2025-08-25T13:33:38+00:00"
+    },
+    "http://arxiv.org/abs/2508.17988v1": {
+        "entry_id": "http://arxiv.org/abs/2508.17988v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.17988v1",
+        "title": "DesCartes Builder: A Tool to Develop Machine-Learning Based Digital Twins",
+        "comment": "5 pages, 4 figures. Accepted at EDTconf 2025",
+        "updated_time": "2025-08-25T12:57:34+00:00",
+        "published_time": "2025-08-25T12:57:34+00:00"
+    },
+    "http://arxiv.org/abs/2508.17964v1": {
+        "entry_id": "http://arxiv.org/abs/2508.17964v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.17964v1",
+        "title": "MoveScanner: Analysis of Security Risks of Move Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-08-25T12:25:28+00:00",
+        "published_time": "2025-08-25T12:25:28+00:00"
+    },
+    "http://arxiv.org/abs/2508.17884v1": {
+        "entry_id": "http://arxiv.org/abs/2508.17884v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.17884v1",
+        "title": "PhantomLint: Principled Detection of Hidden LLM Prompts in Structured Documents",
+        "comment": null,
+        "updated_time": "2025-08-25T10:45:10+00:00",
+        "published_time": "2025-08-25T10:45:10+00:00"
+    },
+    "http://arxiv.org/abs/2508.17856v1": {
+        "entry_id": "http://arxiv.org/abs/2508.17856v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.17856v1",
+        "title": "MalLoc: Toward Fine-grained Android Malicious Payload Localization via LLMs",
+        "comment": "Accepted at ICSME 2025, NIER Track",
+        "updated_time": "2025-08-25T10:05:44+00:00",
+        "published_time": "2025-08-25T10:05:44+00:00"
+    },
+    "http://arxiv.org/abs/2508.17851v1": {
+        "entry_id": "http://arxiv.org/abs/2508.17851v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.17851v1",
+        "title": "Logging Requirement for Continuous Auditing of Responsible Machine Learning-based Applications",
+        "comment": null,
+        "updated_time": "2025-08-25T09:59:24+00:00",
+        "published_time": "2025-08-25T09:59:24+00:00"
+    },
+    "http://arxiv.org/abs/2508.17751v1": {
+        "entry_id": "http://arxiv.org/abs/2508.17751v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.17751v1",
+        "title": "Multi-layer Abstraction for Nested Generation of Options (MANGO) in Hierarchical Reinforcement Learning",
+        "comment": null,
+        "updated_time": "2025-08-25T07:44:35+00:00",
+        "published_time": "2025-08-25T07:44:35+00:00"
+    },
+    "http://arxiv.org/abs/2508.17702v1": {
+        "entry_id": "http://arxiv.org/abs/2508.17702v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.17702v1",
+        "title": "Copyright Protection for 3D Molecular Structures with Watermarking",
+        "comment": null,
+        "updated_time": "2025-08-25T06:21:11+00:00",
+        "published_time": "2025-08-25T06:21:11+00:00"
+    },
+    "http://arxiv.org/abs/2508.17071v1": {
+        "entry_id": "http://arxiv.org/abs/2508.17071v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.17071v1",
+        "title": "Post-Quantum Blockchain: Challenges and Opportunities",
+        "comment": null,
+        "updated_time": "2025-08-23T15:53:49+00:00",
+        "published_time": "2025-08-23T15:53:49+00:00"
+    },
     "http://arxiv.org/abs/2508.16503v1": {
         "entry_id": "http://arxiv.org/abs/2508.16503v1",
         "pdf_url": "http://arxiv.org/pdf/2508.16503v1",
