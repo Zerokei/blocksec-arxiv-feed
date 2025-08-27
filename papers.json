@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2508.19219v1": {
+        "entry_id": "http://arxiv.org/abs/2508.19219v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.19219v1",
+        "title": "An Efficient Lightweight Blockchain for Decentralized IoT",
+        "comment": null,
+        "updated_time": "2025-08-26T17:36:45+00:00",
+        "published_time": "2025-08-26T17:36:45+00:00"
+    },
+    "http://arxiv.org/abs/2508.19183v1": {
+        "entry_id": "http://arxiv.org/abs/2508.19183v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.19183v1",
+        "title": "Get Global Guarantees: On the Probabilistic Nature of Perturbation Robustness",
+        "comment": null,
+        "updated_time": "2025-08-26T16:41:04+00:00",
+        "published_time": "2025-08-26T16:41:04+00:00"
+    },
+    "http://arxiv.org/abs/2508.18949v1": {
+        "entry_id": "http://arxiv.org/abs/2508.18949v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.18949v1",
+        "title": "Energy-Based Flow Matching for Generating 3D Molecular Structure",
+        "comment": "Accepted to the International Conference on Machine Learning (2025)",
+        "updated_time": "2025-08-26T11:42:57+00:00",
+        "published_time": "2025-08-26T11:42:57+00:00"
+    },
+    "http://arxiv.org/abs/2508.18947v1": {
+        "entry_id": "http://arxiv.org/abs/2508.18947v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.18947v1",
+        "title": "LLMs in the SOC: An Empirical Study of Human-AI Collaboration in Security Operations Centres",
+        "comment": "22 pages, 9 figures, under review",
+        "updated_time": "2025-08-26T11:40:02+00:00",
+        "published_time": "2025-08-26T11:40:02+00:00"
+    },
+    "http://arxiv.org/abs/2508.18942v1": {
+        "entry_id": "http://arxiv.org/abs/2508.18942v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.18942v1",
+        "title": "EnerSwap: Large-Scale, Privacy-First Automated Market Maker for V2G Energy Trading",
+        "comment": "11 pages, 7 figures, 1 table, 1 algorithm, Paper accepted in 27th\n  MSWiM Conference",
+        "updated_time": "2025-08-26T11:31:05+00:00",
+        "published_time": "2025-08-26T11:31:05+00:00"
+    },
+    "http://arxiv.org/abs/2508.18453v1": {
+        "entry_id": "http://arxiv.org/abs/2508.18453v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.18453v1",
+        "title": "Privacy-Preserving Federated Learning Framework for Risk-Based Adaptive Authentication",
+        "comment": null,
+        "updated_time": "2025-08-25T20:02:07+00:00",
+        "published_time": "2025-08-25T20:02:07+00:00"
+    },
     "http://arxiv.org/abs/2508.18196v1": {
         "entry_id": "http://arxiv.org/abs/2508.18196v1",
         "pdf_url": "http://arxiv.org/pdf/2508.18196v1",
