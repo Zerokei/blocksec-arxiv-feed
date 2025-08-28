@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2508.20086v1": {
+        "entry_id": "http://arxiv.org/abs/2508.20086v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.20086v1",
+        "title": "Smart Contract Intent Detection with Pre-trained Programming Language Model",
+        "comment": "10 pages, 5 figures, conference",
+        "updated_time": "2025-08-27T17:54:15+00:00",
+        "published_time": "2025-08-27T17:54:15+00:00"
+    },
+    "http://arxiv.org/abs/2508.19980v1": {
+        "entry_id": "http://arxiv.org/abs/2508.19980v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.19980v1",
+        "title": "Evaluating Language Model Reasoning about Confidential Information",
+        "comment": "20 pages",
+        "updated_time": "2025-08-27T15:39:46+00:00",
+        "published_time": "2025-08-27T15:39:46+00:00"
+    },
+    "http://arxiv.org/abs/2508.19847v1": {
+        "entry_id": "http://arxiv.org/abs/2508.19847v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.19847v1",
+        "title": "Physics-Informed DeepONet Coupled with FEM for Convective Transport in Porous Media with Sharp Gaussian Sources",
+        "comment": null,
+        "updated_time": "2025-08-27T13:03:18+00:00",
+        "published_time": "2025-08-27T13:03:18+00:00"
+    },
+    "http://arxiv.org/abs/2508.19797v1": {
+        "entry_id": "http://arxiv.org/abs/2508.19797v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.19797v1",
+        "title": "Enabling Content Management Systems as an Information Source in Model-driven Projects",
+        "comment": null,
+        "updated_time": "2025-08-27T11:28:03+00:00",
+        "published_time": "2025-08-27T11:28:03+00:00"
+    },
+    "http://arxiv.org/abs/2508.19752v1": {
+        "entry_id": "http://arxiv.org/abs/2508.19752v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.19752v1",
+        "title": "Fast 3D Diffusion for Scalable Granular Media Synthesis",
+        "comment": null,
+        "updated_time": "2025-08-27T10:27:36+00:00",
+        "published_time": "2025-08-27T10:27:36+00:00"
+    },
+    "http://arxiv.org/abs/2508.17964v2": {
+        "entry_id": "http://arxiv.org/abs/2508.17964v2",
+        "pdf_url": "http://arxiv.org/pdf/2508.17964v2",
+        "title": "MoveScanner: Analysis of Security Risks of Move Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-08-27T03:43:40+00:00",
+        "published_time": "2025-08-25T12:25:28+00:00"
+    },
     "http://arxiv.org/abs/2508.19219v1": {
         "entry_id": "http://arxiv.org/abs/2508.19219v1",
         "pdf_url": "http://arxiv.org/pdf/2508.19219v1",
