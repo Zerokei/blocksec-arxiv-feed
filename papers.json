@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2508.20962v1": {
+        "entry_id": "http://arxiv.org/abs/2508.20962v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.20962v1",
+        "title": "Characterizing Trust Boundary Vulnerabilities in TEE Containers",
+        "comment": null,
+        "updated_time": "2025-08-28T16:20:08+00:00",
+        "published_time": "2025-08-28T16:20:08+00:00"
+    },
+    "http://arxiv.org/abs/2508.20906v1": {
+        "entry_id": "http://arxiv.org/abs/2508.20906v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.20906v1",
+        "title": "Turning Tabular Foundation Models into Graph Foundation Models",
+        "comment": null,
+        "updated_time": "2025-08-28T15:36:37+00:00",
+        "published_time": "2025-08-28T15:36:37+00:00"
+    },
+    "http://arxiv.org/abs/2508.20890v1": {
+        "entry_id": "http://arxiv.org/abs/2508.20890v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.20890v1",
+        "title": "PromptSleuth: Detecting Prompt Injection via Semantic Intent Invariance",
+        "comment": null,
+        "updated_time": "2025-08-28T15:19:07+00:00",
+        "published_time": "2025-08-28T15:19:07+00:00"
+    },
+    "http://arxiv.org/abs/2508.20861v1": {
+        "entry_id": "http://arxiv.org/abs/2508.20861v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.20861v1",
+        "title": "Practical Physical Layer Authentication for Mobile Scenarios Using a Synthetic Dataset Enhanced Deep Learning Approach",
+        "comment": null,
+        "updated_time": "2025-08-28T14:56:10+00:00",
+        "published_time": "2025-08-28T14:56:10+00:00"
+    },
+    "http://arxiv.org/abs/2508.20643v1": {
+        "entry_id": "http://arxiv.org/abs/2508.20643v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.20643v1",
+        "title": "CyberSleuth: Autonomous Blue-Team LLM Agent for Web Attack Forensics",
+        "comment": "Code:\n  https://github.com/SmartData-Polito/LLM_Agent_Cybersecurity_Forensic",
+        "updated_time": "2025-08-28T10:45:31+00:00",
+        "published_time": "2025-08-28T10:45:31+00:00"
+    },
+    "http://arxiv.org/abs/2508.20412v1": {
+        "entry_id": "http://arxiv.org/abs/2508.20412v1",
+        "pdf_url": "http://arxiv.org/pdf/2508.20412v1",
+        "title": "MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph",
+        "comment": null,
+        "updated_time": "2025-08-28T04:23:44+00:00",
+        "published_time": "2025-08-28T04:23:44+00:00"
+    },
     "http://arxiv.org/abs/2508.20086v1": {
         "entry_id": "http://arxiv.org/abs/2508.20086v1",
         "pdf_url": "http://arxiv.org/pdf/2508.20086v1",
