@@ -1,4 +1,116 @@
 {
+    "http://arxiv.org/abs/2509.03518v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03518v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03518v1",
+        "title": "Can LLMs Lie? Investigation beyond Hallucination",
+        "comment": "Website at https://llm-liar.github.io/",
+        "updated_time": "2025-09-03T17:59:45+00:00",
+        "published_time": "2025-09-03T17:59:45+00:00"
+    },
+    "http://arxiv.org/abs/2509.03497v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03497v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03497v1",
+        "title": "Invariant Features for Global Crop Type Classification",
+        "comment": null,
+        "updated_time": "2025-09-03T17:28:33+00:00",
+        "published_time": "2025-09-03T17:28:33+00:00"
+    },
+    "http://arxiv.org/abs/2509.03442v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03442v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03442v1",
+        "title": "Evaluating Diverse Feature Extraction Techniques of Multifaceted IoT Malware Analysis: A Survey",
+        "comment": null,
+        "updated_time": "2025-09-03T16:10:35+00:00",
+        "published_time": "2025-09-03T16:10:35+00:00"
+    },
+    "http://arxiv.org/abs/2509.01527v2": {
+        "entry_id": "http://arxiv.org/abs/2509.01527v2",
+        "pdf_url": "http://arxiv.org/pdf/2509.01527v2",
+        "title": "A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model",
+        "comment": null,
+        "updated_time": "2025-09-03T15:43:01+00:00",
+        "published_time": "2025-09-01T15:02:00+00:00"
+    },
+    "http://arxiv.org/abs/2509.03331v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03331v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03331v1",
+        "title": "VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities",
+        "comment": null,
+        "updated_time": "2025-09-03T14:06:10+00:00",
+        "published_time": "2025-09-03T14:06:10+00:00"
+    },
+    "http://arxiv.org/abs/2509.03316v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03316v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03316v1",
+        "title": "Meta-Imputation Balanced (MIB): An Ensemble Approach for Handling Missing Data in Biomedical Machine Learning",
+        "comment": null,
+        "updated_time": "2025-09-03T13:49:54+00:00",
+        "published_time": "2025-09-03T13:49:54+00:00"
+    },
+    "http://arxiv.org/abs/2509.03241v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03241v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03241v1",
+        "title": "Unsupervised Learning based Element Resource Allocation for Reconfigurable Intelligent Surfaces in mmWave Network",
+        "comment": null,
+        "updated_time": "2025-09-03T11:56:27+00:00",
+        "published_time": "2025-09-03T11:56:27+00:00"
+    },
+    "http://arxiv.org/abs/2509.03191v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03191v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03191v1",
+        "title": "Tabular foundation model for GEOAI benchmark problems BM/AirportSoilProperties/2/2025",
+        "comment": null,
+        "updated_time": "2025-09-03T10:21:18+00:00",
+        "published_time": "2025-09-03T10:21:18+00:00"
+    },
+    "http://arxiv.org/abs/2509.03117v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03117v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03117v1",
+        "title": "PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity",
+        "comment": null,
+        "updated_time": "2025-09-03T08:19:40+00:00",
+        "published_time": "2025-09-03T08:19:40+00:00"
+    },
+    "http://arxiv.org/abs/2509.03098v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03098v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03098v1",
+        "title": "Compressed verification for post-quantum signatures with long-term public keys",
+        "comment": null,
+        "updated_time": "2025-09-03T07:55:03+00:00",
+        "published_time": "2025-09-03T07:55:03+00:00"
+    },
+    "http://arxiv.org/abs/2509.03029v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03029v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03029v1",
+        "title": "Multimodal learning of melt pool dynamics in laser powder bed fusion",
+        "comment": "20 pages, 6 figures, 1 table",
+        "updated_time": "2025-09-03T05:27:09+00:00",
+        "published_time": "2025-09-03T05:27:09+00:00"
+    },
+    "http://arxiv.org/abs/2509.02861v1": {
+        "entry_id": "http://arxiv.org/abs/2509.02861v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.02861v1",
+        "title": "Power Grid Control with Graph-Based Distributed Reinforcement Learning",
+        "comment": null,
+        "updated_time": "2025-09-02T22:17:25+00:00",
+        "published_time": "2025-09-02T22:17:25+00:00"
+    },
+    "http://arxiv.org/abs/2509.00876v1": {
+        "entry_id": "http://arxiv.org/abs/2509.00876v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.00876v1",
+        "title": "Tabular Diffusion Counterfactual Explanations",
+        "comment": null,
+        "updated_time": "2025-08-31T14:44:07+00:00",
+        "published_time": "2025-08-31T14:44:07+00:00"
+    },
+    "http://arxiv.org/abs/2509.00811v1": {
+        "entry_id": "http://arxiv.org/abs/2509.00811v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.00811v1",
+        "title": "MAESTROCUT: Dynamic, Noise-Adaptive, and Secure Quantum Circuit Cutting on Near-Term Hardware",
+        "comment": "14 Pages",
+        "updated_time": "2025-08-31T12:01:16+00:00",
+        "published_time": "2025-08-31T12:01:16+00:00"
+    },
     "http://arxiv.org/abs/2508.18750v2": {
         "entry_id": "http://arxiv.org/abs/2508.18750v2",
         "pdf_url": "http://arxiv.org/pdf/2508.18750v2",
