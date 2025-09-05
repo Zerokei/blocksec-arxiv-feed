@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2509.04328v1": {
+        "entry_id": "http://arxiv.org/abs/2509.04328v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.04328v1",
+        "title": "FaaSGuard: Secure CI/CD for Serverless Applications -- An OpenFaaS Case Study",
+        "comment": "IEEE International Conference on Source Code Analysis & Manipulation\n  (SCAM 2025)",
+        "updated_time": "2025-09-04T15:48:13+00:00",
+        "published_time": "2025-09-04T15:48:13+00:00"
+    },
+    "http://arxiv.org/abs/2509.04245v1": {
+        "entry_id": "http://arxiv.org/abs/2509.04245v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.04245v1",
+        "title": "Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models",
+        "comment": null,
+        "updated_time": "2025-09-04T14:17:58+00:00",
+        "published_time": "2025-09-04T14:17:58+00:00"
+    },
+    "http://arxiv.org/abs/2509.04222v1": {
+        "entry_id": "http://arxiv.org/abs/2509.04222v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.04222v1",
+        "title": "Why Can't I See My Clusters? A Precision-Recall Approach to Dimensionality Reduction Validation",
+        "comment": null,
+        "updated_time": "2025-09-04T13:53:16+00:00",
+        "published_time": "2025-09-04T13:53:16+00:00"
+    },
+    "http://arxiv.org/abs/2509.04214v1": {
+        "entry_id": "http://arxiv.org/abs/2509.04214v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.04214v1",
+        "title": "An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline",
+        "comment": null,
+        "updated_time": "2025-09-04T13:39:37+00:00",
+        "published_time": "2025-09-04T13:39:37+00:00"
+    },
+    "http://arxiv.org/abs/2509.04191v1": {
+        "entry_id": "http://arxiv.org/abs/2509.04191v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.04191v1",
+        "title": "KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis",
+        "comment": null,
+        "updated_time": "2025-09-04T13:13:57+00:00",
+        "published_time": "2025-09-04T13:13:57+00:00"
+    },
+    "http://arxiv.org/abs/2509.04053v1": {
+        "entry_id": "http://arxiv.org/abs/2509.04053v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.04053v1",
+        "title": "On Aligning Prediction Models with Clinical Experiential Learning: A Prostate Cancer Case Study",
+        "comment": null,
+        "updated_time": "2025-09-04T09:32:19+00:00",
+        "published_time": "2025-09-04T09:32:19+00:00"
+    },
+    "http://arxiv.org/abs/2509.03673v1": {
+        "entry_id": "http://arxiv.org/abs/2509.03673v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.03673v1",
+        "title": "A Machine Learning-Based Study on the Synergistic Optimization of Supply Chain Management and Financial Supply Chains from an Economic Perspective",
+        "comment": "Accepted by the 2025 IEEE 8th International Conference on Information\n  Systems and Computer Aided Education (ICISCAE 2025)",
+        "updated_time": "2025-09-03T19:43:35+00:00",
+        "published_time": "2025-09-03T19:43:35+00:00"
+    },
     "http://arxiv.org/abs/2509.03518v1": {
         "entry_id": "http://arxiv.org/abs/2509.03518v1",
         "pdf_url": "http://arxiv.org/pdf/2509.03518v1",
