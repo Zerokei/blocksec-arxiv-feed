@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2509.05265v1": {
+        "entry_id": "http://arxiv.org/abs/2509.05265v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.05265v1",
+        "title": "On Evaluating the Poisoning Robustness of Federated Learning under Local Differential Privacy",
+        "comment": null,
+        "updated_time": "2025-09-05T17:23:03+00:00",
+        "published_time": "2025-09-05T17:23:03+00:00"
+    },
+    "http://arxiv.org/abs/2509.05161v1": {
+        "entry_id": "http://arxiv.org/abs/2509.05161v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.05161v1",
+        "title": "Jamming Smarter, Not Harder: Exploiting O-RAN Y1 RAN Analytics for Efficient Interference",
+        "comment": "8 pages, 7 figures",
+        "updated_time": "2025-09-05T14:57:18+00:00",
+        "published_time": "2025-09-05T14:57:18+00:00"
+    },
+    "http://arxiv.org/abs/2509.05150v1": {
+        "entry_id": "http://arxiv.org/abs/2509.05150v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.05150v1",
+        "title": "Reinforcing Secure Live Migration through Verifiable State Management",
+        "comment": null,
+        "updated_time": "2025-09-05T14:41:48+00:00",
+        "published_time": "2025-09-05T14:41:48+00:00"
+    },
+    "http://arxiv.org/abs/2509.05149v1": {
+        "entry_id": "http://arxiv.org/abs/2509.05149v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.05149v1",
+        "title": "Odoo-based Subcontract Inter-site Access Control Mechanism for Construction Projects",
+        "comment": "7 pages, 2 figures, The 9th OISP Science and Technology Symposium",
+        "updated_time": "2025-09-05T14:38:19+00:00",
+        "published_time": "2025-09-05T14:38:19+00:00"
+    },
+    "http://arxiv.org/abs/2509.05037v1": {
+        "entry_id": "http://arxiv.org/abs/2509.05037v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.05037v1",
+        "title": "MultiSurv: A Multimodal Deep Survival Framework for Prostrate and Bladder Cancer",
+        "comment": "6 pages, 1 figure, 2 tables",
+        "updated_time": "2025-09-05T11:52:53+00:00",
+        "published_time": "2025-09-05T11:52:53+00:00"
+    },
+    "http://arxiv.org/abs/2509.04941v1": {
+        "entry_id": "http://arxiv.org/abs/2509.04941v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.04941v1",
+        "title": "Cryptographic Application of Elliptic Curve with High Rank",
+        "comment": null,
+        "updated_time": "2025-09-05T09:08:04+00:00",
+        "published_time": "2025-09-05T09:08:04+00:00"
+    },
+    "http://arxiv.org/abs/2509.04921v1": {
+        "entry_id": "http://arxiv.org/abs/2509.04921v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.04921v1",
+        "title": "Scaling Law for Large-Scale Pre-Training Using Chaotic Time Series and Predictability in Financial Time Series",
+        "comment": "Patent pending",
+        "updated_time": "2025-09-05T08:40:13+00:00",
+        "published_time": "2025-09-05T08:40:13+00:00"
+    },
+    "http://arxiv.org/abs/2509.04710v1": {
+        "entry_id": "http://arxiv.org/abs/2509.04710v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.04710v1",
+        "title": "Network-Aware Differential Privacy",
+        "comment": null,
+        "updated_time": "2025-09-04T23:53:54+00:00",
+        "published_time": "2025-09-04T23:53:54+00:00"
+    },
     "http://arxiv.org/abs/2509.04328v1": {
         "entry_id": "http://arxiv.org/abs/2509.04328v1",
         "pdf_url": "http://arxiv.org/pdf/2509.04328v1",
