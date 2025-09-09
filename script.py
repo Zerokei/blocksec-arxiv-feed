@@ -14,28 +14,35 @@ class Paper(TypedDict, total=False):
     updated_time: str 
     published_time: str
 
-def fetch_new_papers(keywords: list[str], max_results: int = 10) -> dict[str, Paper]:
+def fetch_new_papers(max_results: int = 50) -> dict[str, Paper]:
     result: dict[str, Paper] = {}
-    for keyword in tqdm(keywords):
-        search = arxiv.Search(
-            query = keyword,
-            max_results = max_results,
-            sort_by = arxiv.SortCriterion.SubmittedDate
-        )
+    
+    # 使用ArXiv查询格式进行搜索
+    search_query = '(all:"smart contract" OR all:"decentralized finance" OR "all:solidity language") AND (cat:cs.CR OR cat:cs.SE OR cat:cs.LG)'
+    
+    search = arxiv.Search(
+        query=search_query,
+        max_results=max_results,
+        sort_by=arxiv.SortCriterion.SubmittedDate
+    )
 
-        for paper in client.results(search):
-
-            if any(category not in ["cs.CR", "cs.SE", "cs.LG"] for category in paper.categories):
-                continue
-            data: Paper = {
-                "entry_id": paper.entry_id,
-                "pdf_url": paper.pdf_url,
-                "title": paper.title,
-                "comment": paper.comment,
-                "updated_time": paper.updated.isoformat(),
-                "published_time": paper.published.isoformat()
-            }
-            result[paper.entry_id] = data
+    print(f"正在搜索ArXiv论文，查询: {search_query}")
+    print(f"最大结果数: {max_results}")
+    
+    for paper in tqdm(client.results(search), desc="获取论文"):
+        # 验证分类是否符合要求
+        if not any(category in ["cs.CR", "cs.SE", "cs.LG"] for category in paper.categories):
+            continue
+            
+        data: Paper = {
+            "entry_id": paper.entry_id,
+            "pdf_url": paper.pdf_url,
+            "title": paper.title,
+            "comment": paper.comment,
+            "updated_time": paper.updated.isoformat(),
+            "published_time": paper.published.isoformat()
+        }
+        result[paper.entry_id] = data
 
     return result
 
@@ -78,17 +85,10 @@ def display_newest_papers(filename: str) -> None:
 
 
 if __name__ == '__main__':
-    update_paper_lists(
-        filename="papers.json", 
-        new_papers=fetch_new_papers([
-                "Contract", 
-                # "DApp", 
-                "Solidity", 
-                # "DeFi",
-                "Decentralized Finance",
-                "Decentralized Application",
-            ], 
-            max_results=100
-        )
-    )
+    print("开始获取ArXiv论文...")
+    new_papers = fetch_new_papers(max_results=50)
+    print(f"成功获取 {len(new_papers)} 篇论文")
+    
+    update_paper_lists(filename="papers.json", new_papers=new_papers)
     display_newest_papers("papers.json")
+    print("论文列表已更新完成！")
