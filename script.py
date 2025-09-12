@@ -67,7 +67,7 @@ def display_newest_papers(filename: str) -> None:
     
     # 只展示前 20 篇最新的论文，并以输出至 README.md，以表格的形式展示在 GitHub 仓库的首页
     with open("README.md", "w") as f:
-        f.write("# arXiv Papers for Smart Contract\n\n")
+        f.write("# arXiv Papers for Blockchain (Smart Contract) Security\n\n")
         f.write(f"Last Updated: {datetime.now().isoformat()}\n\n")
         f.write("## Newest Papers\n\n")
         f.write("|\#|Title|URL|Updated|\n")
