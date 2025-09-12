@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2509.09630v1": {
+        "entry_id": "http://arxiv.org/abs/2509.09630v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.09630v1",
+        "title": "I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection",
+        "comment": null,
+        "updated_time": "2025-09-11T17:15:51+00:00",
+        "published_time": "2025-09-11T17:15:51+00:00"
+    },
     "http://arxiv.org/abs/2507.20175v3": {
         "entry_id": "http://arxiv.org/abs/2507.20175v3",
         "pdf_url": "http://arxiv.org/pdf/2507.20175v3",
