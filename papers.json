@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2509.10413v1": {
+        "entry_id": "http://arxiv.org/abs/2509.10413v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.10413v1",
+        "title": "Bitcoin Cross-Chain Bridge: A Taxonomy and Its Promise in Artificial Intelligence of Things",
+        "comment": "Blockchain Cross-Chain Bridge Survey",
+        "updated_time": "2025-09-12T17:10:46+00:00",
+        "published_time": "2025-09-12T17:10:46+00:00"
+    },
+    "http://arxiv.org/abs/2509.10252v1": {
+        "entry_id": "http://arxiv.org/abs/2509.10252v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.10252v1",
+        "title": "ExDoS: Expert-Guided Dual-Focus Cross-Modal Distillation for Smart Contract Vulnerability Detection",
+        "comment": "This work has been submitted to the IEEE for possible publication",
+        "updated_time": "2025-09-12T13:56:56+00:00",
+        "published_time": "2025-09-12T13:56:56+00:00"
+    },
+    "http://arxiv.org/abs/2509.09942v1": {
+        "entry_id": "http://arxiv.org/abs/2509.09942v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.09942v1",
+        "title": "SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization",
+        "comment": null,
+        "updated_time": "2025-09-12T03:14:50+00:00",
+        "published_time": "2025-09-12T03:14:50+00:00"
+    },
     "http://arxiv.org/abs/2509.09630v1": {
         "entry_id": "http://arxiv.org/abs/2509.09630v1",
         "pdf_url": "http://arxiv.org/pdf/2509.09630v1",
