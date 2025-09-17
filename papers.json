@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2509.13023v1": {
+        "entry_id": "http://arxiv.org/abs/2509.13023v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.13023v1",
+        "title": "Validating Solidity Code Defects using Symbolic and Concrete Execution powered by Large Language Models",
+        "comment": "In Proceedings FROM 2025, arXiv:2509.11877",
+        "updated_time": "2025-09-16T12:46:11+00:00",
+        "published_time": "2025-09-16T12:46:11+00:00"
+    },
+    "http://arxiv.org/abs/2509.12957v1": {
+        "entry_id": "http://arxiv.org/abs/2509.12957v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.12957v1",
+        "title": "xRWA: A Cross-Chain Framework for Interoperability of Real-World Assets",
+        "comment": null,
+        "updated_time": "2025-09-16T11:01:49+00:00",
+        "published_time": "2025-09-16T11:01:49+00:00"
+    },
     "http://arxiv.org/abs/2509.11555v1": {
         "entry_id": "http://arxiv.org/abs/2509.11555v1",
         "pdf_url": "http://arxiv.org/pdf/2509.11555v1",
