@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2509.17185v1": {
+        "entry_id": "http://arxiv.org/abs/2509.17185v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.17185v1",
+        "title": "Bribers, Bribers on The Chain, Is Resisting All in Vain? Trustless Consensus Manipulation Through Bribing Contracts",
+        "comment": "pre-print",
+        "updated_time": "2025-09-21T18:12:17+00:00",
+        "published_time": "2025-09-21T18:12:17+00:00"
+    },
+    "http://arxiv.org/abs/2509.16955v1": {
+        "entry_id": "http://arxiv.org/abs/2509.16955v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.16955v1",
+        "title": "Quantum Adaptive Self-Attention for Financial Rebalancing: An Empirical Study on Automated Market Makers in Decentralized Finance",
+        "comment": null,
+        "updated_time": "2025-09-21T07:27:14+00:00",
+        "published_time": "2025-09-21T07:27:14+00:00"
+    },
+    "http://arxiv.org/abs/2508.01332v3": {
+        "entry_id": "http://arxiv.org/abs/2508.01332v3",
+        "pdf_url": "http://arxiv.org/pdf/2508.01332v3",
+        "title": "BlockA2A: Towards Secure and Verifiable Agent-to-Agent Interoperability",
+        "comment": "43 pages",
+        "updated_time": "2025-09-21T03:31:35+00:00",
+        "published_time": "2025-08-02T11:59:21+00:00"
+    },
+    "http://arxiv.org/abs/2509.16736v1": {
+        "entry_id": "http://arxiv.org/abs/2509.16736v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.16736v1",
+        "title": "Towards Transparent and Incentive-Compatible Collaboration in Decentralized LLM Multi-Agent Systems: A Blockchain-Driven Approach",
+        "comment": "17 pages, 7 figures",
+        "updated_time": "2025-09-20T16:00:24+00:00",
+        "published_time": "2025-09-20T16:00:24+00:00"
+    },
+    "http://arxiv.org/abs/2509.16390v1": {
+        "entry_id": "http://arxiv.org/abs/2509.16390v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.16390v1",
+        "title": "B5GRoam: A Zero Trust Framework for Secure and Efficient On-Chain B5G Roaming",
+        "comment": "6 pages, 2 figures, Accepted at GLOBECOM'25",
+        "updated_time": "2025-09-19T20:11:42+00:00",
+        "published_time": "2025-09-19T20:11:42+00:00"
+    },
+    "http://arxiv.org/abs/2509.16292v1": {
+        "entry_id": "http://arxiv.org/abs/2509.16292v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.16292v1",
+        "title": "Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration",
+        "comment": "written in early 2024",
+        "updated_time": "2025-09-19T15:07:10+00:00",
+        "published_time": "2025-09-19T15:07:10+00:00"
+    },
     "http://arxiv.org/abs/2509.12957v2": {
         "entry_id": "http://arxiv.org/abs/2509.12957v2",
         "pdf_url": "http://arxiv.org/pdf/2509.12957v2",
