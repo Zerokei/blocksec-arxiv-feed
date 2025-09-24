@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2509.19153v1": {
+        "entry_id": "http://arxiv.org/abs/2509.19153v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.19153v1",
+        "title": "LLMs as verification oracles for Solidity",
+        "comment": null,
+        "updated_time": "2025-09-23T15:32:13+00:00",
+        "published_time": "2025-09-23T15:32:13+00:00"
+    },
+    "http://arxiv.org/abs/2509.18934v1": {
+        "entry_id": "http://arxiv.org/abs/2509.18934v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.18934v1",
+        "title": "Generic Adversarial Smart Contract Detection with Semantics and Uncertainty-Aware LLM",
+        "comment": null,
+        "updated_time": "2025-09-23T12:52:05+00:00",
+        "published_time": "2025-09-23T12:52:05+00:00"
+    },
     "http://arxiv.org/abs/2509.17185v1": {
         "entry_id": "http://arxiv.org/abs/2509.17185v1",
         "pdf_url": "http://arxiv.org/pdf/2509.17185v1",
