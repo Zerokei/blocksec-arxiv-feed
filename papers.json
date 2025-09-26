@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2509.16390v2": {
+        "entry_id": "http://arxiv.org/abs/2509.16390v2",
+        "pdf_url": "http://arxiv.org/pdf/2509.16390v2",
+        "title": "B5GRoam: A Zero Trust Framework for Secure and Efficient On-Chain B5G Roaming",
+        "comment": "6 pages, 2 figures, Accepted at GLOBECOM'25",
+        "updated_time": "2025-09-24T21:30:35+00:00",
+        "published_time": "2025-09-19T20:11:42+00:00"
+    },
     "http://arxiv.org/abs/2509.19153v1": {
         "entry_id": "http://arxiv.org/abs/2509.19153v1",
         "pdf_url": "http://arxiv.org/pdf/2509.19153v1",
