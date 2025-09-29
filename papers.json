@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2509.22620v1": {
+        "entry_id": "http://arxiv.org/abs/2509.22620v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.22620v1",
+        "title": "Voting-Bloc Entropy: A New Metric for DAO Decentralization",
+        "comment": "Full version of the paper published in USENIX Security 2025",
+        "updated_time": "2025-09-26T17:46:07+00:00",
+        "published_time": "2025-09-26T17:46:07+00:00"
+    },
+    "http://arxiv.org/abs/2509.21831v1": {
+        "entry_id": "http://arxiv.org/abs/2509.21831v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.21831v1",
+        "title": "The Dark Art of Financial Disguise in Web3: Money Laundering Schemes and Countermeasures",
+        "comment": "Accepted manuscript to APWG eCrime 2025",
+        "updated_time": "2025-09-26T03:47:58+00:00",
+        "published_time": "2025-09-26T03:47:58+00:00"
+    },
     "http://arxiv.org/abs/2509.16390v2": {
         "entry_id": "http://arxiv.org/abs/2509.16390v2",
         "pdf_url": "http://arxiv.org/pdf/2509.16390v2",
