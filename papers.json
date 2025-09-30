@@ -1,4 +1,60 @@
 {
+    "http://arxiv.org/abs/2508.20086v2": {
+        "entry_id": "http://arxiv.org/abs/2508.20086v2",
+        "pdf_url": "http://arxiv.org/pdf/2508.20086v2",
+        "title": "Smart Contract Intent Detection with Pre-trained Programming Language Model",
+        "comment": "11 pages, 5 figures, conference",
+        "updated_time": "2025-09-29T16:30:09+00:00",
+        "published_time": "2025-08-27T17:54:15+00:00"
+    },
+    "http://arxiv.org/abs/2509.24698v1": {
+        "entry_id": "http://arxiv.org/abs/2509.24698v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.24698v1",
+        "title": "LISA Technical Report: An Agentic Framework for Smart Contract Auditing",
+        "comment": "A technical report with 10 pages",
+        "updated_time": "2025-09-29T12:31:25+00:00",
+        "published_time": "2025-09-29T12:31:25+00:00"
+    },
+    "http://arxiv.org/abs/2509.24515v1": {
+        "entry_id": "http://arxiv.org/abs/2509.24515v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.24515v1",
+        "title": "Agentic Specification Generator for Move Programs",
+        "comment": "18 pages; Extended version of ASE'25 paper with extra appendices",
+        "updated_time": "2025-09-29T09:34:31+00:00",
+        "published_time": "2025-09-29T09:34:31+00:00"
+    },
+    "http://arxiv.org/abs/2509.24444v1": {
+        "entry_id": "http://arxiv.org/abs/2509.24444v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.24444v1",
+        "title": "BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities",
+        "comment": null,
+        "updated_time": "2025-09-29T08:26:52+00:00",
+        "published_time": "2025-09-29T08:26:52+00:00"
+    },
+    "http://arxiv.org/abs/2509.23976v1": {
+        "entry_id": "http://arxiv.org/abs/2509.23976v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.23976v1",
+        "title": "Curriculum-Guided Reinforcement Learning for Synthesizing Gas-Efficient Financial Derivatives Contracts",
+        "comment": "8 pages, 3 figures, 2 tables",
+        "updated_time": "2025-09-28T17:01:55+00:00",
+        "published_time": "2025-09-28T17:01:55+00:00"
+    },
+    "http://arxiv.org/abs/2509.23824v1": {
+        "entry_id": "http://arxiv.org/abs/2509.23824v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.23824v1",
+        "title": "SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation",
+        "comment": null,
+        "updated_time": "2025-09-28T11:53:41+00:00",
+        "published_time": "2025-09-28T11:53:41+00:00"
+    },
+    "http://arxiv.org/abs/2509.23679v1": {
+        "entry_id": "http://arxiv.org/abs/2509.23679v1",
+        "pdf_url": "http://arxiv.org/pdf/2509.23679v1",
+        "title": "Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse",
+        "comment": "This is the author version of the article accepted for publication in\n  IEEE Transactions on Software Engineering. The final version is available at\n  10.1109/TSE.2025.3613470",
+        "updated_time": "2025-09-28T06:39:58+00:00",
+        "published_time": "2025-09-28T06:39:58+00:00"
+    },
     "http://arxiv.org/abs/2509.22620v1": {
         "entry_id": "http://arxiv.org/abs/2509.22620v1",
         "pdf_url": "http://arxiv.org/pdf/2509.22620v1",
