@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-10-02T13:18:15.729199
+Last Updated: 2025-10-03T12:15:06.738248
 
 ## Newest Papers
 
@@ -52,7 +52,7 @@ Last Updated: 2025-10-02T13:18:15.729199
 |44|An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline|[link](http://arxiv.org/abs/2509.04214v1)|🆕 2025-09-04|
 |45|KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis|[link](http://arxiv.org/abs/2509.04191v1)|🆕 2025-09-04|
 |46|On Aligning Prediction Models with Clinical Experiential Learning: A Prostate Cancer Case Study|[link](http://arxiv.org/abs/2509.04053v1)|🆕 2025-09-04|
-|47|A Machine Learning-Based Study on the Synergistic Optimization of Supply Chain Management and Financial Supply Chains from an Economic Perspective|[link](http://arxiv.org/abs/2509.03673v1)|🆕 2025-09-03|
-|48|Can LLMs Lie? Investigation beyond Hallucination|[link](http://arxiv.org/abs/2509.03518v1)|🆕 2025-09-03|
-|49|Invariant Features for Global Crop Type Classification|[link](http://arxiv.org/abs/2509.03497v1)|🆕 2025-09-03|
-|50|Evaluating Diverse Feature Extraction Techniques of Multifaceted IoT Malware Analysis: A Survey|[link](http://arxiv.org/abs/2509.03442v1)|🆕 2025-09-03|
+|47|A Machine Learning-Based Study on the Synergistic Optimization of Supply Chain Management and Financial Supply Chains from an Economic Perspective|[link](http://arxiv.org/abs/2509.03673v1)|2025-09-03|
+|48|Can LLMs Lie? Investigation beyond Hallucination|[link](http://arxiv.org/abs/2509.03518v1)|2025-09-03|
+|49|Invariant Features for Global Crop Type Classification|[link](http://arxiv.org/abs/2509.03497v1)|2025-09-03|
+|50|Evaluating Diverse Feature Extraction Techniques of Multifaceted IoT Malware Analysis: A Survey|[link](http://arxiv.org/abs/2509.03442v1)|2025-09-03|
