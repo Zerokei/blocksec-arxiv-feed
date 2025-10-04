@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-10-03T13:16:38.605019
+Last Updated: 2025-10-04T12:13:18.598101
 
 ## Newest Papers
 
@@ -44,14 +44,14 @@ Last Updated: 2025-10-03T13:16:38.605019
 |36|MultiSurv: A Multimodal Deep Survival Framework for Prostrate and Bladder Cancer|[link](http://arxiv.org/abs/2509.05037v1)|🆕 2025-09-05|
 |37|Cryptographic Application of Elliptic Curve with High Rank|[link](http://arxiv.org/abs/2509.04941v1)|🆕 2025-09-05|
 |38|Scaling Law for Large-Scale Pre-Training Using Chaotic Time Series and Predictability in Financial Time Series|[link](http://arxiv.org/abs/2509.04921v1)|🆕 2025-09-05|
-|39|Network-Aware Differential Privacy|[link](http://arxiv.org/abs/2509.04710v1)|🆕 2025-09-04|
-|40|FaaSGuard: Secure CI/CD for Serverless Applications -- An OpenFaaS Case Study|[link](http://arxiv.org/abs/2509.04328v1)|🆕 2025-09-04|
-|41|Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models|[link](http://arxiv.org/abs/2509.04245v1)|🆕 2025-09-04|
-|42|SoK: Root Cause of $1 Billion Loss in Smart Contract Real-World Attacks via a Systematic Literature Review of Vulnerabilities|[link](http://arxiv.org/abs/2507.20175v2)|🆕 2025-09-04|
-|43|Why Can't I See My Clusters? A Precision-Recall Approach to Dimensionality Reduction Validation|[link](http://arxiv.org/abs/2509.04222v1)|🆕 2025-09-04|
-|44|An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline|[link](http://arxiv.org/abs/2509.04214v1)|🆕 2025-09-04|
-|45|KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis|[link](http://arxiv.org/abs/2509.04191v1)|🆕 2025-09-04|
-|46|On Aligning Prediction Models with Clinical Experiential Learning: A Prostate Cancer Case Study|[link](http://arxiv.org/abs/2509.04053v1)|🆕 2025-09-04|
+|39|Network-Aware Differential Privacy|[link](http://arxiv.org/abs/2509.04710v1)|2025-09-04|
+|40|FaaSGuard: Secure CI/CD for Serverless Applications -- An OpenFaaS Case Study|[link](http://arxiv.org/abs/2509.04328v1)|2025-09-04|
+|41|Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models|[link](http://arxiv.org/abs/2509.04245v1)|2025-09-04|
+|42|SoK: Root Cause of $1 Billion Loss in Smart Contract Real-World Attacks via a Systematic Literature Review of Vulnerabilities|[link](http://arxiv.org/abs/2507.20175v2)|2025-09-04|
+|43|Why Can't I See My Clusters? A Precision-Recall Approach to Dimensionality Reduction Validation|[link](http://arxiv.org/abs/2509.04222v1)|2025-09-04|
+|44|An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline|[link](http://arxiv.org/abs/2509.04214v1)|2025-09-04|
+|45|KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis|[link](http://arxiv.org/abs/2509.04191v1)|2025-09-04|
+|46|On Aligning Prediction Models with Clinical Experiential Learning: A Prostate Cancer Case Study|[link](http://arxiv.org/abs/2509.04053v1)|2025-09-04|
 |47|A Machine Learning-Based Study on the Synergistic Optimization of Supply Chain Management and Financial Supply Chains from an Economic Perspective|[link](http://arxiv.org/abs/2509.03673v1)|2025-09-03|
 |48|Can LLMs Lie? Investigation beyond Hallucination|[link](http://arxiv.org/abs/2509.03518v1)|2025-09-03|
 |49|Invariant Features for Global Crop Type Classification|[link](http://arxiv.org/abs/2509.03497v1)|2025-09-03|
