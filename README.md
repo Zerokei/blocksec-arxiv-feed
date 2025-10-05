@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-10-04T13:09:31.843460
+Last Updated: 2025-10-05T12:13:53.976504
 
 ## Newest Papers
 
@@ -37,13 +37,13 @@ Last Updated: 2025-10-04T13:09:31.843460
 |29|SoK: Root Cause of $1 Billion Loss in Smart Contract Real-World Attacks via a Systematic Literature Review of Vulnerabilities|[link](http://arxiv.org/abs/2507.20175v3)|🆕 2025-09-10|
 |30|SoK: Security and Privacy of AI Agents for Blockchain|[link](http://arxiv.org/abs/2509.07131v1)|🆕 2025-09-08|
 |31|SEASONED: Semantic-Enhanced Self-Counterfactual Explainable Detection of Adversarial Exploiter Contracts|[link](http://arxiv.org/abs/2509.05681v1)|🆕 2025-09-06|
-|32|On Evaluating the Poisoning Robustness of Federated Learning under Local Differential Privacy|[link](http://arxiv.org/abs/2509.05265v1)|🆕 2025-09-05|
-|33|Jamming Smarter, Not Harder: Exploiting O-RAN Y1 RAN Analytics for Efficient Interference|[link](http://arxiv.org/abs/2509.05161v1)|🆕 2025-09-05|
-|34|Reinforcing Secure Live Migration through Verifiable State Management|[link](http://arxiv.org/abs/2509.05150v1)|🆕 2025-09-05|
-|35|Odoo-based Subcontract Inter-site Access Control Mechanism for Construction Projects|[link](http://arxiv.org/abs/2509.05149v1)|🆕 2025-09-05|
-|36|MultiSurv: A Multimodal Deep Survival Framework for Prostrate and Bladder Cancer|[link](http://arxiv.org/abs/2509.05037v1)|🆕 2025-09-05|
-|37|Cryptographic Application of Elliptic Curve with High Rank|[link](http://arxiv.org/abs/2509.04941v1)|🆕 2025-09-05|
-|38|Scaling Law for Large-Scale Pre-Training Using Chaotic Time Series and Predictability in Financial Time Series|[link](http://arxiv.org/abs/2509.04921v1)|🆕 2025-09-05|
+|32|On Evaluating the Poisoning Robustness of Federated Learning under Local Differential Privacy|[link](http://arxiv.org/abs/2509.05265v1)|2025-09-05|
+|33|Jamming Smarter, Not Harder: Exploiting O-RAN Y1 RAN Analytics for Efficient Interference|[link](http://arxiv.org/abs/2509.05161v1)|2025-09-05|
+|34|Reinforcing Secure Live Migration through Verifiable State Management|[link](http://arxiv.org/abs/2509.05150v1)|2025-09-05|
+|35|Odoo-based Subcontract Inter-site Access Control Mechanism for Construction Projects|[link](http://arxiv.org/abs/2509.05149v1)|2025-09-05|
+|36|MultiSurv: A Multimodal Deep Survival Framework for Prostrate and Bladder Cancer|[link](http://arxiv.org/abs/2509.05037v1)|2025-09-05|
+|37|Cryptographic Application of Elliptic Curve with High Rank|[link](http://arxiv.org/abs/2509.04941v1)|2025-09-05|
+|38|Scaling Law for Large-Scale Pre-Training Using Chaotic Time Series and Predictability in Financial Time Series|[link](http://arxiv.org/abs/2509.04921v1)|2025-09-05|
 |39|Network-Aware Differential Privacy|[link](http://arxiv.org/abs/2509.04710v1)|2025-09-04|
 |40|FaaSGuard: Secure CI/CD for Serverless Applications -- An OpenFaaS Case Study|[link](http://arxiv.org/abs/2509.04328v1)|2025-09-04|
 |41|Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models|[link](http://arxiv.org/abs/2509.04245v1)|2025-09-04|
