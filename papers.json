@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2508.20086v3": {
+        "entry_id": "http://arxiv.org/abs/2508.20086v3",
+        "pdf_url": "http://arxiv.org/pdf/2508.20086v3",
+        "title": "Smart Contract Intent Detection with Pre-trained Programming Language Model",
+        "comment": "11 pages, 5 figures, conference",
+        "updated_time": "2025-10-03T14:43:31+00:00",
+        "published_time": "2025-08-27T17:54:15+00:00"
+    },
+    "http://arxiv.org/abs/2508.05334v2": {
+        "entry_id": "http://arxiv.org/abs/2508.05334v2",
+        "pdf_url": "http://arxiv.org/pdf/2508.05334v2",
+        "title": "ShikkhaChain: A Blockchain-Powered Academic Credential Verification System for Bangladesh",
+        "comment": null,
+        "updated_time": "2025-10-03T14:21:29+00:00",
+        "published_time": "2025-08-07T12:35:12+00:00"
+    },
+    "http://arxiv.org/abs/2508.05865v2": {
+        "entry_id": "http://arxiv.org/abs/2508.05865v2",
+        "pdf_url": "http://arxiv.org/pdf/2508.05865v2",
+        "title": "Secure and Scalable Blockchain Voting: A Comparative Framework and the Role of Large Language Models",
+        "comment": "9 pages, 8 figures, 1 table",
+        "updated_time": "2025-10-02T19:45:52+00:00",
+        "published_time": "2025-08-07T21:34:21+00:00"
+    },
     "http://arxiv.org/abs/2508.20086v2": {
         "entry_id": "http://arxiv.org/abs/2508.20086v2",
         "pdf_url": "http://arxiv.org/pdf/2508.20086v2",
