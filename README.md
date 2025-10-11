@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-10-10T13:22:23.224134
+Last Updated: 2025-10-11T12:13:26.606453
 
 ## Newest Papers
 
@@ -40,7 +40,7 @@ Last Updated: 2025-10-10T13:22:23.224134
 |32|Bitcoin Cross-Chain Bridge: A Taxonomy and Its Promise in Artificial Intelligence of Things|[link](http://arxiv.org/abs/2509.10413v1)|🆕 2025-09-12|
 |33|ExDoS: Expert-Guided Dual-Focus Cross-Modal Distillation for Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2509.10252v1)|🆕 2025-09-12|
 |34|SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization|[link](http://arxiv.org/abs/2509.09942v1)|🆕 2025-09-12|
-|35|I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection|[link](http://arxiv.org/abs/2509.09630v1)|🆕 2025-09-11|
+|35|I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection|[link](http://arxiv.org/abs/2509.09630v1)|2025-09-11|
 |36|SoK: Root Cause of $1 Billion Loss in Smart Contract Real-World Attacks via a Systematic Literature Review of Vulnerabilities|[link](http://arxiv.org/abs/2507.20175v3)|2025-09-10|
 |37|SoK: Security and Privacy of AI Agents for Blockchain|[link](http://arxiv.org/abs/2509.07131v1)|2025-09-08|
 |38|SEASONED: Semantic-Enhanced Self-Counterfactual Explainable Detection of Adversarial Exploiter Contracts|[link](http://arxiv.org/abs/2509.05681v1)|2025-09-06|
