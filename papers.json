@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2510.09443v2": {
+        "entry_id": "http://arxiv.org/abs/2510.09443v2",
+        "pdf_url": "http://arxiv.org/pdf/2510.09443v2",
+        "title": "The Impact of Sanctions on decentralised Privacy Tools: A Case Study of Tornado Cash",
+        "comment": null,
+        "updated_time": "2025-10-13T09:46:22+00:00",
+        "published_time": "2025-10-10T14:55:32+00:00"
+    },
+    "http://arxiv.org/abs/2509.09942v2": {
+        "entry_id": "http://arxiv.org/abs/2509.09942v2",
+        "pdf_url": "http://arxiv.org/pdf/2509.09942v2",
+        "title": "Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization",
+        "comment": null,
+        "updated_time": "2025-10-12T04:04:06+00:00",
+        "published_time": "2025-09-12T03:14:50+00:00"
+    },
+    "http://arxiv.org/abs/2510.09840v1": {
+        "entry_id": "http://arxiv.org/abs/2510.09840v1",
+        "pdf_url": "http://arxiv.org/pdf/2510.09840v1",
+        "title": "Farewell to Westphalia: Crypto Sovereignty and Post-Nation-State Governaance",
+        "comment": null,
+        "updated_time": "2025-10-10T20:14:57+00:00",
+        "published_time": "2025-10-10T20:14:57+00:00"
+    },
     "http://arxiv.org/abs/2510.09443v1": {
         "entry_id": "http://arxiv.org/abs/2510.09443v1",
         "pdf_url": "http://arxiv.org/pdf/2510.09443v1",
@@ -6,6 +30,14 @@
         "comment": null,
         "updated_time": "2025-10-10T14:55:32+00:00",
         "published_time": "2025-10-10T14:55:32+00:00"
+    },
+    "http://arxiv.org/abs/2510.09715v1": {
+        "entry_id": "http://arxiv.org/abs/2510.09715v1",
+        "pdf_url": "http://arxiv.org/pdf/2510.09715v1",
+        "title": "A Scalable, Privacy-Preserving Decentralized Identity and Verifiable Data Sharing Framework based on Zero-Knowledge Proofs",
+        "comment": null,
+        "updated_time": "2025-10-10T06:06:05+00:00",
+        "published_time": "2025-10-10T06:06:05+00:00"
     },
     "http://arxiv.org/abs/2510.08700v1": {
         "entry_id": "http://arxiv.org/abs/2510.08700v1",
