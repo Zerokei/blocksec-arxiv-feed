@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-10-15T13:01:16.333633
+Last Updated: 2025-10-16T12:16:57.153227
 
 ## Newest Papers
 
@@ -39,8 +39,8 @@ Last Updated: 2025-10-15T13:01:16.333633
 |31|B5GRoam: A Zero Trust Framework for Secure and Efficient On-Chain B5G Roaming|[link](http://arxiv.org/abs/2509.16390v1)|🆕 2025-09-19|
 |32|Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration|[link](http://arxiv.org/abs/2509.16292v1)|🆕 2025-09-19|
 |33|xRWA: A Cross-Chain Framework for Interoperability of Real-World Assets|[link](http://arxiv.org/abs/2509.12957v2)|🆕 2025-09-17|
-|34|Validating Solidity Code Defects using Symbolic and Concrete Execution powered by Large Language Models|[link](http://arxiv.org/abs/2509.13023v1)|🆕 2025-09-16|
-|35|xRWA: A Cross-Chain Framework for Interoperability of Real-World Assets|[link](http://arxiv.org/abs/2509.12957v1)|🆕 2025-09-16|
+|34|Validating Solidity Code Defects using Symbolic and Concrete Execution powered by Large Language Models|[link](http://arxiv.org/abs/2509.13023v1)|2025-09-16|
+|35|xRWA: A Cross-Chain Framework for Interoperability of Real-World Assets|[link](http://arxiv.org/abs/2509.12957v1)|2025-09-16|
 |36|Dstack: A Zero Trust Framework for Confidential Containers|[link](http://arxiv.org/abs/2509.11555v1)|2025-09-15|
 |37|A Web-Based Environment for the Specification and Generation of Smart Legal Contracts|[link](http://arxiv.org/abs/2509.11258v1)|2025-09-14|
 |38|From Paradigm Shift to Audit Rift: Exploring Vulnerabilities and Audit Tips for TON Smart Contracts|[link](http://arxiv.org/abs/2509.10823v1)|2025-09-13|
