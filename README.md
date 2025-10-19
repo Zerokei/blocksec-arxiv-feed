@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-10-18T13:12:10.567349
+Last Updated: 2025-10-19T12:14:44.073599
 
 ## Newest Papers
 
@@ -37,8 +37,8 @@ Last Updated: 2025-10-18T13:12:10.567349
 |29|Quantum Adaptive Self-Attention for Financial Rebalancing: An Empirical Study on Automated Market Makers in Decentralized Finance|[link](http://arxiv.org/abs/2509.16955v1)|🆕 2025-09-21|
 |30|BlockA2A: Towards Secure and Verifiable Agent-to-Agent Interoperability|[link](http://arxiv.org/abs/2508.01332v3)|🆕 2025-09-21|
 |31|Towards Transparent and Incentive-Compatible Collaboration in Decentralized LLM Multi-Agent Systems: A Blockchain-Driven Approach|[link](http://arxiv.org/abs/2509.16736v1)|🆕 2025-09-20|
-|32|B5GRoam: A Zero Trust Framework for Secure and Efficient On-Chain B5G Roaming|[link](http://arxiv.org/abs/2509.16390v1)|🆕 2025-09-19|
-|33|Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration|[link](http://arxiv.org/abs/2509.16292v1)|🆕 2025-09-19|
+|32|B5GRoam: A Zero Trust Framework for Secure and Efficient On-Chain B5G Roaming|[link](http://arxiv.org/abs/2509.16390v1)|2025-09-19|
+|33|Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration|[link](http://arxiv.org/abs/2509.16292v1)|2025-09-19|
 |34|xRWA: A Cross-Chain Framework for Interoperability of Real-World Assets|[link](http://arxiv.org/abs/2509.12957v2)|2025-09-17|
 |35|Validating Solidity Code Defects using Symbolic and Concrete Execution powered by Large Language Models|[link](http://arxiv.org/abs/2509.13023v1)|2025-09-16|
 |36|xRWA: A Cross-Chain Framework for Interoperability of Real-World Assets|[link](http://arxiv.org/abs/2509.12957v1)|2025-09-16|
