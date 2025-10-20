@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-10-19T13:12:32.038683
+Last Updated: 2025-10-20T12:16:47.162270
 
 ## Newest Papers
 
@@ -36,7 +36,7 @@ Last Updated: 2025-10-19T13:12:32.038683
 |28|Bribers, Bribers on The Chain, Is Resisting All in Vain? Trustless Consensus Manipulation Through Bribing Contracts|[link](http://arxiv.org/abs/2509.17185v1)|🆕 2025-09-21|
 |29|Quantum Adaptive Self-Attention for Financial Rebalancing: An Empirical Study on Automated Market Makers in Decentralized Finance|[link](http://arxiv.org/abs/2509.16955v1)|🆕 2025-09-21|
 |30|BlockA2A: Towards Secure and Verifiable Agent-to-Agent Interoperability|[link](http://arxiv.org/abs/2508.01332v3)|🆕 2025-09-21|
-|31|Towards Transparent and Incentive-Compatible Collaboration in Decentralized LLM Multi-Agent Systems: A Blockchain-Driven Approach|[link](http://arxiv.org/abs/2509.16736v1)|🆕 2025-09-20|
+|31|Towards Transparent and Incentive-Compatible Collaboration in Decentralized LLM Multi-Agent Systems: A Blockchain-Driven Approach|[link](http://arxiv.org/abs/2509.16736v1)|2025-09-20|
 |32|B5GRoam: A Zero Trust Framework for Secure and Efficient On-Chain B5G Roaming|[link](http://arxiv.org/abs/2509.16390v1)|2025-09-19|
 |33|Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration|[link](http://arxiv.org/abs/2509.16292v1)|2025-09-19|
 |34|xRWA: A Cross-Chain Framework for Interoperability of Real-World Assets|[link](http://arxiv.org/abs/2509.12957v2)|2025-09-17|
