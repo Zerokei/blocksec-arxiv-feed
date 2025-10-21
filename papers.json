@@ -7,6 +7,14 @@
         "updated_time": "2025-10-16T09:24:28+00:00",
         "published_time": "2025-10-16T09:24:28+00:00"
     },
+    "http://arxiv.org/abs/2510.16024v1": {
+        "entry_id": "http://arxiv.org/abs/2510.16024v1",
+        "pdf_url": "http://arxiv.org/pdf/2510.16024v1",
+        "title": "On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation",
+        "comment": "Published in the 7th Conference on Advances in Financial Technologies\n  (AFT 2025)",
+        "updated_time": "2025-10-15T18:58:34+00:00",
+        "published_time": "2025-10-15T18:58:34+00:00"
+    },
     "http://arxiv.org/abs/2510.12062v1": {
         "entry_id": "http://arxiv.org/abs/2510.12062v1",
         "pdf_url": "http://arxiv.org/pdf/2510.12062v1",
@@ -302,6 +310,14 @@
         "comment": "12 pages, 5 figures, 2 tables, conference",
         "updated_time": "2025-09-14T12:59:12+00:00",
         "published_time": "2025-09-14T12:59:12+00:00"
+    },
+    "http://arxiv.org/abs/2510.15903v1": {
+        "entry_id": "http://arxiv.org/abs/2510.15903v1",
+        "pdf_url": "http://arxiv.org/pdf/2510.15903v1",
+        "title": "Quantum and Classical Machine Learning in Decentralized Finance: Comparative Evidence from Multi-Asset Backtesting of Automated Market Makers",
+        "comment": null,
+        "updated_time": "2025-09-14T01:52:57+00:00",
+        "published_time": "2025-09-14T01:52:57+00:00"
     },
     "http://arxiv.org/abs/2509.10823v1": {
         "entry_id": "http://arxiv.org/abs/2509.10823v1",
