@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2510.20007v1": {
+        "entry_id": "http://arxiv.org/abs/2510.20007v1",
+        "pdf_url": "http://arxiv.org/pdf/2510.20007v1",
+        "title": "zk-Agreements: A Privacy-Preserving Way to Establish Deterministic Trust in Confidential Agreements",
+        "comment": "To appear in Financial Cryptography 2026 if accepted",
+        "updated_time": "2025-10-22T20:11:57+00:00",
+        "published_time": "2025-10-22T20:11:57+00:00"
+    },
     "http://arxiv.org/abs/2510.19254v1": {
         "entry_id": "http://arxiv.org/abs/2510.19254v1",
         "pdf_url": "http://arxiv.org/pdf/2510.19254v1",
@@ -6,6 +14,14 @@
         "comment": null,
         "updated_time": "2025-10-22T05:18:28+00:00",
         "published_time": "2025-10-22T05:18:28+00:00"
+    },
+    "http://arxiv.org/abs/2510.19856v1": {
+        "entry_id": "http://arxiv.org/abs/2510.19856v1",
+        "pdf_url": "http://arxiv.org/pdf/2510.19856v1",
+        "title": "Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-10-21T19:28:20+00:00",
+        "published_time": "2025-10-21T19:28:20+00:00"
     },
     "http://arxiv.org/abs/2510.18192v1": {
         "entry_id": "http://arxiv.org/abs/2510.18192v1",
