@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-10-25T13:12:20.366757
+Last Updated: 2025-10-26T12:14:34.770927
 
 ## Newest Papers
 
@@ -36,8 +36,8 @@ Last Updated: 2025-10-25T13:12:20.366757
 |28|Curriculum-Guided Reinforcement Learning for Synthesizing Gas-Efficient Financial Derivatives Contracts|[link](http://arxiv.org/abs/2509.23976v1)|🆕 2025-09-28|
 |29|SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation|[link](http://arxiv.org/abs/2509.23824v1)|🆕 2025-09-28|
 |30|Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse|[link](http://arxiv.org/abs/2509.23679v1)|🆕 2025-09-28|
-|31|Voting-Bloc Entropy: A New Metric for DAO Decentralization|[link](http://arxiv.org/abs/2509.22620v1)|🆕 2025-09-26|
-|32|The Dark Art of Financial Disguise in Web3: Money Laundering Schemes and Countermeasures|[link](http://arxiv.org/abs/2509.21831v1)|🆕 2025-09-26|
+|31|Voting-Bloc Entropy: A New Metric for DAO Decentralization|[link](http://arxiv.org/abs/2509.22620v1)|2025-09-26|
+|32|The Dark Art of Financial Disguise in Web3: Money Laundering Schemes and Countermeasures|[link](http://arxiv.org/abs/2509.21831v1)|2025-09-26|
 |33|B5GRoam: A Zero Trust Framework for Secure and Efficient On-Chain B5G Roaming|[link](http://arxiv.org/abs/2509.16390v2)|2025-09-24|
 |34|LLMs as verification oracles for Solidity|[link](http://arxiv.org/abs/2509.19153v1)|2025-09-23|
 |35|Generic Adversarial Smart Contract Detection with Semantics and Uncertainty-Aware LLM|[link](http://arxiv.org/abs/2509.18934v1)|2025-09-23|
