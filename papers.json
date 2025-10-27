@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2510.21401v1": {
+        "entry_id": "http://arxiv.org/abs/2510.21401v1",
+        "pdf_url": "http://arxiv.org/pdf/2510.21401v1",
+        "title": "FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security",
+        "comment": null,
+        "updated_time": "2025-10-24T12:44:08+00:00",
+        "published_time": "2025-10-24T12:44:08+00:00"
+    },
+    "http://arxiv.org/abs/2510.21272v1": {
+        "entry_id": "http://arxiv.org/abs/2510.21272v1",
+        "pdf_url": "http://arxiv.org/pdf/2510.21272v1",
+        "title": "LLM-Powered Detection of Price Manipulation in DeFi",
+        "comment": null,
+        "updated_time": "2025-10-24T09:13:30+00:00",
+        "published_time": "2025-10-24T09:13:30+00:00"
+    },
     "http://arxiv.org/abs/2510.20007v1": {
         "entry_id": "http://arxiv.org/abs/2510.20007v1",
         "pdf_url": "http://arxiv.org/pdf/2510.20007v1",
