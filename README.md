@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-10-28T12:59:57.984948
+Last Updated: 2025-10-29T12:17:34.782344
 
 ## Newest Papers
 
@@ -32,10 +32,10 @@ Last Updated: 2025-10-28T12:59:57.984948
 |24|Smart Contract Intent Detection with Pre-trained Programming Language Model|[link](http://arxiv.org/abs/2508.20086v3)|🆕 2025-10-03|
 |25|ShikkhaChain: A Blockchain-Powered Academic Credential Verification System for Bangladesh|[link](http://arxiv.org/abs/2508.05334v2)|🆕 2025-10-03|
 |26|Secure and Scalable Blockchain Voting: A Comparative Framework and the Role of Large Language Models|[link](http://arxiv.org/abs/2508.05865v2)|🆕 2025-10-02|
-|27|Smart Contract Intent Detection with Pre-trained Programming Language Model|[link](http://arxiv.org/abs/2508.20086v2)|🆕 2025-09-29|
-|28|LISA Technical Report: An Agentic Framework for Smart Contract Auditing|[link](http://arxiv.org/abs/2509.24698v1)|🆕 2025-09-29|
-|29|Agentic Specification Generator for Move Programs|[link](http://arxiv.org/abs/2509.24515v1)|🆕 2025-09-29|
-|30|BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities|[link](http://arxiv.org/abs/2509.24444v1)|🆕 2025-09-29|
+|27|Smart Contract Intent Detection with Pre-trained Programming Language Model|[link](http://arxiv.org/abs/2508.20086v2)|2025-09-29|
+|28|LISA Technical Report: An Agentic Framework for Smart Contract Auditing|[link](http://arxiv.org/abs/2509.24698v1)|2025-09-29|
+|29|Agentic Specification Generator for Move Programs|[link](http://arxiv.org/abs/2509.24515v1)|2025-09-29|
+|30|BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities|[link](http://arxiv.org/abs/2509.24444v1)|2025-09-29|
 |31|Curriculum-Guided Reinforcement Learning for Synthesizing Gas-Efficient Financial Derivatives Contracts|[link](http://arxiv.org/abs/2509.23976v1)|2025-09-28|
 |32|SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation|[link](http://arxiv.org/abs/2509.23824v1)|2025-09-28|
 |33|Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse|[link](http://arxiv.org/abs/2509.23679v1)|2025-09-28|
