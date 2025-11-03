@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-02T13:12:42.852962
+Last Updated: 2025-11-03T12:17:09.816150
 
 ## Newest Papers
 
@@ -28,8 +28,8 @@ Last Updated: 2025-11-02T13:12:42.852962
 |20|Are Voters Willing to Collectively Secure Elections? Unraveling a Practical Blockchain Voting System|[link](http://arxiv.org/abs/2510.08700v1)|🆕 2025-10-09|
 |21|Bionetta: Efficient Client-Side Zero-Knowledge Machine Learning Proving|[link](http://arxiv.org/abs/2510.06784v1)|🆕 2025-10-08|
 |22|Privacy-Preserving On-chain Permissioning for KYC-Compliant Decentralized Applications|[link](http://arxiv.org/abs/2510.05807v1)|🆕 2025-10-07|
-|23|Security Analysis of Ponzi Schemes in Ethereum Smart Contracts|[link](http://arxiv.org/abs/2510.03819v1)|🆕 2025-10-04|
-|24|A Time-Bound Signature Scheme for Blockchains|[link](http://arxiv.org/abs/2510.03697v1)|🆕 2025-10-04|
+|23|Security Analysis of Ponzi Schemes in Ethereum Smart Contracts|[link](http://arxiv.org/abs/2510.03819v1)|2025-10-04|
+|24|A Time-Bound Signature Scheme for Blockchains|[link](http://arxiv.org/abs/2510.03697v1)|2025-10-04|
 |25|Smart Contract Intent Detection with Pre-trained Programming Language Model|[link](http://arxiv.org/abs/2508.20086v3)|2025-10-03|
 |26|ShikkhaChain: A Blockchain-Powered Academic Credential Verification System for Bangladesh|[link](http://arxiv.org/abs/2508.05334v2)|2025-10-03|
 |27|Secure and Scalable Blockchain Voting: A Comparative Framework and the Role of Large Language Models|[link](http://arxiv.org/abs/2508.05865v2)|2025-10-02|
