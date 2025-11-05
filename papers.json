@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2511.02780v1": {
+        "entry_id": "http://arxiv.org/abs/2511.02780v1",
+        "pdf_url": "http://arxiv.org/pdf/2511.02780v1",
+        "title": "1 PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts",
+        "comment": "Under review",
+        "updated_time": "2025-11-04T18:03:12+00:00",
+        "published_time": "2025-11-04T18:03:12+00:00"
+    },
     "http://arxiv.org/abs/2509.10413v2": {
         "entry_id": "http://arxiv.org/abs/2509.10413v2",
         "pdf_url": "http://arxiv.org/pdf/2509.10413v2",
@@ -6,6 +14,14 @@
         "comment": "Blockchain Cross-Chain Bridge Survey",
         "updated_time": "2025-11-02T06:58:59+00:00",
         "published_time": "2025-09-12T17:10:46+00:00"
+    },
+    "http://arxiv.org/abs/2511.00408v1": {
+        "entry_id": "http://arxiv.org/abs/2511.00408v1",
+        "pdf_url": "http://arxiv.org/pdf/2511.00408v1",
+        "title": "Penetrating the Hostile: Detecting DeFi Protocol Exploits through Cross-Contract Analysis",
+        "comment": "This work is accepted by TIFS",
+        "updated_time": "2025-11-01T05:23:24+00:00",
+        "published_time": "2025-11-01T05:23:24+00:00"
     },
     "http://arxiv.org/abs/2510.25477v1": {
         "entry_id": "http://arxiv.org/abs/2510.25477v1",
