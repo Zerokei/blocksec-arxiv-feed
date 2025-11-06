@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-05T13:01:30.985134
+Last Updated: 2025-11-06T12:16:49.068280
 
 ## Newest Papers
 
@@ -30,7 +30,7 @@ Last Updated: 2025-11-05T13:01:30.985134
 |22|A Scalable, Privacy-Preserving Decentralized Identity and Verifiable Data Sharing Framework based on Zero-Knowledge Proofs|[link](http://arxiv.org/abs/2510.09715v1)|🆕 2025-10-10|
 |23|Are Voters Willing to Collectively Secure Elections? Unraveling a Practical Blockchain Voting System|[link](http://arxiv.org/abs/2510.08700v1)|🆕 2025-10-09|
 |24|Bionetta: Efficient Client-Side Zero-Knowledge Machine Learning Proving|[link](http://arxiv.org/abs/2510.06784v1)|🆕 2025-10-08|
-|25|Privacy-Preserving On-chain Permissioning for KYC-Compliant Decentralized Applications|[link](http://arxiv.org/abs/2510.05807v1)|🆕 2025-10-07|
+|25|Privacy-Preserving On-chain Permissioning for KYC-Compliant Decentralized Applications|[link](http://arxiv.org/abs/2510.05807v1)|2025-10-07|
 |26|Security Analysis of Ponzi Schemes in Ethereum Smart Contracts|[link](http://arxiv.org/abs/2510.03819v1)|2025-10-04|
 |27|A Time-Bound Signature Scheme for Blockchains|[link](http://arxiv.org/abs/2510.03697v1)|2025-10-04|
 |28|Smart Contract Intent Detection with Pre-trained Programming Language Model|[link](http://arxiv.org/abs/2508.20086v3)|2025-10-03|
