@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2511.02780v2": {
+        "entry_id": "http://arxiv.org/abs/2511.02780v2",
+        "pdf_url": "http://arxiv.org/pdf/2511.02780v2",
+        "title": "PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts",
+        "comment": "Under review",
+        "updated_time": "2025-11-06T12:47:29+00:00",
+        "published_time": "2025-11-04T18:03:12+00:00"
+    },
     "http://arxiv.org/abs/2511.02780v1": {
         "entry_id": "http://arxiv.org/abs/2511.02780v1",
         "pdf_url": "http://arxiv.org/pdf/2511.02780v1",
