@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-08T13:13:44.122538
+Last Updated: 2025-11-09T12:14:25.427798
 
 ## Newest Papers
 
@@ -26,9 +26,9 @@ Last Updated: 2025-11-08T13:13:44.122538
 |18|The Impact of Sanctions on decentralised Privacy Tools: A Case Study of Tornado Cash|[link](http://arxiv.org/abs/2510.09443v2)|🆕 2025-10-13|
 |19|RiskTagger: An LLM-based Agent for Automatic Annotation of Web3 Crypto Money Laundering Behaviors|[link](http://arxiv.org/abs/2510.17848v1)|🆕 2025-10-12|
 |20|Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization|[link](http://arxiv.org/abs/2509.09942v2)|🆕 2025-10-12|
-|21|Farewell to Westphalia: Crypto Sovereignty and Post-Nation-State Governaance|[link](http://arxiv.org/abs/2510.09840v1)|🆕 2025-10-10|
-|22|The Impact of Sanctions on decentralised Privacy Tools: A Case Study of Tornado Cash|[link](http://arxiv.org/abs/2510.09443v1)|🆕 2025-10-10|
-|23|A Scalable, Privacy-Preserving Decentralized Identity and Verifiable Data Sharing Framework based on Zero-Knowledge Proofs|[link](http://arxiv.org/abs/2510.09715v1)|🆕 2025-10-10|
+|21|Farewell to Westphalia: Crypto Sovereignty and Post-Nation-State Governaance|[link](http://arxiv.org/abs/2510.09840v1)|2025-10-10|
+|22|The Impact of Sanctions on decentralised Privacy Tools: A Case Study of Tornado Cash|[link](http://arxiv.org/abs/2510.09443v1)|2025-10-10|
+|23|A Scalable, Privacy-Preserving Decentralized Identity and Verifiable Data Sharing Framework based on Zero-Knowledge Proofs|[link](http://arxiv.org/abs/2510.09715v1)|2025-10-10|
 |24|Are Voters Willing to Collectively Secure Elections? Unraveling a Practical Blockchain Voting System|[link](http://arxiv.org/abs/2510.08700v1)|2025-10-09|
 |25|Bionetta: Efficient Client-Side Zero-Knowledge Machine Learning Proving|[link](http://arxiv.org/abs/2510.06784v1)|2025-10-08|
 |26|Privacy-Preserving On-chain Permissioning for KYC-Compliant Decentralized Applications|[link](http://arxiv.org/abs/2510.05807v1)|2025-10-07|
