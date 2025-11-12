@@ -1551,6 +1551,14 @@
         "updated_time": "2025-08-13T03:43:59+00:00",
         "published_time": "2025-08-13T03:43:59+00:00"
     },
+    "http://arxiv.org/abs/2508.07094v2": {
+        "entry_id": "http://arxiv.org/abs/2508.07094v2",
+        "pdf_url": null,
+        "title": "ScamDetect: Towards a Robust, Agnostic Framework to Uncover Threats in Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-08-13T00:34:31+00:00",
+        "published_time": "2025-08-09T20:38:07+00:00"
+    },
     "http://arxiv.org/abs/2508.06813v2": {
         "entry_id": "http://arxiv.org/abs/2508.06813v2",
         "pdf_url": "http://arxiv.org/pdf/2508.06813v2",
@@ -1582,14 +1590,6 @@
         "comment": null,
         "updated_time": "2025-08-12T11:51:15+00:00",
         "published_time": "2025-08-12T11:51:15+00:00"
-    },
-    "http://arxiv.org/abs/2508.07094v2": {
-        "entry_id": "http://arxiv.org/abs/2508.07094v2",
-        "pdf_url": "http://arxiv.org/pdf/2508.07094v2",
-        "title": "ScamDetect: Towards a Robust, Agnostic Framework to Uncover Threats in Smart Contracts",
-        "comment": null,
-        "updated_time": "2025-08-12T11:39:01+00:00",
-        "published_time": "2025-08-09T20:38:07+00:00"
     },
     "http://arxiv.org/abs/2508.08635v1": {
         "entry_id": "http://arxiv.org/abs/2508.08635v1",
@@ -5191,6 +5191,14 @@
         "updated_time": "2025-05-28T06:42:37+00:00",
         "published_time": "2025-05-28T06:42:37+00:00"
     },
+    "http://arxiv.org/abs/2412.01719v2": {
+        "entry_id": "http://arxiv.org/abs/2412.01719v2",
+        "pdf_url": null,
+        "title": "Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review",
+        "comment": null,
+        "updated_time": "2025-05-28T00:08:05+00:00",
+        "published_time": "2024-12-02T17:08:48+00:00"
+    },
     "http://arxiv.org/abs/2505.21462v1": {
         "entry_id": "http://arxiv.org/abs/2505.21462v1",
         "pdf_url": "http://arxiv.org/pdf/2505.21462v1",
@@ -5327,6 +5335,14 @@
         "updated_time": "2025-05-26T03:07:58+00:00",
         "published_time": "2025-05-26T03:07:58+00:00"
     },
+    "http://arxiv.org/abs/2505.17416v1": {
+        "entry_id": "http://arxiv.org/abs/2505.17416v1",
+        "pdf_url": null,
+        "title": "LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework",
+        "comment": "10 pages, 8 figures",
+        "updated_time": "2025-05-26T00:20:55+00:00",
+        "published_time": "2025-05-23T03:05:09+00:00"
+    },
     "http://arxiv.org/abs/2505.19105v1": {
         "entry_id": "http://arxiv.org/abs/2505.19105v1",
         "pdf_url": "http://arxiv.org/pdf/2505.19105v1",
@@ -5446,14 +5462,6 @@
         "comment": "Submitted to IGARSS2025",
         "updated_time": "2025-05-23T05:22:29+00:00",
         "published_time": "2025-05-23T05:22:29+00:00"
-    },
-    "http://arxiv.org/abs/2505.17416v1": {
-        "entry_id": "http://arxiv.org/abs/2505.17416v1",
-        "pdf_url": "http://arxiv.org/pdf/2505.17416v1",
-        "title": "LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework",
-        "comment": "10 pages, 8 figures",
-        "updated_time": "2025-05-23T03:05:09+00:00",
-        "published_time": "2025-05-23T03:05:09+00:00"
     },
     "http://arxiv.org/abs/2505.17226v1": {
         "entry_id": "http://arxiv.org/abs/2505.17226v1",
@@ -6295,6 +6303,14 @@
         "updated_time": "2025-05-08T04:24:50+00:00",
         "published_time": "2025-05-08T04:24:50+00:00"
     },
+    "http://arxiv.org/abs/2302.09551v4": {
+        "entry_id": "http://arxiv.org/abs/2302.09551v4",
+        "pdf_url": null,
+        "title": "Auto.gov: Learning-based Governance for Decentralized Finance (DeFi)",
+        "comment": null,
+        "updated_time": "2025-05-08T00:36:03+00:00",
+        "published_time": "2023-02-19T12:11:41+00:00"
+    },
     "http://arxiv.org/abs/2505.04471v1": {
         "entry_id": "http://arxiv.org/abs/2505.04471v1",
         "pdf_url": "http://arxiv.org/pdf/2505.04471v1",
@@ -6735,6 +6751,14 @@
         "updated_time": "2025-04-29T08:30:11+00:00",
         "published_time": "2025-04-29T08:30:11+00:00"
     },
+    "http://arxiv.org/abs/2504.19137v1": {
+        "entry_id": "http://arxiv.org/abs/2504.19137v1",
+        "pdf_url": null,
+        "title": "Validation Framework for E-Contract and Smart Contract",
+        "comment": null,
+        "updated_time": "2025-04-29T00:49:19+00:00",
+        "published_time": "2025-04-27T07:23:46+00:00"
+    },
     "http://arxiv.org/abs/2504.20260v1": {
         "entry_id": "http://arxiv.org/abs/2504.20260v1",
         "pdf_url": "http://arxiv.org/pdf/2504.20260v1",
@@ -6798,14 +6822,6 @@
         "comment": "2023 IEEE MetroXRAINE 2023",
         "updated_time": "2025-04-27T15:51:56+00:00",
         "published_time": "2025-04-27T15:51:56+00:00"
-    },
-    "http://arxiv.org/abs/2504.19137v1": {
-        "entry_id": "http://arxiv.org/abs/2504.19137v1",
-        "pdf_url": "http://arxiv.org/pdf/2504.19137v1",
-        "title": "Validation Framework for E-Contract and Smart Contract",
-        "comment": null,
-        "updated_time": "2025-04-27T07:23:46+00:00",
-        "published_time": "2025-04-27T07:23:46+00:00"
     },
     "http://arxiv.org/abs/2504.18956v1": {
         "entry_id": "http://arxiv.org/abs/2504.18956v1",
@@ -9551,6 +9567,14 @@
         "updated_time": "2025-02-20T10:33:21+00:00",
         "published_time": "2025-02-20T10:33:21+00:00"
     },
+    "http://arxiv.org/abs/2502.13167v1": {
+        "entry_id": "http://arxiv.org/abs/2502.13167v1",
+        "pdf_url": null,
+        "title": "SmartLLM: Smart Contract Auditing using Custom Generative AI",
+        "comment": null,
+        "updated_time": "2025-02-20T01:00:38+00:00",
+        "published_time": "2025-02-17T06:22:05+00:00"
+    },
     "http://arxiv.org/abs/2502.13929v1": {
         "entry_id": "http://arxiv.org/abs/2502.13929v1",
         "pdf_url": "http://arxiv.org/pdf/2502.13929v1",
@@ -9622,6 +9646,14 @@
         "comment": "9 pages, 2 figures",
         "updated_time": "2025-02-18T11:59:03+00:00",
         "published_time": "2025-02-18T11:59:03+00:00"
+    },
+    "http://arxiv.org/abs/2305.08254v2": {
+        "entry_id": "http://arxiv.org/abs/2305.08254v2",
+        "pdf_url": null,
+        "title": "HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts",
+        "comment": "The most version of the paper was accepted and presented at ASE 2024 conference: https://conf.researchr.org/details/ase-2024/ase-2024-tool-demonstrations/12/HighGuard-Cross-Chain-Business-Logic-Monitoring-of-Smart-Contracts",
+        "updated_time": "2025-02-18T01:05:47+00:00",
+        "published_time": "2023-05-14T21:33:19+00:00"
     },
     "http://arxiv.org/abs/2502.12033v1": {
         "entry_id": "http://arxiv.org/abs/2502.12033v1",
@@ -11855,6 +11887,14 @@
         "updated_time": "2024-12-27T16:24:31+00:00",
         "published_time": "2024-12-27T16:24:31+00:00"
     },
+    "http://arxiv.org/abs/2412.18225v1": {
+        "entry_id": "http://arxiv.org/abs/2412.18225v1",
+        "pdf_url": null,
+        "title": "Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection",
+        "comment": null,
+        "updated_time": "2024-12-25T01:28:58+00:00",
+        "published_time": "2024-12-24T07:15:48+00:00"
+    },
     "http://arxiv.org/abs/2412.18447v1": {
         "entry_id": "http://arxiv.org/abs/2412.18447v1",
         "pdf_url": "http://arxiv.org/pdf/2412.18447v1",
@@ -11870,14 +11910,6 @@
         "comment": null,
         "updated_time": "2024-12-24T07:35:48+00:00",
         "published_time": "2024-12-24T07:35:48+00:00"
-    },
-    "http://arxiv.org/abs/2412.18225v1": {
-        "entry_id": "http://arxiv.org/abs/2412.18225v1",
-        "pdf_url": "http://arxiv.org/pdf/2412.18225v1",
-        "title": "Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection",
-        "comment": null,
-        "updated_time": "2024-12-24T07:15:48+00:00",
-        "published_time": "2024-12-24T07:15:48+00:00"
     },
     "http://arxiv.org/abs/2412.18024v1": {
         "entry_id": "http://arxiv.org/abs/2412.18024v1",
@@ -14103,6 +14135,14 @@
         "updated_time": "2024-10-22T08:38:46+00:00",
         "published_time": "2024-10-22T08:38:46+00:00"
     },
+    "http://arxiv.org/abs/2112.14771v2": {
+        "entry_id": "http://arxiv.org/abs/2112.14771v2",
+        "pdf_url": null,
+        "title": "Gas Gauge: A Security Analysis Tool for Smart Contract Out-of-Gas Vulnerabilities",
+        "comment": "13 pages, 12 figures",
+        "updated_time": "2024-10-22T02:11:00+00:00",
+        "published_time": "2021-12-29T01:24:45+00:00"
+    },
     "http://arxiv.org/abs/2410.16098v1": {
         "entry_id": "http://arxiv.org/abs/2410.16098v1",
         "pdf_url": "http://arxiv.org/pdf/2410.16098v1",
@@ -14702,5 +14742,333 @@
         "comment": "14 pages, 3 figures",
         "updated_time": "2024-09-26T03:37:35+00:00",
         "published_time": "2024-09-26T03:37:35+00:00"
+    },
+    "http://arxiv.org/abs/2405.10678v1": {
+        "entry_id": "http://arxiv.org/abs/2405.10678v1",
+        "pdf_url": null,
+        "title": "IT Strategic alignment in the decentralized finance (DeFi): CBDC and digital currencies",
+        "comment": "Keywords: IT Strategic alignment, Decentralized Finance (DeFi), Cryptocurrency, Digital Economy",
+        "updated_time": "2024-05-20T00:25:45+00:00",
+        "published_time": "2024-05-17T10:19:20+00:00"
+    },
+    "http://arxiv.org/abs/2405.09181v1": {
+        "entry_id": "http://arxiv.org/abs/2405.09181v1",
+        "pdf_url": null,
+        "title": "StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract",
+        "comment": "5 pages,2 figures, prepared for Conference WWW 2024",
+        "updated_time": "2024-05-16T00:24:55+00:00",
+        "published_time": "2024-05-15T08:40:29+00:00"
+    },
+    "http://arxiv.org/abs/2305.09545v3": {
+        "entry_id": "http://arxiv.org/abs/2305.09545v3",
+        "pdf_url": null,
+        "title": "Secure compilation of rich smart contracts on poor UTXO blockchains",
+        "comment": null,
+        "updated_time": "2024-04-23T01:14:47+00:00",
+        "published_time": "2023-05-16T15:40:18+00:00"
+    },
+    "http://arxiv.org/abs/2402.03555v1": {
+        "entry_id": "http://arxiv.org/abs/2402.03555v1",
+        "pdf_url": null,
+        "title": "A security framework for Ethereum smart contracts",
+        "comment": null,
+        "updated_time": "2024-02-07T01:06:00+00:00",
+        "published_time": "2024-02-05T22:14:21+00:00"
+    },
+    "http://arxiv.org/abs/2206.08401v4": {
+        "entry_id": "http://arxiv.org/abs/2206.08401v4",
+        "pdf_url": null,
+        "title": "Is decentralized finance actually decentralized? A social network analysis of the Aave protocol on the Ethereum blockchain",
+        "comment": "Accepted at 29th Annual Global Finance Conference featuring Professor Robert Engle, The 2003 Nobel Laureate in Economic Sciences",
+        "updated_time": "2023-12-04T01:12:22+00:00",
+        "published_time": "2022-06-16T18:26:38+00:00"
+    },
+    "http://arxiv.org/abs/2305.04581v3": {
+        "entry_id": "http://arxiv.org/abs/2305.04581v3",
+        "pdf_url": null,
+        "title": "Capturing Smart Contract Design with DCR Graphs",
+        "comment": "Accepted for presentation at SEFM 2023",
+        "updated_time": "2023-09-19T00:17:07+00:00",
+        "published_time": "2023-05-08T09:44:57+00:00"
+    },
+    "http://arxiv.org/abs/2309.02391v2": {
+        "entry_id": "http://arxiv.org/abs/2309.02391v2",
+        "pdf_url": null,
+        "title": "Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair",
+        "comment": "This paper is submitted to the journal of Expert Systems with Applications (ESWA) for review",
+        "updated_time": "2023-09-07T00:31:07+00:00",
+        "published_time": "2023-09-05T17:00:42+00:00"
+    },
+    "http://arxiv.org/abs/2306.12338v2": {
+        "entry_id": "http://arxiv.org/abs/2306.12338v2",
+        "pdf_url": null,
+        "title": "Do you still need a manual smart contract audit?",
+        "comment": null,
+        "updated_time": "2023-06-23T00:10:09+00:00",
+        "published_time": "2023-06-21T15:37:28+00:00"
+    },
+    "http://arxiv.org/abs/2302.04068v2": {
+        "entry_id": "http://arxiv.org/abs/2302.04068v2",
+        "pdf_url": null,
+        "title": "Short Squeeze in DeFi Lending Market: Decentralization in Jeopardy?",
+        "comment": "In Proceedings of Workshop on Decentralized Finance (DeFi@FC)",
+        "updated_time": "2023-06-22T00:18:50+00:00",
+        "published_time": "2023-02-08T14:09:38+00:00"
+    },
+    "http://arxiv.org/abs/2109.04347v2": {
+        "entry_id": "http://arxiv.org/abs/2109.04347v2",
+        "pdf_url": null,
+        "title": "Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts",
+        "comment": "Full version of the paper published at 44th IEEE Symposium on Security and Privacy 2023",
+        "updated_time": "2023-05-22T00:05:08+00:00",
+        "published_time": "2021-09-09T15:36:30+00:00"
+    },
+    "http://arxiv.org/abs/2304.06568v1": {
+        "entry_id": "http://arxiv.org/abs/2304.06568v1",
+        "pdf_url": null,
+        "title": "Smart Contract Upgradeability on the Ethereum Blockchain Platform: An Exploratory Study",
+        "comment": null,
+        "updated_time": "2023-04-14T00:17:55+00:00",
+        "published_time": "2023-04-13T14:26:12+00:00"
+    },
+    "http://arxiv.org/abs/2203.16612v2": {
+        "entry_id": "http://arxiv.org/abs/2203.16612v2",
+        "pdf_url": null,
+        "title": "Decentralization illusion in Decentralized Finance: Evidence from tokenized voting in MakerDAO polls",
+        "comment": null,
+        "updated_time": "2023-03-24T00:15:47+00:00",
+        "published_time": "2022-03-30T18:50:38+00:00"
+    },
+    "http://arxiv.org/abs/2303.03179v1": {
+        "entry_id": "http://arxiv.org/abs/2303.03179v1",
+        "pdf_url": null,
+        "title": "Metamorphic Testing for Smart Contract Vulnerabilities Detection",
+        "comment": null,
+        "updated_time": "2023-03-07T01:32:37+00:00",
+        "published_time": "2023-03-06T14:48:16+00:00"
+    },
+    "http://arxiv.org/abs/2301.08806v1": {
+        "entry_id": "http://arxiv.org/abs/2301.08806v1",
+        "pdf_url": null,
+        "title": "TxT: Real-time Transaction Encapsulation for Ethereum Smart Contracts",
+        "comment": "To appear in IEEE Transactions on Information Forensics and Security",
+        "updated_time": "2023-01-24T01:01:54+00:00",
+        "published_time": "2023-01-20T21:14:15+00:00"
+    },
+    "http://arxiv.org/abs/2207.13827v1": {
+        "entry_id": "http://arxiv.org/abs/2207.13827v1",
+        "pdf_url": null,
+        "title": "Declarative Smart Contracts",
+        "comment": null,
+        "updated_time": "2022-07-29T00:06:03+00:00",
+        "published_time": "2022-07-27T23:36:22+00:00"
+    },
+    "http://arxiv.org/abs/2207.04459v1": {
+        "entry_id": "http://arxiv.org/abs/2207.04459v1",
+        "pdf_url": null,
+        "title": "A Decentralised Real Estate Transfer Verification Based on Self-Sovereign Identity and Smart Contracts",
+        "comment": "Shehu, A-S.; Pinto, A. and Correia, M. (2022). A Decentralised Real Estate Transfer Verification based on Self-Sovereign Identity and Smart Contracts. This article has been accepted for publication In Proceedings of the 19th International Conference on Security and Cryptography",
+        "updated_time": "2022-07-12T00:17:49+00:00",
+        "published_time": "2022-07-10T13:12:40+00:00"
+    },
+    "http://arxiv.org/abs/2204.11193v1": {
+        "entry_id": "http://arxiv.org/abs/2204.11193v1",
+        "pdf_url": null,
+        "title": "Exploring Security Practices of Smart Contract Developers",
+        "comment": null,
+        "updated_time": "2022-04-26T00:20:32+00:00",
+        "published_time": "2022-04-24T05:15:14+00:00"
+    },
+    "http://arxiv.org/abs/2110.08983v1": {
+        "entry_id": "http://arxiv.org/abs/2110.08983v1",
+        "pdf_url": null,
+        "title": "An Empirical Study of Protocols in Smart Contracts",
+        "comment": "10 pages. In HATRA 2021",
+        "updated_time": "2021-10-19T00:27:18+00:00",
+        "published_time": "2021-10-18T02:25:54+00:00"
+    },
+    "http://arxiv.org/abs/1907.09199v1": {
+        "entry_id": "http://arxiv.org/abs/1907.09199v1",
+        "pdf_url": null,
+        "title": "A Revisit on Blockchain-based Smart Contract Technology",
+        "comment": null,
+        "updated_time": "2021-08-23T12:16:09+00:00",
+        "published_time": "2019-07-22T09:35:57+00:00"
+    },
+    "http://arxiv.org/abs/2106.15497v1": {
+        "entry_id": "http://arxiv.org/abs/2106.15497v1",
+        "pdf_url": null,
+        "title": "A Bytecode-based Approach for Smart Contract Classification",
+        "comment": "10 pages, 6 figures",
+        "updated_time": "2021-06-30T00:27:49+00:00",
+        "published_time": "2021-05-31T03:00:29+00:00"
+    },
+    "http://arxiv.org/abs/2106.08157v2": {
+        "entry_id": "http://arxiv.org/abs/2106.08157v2",
+        "pdf_url": null,
+        "title": "CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance",
+        "comment": null,
+        "updated_time": "2021-06-17T00:21:18+00:00",
+        "published_time": "2021-06-15T13:53:43+00:00"
+    },
+    "http://arxiv.org/abs/1912.05823v3": {
+        "entry_id": "http://arxiv.org/abs/1912.05823v3",
+        "pdf_url": null,
+        "title": "Smart Contract Repair",
+        "comment": "32 pages. ACM Transactions on Software Engineering and Methodology (TOSEM), 2020",
+        "updated_time": "2021-06-08T00:20:46+00:00",
+        "published_time": "2019-12-12T08:11:00+00:00"
+    },
+    "http://arxiv.org/abs/2102.10963v2": {
+        "entry_id": "http://arxiv.org/abs/2102.10963v2",
+        "pdf_url": null,
+        "title": "Smart Contract Security: a Practitioners' Perspective",
+        "comment": "Technical Track paper, the 43rd ACM/IEEE International Conference on Software Engineering (ICSE 2021)",
+        "updated_time": "2021-03-30T00:09:37+00:00",
+        "published_time": "2021-02-22T13:08:00+00:00"
+    },
+    "http://arxiv.org/abs/2103.02209v1": {
+        "entry_id": "http://arxiv.org/abs/2103.02209v1",
+        "pdf_url": null,
+        "title": "SciviK: A Versatile Framework for Specifying and Verifying Smart Contracts",
+        "comment": "22 pages, 16 figures",
+        "updated_time": "2021-03-04T01:17:04+00:00",
+        "published_time": "2021-03-03T06:45:05+00:00"
+    },
+    "http://arxiv.org/abs/2010.12981v1": {
+        "entry_id": "http://arxiv.org/abs/2010.12981v1",
+        "pdf_url": null,
+        "title": "The Benefits of Deploying Smart Contracts on Trusted Third Parties",
+        "comment": "The document consists of 14 pages and includes four figures, one table and 76 references. It the work of five authors. Carlos Molina-Jimenez is the corresponding and responsible author",
+        "updated_time": "2020-10-27T00:19:54+00:00",
+        "published_time": "2020-10-24T20:49:13+00:00"
+    },
+    "http://arxiv.org/abs/2009.02066v1": {
+        "entry_id": "http://arxiv.org/abs/2009.02066v1",
+        "pdf_url": null,
+        "title": "A Framework and DataSet for Bugs in Ethereum Smart Contracts",
+        "comment": "12 pages",
+        "updated_time": "2020-09-07T00:09:28+00:00",
+        "published_time": "2020-09-04T08:37:58+00:00"
+    },
+    "http://arxiv.org/abs/2007.14903v3": {
+        "entry_id": "http://arxiv.org/abs/2007.14903v3",
+        "pdf_url": null,
+        "title": "EOSFuzzer: Fuzzing EOSIO Smart Contracts for Vulnerability Detection",
+        "comment": "12 pages, 15 tables, 1 figure",
+        "updated_time": "2020-08-07T00:05:54+00:00",
+        "published_time": "2020-07-29T15:18:47+00:00"
+    },
+    "http://arxiv.org/abs/2007.09696v1": {
+        "entry_id": "http://arxiv.org/abs/2007.09696v1",
+        "pdf_url": null,
+        "title": "STAN: Towards Describing Bytecodes of Smart Contract",
+        "comment": "In Proc. of the 20th IEEE International Conference on Software Quality, Reliability and Security (QRS), 2020",
+        "updated_time": "2020-07-21T00:21:56+00:00",
+        "published_time": "2020-07-19T15:48:35+00:00"
+    },
+    "http://arxiv.org/abs/1905.01467v3": {
+        "entry_id": "http://arxiv.org/abs/1905.01467v3",
+        "pdf_url": null,
+        "title": "Defining Smart Contract Defects on Ethereum",
+        "comment": null,
+        "updated_time": "2020-04-20T00:06:39+00:00",
+        "published_time": "2019-05-04T09:58:49+00:00"
+    },
+    "http://arxiv.org/abs/1912.04780v2": {
+        "entry_id": "http://arxiv.org/abs/1912.04780v2",
+        "pdf_url": null,
+        "title": "Testing Smart Contracts Gets Smarter",
+        "comment": null,
+        "updated_time": "2019-12-25T01:07:33+00:00",
+        "published_time": "2019-12-10T15:52:52+00:00"
+    },
+    "http://arxiv.org/abs/1912.10370v1": {
+        "entry_id": "http://arxiv.org/abs/1912.10370v1",
+        "pdf_url": null,
+        "title": "An Overview on Smart Contracts: Challenges, Advances and Platforms",
+        "comment": "19 pages, 8 figures",
+        "updated_time": "2019-12-24T01:10:41+00:00",
+        "published_time": "2019-12-22T01:52:54+00:00"
+    },
+    "http://arxiv.org/abs/1912.04051v1": {
+        "entry_id": "http://arxiv.org/abs/1912.04051v1",
+        "pdf_url": null,
+        "title": "Building Executable Secure Design Models for Smart Contracts with Formal Methods",
+        "comment": "6 pages",
+        "updated_time": "2019-12-10T01:26:32+00:00",
+        "published_time": "2019-12-09T14:03:21+00:00"
+    },
+    "http://arxiv.org/abs/1910.11143v1": {
+        "entry_id": "http://arxiv.org/abs/1910.11143v1",
+        "pdf_url": null,
+        "title": "The Economics of Smart Contracts",
+        "comment": null,
+        "updated_time": "2019-10-25T00:16:29+00:00",
+        "published_time": "2019-10-23T03:36:37+00:00"
+    },
+    "http://arxiv.org/abs/1908.11597v1": {
+        "entry_id": "http://arxiv.org/abs/1908.11597v1",
+        "pdf_url": null,
+        "title": "An Empirical Study into the Success of Listed Smart Contracts in Ethereum",
+        "comment": "Keywords: Blockchain, Ethereum, Smart contracts, New product development, Business success, Recommendations for developers",
+        "updated_time": "2019-09-02T00:07:30+00:00",
+        "published_time": "2019-08-30T08:55:44+00:00"
+    },
+    "http://arxiv.org/abs/1908.03707v1": {
+        "entry_id": "http://arxiv.org/abs/1908.03707v1",
+        "pdf_url": null,
+        "title": "Mutation Testing for Ethereum Smart Contract",
+        "comment": "blockchain, Ethereum smart contract, mutation testing, mutation operator",
+        "updated_time": "2019-08-13T00:06:05+00:00",
+        "published_time": "2019-08-10T07:50:33+00:00"
+    },
+    "http://arxiv.org/abs/1907.03904v1": {
+        "entry_id": "http://arxiv.org/abs/1907.03904v1",
+        "pdf_url": null,
+        "title": "Secure IoT access at scale using blockchains and smart contracts",
+        "comment": "In proceedings of the 8th IEEE WoWMoM Workshop on the Internet of Things: Smart Objects and Services, IoT-SoS 2019",
+        "updated_time": "2019-07-10T00:04:38+00:00",
+        "published_time": "2019-07-08T23:11:23+00:00"
+    },
+    "http://arxiv.org/abs/1808.06641v2": {
+        "entry_id": "http://arxiv.org/abs/1808.06641v2",
+        "pdf_url": null,
+        "title": "PDFS: Practical Data Feed Service for Smart Contracts",
+        "comment": "Blockchain; Smart Contracts; Data Authentication; Ethereum",
+        "updated_time": "2019-06-28T00:07:29+00:00",
+        "published_time": "2018-08-20T18:26:50+00:00"
+    },
+    "http://arxiv.org/abs/1905.00799v1": {
+        "entry_id": "http://arxiv.org/abs/1905.00799v1",
+        "pdf_url": null,
+        "title": "Bug Searching in Smart Contract",
+        "comment": "8 pages, 9 figures",
+        "updated_time": "2019-05-03T00:15:47+00:00",
+        "published_time": "2019-05-02T15:12:18+00:00"
+    },
+    "http://arxiv.org/abs/1903.04806v1": {
+        "entry_id": "http://arxiv.org/abs/1903.04806v1",
+        "pdf_url": null,
+        "title": "Introduction to Decentralization and Smart Contracts",
+        "comment": null,
+        "updated_time": "2019-03-13T00:12:51+00:00",
+        "published_time": "2019-03-12T10:03:12+00:00"
+    },
+    "http://arxiv.org/abs/1812.07219v1": {
+        "entry_id": "http://arxiv.org/abs/1812.07219v1",
+        "pdf_url": null,
+        "title": "Smart Contracts for Multiagent Plan Execution in Untrusted Cyber-physical Systems",
+        "comment": "Planning, Artificial intelligence, Blockchain, Smart Contract",
+        "updated_time": "2018-12-19T01:08:56+00:00",
+        "published_time": "2018-12-18T08:06:06+00:00"
+    },
+    "http://arxiv.org/abs/1710.06372v1": {
+        "entry_id": "http://arxiv.org/abs/1710.06372v1",
+        "pdf_url": null,
+        "title": "Blockchain-based Smart Contracts: A Systematic Mapping Study",
+        "comment": "Keywords: Blockchain, Smart contracts, Systematic Mapping Study, Survey",
+        "updated_time": "2017-10-18T00:13:18+00:00",
+        "published_time": "2017-10-17T16:39:23+00:00"
     }
 }
