@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-12T13:03:11.714833
+Last Updated: 2025-11-13T12:18:47.622459
 
 ## Newest Papers
 
@@ -23,7 +23,7 @@ Last Updated: 2025-11-12T13:03:11.714833
 |15|Certifying optimal MEV strategies with Lean|[link](http://arxiv.org/abs/2510.14480v1)|🆕 2025-10-16|
 |16|Smart Contracts Formal Verification: A Systematic Literature Review|[link](http://arxiv.org/abs/2510.17865v1)|🆕 2025-10-15|
 |17|On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation|[link](http://arxiv.org/abs/2510.16024v1)|🆕 2025-10-15|
-|18|Adding All Flavors: A Hybrid Random Number Generator for dApps and Web3|[link](http://arxiv.org/abs/2510.12062v1)|🆕 2025-10-14|
+|18|Adding All Flavors: A Hybrid Random Number Generator for dApps and Web3|[link](http://arxiv.org/abs/2510.12062v1)|2025-10-14|
 |19|The Impact of Sanctions on decentralised Privacy Tools: A Case Study of Tornado Cash|[link](http://arxiv.org/abs/2510.09443v2)|2025-10-13|
 |20|RiskTagger: An LLM-based Agent for Automatic Annotation of Web3 Crypto Money Laundering Behaviors|[link](http://arxiv.org/abs/2510.17848v1)|2025-10-12|
 |21|Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization|[link](http://arxiv.org/abs/2509.09942v2)|2025-10-12|
