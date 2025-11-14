@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-13T13:03:03.342890
+Last Updated: 2025-11-14T13:00:26.555581
 
 ## Newest Papers
 
@@ -21,8 +21,8 @@ Last Updated: 2025-11-13T13:03:03.342890
 |13|TaintSentinel: Path-Level Randomness Vulnerability Detection for Ethereum Smart Contracts|[link](http://arxiv.org/abs/2510.18192v1)|🆕 2025-10-21|
 |14|ParaVul: A Parallel Large Language Model and Retrieval-Augmented Framework for Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2510.17919v1)|🆕 2025-10-20|
 |15|Certifying optimal MEV strategies with Lean|[link](http://arxiv.org/abs/2510.14480v1)|🆕 2025-10-16|
-|16|Smart Contracts Formal Verification: A Systematic Literature Review|[link](http://arxiv.org/abs/2510.17865v1)|🆕 2025-10-15|
-|17|On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation|[link](http://arxiv.org/abs/2510.16024v1)|🆕 2025-10-15|
+|16|Smart Contracts Formal Verification: A Systematic Literature Review|[link](http://arxiv.org/abs/2510.17865v1)|2025-10-15|
+|17|On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation|[link](http://arxiv.org/abs/2510.16024v1)|2025-10-15|
 |18|Adding All Flavors: A Hybrid Random Number Generator for dApps and Web3|[link](http://arxiv.org/abs/2510.12062v1)|2025-10-14|
 |19|The Impact of Sanctions on decentralised Privacy Tools: A Case Study of Tornado Cash|[link](http://arxiv.org/abs/2510.09443v2)|2025-10-13|
 |20|RiskTagger: An LLM-based Agent for Automatic Annotation of Web3 Crypto Money Laundering Behaviors|[link](http://arxiv.org/abs/2510.17848v1)|2025-10-12|
