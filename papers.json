@@ -1,7 +1,63 @@
 {
+    "http://arxiv.org/abs/2511.09263v1": {
+        "entry_id": "http://arxiv.org/abs/2511.09263v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.09263v1",
+        "title": "Slaying the Dragon: The Quest for Democracy in Decentralized Autonomous Organizations (DAOs)",
+        "comment": null,
+        "updated_time": "2025-11-12T12:24:46+00:00",
+        "published_time": "2025-11-12T12:24:46+00:00"
+    },
+    "http://arxiv.org/abs/2511.09134v1": {
+        "entry_id": "http://arxiv.org/abs/2511.09134v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.09134v1",
+        "title": "One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts",
+        "comment": "Accepted at ICSE2026",
+        "updated_time": "2025-11-12T09:17:13+00:00",
+        "published_time": "2025-11-12T09:17:13+00:00"
+    },
+    "http://arxiv.org/abs/2511.09051v1": {
+        "entry_id": "http://arxiv.org/abs/2511.09051v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.09051v1",
+        "title": "Attack-Centric by Design: A Program-Structure Taxonomy of Smart Contract Vulnerabilities",
+        "comment": "42 pages, 1 figure, 8 root-cause families",
+        "updated_time": "2025-11-12T07:06:31+00:00",
+        "published_time": "2025-11-12T07:06:31+00:00"
+    },
+    "http://arxiv.org/abs/2511.08403v1": {
+        "entry_id": "http://arxiv.org/abs/2511.08403v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.08403v1",
+        "title": "Blockly2Hooks: Smart Contracts for Everyone with the XRP Ledger and Google Blockly",
+        "comment": "6 pages",
+        "updated_time": "2025-11-11T16:18:39+00:00",
+        "published_time": "2025-11-11T16:18:39+00:00"
+    },
+    "http://arxiv.org/abs/2511.08282v1": {
+        "entry_id": "http://arxiv.org/abs/2511.08282v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.08282v1",
+        "title": "SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services",
+        "comment": null,
+        "updated_time": "2025-11-11T14:09:44+00:00",
+        "published_time": "2025-11-11T14:09:44+00:00"
+    },
+    "http://arxiv.org/abs/2511.07818v1": {
+        "entry_id": "http://arxiv.org/abs/2511.07818v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.07818v1",
+        "title": "Blockchain-Integrated Privacy-Preserving Medical Insurance Claim Processing Using Homomorphic Encryption",
+        "comment": null,
+        "updated_time": "2025-11-11T04:22:36+00:00",
+        "published_time": "2025-11-11T04:22:36+00:00"
+    },
+    "http://arxiv.org/abs/2511.07577v1": {
+        "entry_id": "http://arxiv.org/abs/2511.07577v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.07577v1",
+        "title": "A Decentralized Retrieval Augmented Generation System with Source Reliabilities Secured on Blockchain",
+        "comment": null,
+        "updated_time": "2025-11-10T19:40:30+00:00",
+        "published_time": "2025-11-10T19:40:30+00:00"
+    },
     "http://arxiv.org/abs/2511.06130v1": {
         "entry_id": "http://arxiv.org/abs/2511.06130v1",
-        "pdf_url": "http://arxiv.org/pdf/2511.06130v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.06130v1",
         "title": "Reliablocks: Developing Reliability Scores for Optimistic Rollups",
         "comment": null,
         "updated_time": "2025-11-08T20:42:51+00:00",
@@ -9,7 +65,7 @@
     },
     "http://arxiv.org/abs/2511.02780v2": {
         "entry_id": "http://arxiv.org/abs/2511.02780v2",
-        "pdf_url": "http://arxiv.org/pdf/2511.02780v2",
+        "pdf_url": "https://arxiv.org/pdf/2511.02780v2",
         "title": "PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts",
         "comment": "Under review",
         "updated_time": "2025-11-06T12:47:29+00:00",
@@ -33,7 +89,7 @@
     },
     "http://arxiv.org/abs/2511.00408v1": {
         "entry_id": "http://arxiv.org/abs/2511.00408v1",
-        "pdf_url": "http://arxiv.org/pdf/2511.00408v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.00408v1",
         "title": "Penetrating the Hostile: Detecting DeFi Protocol Exploits through Cross-Contract Analysis",
         "comment": "This work is accepted by TIFS",
         "updated_time": "2025-11-01T05:23:24+00:00",
@@ -41,7 +97,7 @@
     },
     "http://arxiv.org/abs/2510.25477v1": {
         "entry_id": "http://arxiv.org/abs/2510.25477v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.25477v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.25477v1",
         "title": "A Study on Privacy-Preserving Scholarship Evaluation Based on Decentralized Identity and Zero-Knowledge Proofs",
         "comment": null,
         "updated_time": "2025-10-29T12:56:02+00:00",
@@ -49,7 +105,7 @@
     },
     "http://arxiv.org/abs/2510.22561v1": {
         "entry_id": "http://arxiv.org/abs/2510.22561v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.22561v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.22561v1",
         "title": "Blockchain Signatures to Ensure Information Integrity and Non-Repudiation in the Digital Era: A comprehensive study",
         "comment": "13 Pages, 2 Figures",
         "updated_time": "2025-10-26T07:39:55+00:00",
@@ -57,7 +113,7 @@
     },
     "http://arxiv.org/abs/2510.21401v1": {
         "entry_id": "http://arxiv.org/abs/2510.21401v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.21401v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.21401v1",
         "title": "FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security",
         "comment": null,
         "updated_time": "2025-10-24T12:44:08+00:00",
@@ -65,15 +121,23 @@
     },
     "http://arxiv.org/abs/2510.21272v1": {
         "entry_id": "http://arxiv.org/abs/2510.21272v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.21272v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.21272v1",
         "title": "LLM-Powered Detection of Price Manipulation in DeFi",
         "comment": null,
         "updated_time": "2025-10-24T09:13:30+00:00",
         "published_time": "2025-10-24T09:13:30+00:00"
     },
+    "http://arxiv.org/abs/2510.20645v1": {
+        "entry_id": "http://arxiv.org/abs/2510.20645v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.20645v1",
+        "title": "Decentralized Exchange that Mitigate a Bribery Attack",
+        "comment": null,
+        "updated_time": "2025-10-23T15:20:53+00:00",
+        "published_time": "2025-10-23T15:20:53+00:00"
+    },
     "http://arxiv.org/abs/2510.20007v1": {
         "entry_id": "http://arxiv.org/abs/2510.20007v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.20007v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.20007v1",
         "title": "zk-Agreements: A Privacy-Preserving Way to Establish Deterministic Trust in Confidential Agreements",
         "comment": "To appear in Financial Cryptography 2026 if accepted",
         "updated_time": "2025-10-22T20:11:57+00:00",
@@ -81,7 +145,7 @@
     },
     "http://arxiv.org/abs/2510.19254v1": {
         "entry_id": "http://arxiv.org/abs/2510.19254v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.19254v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.19254v1",
         "title": "Trace: Securing Smart Contract Repository Against Access Control Vulnerability",
         "comment": null,
         "updated_time": "2025-10-22T05:18:28+00:00",
@@ -89,7 +153,7 @@
     },
     "http://arxiv.org/abs/2510.19856v1": {
         "entry_id": "http://arxiv.org/abs/2510.19856v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.19856v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.19856v1",
         "title": "Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts",
         "comment": null,
         "updated_time": "2025-10-21T19:28:20+00:00",
@@ -97,7 +161,7 @@
     },
     "http://arxiv.org/abs/2510.18192v1": {
         "entry_id": "http://arxiv.org/abs/2510.18192v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.18192v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.18192v1",
         "title": "TaintSentinel: Path-Level Randomness Vulnerability Detection for Ethereum Smart Contracts",
         "comment": null,
         "updated_time": "2025-10-21T00:35:45+00:00",
@@ -105,15 +169,39 @@
     },
     "http://arxiv.org/abs/2510.17919v1": {
         "entry_id": "http://arxiv.org/abs/2510.17919v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.17919v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.17919v1",
         "title": "ParaVul: A Parallel Large Language Model and Retrieval-Augmented Framework for Smart Contract Vulnerability Detection",
         "comment": null,
         "updated_time": "2025-10-20T03:23:41+00:00",
         "published_time": "2025-10-20T03:23:41+00:00"
     },
+    "http://arxiv.org/abs/2510.17901v1": {
+        "entry_id": "http://arxiv.org/abs/2510.17901v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.17901v1",
+        "title": "The Sherpa.ai Blind Vertical Federated Learning Paradigm to Minimize the Number of Communications",
+        "comment": null,
+        "updated_time": "2025-10-19T10:27:07+00:00",
+        "published_time": "2025-10-19T10:27:07+00:00"
+    },
+    "http://arxiv.org/abs/2510.16375v1": {
+        "entry_id": "http://arxiv.org/abs/2510.16375v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.16375v1",
+        "title": "iWatchRoadv2: Pothole Detection, Geospatial Mapping, and Intelligent Road Governance",
+        "comment": "Under review",
+        "updated_time": "2025-10-18T07:11:03+00:00",
+        "published_time": "2025-10-18T07:11:03+00:00"
+    },
+    "http://arxiv.org/abs/2510.15612v1": {
+        "entry_id": "http://arxiv.org/abs/2510.15612v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.15612v1",
+        "title": "SoK: Market Microstructure for Decentralized Prediction Markets (DePMs)",
+        "comment": null,
+        "updated_time": "2025-10-17T12:59:47+00:00",
+        "published_time": "2025-10-17T12:59:47+00:00"
+    },
     "http://arxiv.org/abs/2510.14480v1": {
         "entry_id": "http://arxiv.org/abs/2510.14480v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.14480v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.14480v1",
         "title": "Certifying optimal MEV strategies with Lean",
         "comment": null,
         "updated_time": "2025-10-16T09:24:28+00:00",
@@ -121,7 +209,7 @@
     },
     "http://arxiv.org/abs/2510.17865v1": {
         "entry_id": "http://arxiv.org/abs/2510.17865v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.17865v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.17865v1",
         "title": "Smart Contracts Formal Verification: A Systematic Literature Review",
         "comment": "in Spanish language",
         "updated_time": "2025-10-15T21:32:57+00:00",
@@ -129,15 +217,23 @@
     },
     "http://arxiv.org/abs/2510.16024v1": {
         "entry_id": "http://arxiv.org/abs/2510.16024v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.16024v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.16024v1",
         "title": "On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation",
-        "comment": "Published in the 7th Conference on Advances in Financial Technologies\n  (AFT 2025)",
+        "comment": "Published in the 7th Conference on Advances in Financial Technologies (AFT 2025)",
         "updated_time": "2025-10-15T18:58:34+00:00",
         "published_time": "2025-10-15T18:58:34+00:00"
     },
+    "http://arxiv.org/abs/2510.13266v1": {
+        "entry_id": "http://arxiv.org/abs/2510.13266v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.13266v1",
+        "title": "BlendFL: Blended Federated Learning for Handling Multimodal Data Heterogeneity",
+        "comment": null,
+        "updated_time": "2025-10-15T08:10:42+00:00",
+        "published_time": "2025-10-15T08:10:42+00:00"
+    },
     "http://arxiv.org/abs/2510.12062v1": {
         "entry_id": "http://arxiv.org/abs/2510.12062v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.12062v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.12062v1",
         "title": "Adding All Flavors: A Hybrid Random Number Generator for dApps and Web3",
         "comment": null,
         "updated_time": "2025-10-14T01:59:12+00:00",
@@ -145,7 +241,7 @@
     },
     "http://arxiv.org/abs/2510.09443v2": {
         "entry_id": "http://arxiv.org/abs/2510.09443v2",
-        "pdf_url": "http://arxiv.org/pdf/2510.09443v2",
+        "pdf_url": "https://arxiv.org/pdf/2510.09443v2",
         "title": "The Impact of Sanctions on decentralised Privacy Tools: A Case Study of Tornado Cash",
         "comment": null,
         "updated_time": "2025-10-13T09:46:22+00:00",
@@ -153,7 +249,7 @@
     },
     "http://arxiv.org/abs/2510.17848v1": {
         "entry_id": "http://arxiv.org/abs/2510.17848v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.17848v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.17848v1",
         "title": "RiskTagger: An LLM-based Agent for Automatic Annotation of Web3 Crypto Money Laundering Behaviors",
         "comment": "8 pages(not including appendix), 11 figures",
         "updated_time": "2025-10-12T08:54:28+00:00",
@@ -169,7 +265,7 @@
     },
     "http://arxiv.org/abs/2510.09840v1": {
         "entry_id": "http://arxiv.org/abs/2510.09840v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.09840v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.09840v1",
         "title": "Farewell to Westphalia: Crypto Sovereignty and Post-Nation-State Governaance",
         "comment": null,
         "updated_time": "2025-10-10T20:14:57+00:00",
@@ -185,7 +281,7 @@
     },
     "http://arxiv.org/abs/2510.09715v1": {
         "entry_id": "http://arxiv.org/abs/2510.09715v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.09715v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.09715v1",
         "title": "A Scalable, Privacy-Preserving Decentralized Identity and Verifiable Data Sharing Framework based on Zero-Knowledge Proofs",
         "comment": null,
         "updated_time": "2025-10-10T06:06:05+00:00",
@@ -193,7 +289,7 @@
     },
     "http://arxiv.org/abs/2510.08700v1": {
         "entry_id": "http://arxiv.org/abs/2510.08700v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.08700v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.08700v1",
         "title": "Are Voters Willing to Collectively Secure Elections? Unraveling a Practical Blockchain Voting System",
         "comment": null,
         "updated_time": "2025-10-09T18:02:40+00:00",
@@ -201,7 +297,7 @@
     },
     "http://arxiv.org/abs/2510.06784v1": {
         "entry_id": "http://arxiv.org/abs/2510.06784v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.06784v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.06784v1",
         "title": "Bionetta: Efficient Client-Side Zero-Knowledge Machine Learning Proving",
         "comment": null,
         "updated_time": "2025-10-08T09:10:32+00:00",
@@ -209,15 +305,23 @@
     },
     "http://arxiv.org/abs/2510.05807v1": {
         "entry_id": "http://arxiv.org/abs/2510.05807v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.05807v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.05807v1",
         "title": "Privacy-Preserving On-chain Permissioning for KYC-Compliant Decentralized Applications",
         "comment": null,
         "updated_time": "2025-10-07T11:24:51+00:00",
         "published_time": "2025-10-07T11:24:51+00:00"
     },
+    "http://arxiv.org/abs/2510.14991v1": {
+        "entry_id": "http://arxiv.org/abs/2510.14991v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.14991v1",
+        "title": "The Role of Federated Learning in Improving Financial Security: A Survey",
+        "comment": "8 pages, 2 figures, 1 tables, accepted at 2025 IEEE Global Conference on Artificial Intelligence and Internet of Things",
+        "updated_time": "2025-10-07T03:53:12+00:00",
+        "published_time": "2025-10-07T03:53:12+00:00"
+    },
     "http://arxiv.org/abs/2510.03819v1": {
         "entry_id": "http://arxiv.org/abs/2510.03819v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.03819v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.03819v1",
         "title": "Security Analysis of Ponzi Schemes in Ethereum Smart Contracts",
         "comment": null,
         "updated_time": "2025-10-04T14:32:57+00:00",
@@ -225,7 +329,7 @@
     },
     "http://arxiv.org/abs/2510.03697v1": {
         "entry_id": "http://arxiv.org/abs/2510.03697v1",
-        "pdf_url": "http://arxiv.org/pdf/2510.03697v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.03697v1",
         "title": "A Time-Bound Signature Scheme for Blockchains",
         "comment": "Accepted to the 2025 IEEE International Conference on Blockchain",
         "updated_time": "2025-10-04T06:26:52+00:00",
@@ -265,7 +369,7 @@
     },
     "http://arxiv.org/abs/2509.24698v1": {
         "entry_id": "http://arxiv.org/abs/2509.24698v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.24698v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.24698v1",
         "title": "LISA Technical Report: An Agentic Framework for Smart Contract Auditing",
         "comment": "A technical report with 10 pages",
         "updated_time": "2025-09-29T12:31:25+00:00",
@@ -273,7 +377,7 @@
     },
     "http://arxiv.org/abs/2509.24515v1": {
         "entry_id": "http://arxiv.org/abs/2509.24515v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.24515v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.24515v1",
         "title": "Agentic Specification Generator for Move Programs",
         "comment": "18 pages; Extended version of ASE'25 paper with extra appendices",
         "updated_time": "2025-09-29T09:34:31+00:00",
@@ -281,7 +385,7 @@
     },
     "http://arxiv.org/abs/2509.24444v1": {
         "entry_id": "http://arxiv.org/abs/2509.24444v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.24444v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.24444v1",
         "title": "BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities",
         "comment": null,
         "updated_time": "2025-09-29T08:26:52+00:00",
@@ -289,7 +393,7 @@
     },
     "http://arxiv.org/abs/2509.23976v1": {
         "entry_id": "http://arxiv.org/abs/2509.23976v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.23976v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.23976v1",
         "title": "Curriculum-Guided Reinforcement Learning for Synthesizing Gas-Efficient Financial Derivatives Contracts",
         "comment": "8 pages, 3 figures, 2 tables",
         "updated_time": "2025-09-28T17:01:55+00:00",
@@ -297,7 +401,7 @@
     },
     "http://arxiv.org/abs/2509.23824v1": {
         "entry_id": "http://arxiv.org/abs/2509.23824v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.23824v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.23824v1",
         "title": "SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation",
         "comment": null,
         "updated_time": "2025-09-28T11:53:41+00:00",
@@ -305,15 +409,15 @@
     },
     "http://arxiv.org/abs/2509.23679v1": {
         "entry_id": "http://arxiv.org/abs/2509.23679v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.23679v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.23679v1",
         "title": "Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse",
-        "comment": "This is the author version of the article accepted for publication in\n  IEEE Transactions on Software Engineering. The final version is available at\n  10.1109/TSE.2025.3613470",
+        "comment": "This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering. The final version is available at 10.1109/TSE.2025.3613470",
         "updated_time": "2025-09-28T06:39:58+00:00",
         "published_time": "2025-09-28T06:39:58+00:00"
     },
     "http://arxiv.org/abs/2509.22620v1": {
         "entry_id": "http://arxiv.org/abs/2509.22620v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.22620v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.22620v1",
         "title": "Voting-Bloc Entropy: A New Metric for DAO Decentralization",
         "comment": "Full version of the paper published in USENIX Security 2025",
         "updated_time": "2025-09-26T17:46:07+00:00",
@@ -321,7 +425,7 @@
     },
     "http://arxiv.org/abs/2509.21831v1": {
         "entry_id": "http://arxiv.org/abs/2509.21831v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.21831v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.21831v1",
         "title": "The Dark Art of Financial Disguise in Web3: Money Laundering Schemes and Countermeasures",
         "comment": "Accepted manuscript to APWG eCrime 2025",
         "updated_time": "2025-09-26T03:47:58+00:00",
@@ -337,7 +441,7 @@
     },
     "http://arxiv.org/abs/2509.19153v1": {
         "entry_id": "http://arxiv.org/abs/2509.19153v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.19153v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.19153v1",
         "title": "LLMs as verification oracles for Solidity",
         "comment": null,
         "updated_time": "2025-09-23T15:32:13+00:00",
@@ -345,7 +449,7 @@
     },
     "http://arxiv.org/abs/2509.18934v1": {
         "entry_id": "http://arxiv.org/abs/2509.18934v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.18934v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.18934v1",
         "title": "Generic Adversarial Smart Contract Detection with Semantics and Uncertainty-Aware LLM",
         "comment": null,
         "updated_time": "2025-09-23T12:52:05+00:00",
@@ -353,7 +457,7 @@
     },
     "http://arxiv.org/abs/2509.17185v1": {
         "entry_id": "http://arxiv.org/abs/2509.17185v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.17185v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.17185v1",
         "title": "Bribers, Bribers on The Chain, Is Resisting All in Vain? Trustless Consensus Manipulation Through Bribing Contracts",
         "comment": "pre-print",
         "updated_time": "2025-09-21T18:12:17+00:00",
@@ -361,7 +465,7 @@
     },
     "http://arxiv.org/abs/2509.16955v1": {
         "entry_id": "http://arxiv.org/abs/2509.16955v1",
-        "pdf_url": "http://arxiv.org/pdf/2509.16955v1",
+        "pdf_url": "https://arxiv.org/pdf/2509.16955v1",
         "title": "Quantum Adaptive Self-Attention for Financial Rebalancing: An Empirical Study on Automated Market Makers in Decentralized Finance",
         "comment": null,
         "updated_time": "2025-09-21T07:27:14+00:00",
