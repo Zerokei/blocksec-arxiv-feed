@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-15T13:14:46.999436
+Last Updated: 2025-11-16T12:14:39.497421
 
 ## Newest Papers
 
@@ -30,7 +30,7 @@ Last Updated: 2025-11-15T13:14:46.999436
 |22|ParaVul: A Parallel Large Language Model and Retrieval-Augmented Framework for Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2510.17919v1)|🆕 2025-10-20|
 |23|The Sherpa.ai Blind Vertical Federated Learning Paradigm to Minimize the Number of Communications|[link](http://arxiv.org/abs/2510.17901v1)|🆕 2025-10-19|
 |24|iWatchRoadv2: Pothole Detection, Geospatial Mapping, and Intelligent Road Governance|[link](http://arxiv.org/abs/2510.16375v1)|🆕 2025-10-18|
-|25|SoK: Market Microstructure for Decentralized Prediction Markets (DePMs)|[link](http://arxiv.org/abs/2510.15612v1)|🆕 2025-10-17|
+|25|SoK: Market Microstructure for Decentralized Prediction Markets (DePMs)|[link](http://arxiv.org/abs/2510.15612v1)|2025-10-17|
 |26|Certifying optimal MEV strategies with Lean|[link](http://arxiv.org/abs/2510.14480v1)|2025-10-16|
 |27|Smart Contracts Formal Verification: A Systematic Literature Review|[link](http://arxiv.org/abs/2510.17865v1)|2025-10-15|
 |28|On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation|[link](http://arxiv.org/abs/2510.16024v1)|2025-10-15|
