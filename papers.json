@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2511.11411v1": {
+        "entry_id": "http://arxiv.org/abs/2511.11411v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.11411v1",
+        "title": "SCRUTINEER: Detecting Logic-Level Usage Violations of Reusable Components in Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-11-14T15:41:56+00:00",
+        "published_time": "2025-11-14T15:41:56+00:00"
+    },
+    "http://arxiv.org/abs/2509.18934v2": {
+        "entry_id": "http://arxiv.org/abs/2509.18934v2",
+        "pdf_url": "https://arxiv.org/pdf/2509.18934v2",
+        "title": "Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation",
+        "comment": null,
+        "updated_time": "2025-11-14T15:36:12+00:00",
+        "published_time": "2025-09-23T12:52:05+00:00"
+    },
+    "http://arxiv.org/abs/2511.11250v1": {
+        "entry_id": "http://arxiv.org/abs/2511.11250v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.11250v1",
+        "title": "Prompt Engineering vs. Fine-Tuning for LLM-Based Vulnerability Detection in Solana and Algorand Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-11-14T12:50:36+00:00",
+        "published_time": "2025-11-14T12:50:36+00:00"
+    },
     "http://arxiv.org/abs/2511.09263v1": {
         "entry_id": "http://arxiv.org/abs/2511.09263v1",
         "pdf_url": "https://arxiv.org/pdf/2511.09263v1",
