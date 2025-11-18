@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2511.12993v1": {
+        "entry_id": "http://arxiv.org/abs/2511.12993v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.12993v1",
+        "title": "SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports",
+        "comment": null,
+        "updated_time": "2025-11-17T05:37:20+00:00",
+        "published_time": "2025-11-17T05:37:20+00:00"
+    },
+    "http://arxiv.org/abs/2511.12971v1": {
+        "entry_id": "http://arxiv.org/abs/2511.12971v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.12971v1",
+        "title": "Esim: EVM Bytecode Similarity Detection Based on Stable-Semantic Graph",
+        "comment": null,
+        "updated_time": "2025-11-17T04:48:52+00:00",
+        "published_time": "2025-11-17T04:48:52+00:00"
+    },
+    "http://arxiv.org/abs/2511.12626v1": {
+        "entry_id": "http://arxiv.org/abs/2511.12626v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.12626v1",
+        "title": "Prrr: Personal Random Rewards for Blockchain Reporting",
+        "comment": null,
+        "updated_time": "2025-11-16T14:35:37+00:00",
+        "published_time": "2025-11-16T14:35:37+00:00"
+    },
+    "http://arxiv.org/abs/2511.12274v1": {
+        "entry_id": "http://arxiv.org/abs/2511.12274v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.12274v1",
+        "title": "Software Supply Chain Security of Web3",
+        "comment": null,
+        "updated_time": "2025-11-15T16:02:14+00:00",
+        "published_time": "2025-11-15T16:02:14+00:00"
+    },
+    "http://arxiv.org/abs/2511.12164v1": {
+        "entry_id": "http://arxiv.org/abs/2511.12164v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.12164v1",
+        "title": "Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection",
+        "comment": null,
+        "updated_time": "2025-11-15T11:21:56+00:00",
+        "published_time": "2025-11-15T11:21:56+00:00"
+    },
     "http://arxiv.org/abs/2511.11411v1": {
         "entry_id": "http://arxiv.org/abs/2511.11411v1",
         "pdf_url": "https://arxiv.org/pdf/2511.11411v1",
