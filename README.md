@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-19T13:02:06.968782
+Last Updated: 2025-11-20T12:17:26.419960
 
 ## Newest Papers
 
@@ -34,8 +34,8 @@ Last Updated: 2025-11-19T13:02:06.968782
 |26|Decentralized Exchange that Mitigate a Bribery Attack|[link](http://arxiv.org/abs/2510.20645v1)|🆕 2025-10-23|
 |27|zk-Agreements: A Privacy-Preserving Way to Establish Deterministic Trust in Confidential Agreements|[link](http://arxiv.org/abs/2510.20007v1)|🆕 2025-10-22|
 |28|Trace: Securing Smart Contract Repository Against Access Control Vulnerability|[link](http://arxiv.org/abs/2510.19254v1)|🆕 2025-10-22|
-|29|Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts|[link](http://arxiv.org/abs/2510.19856v1)|🆕 2025-10-21|
-|30|TaintSentinel: Path-Level Randomness Vulnerability Detection for Ethereum Smart Contracts|[link](http://arxiv.org/abs/2510.18192v1)|🆕 2025-10-21|
+|29|Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts|[link](http://arxiv.org/abs/2510.19856v1)|2025-10-21|
+|30|TaintSentinel: Path-Level Randomness Vulnerability Detection for Ethereum Smart Contracts|[link](http://arxiv.org/abs/2510.18192v1)|2025-10-21|
 |31|ParaVul: A Parallel Large Language Model and Retrieval-Augmented Framework for Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2510.17919v1)|2025-10-20|
 |32|The Sherpa.ai Blind Vertical Federated Learning Paradigm to Minimize the Number of Communications|[link](http://arxiv.org/abs/2510.17901v1)|2025-10-19|
 |33|iWatchRoadv2: Pothole Detection, Geospatial Mapping, and Intelligent Road Governance|[link](http://arxiv.org/abs/2510.16375v1)|2025-10-18|
