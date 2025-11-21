@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2511.16224v1": {
+        "entry_id": "http://arxiv.org/abs/2511.16224v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.16224v1",
+        "title": "Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts",
+        "comment": "20 pages",
+        "updated_time": "2025-11-20T10:47:59+00:00",
+        "published_time": "2025-11-20T10:47:59+00:00"
+    },
     "http://arxiv.org/abs/2510.09443v3": {
         "entry_id": "http://arxiv.org/abs/2510.09443v3",
         "pdf_url": "https://arxiv.org/pdf/2510.09443v3",
