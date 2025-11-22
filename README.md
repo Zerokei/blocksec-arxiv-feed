@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-21T13:26:10.674157
+Last Updated: 2025-11-22T12:14:12.677892
 
 ## Newest Papers
 
@@ -32,7 +32,7 @@ Last Updated: 2025-11-21T13:26:10.674157
 |24|Blockchain Signatures to Ensure Information Integrity and Non-Repudiation in the Digital Era: A comprehensive study|[link](http://arxiv.org/abs/2510.22561v1)|🆕 2025-10-26|
 |25|FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security|[link](http://arxiv.org/abs/2510.21401v1)|🆕 2025-10-24|
 |26|LLM-Powered Detection of Price Manipulation in DeFi|[link](http://arxiv.org/abs/2510.21272v1)|🆕 2025-10-24|
-|27|Decentralized Exchange that Mitigate a Bribery Attack|[link](http://arxiv.org/abs/2510.20645v1)|🆕 2025-10-23|
+|27|Decentralized Exchange that Mitigate a Bribery Attack|[link](http://arxiv.org/abs/2510.20645v1)|2025-10-23|
 |28|zk-Agreements: A Privacy-Preserving Way to Establish Deterministic Trust in Confidential Agreements|[link](http://arxiv.org/abs/2510.20007v1)|2025-10-22|
 |29|Trace: Securing Smart Contract Repository Against Access Control Vulnerability|[link](http://arxiv.org/abs/2510.19254v1)|2025-10-22|
 |30|Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts|[link](http://arxiv.org/abs/2510.19856v1)|2025-10-21|
