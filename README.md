@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-22T13:13:19.015751
+Last Updated: 2025-11-23T12:14:12.624699
 
 ## Newest Papers
 
@@ -30,8 +30,8 @@ Last Updated: 2025-11-22T13:13:19.015751
 |22|Penetrating the Hostile: Detecting DeFi Protocol Exploits through Cross-Contract Analysis|[link](http://arxiv.org/abs/2511.00408v1)|🆕 2025-11-01|
 |23|A Study on Privacy-Preserving Scholarship Evaluation Based on Decentralized Identity and Zero-Knowledge Proofs|[link](http://arxiv.org/abs/2510.25477v1)|🆕 2025-10-29|
 |24|Blockchain Signatures to Ensure Information Integrity and Non-Repudiation in the Digital Era: A comprehensive study|[link](http://arxiv.org/abs/2510.22561v1)|🆕 2025-10-26|
-|25|FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security|[link](http://arxiv.org/abs/2510.21401v1)|🆕 2025-10-24|
-|26|LLM-Powered Detection of Price Manipulation in DeFi|[link](http://arxiv.org/abs/2510.21272v1)|🆕 2025-10-24|
+|25|FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security|[link](http://arxiv.org/abs/2510.21401v1)|2025-10-24|
+|26|LLM-Powered Detection of Price Manipulation in DeFi|[link](http://arxiv.org/abs/2510.21272v1)|2025-10-24|
 |27|Decentralized Exchange that Mitigate a Bribery Attack|[link](http://arxiv.org/abs/2510.20645v1)|2025-10-23|
 |28|zk-Agreements: A Privacy-Preserving Way to Establish Deterministic Trust in Confidential Agreements|[link](http://arxiv.org/abs/2510.20007v1)|2025-10-22|
 |29|Trace: Securing Smart Contract Repository Against Access Control Vulnerability|[link](http://arxiv.org/abs/2510.19254v1)|2025-10-22|
