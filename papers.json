@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2511.17260v1": {
+        "entry_id": "http://arxiv.org/abs/2511.17260v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.17260v1",
+        "title": "Persistent BitTorrent Trackers",
+        "comment": "15 pages, 11 figures",
+        "updated_time": "2025-11-21T14:06:02+00:00",
+        "published_time": "2025-11-21T14:06:02+00:00"
+    },
+    "http://arxiv.org/abs/2511.16224v2": {
+        "entry_id": "http://arxiv.org/abs/2511.16224v2",
+        "pdf_url": "https://arxiv.org/pdf/2511.16224v2",
+        "title": "Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts",
+        "comment": "20 pages",
+        "updated_time": "2025-11-21T13:40:38+00:00",
+        "published_time": "2025-11-20T10:47:59+00:00"
+    },
     "http://arxiv.org/abs/2511.16224v1": {
         "entry_id": "http://arxiv.org/abs/2511.16224v1",
         "pdf_url": "https://arxiv.org/pdf/2511.16224v1",
