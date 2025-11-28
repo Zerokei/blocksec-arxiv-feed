@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-11-27T13:02:52.370627
+Last Updated: 2025-11-28T12:17:11.679715
 
 ## Newest Papers
 
@@ -34,7 +34,7 @@ Last Updated: 2025-11-27T13:02:52.370627
 |26|1 PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts|[link](http://arxiv.org/abs/2511.02780v1)|🆕 2025-11-04|
 |27|Bitcoin Cross-Chain Bridge: A Taxonomy and Its Promise in Artificial Intelligence of Things|[link](http://arxiv.org/abs/2509.10413v2)|🆕 2025-11-02|
 |28|Penetrating the Hostile: Detecting DeFi Protocol Exploits through Cross-Contract Analysis|[link](http://arxiv.org/abs/2511.00408v1)|🆕 2025-11-01|
-|29|A Study on Privacy-Preserving Scholarship Evaluation Based on Decentralized Identity and Zero-Knowledge Proofs|[link](http://arxiv.org/abs/2510.25477v1)|🆕 2025-10-29|
+|29|A Study on Privacy-Preserving Scholarship Evaluation Based on Decentralized Identity and Zero-Knowledge Proofs|[link](http://arxiv.org/abs/2510.25477v1)|2025-10-29|
 |30|Blockchain Signatures to Ensure Information Integrity and Non-Repudiation in the Digital Era: A comprehensive study|[link](http://arxiv.org/abs/2510.22561v1)|2025-10-26|
 |31|FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security|[link](http://arxiv.org/abs/2510.21401v1)|2025-10-24|
 |32|LLM-Powered Detection of Price Manipulation in DeFi|[link](http://arxiv.org/abs/2510.21272v1)|2025-10-24|
