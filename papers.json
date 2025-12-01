@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2511.22314v1": {
+        "entry_id": "http://arxiv.org/abs/2511.22314v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.22314v1",
+        "title": "DeXposure: A Dataset and Benchmarks for Inter-protocol Credit Exposure in Decentralized Financial Networks",
+        "comment": "Data and code: https://github.com/dthinkr/DeXposure - Visualisation: https://ccaf.io/defi/ecosystem-map/visualisation/graph",
+        "updated_time": "2025-11-27T10:44:14+00:00",
+        "published_time": "2025-11-27T10:44:14+00:00"
+    },
     "http://arxiv.org/abs/2511.17260v2": {
         "entry_id": "http://arxiv.org/abs/2511.17260v2",
         "pdf_url": "https://arxiv.org/pdf/2511.17260v2",
