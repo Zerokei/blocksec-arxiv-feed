@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2512.02918v1": {
+        "entry_id": "http://arxiv.org/abs/2512.02918v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.02918v1",
+        "title": "Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts",
+        "comment": "Slight revision and under review",
+        "updated_time": "2025-12-02T16:36:13+00:00",
+        "published_time": "2025-12-02T16:36:13+00:00"
+    },
+    "http://arxiv.org/abs/2512.02418v1": {
+        "entry_id": "http://arxiv.org/abs/2512.02418v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.02418v1",
+        "title": "Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins",
+        "comment": null,
+        "updated_time": "2025-12-02T05:00:17+00:00",
+        "published_time": "2025-12-02T05:00:17+00:00"
+    },
+    "http://arxiv.org/abs/2512.02399v1": {
+        "entry_id": "http://arxiv.org/abs/2512.02399v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.02399v1",
+        "title": "AtomGraph: Tackling Atomicity Violation in Smart Contracts using Multimodal GCNs",
+        "comment": null,
+        "updated_time": "2025-12-02T04:20:02+00:00",
+        "published_time": "2025-12-02T04:20:02+00:00"
+    },
+    "http://arxiv.org/abs/2512.02287v1": {
+        "entry_id": "http://arxiv.org/abs/2512.02287v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.02287v1",
+        "title": "HOT Protocol",
+        "comment": null,
+        "updated_time": "2025-12-01T23:57:29+00:00",
+        "published_time": "2025-12-01T23:57:29+00:00"
+    },
+    "http://arxiv.org/abs/2512.02069v1": {
+        "entry_id": "http://arxiv.org/abs/2512.02069v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.02069v1",
+        "title": "Large Language Model based Smart Contract Auditing with LLMBugScanner",
+        "comment": null,
+        "updated_time": "2025-11-29T19:13:44+00:00",
+        "published_time": "2025-11-29T19:13:44+00:00"
+    },
     "http://arxiv.org/abs/2512.00142v1": {
         "entry_id": "http://arxiv.org/abs/2512.00142v1",
         "pdf_url": "https://arxiv.org/pdf/2512.00142v1",
