@@ -39,6 +39,14 @@
         "updated_time": "2025-11-29T19:13:44+00:00",
         "published_time": "2025-11-29T19:13:44+00:00"
     },
+    "http://arxiv.org/abs/2512.03088v1": {
+        "entry_id": "http://arxiv.org/abs/2512.03088v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.03088v1",
+        "title": "From Oracle Choice to Oracle Lock-In: An Exploratory Study on Blockchain Oracles Supplier Selection",
+        "comment": "Not peer reviewed",
+        "updated_time": "2025-11-29T10:28:57+00:00",
+        "published_time": "2025-11-29T10:28:57+00:00"
+    },
     "http://arxiv.org/abs/2512.00142v1": {
         "entry_id": "http://arxiv.org/abs/2512.00142v1",
         "pdf_url": "https://arxiv.org/pdf/2512.00142v1",
