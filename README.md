@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-12-07T13:16:35.825592
+Last Updated: 2025-12-08T12:17:58.907156
 
 ## Newest Papers
 
@@ -37,7 +37,7 @@ Last Updated: 2025-12-07T13:16:35.825592
 |29|SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services|[link](http://arxiv.org/abs/2511.08282v1)|🆕 2025-11-11|
 |30|Blockchain-Integrated Privacy-Preserving Medical Insurance Claim Processing Using Homomorphic Encryption|[link](http://arxiv.org/abs/2511.07818v1)|🆕 2025-11-11|
 |31|A Decentralized Retrieval Augmented Generation System with Source Reliabilities Secured on Blockchain|[link](http://arxiv.org/abs/2511.07577v1)|🆕 2025-11-10|
-|32|Reliablocks: Developing Reliability Scores for Optimistic Rollups|[link](http://arxiv.org/abs/2511.06130v1)|🆕 2025-11-08|
+|32|Reliablocks: Developing Reliability Scores for Optimistic Rollups|[link](http://arxiv.org/abs/2511.06130v1)|2025-11-08|
 |33|PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts|[link](http://arxiv.org/abs/2511.02780v2)|2025-11-06|
 |34|1 PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts|[link](http://arxiv.org/abs/2511.02780v1)|2025-11-04|
 |35|Bitcoin Cross-Chain Bridge: A Taxonomy and Its Promise in Artificial Intelligence of Things|[link](http://arxiv.org/abs/2509.10413v2)|2025-11-02|
