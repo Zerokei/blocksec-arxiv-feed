@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2510.06784v2": {
+        "entry_id": "http://arxiv.org/abs/2510.06784v2",
+        "pdf_url": "https://arxiv.org/pdf/2510.06784v2",
+        "title": "Bionetta: Efficient Client-Side Zero-Knowledge Machine Learning Proving",
+        "comment": null,
+        "updated_time": "2025-12-08T17:28:43+00:00",
+        "published_time": "2025-10-08T09:10:32+00:00"
+    },
+    "http://arxiv.org/abs/2512.06846v1": {
+        "entry_id": "http://arxiv.org/abs/2512.06846v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.06846v1",
+        "title": "CKG-LLM: LLM-Assisted Detection of Smart Contract Access Control Vulnerabilities Based on Knowledge Graphs",
+        "comment": "6 pages, 4 figures",
+        "updated_time": "2025-12-07T13:58:37+00:00",
+        "published_time": "2025-12-07T13:58:37+00:00"
+    },
     "http://arxiv.org/abs/2512.02918v1": {
         "entry_id": "http://arxiv.org/abs/2512.02918v1",
         "pdf_url": "https://arxiv.org/pdf/2512.02918v1",
