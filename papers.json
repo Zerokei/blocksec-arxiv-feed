@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2512.08782v1": {
+        "entry_id": "http://arxiv.org/abs/2512.08782v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.08782v1",
+        "title": "An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features",
+        "comment": null,
+        "updated_time": "2025-12-09T16:34:23+00:00",
+        "published_time": "2025-12-09T16:34:23+00:00"
+    },
+    "http://arxiv.org/abs/2512.08372v1": {
+        "entry_id": "http://arxiv.org/abs/2512.08372v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.08372v1",
+        "title": "USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts",
+        "comment": null,
+        "updated_time": "2025-12-09T08:55:11+00:00",
+        "published_time": "2025-12-09T08:55:11+00:00"
+    },
     "http://arxiv.org/abs/2510.06784v2": {
         "entry_id": "http://arxiv.org/abs/2510.06784v2",
         "pdf_url": "https://arxiv.org/pdf/2510.06784v2",
