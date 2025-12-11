@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2510.18109v2": {
+        "entry_id": "http://arxiv.org/abs/2510.18109v2",
+        "pdf_url": "https://arxiv.org/pdf/2510.18109v2",
+        "title": "PrivaDE: Privacy-preserving Data Evaluation for Blockchain-based Data Marketplaces",
+        "comment": null,
+        "updated_time": "2025-12-10T16:38:27+00:00",
+        "published_time": "2025-10-20T21:14:32+00:00"
+    },
+    "http://arxiv.org/abs/2512.09385v1": {
+        "entry_id": "http://arxiv.org/abs/2512.09385v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.09385v1",
+        "title": "BugSweeper: Function-Level Detection of Smart Contract Vulnerabilities Using Graph Neural Networks",
+        "comment": "This paper is accepted to AAAI 2026",
+        "updated_time": "2025-12-10T07:30:03+00:00",
+        "published_time": "2025-12-10T07:30:03+00:00"
+    },
     "http://arxiv.org/abs/2512.08782v1": {
         "entry_id": "http://arxiv.org/abs/2512.08782v1",
         "pdf_url": "https://arxiv.org/pdf/2512.08782v1",
