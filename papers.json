@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2512.10372v1": {
+        "entry_id": "http://arxiv.org/abs/2512.10372v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.10372v1",
+        "title": "D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning",
+        "comment": null,
+        "updated_time": "2025-12-11T07:38:05+00:00",
+        "published_time": "2025-12-11T07:38:05+00:00"
+    },
     "http://arxiv.org/abs/2510.18109v2": {
         "entry_id": "http://arxiv.org/abs/2510.18109v2",
         "pdf_url": "https://arxiv.org/pdf/2510.18109v2",
@@ -46,6 +54,14 @@
         "comment": "6 pages, 4 figures",
         "updated_time": "2025-12-07T13:58:37+00:00",
         "published_time": "2025-12-07T13:58:37+00:00"
+    },
+    "http://arxiv.org/abs/2512.09938v1": {
+        "entry_id": "http://arxiv.org/abs/2512.09938v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.09938v1",
+        "title": "Blockchain-Anchored Audit Trail Model for Transparent Inter-Operator Settlement",
+        "comment": null,
+        "updated_time": "2025-12-03T18:58:28+00:00",
+        "published_time": "2025-12-03T18:58:28+00:00"
     },
     "http://arxiv.org/abs/2512.02918v1": {
         "entry_id": "http://arxiv.org/abs/2512.02918v1",
