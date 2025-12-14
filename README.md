@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-12-13T13:22:26.313463
+Last Updated: 2025-12-14T12:15:49.594202
 
 ## Newest Papers
 
@@ -35,9 +35,9 @@ Last Updated: 2025-12-13T13:22:26.313463
 |27|Prrr: Personal Random Rewards for Blockchain Reporting|[link](http://arxiv.org/abs/2511.12626v1)|🆕 2025-11-16|
 |28|Software Supply Chain Security of Web3|[link](http://arxiv.org/abs/2511.12274v1)|🆕 2025-11-15|
 |29|Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection|[link](http://arxiv.org/abs/2511.12164v1)|🆕 2025-11-15|
-|30|SCRUTINEER: Detecting Logic-Level Usage Violations of Reusable Components in Smart Contracts|[link](http://arxiv.org/abs/2511.11411v1)|🆕 2025-11-14|
-|31|Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation|[link](http://arxiv.org/abs/2509.18934v2)|🆕 2025-11-14|
-|32|Prompt Engineering vs. Fine-Tuning for LLM-Based Vulnerability Detection in Solana and Algorand Smart Contracts|[link](http://arxiv.org/abs/2511.11250v1)|🆕 2025-11-14|
+|30|SCRUTINEER: Detecting Logic-Level Usage Violations of Reusable Components in Smart Contracts|[link](http://arxiv.org/abs/2511.11411v1)|2025-11-14|
+|31|Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation|[link](http://arxiv.org/abs/2509.18934v2)|2025-11-14|
+|32|Prompt Engineering vs. Fine-Tuning for LLM-Based Vulnerability Detection in Solana and Algorand Smart Contracts|[link](http://arxiv.org/abs/2511.11250v1)|2025-11-14|
 |33|Slaying the Dragon: The Quest for Democracy in Decentralized Autonomous Organizations (DAOs)|[link](http://arxiv.org/abs/2511.09263v1)|2025-11-12|
 |34|One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts|[link](http://arxiv.org/abs/2511.09134v1)|2025-11-12|
 |35|Attack-Centric by Design: A Program-Structure Taxonomy of Smart Contract Vulnerabilities|[link](http://arxiv.org/abs/2511.09051v1)|2025-11-12|
