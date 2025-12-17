@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-12-16T13:07:28.449094
+Last Updated: 2025-12-17T12:18:24.339937
 
 ## Newest Papers
 
@@ -33,8 +33,8 @@ Last Updated: 2025-12-16T13:07:28.449094
 |25|Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts|[link](http://arxiv.org/abs/2511.16224v2)|🆕 2025-11-21|
 |26|Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts|[link](http://arxiv.org/abs/2511.16224v1)|🆕 2025-11-20|
 |27|The Impact of Sanctions on decentralised Privacy Tools: A Case Study of Tornado Cash|[link](http://arxiv.org/abs/2510.09443v3)|🆕 2025-11-18|
-|28|SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports|[link](http://arxiv.org/abs/2511.12993v1)|🆕 2025-11-17|
-|29|Esim: EVM Bytecode Similarity Detection Based on Stable-Semantic Graph|[link](http://arxiv.org/abs/2511.12971v1)|🆕 2025-11-17|
+|28|SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports|[link](http://arxiv.org/abs/2511.12993v1)|2025-11-17|
+|29|Esim: EVM Bytecode Similarity Detection Based on Stable-Semantic Graph|[link](http://arxiv.org/abs/2511.12971v1)|2025-11-17|
 |30|Prrr: Personal Random Rewards for Blockchain Reporting|[link](http://arxiv.org/abs/2511.12626v1)|2025-11-16|
 |31|Software Supply Chain Security of Web3|[link](http://arxiv.org/abs/2511.12274v1)|2025-11-15|
 |32|Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection|[link](http://arxiv.org/abs/2511.12164v1)|2025-11-15|
