@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-12-20T13:22:52.395733
+Last Updated: 2025-12-21T12:15:53.073638
 
 ## Newest Papers
 
@@ -30,9 +30,9 @@ Last Updated: 2025-12-20T13:22:52.395733
 |22|Persistent BitTorrent Trackers|[link](http://arxiv.org/abs/2511.17260v2)|🆕 2025-11-24|
 |23|SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports|[link](http://arxiv.org/abs/2511.12993v2)|🆕 2025-11-24|
 |24|DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets|[link](http://arxiv.org/abs/2511.18498v1)|🆕 2025-11-23|
-|25|Homomorphic Encryption-based Vaults for Anonymous Balances on VM-enabled Blockchains|[link](http://arxiv.org/abs/2511.17842v1)|🆕 2025-11-21|
-|26|Persistent BitTorrent Trackers|[link](http://arxiv.org/abs/2511.17260v1)|🆕 2025-11-21|
-|27|Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts|[link](http://arxiv.org/abs/2511.16224v2)|🆕 2025-11-21|
+|25|Homomorphic Encryption-based Vaults for Anonymous Balances on VM-enabled Blockchains|[link](http://arxiv.org/abs/2511.17842v1)|2025-11-21|
+|26|Persistent BitTorrent Trackers|[link](http://arxiv.org/abs/2511.17260v1)|2025-11-21|
+|27|Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts|[link](http://arxiv.org/abs/2511.16224v2)|2025-11-21|
 |28|Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts|[link](http://arxiv.org/abs/2511.16224v1)|2025-11-20|
 |29|The Impact of Sanctions on decentralised Privacy Tools: A Case Study of Tornado Cash|[link](http://arxiv.org/abs/2510.09443v3)|2025-11-18|
 |30|SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports|[link](http://arxiv.org/abs/2511.12993v1)|2025-11-17|
