@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2512.18182v1": {
+        "entry_id": "http://arxiv.org/abs/2512.18182v1",
+        "pdf_url": "https://arxiv.org/pdf/2512.18182v1",
+        "title": "Understanding Typing-Related Bugs in Solidity Compiler",
+        "comment": "37 pages, 8 figures",
+        "updated_time": "2025-12-20T02:37:10+00:00",
+        "published_time": "2025-12-20T02:37:10+00:00"
+    },
     "http://arxiv.org/abs/2512.17500v1": {
         "entry_id": "http://arxiv.org/abs/2512.17500v1",
         "pdf_url": "https://arxiv.org/pdf/2512.17500v1",
