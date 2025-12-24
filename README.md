@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-12-23T13:06:07.367965
+Last Updated: 2025-12-24T12:17:49.830087
 
 ## Newest Papers
 
@@ -29,8 +29,8 @@ Last Updated: 2025-12-23T13:06:07.367965
 |21|From Oracle Choice to Oracle Lock-In: An Exploratory Study on Blockchain Oracles Supplier Selection|[link](http://arxiv.org/abs/2512.03088v1)|🆕 2025-11-29|
 |22|DeFi TrustBoost: Blockchain and AI for Trustworthy Decentralized Financial Decisions|[link](http://arxiv.org/abs/2512.00142v1)|🆕 2025-11-28|
 |23|DeXposure: A Dataset and Benchmarks for Inter-protocol Credit Exposure in Decentralized Financial Networks|[link](http://arxiv.org/abs/2511.22314v1)|🆕 2025-11-27|
-|24|Persistent BitTorrent Trackers|[link](http://arxiv.org/abs/2511.17260v2)|🆕 2025-11-24|
-|25|SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports|[link](http://arxiv.org/abs/2511.12993v2)|🆕 2025-11-24|
+|24|Persistent BitTorrent Trackers|[link](http://arxiv.org/abs/2511.17260v2)|2025-11-24|
+|25|SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports|[link](http://arxiv.org/abs/2511.12993v2)|2025-11-24|
 |26|DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets|[link](http://arxiv.org/abs/2511.18498v1)|2025-11-23|
 |27|Homomorphic Encryption-based Vaults for Anonymous Balances on VM-enabled Blockchains|[link](http://arxiv.org/abs/2511.17842v1)|2025-11-21|
 |28|Persistent BitTorrent Trackers|[link](http://arxiv.org/abs/2511.17260v1)|2025-11-21|
