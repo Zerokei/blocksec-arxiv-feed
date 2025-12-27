@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-12-26T13:03:04.782288
+Last Updated: 2025-12-27T12:16:33.578398
 
 ## Newest Papers
 
@@ -28,7 +28,7 @@ Last Updated: 2025-12-26T13:03:04.782288
 |20|Large Language Model based Smart Contract Auditing with LLMBugScanner|[link](http://arxiv.org/abs/2512.02069v1)|🆕 2025-11-29|
 |21|From Oracle Choice to Oracle Lock-In: An Exploratory Study on Blockchain Oracles Supplier Selection|[link](http://arxiv.org/abs/2512.03088v1)|🆕 2025-11-29|
 |22|DeFi TrustBoost: Blockchain and AI for Trustworthy Decentralized Financial Decisions|[link](http://arxiv.org/abs/2512.00142v1)|🆕 2025-11-28|
-|23|DeXposure: A Dataset and Benchmarks for Inter-protocol Credit Exposure in Decentralized Financial Networks|[link](http://arxiv.org/abs/2511.22314v1)|🆕 2025-11-27|
+|23|DeXposure: A Dataset and Benchmarks for Inter-protocol Credit Exposure in Decentralized Financial Networks|[link](http://arxiv.org/abs/2511.22314v1)|2025-11-27|
 |24|Persistent BitTorrent Trackers|[link](http://arxiv.org/abs/2511.17260v2)|2025-11-24|
 |25|SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports|[link](http://arxiv.org/abs/2511.12993v2)|2025-11-24|
 |26|DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets|[link](http://arxiv.org/abs/2511.18498v1)|2025-11-23|
