@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2025-12-30T13:06:30.979421
+Last Updated: 2025-12-31T12:17:50.073801
 
 ## Newest Papers
 
@@ -26,7 +26,7 @@ Last Updated: 2025-12-30T13:06:30.979421
 |18|Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts|[link](http://arxiv.org/abs/2512.02918v1)|🆕 2025-12-02|
 |19|Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins|[link](http://arxiv.org/abs/2512.02418v1)|🆕 2025-12-02|
 |20|AtomGraph: Tackling Atomicity Violation in Smart Contracts using Multimodal GCNs|[link](http://arxiv.org/abs/2512.02399v1)|🆕 2025-12-02|
-|21|HOT Protocol|[link](http://arxiv.org/abs/2512.02287v1)|🆕 2025-12-01|
+|21|HOT Protocol|[link](http://arxiv.org/abs/2512.02287v1)|2025-12-01|
 |22|Large Language Model based Smart Contract Auditing with LLMBugScanner|[link](http://arxiv.org/abs/2512.02069v1)|2025-11-29|
 |23|From Oracle Choice to Oracle Lock-In: An Exploratory Study on Blockchain Oracles Supplier Selection|[link](http://arxiv.org/abs/2512.03088v1)|2025-11-29|
 |24|DeFi TrustBoost: Blockchain and AI for Trustworthy Decentralized Financial Decisions|[link](http://arxiv.org/abs/2512.00142v1)|2025-11-28|
