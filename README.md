@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-01-01T13:04:16.601504
+Last Updated: 2026-01-02T12:17:38.461313
 
 ## Newest Papers
 
@@ -22,7 +22,7 @@ Last Updated: 2026-01-01T13:04:16.601504
 |14|USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2512.08372v1)|🆕 2025-12-09|
 |15|Bionetta: Efficient Client-Side Zero-Knowledge Machine Learning Proving|[link](http://arxiv.org/abs/2510.06784v2)|🆕 2025-12-08|
 |16|CKG-LLM: LLM-Assisted Detection of Smart Contract Access Control Vulnerabilities Based on Knowledge Graphs|[link](http://arxiv.org/abs/2512.06846v1)|🆕 2025-12-07|
-|17|Blockchain-Anchored Audit Trail Model for Transparent Inter-Operator Settlement|[link](http://arxiv.org/abs/2512.09938v1)|🆕 2025-12-03|
+|17|Blockchain-Anchored Audit Trail Model for Transparent Inter-Operator Settlement|[link](http://arxiv.org/abs/2512.09938v1)|2025-12-03|
 |18|Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts|[link](http://arxiv.org/abs/2512.02918v1)|2025-12-02|
 |19|Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins|[link](http://arxiv.org/abs/2512.02418v1)|2025-12-02|
 |20|AtomGraph: Tackling Atomicity Violation in Smart Contracts using Multimodal GCNs|[link](http://arxiv.org/abs/2512.02399v1)|2025-12-02|
