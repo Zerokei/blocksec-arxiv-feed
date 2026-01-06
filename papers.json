@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2601.01436v1": {
+        "entry_id": "http://arxiv.org/abs/2601.01436v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.01436v1",
+        "title": "Bithoven: Formal Safety for Expressive Bitcoin Smart Contracts",
+        "comment": "15 pages, 3 figures, 4 tables. Submitted to IEEE Transactions on Dependable and Secure Computing",
+        "updated_time": "2026-01-04T08:48:34+00:00",
+        "published_time": "2026-01-04T08:48:34+00:00"
+    },
     "http://arxiv.org/abs/2512.22616v1": {
         "entry_id": "http://arxiv.org/abs/2512.22616v1",
         "pdf_url": "https://arxiv.org/pdf/2512.22616v1",
