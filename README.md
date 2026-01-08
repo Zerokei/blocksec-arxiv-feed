@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-01-07T13:08:25.260869
+Last Updated: 2026-01-08T12:20:00.771436
 
 ## Newest Papers
 
@@ -19,8 +19,8 @@ Last Updated: 2026-01-07T13:08:25.260869
 |11|D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning|[link](http://arxiv.org/abs/2512.10372v1)|🆕 2025-12-11|
 |12|PrivaDE: Privacy-preserving Data Evaluation for Blockchain-based Data Marketplaces|[link](http://arxiv.org/abs/2510.18109v2)|🆕 2025-12-10|
 |13|BugSweeper: Function-Level Detection of Smart Contract Vulnerabilities Using Graph Neural Networks|[link](http://arxiv.org/abs/2512.09385v1)|🆕 2025-12-10|
-|14|An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features|[link](http://arxiv.org/abs/2512.08782v1)|🆕 2025-12-09|
-|15|USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2512.08372v1)|🆕 2025-12-09|
+|14|An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features|[link](http://arxiv.org/abs/2512.08782v1)|2025-12-09|
+|15|USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2512.08372v1)|2025-12-09|
 |16|Bionetta: Efficient Client-Side Zero-Knowledge Machine Learning Proving|[link](http://arxiv.org/abs/2510.06784v2)|2025-12-08|
 |17|CKG-LLM: LLM-Assisted Detection of Smart Contract Access Control Vulnerabilities Based on Knowledge Graphs|[link](http://arxiv.org/abs/2512.06846v1)|2025-12-07|
 |18|Blockchain-Anchored Audit Trail Model for Transparent Inter-Operator Settlement|[link](http://arxiv.org/abs/2512.09938v1)|2025-12-03|
