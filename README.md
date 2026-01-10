@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-01-09T13:07:54.239517
+Last Updated: 2026-01-10T12:15:57.521942
 
 ## Newest Papers
 
@@ -16,7 +16,7 @@ Last Updated: 2026-01-09T13:07:54.239517
 |8|PrivaDE: Privacy-preserving Data Evaluation for Blockchain-based Data Marketplaces|[link](http://arxiv.org/abs/2510.18109v3)|🆕 2025-12-14|
 |9|BugSweeper: Function-Level Detection of Smart Contract Vulnerabilities Using Graph Neural Networks|[link](http://arxiv.org/abs/2512.09385v2)|🆕 2025-12-12|
 |10|Vision-Based Learning for Cyberattack Detection in Blockchain Smart Contracts and Transactions|[link](http://arxiv.org/abs/2512.11272v1)|🆕 2025-12-12|
-|11|D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning|[link](http://arxiv.org/abs/2512.10372v1)|🆕 2025-12-11|
+|11|D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning|[link](http://arxiv.org/abs/2512.10372v1)|2025-12-11|
 |12|PrivaDE: Privacy-preserving Data Evaluation for Blockchain-based Data Marketplaces|[link](http://arxiv.org/abs/2510.18109v2)|2025-12-10|
 |13|BugSweeper: Function-Level Detection of Smart Contract Vulnerabilities Using Graph Neural Networks|[link](http://arxiv.org/abs/2512.09385v1)|2025-12-10|
 |14|An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features|[link](http://arxiv.org/abs/2512.08782v1)|2025-12-09|
