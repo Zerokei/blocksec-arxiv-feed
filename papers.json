@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2601.05827v1": {
+        "entry_id": "http://arxiv.org/abs/2601.05827v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.05827v1",
+        "title": "SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking",
+        "comment": null,
+        "updated_time": "2026-01-09T15:01:41+00:00",
+        "published_time": "2026-01-09T15:01:41+00:00"
+    },
+    "http://arxiv.org/abs/2601.05534v1": {
+        "entry_id": "http://arxiv.org/abs/2601.05534v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.05534v1",
+        "title": "Blockchain Verifiable Proof of Quantum Supremacy as a Trigger for Quantum-Secure Signatures",
+        "comment": "12 pages, 2 figures, 1 table",
+        "updated_time": "2026-01-09T05:20:02+00:00",
+        "published_time": "2026-01-09T05:20:02+00:00"
+    },
+    "http://arxiv.org/abs/2512.02418v2": {
+        "entry_id": "http://arxiv.org/abs/2512.02418v2",
+        "pdf_url": "https://arxiv.org/pdf/2512.02418v2",
+        "title": "Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins",
+        "comment": null,
+        "updated_time": "2026-01-09T03:21:44+00:00",
+        "published_time": "2025-12-02T05:00:17+00:00"
+    },
     "http://arxiv.org/abs/2601.01436v1": {
         "entry_id": "http://arxiv.org/abs/2601.01436v1",
         "pdf_url": "https://arxiv.org/pdf/2601.01436v1",
