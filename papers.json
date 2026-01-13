@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2601.07726v1": {
+        "entry_id": "http://arxiv.org/abs/2601.07726v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.07726v1",
+        "title": "TeeMAF: A TEE-Based Mutual Attestation Framework for On-Chain and Off-Chain Functions in Blockchain DApps",
+        "comment": "13 pages",
+        "updated_time": "2026-01-12T16:57:51+00:00",
+        "published_time": "2026-01-12T16:57:51+00:00"
+    },
+    "http://arxiv.org/abs/2601.07334v1": {
+        "entry_id": "http://arxiv.org/abs/2601.07334v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.07334v1",
+        "title": "Examining the Effectiveness of Transformer-Based Smart Contract Vulnerability Scan",
+        "comment": null,
+        "updated_time": "2026-01-12T09:00:42+00:00",
+        "published_time": "2026-01-12T09:00:42+00:00"
+    },
+    "http://arxiv.org/abs/2601.06914v1": {
+        "entry_id": "http://arxiv.org/abs/2601.06914v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.06914v1",
+        "title": "Towards Compositional Generalization in LLMs for Smart Contract Security: A Case Study on Reentrancy Vulnerabilities",
+        "comment": null,
+        "updated_time": "2026-01-11T13:52:07+00:00",
+        "published_time": "2026-01-11T13:52:07+00:00"
+    },
+    "http://arxiv.org/abs/2601.06699v1": {
+        "entry_id": "http://arxiv.org/abs/2601.06699v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.06699v1",
+        "title": "Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers",
+        "comment": "This work has been submitted to the IEEE for possible publication",
+        "updated_time": "2026-01-10T21:49:32+00:00",
+        "published_time": "2026-01-10T21:49:32+00:00"
+    },
+    "http://arxiv.org/abs/2601.06667v1": {
+        "entry_id": "http://arxiv.org/abs/2601.06667v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.06667v1",
+        "title": "zkRansomware: Proof-of-Data Recoverability and Multi-round Game Theoretic Modeling of Ransomware Decisions",
+        "comment": null,
+        "updated_time": "2026-01-10T20:00:31+00:00",
+        "published_time": "2026-01-10T20:00:31+00:00"
+    },
     "http://arxiv.org/abs/2601.05827v1": {
         "entry_id": "http://arxiv.org/abs/2601.05827v1",
         "pdf_url": "https://arxiv.org/pdf/2601.05827v1",
