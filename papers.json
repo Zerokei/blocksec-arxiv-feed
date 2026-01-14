@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2601.05534v2": {
+        "entry_id": "http://arxiv.org/abs/2601.05534v2",
+        "pdf_url": "https://arxiv.org/pdf/2601.05534v2",
+        "title": "Blockchain Verifiable Proof of Quantum Supremacy as a Trigger for Quantum-Secure Signatures",
+        "comment": "12 pages, 2 figures, 1 table",
+        "updated_time": "2026-01-13T17:29:56+00:00",
+        "published_time": "2026-01-09T05:20:02+00:00"
+    },
+    "http://arxiv.org/abs/2601.08091v1": {
+        "entry_id": "http://arxiv.org/abs/2601.08091v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.08091v1",
+        "title": "Decentralized Firmware Integrity Verification for Cyber-Physical Systems Using Ethereum Blockchain",
+        "comment": "6 pages, 6 figures, 3 tables",
+        "updated_time": "2026-01-13T00:19:20+00:00",
+        "published_time": "2026-01-13T00:19:20+00:00"
+    },
     "http://arxiv.org/abs/2601.07726v1": {
         "entry_id": "http://arxiv.org/abs/2601.07726v1",
         "pdf_url": "https://arxiv.org/pdf/2601.07726v1",
