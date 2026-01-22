@@ -1,4 +1,68 @@
 {
+    "http://arxiv.org/abs/2601.14427v1": {
+        "entry_id": "http://arxiv.org/abs/2601.14427v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.14427v1",
+        "title": "Uma Prova de Conceito para a Verifica\u00e7\u00e3o Formal de Contratos Inteligentes",
+        "comment": "19 pages, 2 figures, 1 table, 2 code listings. Paper in Portuguese",
+        "updated_time": "2026-01-20T19:38:17+00:00",
+        "published_time": "2026-01-20T19:38:17+00:00"
+    },
+    "http://arxiv.org/abs/2601.13903v1": {
+        "entry_id": "http://arxiv.org/abs/2601.13903v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.13903v1",
+        "title": "Know Your Contract: Extending eIDAS Trust into Public Blockchains",
+        "comment": null,
+        "updated_time": "2026-01-20T12:29:00+00:00",
+        "published_time": "2026-01-20T12:29:00+00:00"
+    },
+    "http://arxiv.org/abs/2601.13772v1": {
+        "entry_id": "http://arxiv.org/abs/2601.13772v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.13772v1",
+        "title": "A Blockchain-Oriented Software Engineering Architecture for Carbon Credit Certification Systems",
+        "comment": "2026 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C) 9th International Workshop on Blockchain Oriented Software Engineering March 17-20, 2026 Limassol, Cyprus",
+        "updated_time": "2026-01-20T09:31:14+00:00",
+        "published_time": "2026-01-20T09:31:14+00:00"
+    },
+    "http://arxiv.org/abs/2512.08372v3": {
+        "entry_id": "http://arxiv.org/abs/2512.08372v3",
+        "pdf_url": "https://arxiv.org/pdf/2512.08372v3",
+        "title": "USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts",
+        "comment": null,
+        "updated_time": "2026-01-19T13:29:32+00:00",
+        "published_time": "2025-12-09T08:55:11+00:00"
+    },
+    "http://arxiv.org/abs/2601.12434v1": {
+        "entry_id": "http://arxiv.org/abs/2601.12434v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.12434v1",
+        "title": "ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment",
+        "comment": null,
+        "updated_time": "2026-01-18T14:40:26+00:00",
+        "published_time": "2026-01-18T14:40:26+00:00"
+    },
+    "http://arxiv.org/abs/2601.06699v2": {
+        "entry_id": "http://arxiv.org/abs/2601.06699v2",
+        "pdf_url": "https://arxiv.org/pdf/2601.06699v2",
+        "title": "Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers",
+        "comment": "This work has been submitted to the IEEE for possible publication",
+        "updated_time": "2026-01-16T15:02:53+00:00",
+        "published_time": "2026-01-10T21:49:32+00:00"
+    },
+    "http://arxiv.org/abs/2601.10105v1": {
+        "entry_id": "http://arxiv.org/abs/2601.10105v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.10105v1",
+        "title": "Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing",
+        "comment": null,
+        "updated_time": "2026-01-15T06:23:43+00:00",
+        "published_time": "2026-01-15T06:23:43+00:00"
+    },
+    "http://arxiv.org/abs/2601.09836v1": {
+        "entry_id": "http://arxiv.org/abs/2601.09836v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.09836v1",
+        "title": "A Risk-Stratified Benchmark Dataset for Bad Randomness (SWC-120) Vulnerabilities in Ethereum Smart Contracts",
+        "comment": null,
+        "updated_time": "2026-01-14T19:49:56+00:00",
+        "published_time": "2026-01-14T19:49:56+00:00"
+    },
     "http://arxiv.org/abs/2601.05534v2": {
         "entry_id": "http://arxiv.org/abs/2601.05534v2",
         "pdf_url": "https://arxiv.org/pdf/2601.05534v2",
