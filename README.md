@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-01-23T13:11:05.158261
+Last Updated: 2026-01-24T12:16:25.040509
 
 ## Newest Papers
 
@@ -26,7 +26,7 @@ Last Updated: 2026-01-23T13:11:05.158261
 |18|Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins|[link](http://arxiv.org/abs/2512.02418v2)|🆕 2026-01-09|
 |19|Bithoven: Formal Safety for Expressive Bitcoin Smart Contracts|[link](http://arxiv.org/abs/2601.01436v1)|🆕 2026-01-04|
 |20|Raven: Mining Defensive Patterns in Ethereum via Semantic Transaction Revert Invariants Categories|[link](http://arxiv.org/abs/2512.22616v1)|🆕 2025-12-27|
-|21|USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2512.08372v2)|🆕 2025-12-25|
+|21|USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2512.08372v2)|2025-12-25|
 |22|Understanding Typing-Related Bugs in Solidity Compiler|[link](http://arxiv.org/abs/2512.18182v1)|2025-12-20|
 |23|Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem|[link](http://arxiv.org/abs/2512.17500v1)|2025-12-19|
 |24|Design of a Decentralized Fixed-Income Lending Automated Market Maker Protocol Supporting Arbitrary Maturities|[link](http://arxiv.org/abs/2512.16080v1)|2025-12-18|
