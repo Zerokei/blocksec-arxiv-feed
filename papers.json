@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2601.23009v1": {
+        "entry_id": "http://arxiv.org/abs/2601.23009v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.23009v1",
+        "title": "SolAgent: A Specialized Multi-Agent Framework for Solidity Code Generation",
+        "comment": null,
+        "updated_time": "2026-01-30T14:17:48+00:00",
+        "published_time": "2026-01-30T14:17:48+00:00"
+    },
+    "http://arxiv.org/abs/2512.02918v2": {
+        "entry_id": "http://arxiv.org/abs/2512.02918v2",
+        "pdf_url": "https://arxiv.org/pdf/2512.02918v2",
+        "title": "Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts",
+        "comment": "Revised a lot with new details",
+        "updated_time": "2026-01-30T12:05:45+00:00",
+        "published_time": "2025-12-02T16:36:13+00:00"
+    },
+    "http://arxiv.org/abs/2601.17356v2": {
+        "entry_id": "http://arxiv.org/abs/2601.17356v2",
+        "pdf_url": "https://arxiv.org/pdf/2601.17356v2",
+        "title": "Obfuscation as an Effective Signal for Prioritizing Cross-Chain Smart Contract Audits: Large-Scale Measurement and Risk Profiling",
+        "comment": null,
+        "updated_time": "2026-01-30T05:43:21+00:00",
+        "published_time": "2026-01-24T08:05:39+00:00"
+    },
+    "http://arxiv.org/abs/2601.22302v1": {
+        "entry_id": "http://arxiv.org/abs/2601.22302v1",
+        "pdf_url": "https://arxiv.org/pdf/2601.22302v1",
+        "title": "ZK-HybridFL: Zero-Knowledge Proof-Enhanced Hybrid Ledger for Federated Learning",
+        "comment": "Accepted for publication in IEEE Transactions on Neural Networks and Learning Systems (TNNLS)",
+        "updated_time": "2026-01-29T20:32:30+00:00",
+        "published_time": "2026-01-29T20:32:30+00:00"
+    },
     "http://arxiv.org/abs/2601.17833v1": {
         "entry_id": "http://arxiv.org/abs/2601.17833v1",
         "pdf_url": "https://arxiv.org/pdf/2601.17833v1",
