@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2602.01317v1": {
+        "entry_id": "http://arxiv.org/abs/2602.01317v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.01317v1",
+        "title": "TxRay: Agentic Postmortem of Live Blockchain Attacks",
+        "comment": "21 pages, 9 figures",
+        "updated_time": "2026-02-01T16:17:33+00:00",
+        "published_time": "2026-02-01T16:17:33+00:00"
+    },
+    "http://arxiv.org/abs/2512.15179v2": {
+        "entry_id": "http://arxiv.org/abs/2512.15179v2",
+        "pdf_url": "https://arxiv.org/pdf/2512.15179v2",
+        "title": "No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis",
+        "comment": null,
+        "updated_time": "2026-01-31T13:52:40+00:00",
+        "published_time": "2025-12-17T08:21:43+00:00"
+    },
+    "http://arxiv.org/abs/2512.02399v2": {
+        "entry_id": "http://arxiv.org/abs/2512.02399v2",
+        "pdf_url": "https://arxiv.org/pdf/2512.02399v2",
+        "title": "AtomGraph: Tackling Atomicity Violation in Smart Contracts using Multimodal GCNs",
+        "comment": null,
+        "updated_time": "2026-01-31T13:50:47+00:00",
+        "published_time": "2025-12-02T04:20:02+00:00"
+    },
     "http://arxiv.org/abs/2601.23009v1": {
         "entry_id": "http://arxiv.org/abs/2601.23009v1",
         "pdf_url": "https://arxiv.org/pdf/2601.23009v1",
@@ -38,6 +62,14 @@
         "comment": null,
         "updated_time": "2026-01-25T13:28:37+00:00",
         "published_time": "2026-01-25T13:28:37+00:00"
+    },
+    "http://arxiv.org/abs/2602.00101v1": {
+        "entry_id": "http://arxiv.org/abs/2602.00101v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.00101v1",
+        "title": "A Formal Approach to AMM Fee Mechanisms with Lean 4",
+        "comment": null,
+        "updated_time": "2026-01-24T20:47:42+00:00",
+        "published_time": "2026-01-24T20:47:42+00:00"
     },
     "http://arxiv.org/abs/2601.17356v1": {
         "entry_id": "http://arxiv.org/abs/2601.17356v1",
