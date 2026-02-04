@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2602.03271v1": {
+        "entry_id": "http://arxiv.org/abs/2602.03271v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.03271v1",
+        "title": "LogicScan: An LLM-driven Framework for Detecting Business Logic Vulnerabilities in Smart Contracts",
+        "comment": null,
+        "updated_time": "2026-02-03T08:56:53+00:00",
+        "published_time": "2026-02-03T08:56:53+00:00"
+    },
     "http://arxiv.org/abs/2602.01317v1": {
         "entry_id": "http://arxiv.org/abs/2602.01317v1",
         "pdf_url": "https://arxiv.org/pdf/2602.01317v1",
