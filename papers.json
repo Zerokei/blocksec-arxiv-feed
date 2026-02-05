@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2602.01317v2": {
+        "entry_id": "http://arxiv.org/abs/2602.01317v2",
+        "pdf_url": "https://arxiv.org/pdf/2602.01317v2",
+        "title": "TxRay: Agentic Postmortem of Live Blockchain Attacks",
+        "comment": "24 pages, 8 figures",
+        "updated_time": "2026-02-04T16:54:43+00:00",
+        "published_time": "2026-02-01T16:17:33+00:00"
+    },
+    "http://arxiv.org/abs/2602.04418v1": {
+        "entry_id": "http://arxiv.org/abs/2602.04418v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.04418v1",
+        "title": "SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing",
+        "comment": null,
+        "updated_time": "2026-02-04T10:51:19+00:00",
+        "published_time": "2026-02-04T10:51:19+00:00"
+    },
+    "http://arxiv.org/abs/2602.04039v1": {
+        "entry_id": "http://arxiv.org/abs/2602.04039v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.04039v1",
+        "title": "Evaluating the Vulnerability Landscape of LLM-Generated Smart Contracts",
+        "comment": null,
+        "updated_time": "2026-02-03T22:07:26+00:00",
+        "published_time": "2026-02-03T22:07:26+00:00"
+    },
+    "http://arxiv.org/abs/2602.03981v1": {
+        "entry_id": "http://arxiv.org/abs/2602.03981v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.03981v1",
+        "title": "DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks",
+        "comment": null,
+        "updated_time": "2026-02-03T20:10:11+00:00",
+        "published_time": "2026-02-03T20:10:11+00:00"
+    },
     "http://arxiv.org/abs/2602.03271v1": {
         "entry_id": "http://arxiv.org/abs/2602.03271v1",
         "pdf_url": "https://arxiv.org/pdf/2602.03271v1",
