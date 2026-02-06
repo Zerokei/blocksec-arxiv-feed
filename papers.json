@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2602.01317v3": {
+        "entry_id": "http://arxiv.org/abs/2602.01317v3",
+        "pdf_url": "https://arxiv.org/pdf/2602.01317v3",
+        "title": "TxRay: Agentic Postmortem of Live Blockchain Attacks",
+        "comment": "24 pages, 8 figures",
+        "updated_time": "2026-02-05T03:29:11+00:00",
+        "published_time": "2026-02-01T16:17:33+00:00"
+    },
     "http://arxiv.org/abs/2602.01317v2": {
         "entry_id": "http://arxiv.org/abs/2602.01317v2",
         "pdf_url": "https://arxiv.org/pdf/2602.01317v2",
