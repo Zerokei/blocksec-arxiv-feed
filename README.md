@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-02-07T13:13:09.288862
+Last Updated: 2026-02-08T12:21:24.351061
 
 ## Newest Papers
 
@@ -38,9 +38,9 @@ Last Updated: 2026-02-07T13:13:09.288862
 |30|Towards Compositional Generalization in LLMs for Smart Contract Security: A Case Study on Reentrancy Vulnerabilities|[link](http://arxiv.org/abs/2601.06914v1)|🆕 2026-01-11|
 |31|Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers|[link](http://arxiv.org/abs/2601.06699v1)|🆕 2026-01-10|
 |32|zkRansomware: Proof-of-Data Recoverability and Multi-round Game Theoretic Modeling of Ransomware Decisions|[link](http://arxiv.org/abs/2601.06667v1)|🆕 2026-01-10|
-|33|SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking|[link](http://arxiv.org/abs/2601.05827v1)|🆕 2026-01-09|
-|34|Blockchain Verifiable Proof of Quantum Supremacy as a Trigger for Quantum-Secure Signatures|[link](http://arxiv.org/abs/2601.05534v1)|🆕 2026-01-09|
-|35|Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins|[link](http://arxiv.org/abs/2512.02418v2)|🆕 2026-01-09|
+|33|SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking|[link](http://arxiv.org/abs/2601.05827v1)|2026-01-09|
+|34|Blockchain Verifiable Proof of Quantum Supremacy as a Trigger for Quantum-Secure Signatures|[link](http://arxiv.org/abs/2601.05534v1)|2026-01-09|
+|35|Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins|[link](http://arxiv.org/abs/2512.02418v2)|2026-01-09|
 |36|Bithoven: Formal Safety for Expressive Bitcoin Smart Contracts|[link](http://arxiv.org/abs/2601.01436v1)|2026-01-04|
 |37|Raven: Mining Defensive Patterns in Ethereum via Semantic Transaction Revert Invariants Categories|[link](http://arxiv.org/abs/2512.22616v1)|2025-12-27|
 |38|USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2512.08372v2)|2025-12-25|
