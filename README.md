@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-02-08T12:21:24.351061
+Last Updated: 2026-02-09T13:55:28.783875
 
 ## Newest Papers
 
@@ -36,8 +36,8 @@ Last Updated: 2026-02-08T12:21:24.351061
 |28|TeeMAF: A TEE-Based Mutual Attestation Framework for On-Chain and Off-Chain Functions in Blockchain DApps|[link](http://arxiv.org/abs/2601.07726v1)|🆕 2026-01-12|
 |29|Examining the Effectiveness of Transformer-Based Smart Contract Vulnerability Scan|[link](http://arxiv.org/abs/2601.07334v1)|🆕 2026-01-12|
 |30|Towards Compositional Generalization in LLMs for Smart Contract Security: A Case Study on Reentrancy Vulnerabilities|[link](http://arxiv.org/abs/2601.06914v1)|🆕 2026-01-11|
-|31|Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers|[link](http://arxiv.org/abs/2601.06699v1)|🆕 2026-01-10|
-|32|zkRansomware: Proof-of-Data Recoverability and Multi-round Game Theoretic Modeling of Ransomware Decisions|[link](http://arxiv.org/abs/2601.06667v1)|🆕 2026-01-10|
+|31|Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers|[link](http://arxiv.org/abs/2601.06699v1)|2026-01-10|
+|32|zkRansomware: Proof-of-Data Recoverability and Multi-round Game Theoretic Modeling of Ransomware Decisions|[link](http://arxiv.org/abs/2601.06667v1)|2026-01-10|
 |33|SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking|[link](http://arxiv.org/abs/2601.05827v1)|2026-01-09|
 |34|Blockchain Verifiable Proof of Quantum Supremacy as a Trigger for Quantum-Secure Signatures|[link](http://arxiv.org/abs/2601.05534v1)|2026-01-09|
 |35|Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins|[link](http://arxiv.org/abs/2512.02418v2)|2026-01-09|
