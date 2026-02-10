@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2602.01317v4": {
+        "entry_id": "http://arxiv.org/abs/2602.01317v4",
+        "pdf_url": "https://arxiv.org/pdf/2602.01317v4",
+        "title": "TxRay: Agentic Postmortem of Live Blockchain Attacks",
+        "comment": "24 pages, 8 figures",
+        "updated_time": "2026-02-09T11:12:45+00:00",
+        "published_time": "2026-02-01T16:17:33+00:00"
+    },
+    "http://arxiv.org/abs/2602.08290v1": {
+        "entry_id": "http://arxiv.org/abs/2602.08290v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.08290v1",
+        "title": "Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning Systems",
+        "comment": "To appear in the ICBTA 2025 Conference Proceedings and published as a volume of Lecture Notes in Networks and Systems by Springer",
+        "updated_time": "2026-02-09T05:47:51+00:00",
+        "published_time": "2026-02-09T05:47:51+00:00"
+    },
+    "http://arxiv.org/abs/2602.08014v1": {
+        "entry_id": "http://arxiv.org/abs/2602.08014v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.08014v1",
+        "title": "ICBAC: an Intelligent Contract-Based Access Control framework for supply chain management by integrating blockchain and federated learning",
+        "comment": "19 pages, 6 Figures, 3 Tables",
+        "updated_time": "2026-02-08T15:27:58+00:00",
+        "published_time": "2026-02-08T15:27:58+00:00"
+    },
     "http://arxiv.org/abs/2602.01317v3": {
         "entry_id": "http://arxiv.org/abs/2602.01317v3",
         "pdf_url": "https://arxiv.org/pdf/2602.01317v3",
