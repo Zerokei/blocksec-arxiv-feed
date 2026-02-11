@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2602.09822v1": {
+        "entry_id": "http://arxiv.org/abs/2602.09822v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.09822v1",
+        "title": "From Multi-sig to DLCs: Modern Oracle Designs on Bitcoin",
+        "comment": "Not peer reviewed",
+        "updated_time": "2026-02-10T14:31:03+00:00",
+        "published_time": "2026-02-10T14:31:03+00:00"
+    },
     "http://arxiv.org/abs/2602.01317v4": {
         "entry_id": "http://arxiv.org/abs/2602.01317v4",
         "pdf_url": "https://arxiv.org/pdf/2602.01317v4",
