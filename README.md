@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-02-12T13:51:41.396476
+Last Updated: 2026-02-13T12:29:00.768521
 
 ## Newest Papers
 
@@ -36,7 +36,7 @@ Last Updated: 2026-02-12T13:51:41.396476
 |28|ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment|[link](http://arxiv.org/abs/2601.12434v1)|🆕 2026-01-18|
 |29|Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers|[link](http://arxiv.org/abs/2601.06699v2)|🆕 2026-01-16|
 |30|Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing|[link](http://arxiv.org/abs/2601.10105v1)|🆕 2026-01-15|
-|31|A Risk-Stratified Benchmark Dataset for Bad Randomness (SWC-120) Vulnerabilities in Ethereum Smart Contracts|[link](http://arxiv.org/abs/2601.09836v1)|🆕 2026-01-14|
+|31|A Risk-Stratified Benchmark Dataset for Bad Randomness (SWC-120) Vulnerabilities in Ethereum Smart Contracts|[link](http://arxiv.org/abs/2601.09836v1)|2026-01-14|
 |32|Blockchain Verifiable Proof of Quantum Supremacy as a Trigger for Quantum-Secure Signatures|[link](http://arxiv.org/abs/2601.05534v2)|2026-01-13|
 |33|Decentralized Firmware Integrity Verification for Cyber-Physical Systems Using Ethereum Blockchain|[link](http://arxiv.org/abs/2601.08091v1)|2026-01-13|
 |34|TeeMAF: A TEE-Based Mutual Attestation Framework for On-Chain and Off-Chain Functions in Blockchain DApps|[link](http://arxiv.org/abs/2601.07726v1)|2026-01-12|
