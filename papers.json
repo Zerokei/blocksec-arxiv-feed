@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2602.10892v2": {
+        "entry_id": "http://arxiv.org/abs/2602.10892v2",
+        "pdf_url": "https://arxiv.org/pdf/2602.10892v2",
+        "title": "Resilient Alerting Protocols for Blockchains",
+        "comment": null,
+        "updated_time": "2026-02-15T08:31:28+00:00",
+        "published_time": "2026-02-11T14:23:15+00:00"
+    },
+    "http://arxiv.org/abs/2602.13808v1": {
+        "entry_id": "http://arxiv.org/abs/2602.13808v1",
+        "pdf_url": "https://arxiv.org/pdf/2602.13808v1",
+        "title": "An end-to-end agentic pipeline for smart contract translation and quality evaluation",
+        "comment": "17 pages, 4 figures",
+        "updated_time": "2026-02-14T14:37:59+00:00",
+        "published_time": "2026-02-14T14:37:59+00:00"
+    },
     "http://arxiv.org/abs/2602.10892v1": {
         "entry_id": "http://arxiv.org/abs/2602.10892v1",
         "pdf_url": "https://arxiv.org/pdf/2602.10892v1",
