@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-02-17T13:45:32.364018
+Last Updated: 2026-02-18T12:31:09.478836
 
 ## Newest Papers
 
@@ -34,7 +34,7 @@ Last Updated: 2026-02-17T13:45:32.364018
 |26|Uma Prova de Conceito para a Verificação Formal de Contratos Inteligentes|[link](http://arxiv.org/abs/2601.14427v1)|🆕 2026-01-20|
 |27|Know Your Contract: Extending eIDAS Trust into Public Blockchains|[link](http://arxiv.org/abs/2601.13903v1)|🆕 2026-01-20|
 |28|A Blockchain-Oriented Software Engineering Architecture for Carbon Credit Certification Systems|[link](http://arxiv.org/abs/2601.13772v1)|🆕 2026-01-20|
-|29|USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2512.08372v3)|🆕 2026-01-19|
+|29|USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2512.08372v3)|2026-01-19|
 |30|ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment|[link](http://arxiv.org/abs/2601.12434v1)|2026-01-18|
 |31|Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers|[link](http://arxiv.org/abs/2601.06699v2)|2026-01-16|
 |32|Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing|[link](http://arxiv.org/abs/2601.10105v1)|2026-01-15|
