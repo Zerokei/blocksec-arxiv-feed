@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-02-18T13:47:38.870759
+Last Updated: 2026-02-19T12:32:49.850556
 
 ## Newest Papers
 
@@ -31,9 +31,9 @@ Last Updated: 2026-02-18T13:47:38.870759
 |23|A Formal Approach to AMM Fee Mechanisms with Lean 4|[link](http://arxiv.org/abs/2602.00101v1)|🆕 2026-01-24|
 |24|From Scores to Queues: Operationalizing Cross-Chain Obfuscation Signals for Smart-Contract Audits|[link](http://arxiv.org/abs/2601.17356v1)|🆕 2026-01-24|
 |25|FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges|[link](http://arxiv.org/abs/2601.16298v1)|🆕 2026-01-22|
-|26|Uma Prova de Conceito para a Verificação Formal de Contratos Inteligentes|[link](http://arxiv.org/abs/2601.14427v1)|🆕 2026-01-20|
-|27|Know Your Contract: Extending eIDAS Trust into Public Blockchains|[link](http://arxiv.org/abs/2601.13903v1)|🆕 2026-01-20|
-|28|A Blockchain-Oriented Software Engineering Architecture for Carbon Credit Certification Systems|[link](http://arxiv.org/abs/2601.13772v1)|🆕 2026-01-20|
+|26|Uma Prova de Conceito para a Verificação Formal de Contratos Inteligentes|[link](http://arxiv.org/abs/2601.14427v1)|2026-01-20|
+|27|Know Your Contract: Extending eIDAS Trust into Public Blockchains|[link](http://arxiv.org/abs/2601.13903v1)|2026-01-20|
+|28|A Blockchain-Oriented Software Engineering Architecture for Carbon Credit Certification Systems|[link](http://arxiv.org/abs/2601.13772v1)|2026-01-20|
 |29|USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2512.08372v3)|2026-01-19|
 |30|ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment|[link](http://arxiv.org/abs/2601.12434v1)|2026-01-18|
 |31|Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers|[link](http://arxiv.org/abs/2601.06699v2)|2026-01-16|
