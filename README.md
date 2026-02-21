@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-02-20T13:37:57.886031
+Last Updated: 2026-02-21T12:19:36.312218
 
 ## Newest Papers
 
@@ -30,7 +30,7 @@ Last Updated: 2026-02-20T13:37:57.886031
 |22|An Effective and Cost-Efficient Agentic Framework for Ethereum Smart Contract Auditing|[link](http://arxiv.org/abs/2601.17833v1)|🆕 2026-01-25|
 |23|A Formal Approach to AMM Fee Mechanisms with Lean 4|[link](http://arxiv.org/abs/2602.00101v1)|🆕 2026-01-24|
 |24|From Scores to Queues: Operationalizing Cross-Chain Obfuscation Signals for Smart-Contract Audits|[link](http://arxiv.org/abs/2601.17356v1)|🆕 2026-01-24|
-|25|FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges|[link](http://arxiv.org/abs/2601.16298v1)|🆕 2026-01-22|
+|25|FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges|[link](http://arxiv.org/abs/2601.16298v1)|2026-01-22|
 |26|Uma Prova de Conceito para a Verificação Formal de Contratos Inteligentes|[link](http://arxiv.org/abs/2601.14427v1)|2026-01-20|
 |27|Know Your Contract: Extending eIDAS Trust into Public Blockchains|[link](http://arxiv.org/abs/2601.13903v1)|2026-01-20|
 |28|A Blockchain-Oriented Software Engineering Architecture for Carbon Credit Certification Systems|[link](http://arxiv.org/abs/2601.13772v1)|2026-01-20|
