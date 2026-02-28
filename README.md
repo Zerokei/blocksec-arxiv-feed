@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-02-27T13:36:38.755055
+Last Updated: 2026-02-28T12:19:03.224097
 
 ## Newest Papers
 
@@ -30,7 +30,7 @@ Last Updated: 2026-02-27T13:36:38.755055
 |22|SolAgent: A Specialized Multi-Agent Framework for Solidity Code Generation|[link](http://arxiv.org/abs/2601.23009v1)|🆕 2026-01-30|
 |23|Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts|[link](http://arxiv.org/abs/2512.02918v2)|🆕 2026-01-30|
 |24|Obfuscation as an Effective Signal for Prioritizing Cross-Chain Smart Contract Audits: Large-Scale Measurement and Risk Profiling|[link](http://arxiv.org/abs/2601.17356v2)|🆕 2026-01-30|
-|25|ZK-HybridFL: Zero-Knowledge Proof-Enhanced Hybrid Ledger for Federated Learning|[link](http://arxiv.org/abs/2601.22302v1)|🆕 2026-01-29|
+|25|ZK-HybridFL: Zero-Knowledge Proof-Enhanced Hybrid Ledger for Federated Learning|[link](http://arxiv.org/abs/2601.22302v1)|2026-01-29|
 |26|An Effective and Cost-Efficient Agentic Framework for Ethereum Smart Contract Auditing|[link](http://arxiv.org/abs/2601.17833v1)|2026-01-25|
 |27|A Formal Approach to AMM Fee Mechanisms with Lean 4|[link](http://arxiv.org/abs/2602.00101v1)|2026-01-24|
 |28|From Scores to Queues: Operationalizing Cross-Chain Obfuscation Signals for Smart-Contract Audits|[link](http://arxiv.org/abs/2601.17356v1)|2026-01-24|
