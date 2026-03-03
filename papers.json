@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2603.01272v1": {
+        "entry_id": "http://arxiv.org/abs/2603.01272v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.01272v1",
+        "title": "NeuroSCA: Neuro-Symbolic Constraint Abstraction for Smart Contract Hybrid Fuzzing",
+        "comment": "Under Review",
+        "updated_time": "2026-03-01T20:58:51+00:00",
+        "published_time": "2026-03-01T20:58:51+00:00"
+    },
+    "http://arxiv.org/abs/2603.00890v1": {
+        "entry_id": "http://arxiv.org/abs/2603.00890v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.00890v1",
+        "title": "Where Do Smart Contract Security Analyzers Fall Short?",
+        "comment": "13 pages. In 23rd International Conference on Mining Software Repositories (MSR26), April 13, 2026, Rio de Janeiro, Brazil",
+        "updated_time": "2026-03-01T03:27:05+00:00",
+        "published_time": "2026-03-01T03:27:05+00:00"
+    },
+    "http://arxiv.org/abs/2603.00708v1": {
+        "entry_id": "http://arxiv.org/abs/2603.00708v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.00708v1",
+        "title": "The On-Chain and Off-Chain Mechanisms of DAO-to-DAO Voting",
+        "comment": null,
+        "updated_time": "2026-02-28T15:30:27+00:00",
+        "published_time": "2026-02-28T15:30:27+00:00"
+    },
     "http://arxiv.org/abs/2602.21529v1": {
         "entry_id": "http://arxiv.org/abs/2602.21529v1",
         "pdf_url": "https://arxiv.org/pdf/2602.21529v1",
