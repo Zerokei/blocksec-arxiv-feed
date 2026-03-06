@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2603.04915v1": {
+        "entry_id": "http://arxiv.org/abs/2603.04915v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.04915v1",
+        "title": "EVMbench: Evaluating AI Agents on Smart Contract Security",
+        "comment": null,
+        "updated_time": "2026-03-05T07:59:14+00:00",
+        "published_time": "2026-03-05T07:59:14+00:00"
+    },
     "http://arxiv.org/abs/2603.04168v1": {
         "entry_id": "http://arxiv.org/abs/2603.04168v1",
         "pdf_url": "https://arxiv.org/pdf/2603.04168v1",
