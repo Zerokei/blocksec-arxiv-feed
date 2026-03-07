@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-03-06T12:25:57.987085
+Last Updated: 2026-03-07T12:19:36.552173
 
 ## Newest Papers
 
@@ -23,7 +23,7 @@ Last Updated: 2026-03-06T12:25:57.987085
 |15|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v4)|🆕 2026-02-09|
 |16|Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning Systems|[link](http://arxiv.org/abs/2602.08290v1)|🆕 2026-02-09|
 |17|ICBAC: an Intelligent Contract-Based Access Control framework for supply chain management by integrating blockchain and federated learning|[link](http://arxiv.org/abs/2602.08014v1)|🆕 2026-02-08|
-|18|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v3)|🆕 2026-02-05|
+|18|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v3)|2026-02-05|
 |19|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v2)|2026-02-04|
 |20|SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing|[link](http://arxiv.org/abs/2602.04418v1)|2026-02-04|
 |21|Evaluating the Vulnerability Landscape of LLM-Generated Smart Contracts|[link](http://arxiv.org/abs/2602.04039v1)|2026-02-03|
