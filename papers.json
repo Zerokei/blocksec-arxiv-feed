@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2603.08580v1": {
+        "entry_id": "http://arxiv.org/abs/2603.08580v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.08580v1",
+        "title": "SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction",
+        "comment": null,
+        "updated_time": "2026-03-09T16:35:17+00:00",
+        "published_time": "2026-03-09T16:35:17+00:00"
+    },
+    "http://arxiv.org/abs/2603.07996v1": {
+        "entry_id": "http://arxiv.org/abs/2603.07996v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.07996v1",
+        "title": "More to Extract: Discovering MEV by Token Contract Analysis",
+        "comment": "12 pages",
+        "updated_time": "2026-03-09T06:02:15+00:00",
+        "published_time": "2026-03-09T06:02:15+00:00"
+    },
+    "http://arxiv.org/abs/2603.07933v1": {
+        "entry_id": "http://arxiv.org/abs/2603.07933v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.07933v1",
+        "title": "Condition-Triggered Cryptographic Asset Control via Dormant Authorization Paths",
+        "comment": "26 pages, 1 figure",
+        "updated_time": "2026-03-09T03:57:06+00:00",
+        "published_time": "2026-03-09T03:57:06+00:00"
+    },
     "http://arxiv.org/abs/2603.04915v1": {
         "entry_id": "http://arxiv.org/abs/2603.04915v1",
         "pdf_url": "https://arxiv.org/pdf/2603.04915v1",
