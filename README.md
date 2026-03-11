@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-03-10T13:41:56.566926
+Last Updated: 2026-03-11T12:29:52.856100
 
 ## Newest Papers
 
@@ -23,8 +23,8 @@ Last Updated: 2026-03-10T13:41:56.566926
 |15|Resilient Alerting Protocols for Blockchains|[link](http://arxiv.org/abs/2602.10892v1)|🆕 2026-02-11|
 |16|From Multi-sig to DLCs: Modern Oracle Designs on Bitcoin|[link](http://arxiv.org/abs/2602.09822v1)|🆕 2026-02-10|
 |17|Non-Fungible Blockchain Tokens for Traceable Online-Quality Assurance of Milled Workpieces|[link](http://arxiv.org/abs/2602.10169v1)|🆕 2026-02-10|
-|18|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v4)|🆕 2026-02-09|
-|19|Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning Systems|[link](http://arxiv.org/abs/2602.08290v1)|🆕 2026-02-09|
+|18|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v4)|2026-02-09|
+|19|Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning Systems|[link](http://arxiv.org/abs/2602.08290v1)|2026-02-09|
 |20|ICBAC: an Intelligent Contract-Based Access Control framework for supply chain management by integrating blockchain and federated learning|[link](http://arxiv.org/abs/2602.08014v1)|2026-02-08|
 |21|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v3)|2026-02-05|
 |22|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v2)|2026-02-04|
