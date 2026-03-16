@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-03-15T13:25:49.324673
+Last Updated: 2026-03-16T12:39:36.157268
 
 ## Newest Papers
 
@@ -21,7 +21,7 @@ Last Updated: 2026-03-15T13:25:49.324673
 |13|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v5)|🆕 2026-02-23|
 |14|PenTiDef: Enhancing Privacy and Robustness in Decentralized Federated Intrusion Detection Systems against Poisoning Attacks|[link](http://arxiv.org/abs/2602.17973v1)|🆕 2026-02-20|
 |15|Resilient Alerting Protocols for Blockchains|[link](http://arxiv.org/abs/2602.10892v2)|🆕 2026-02-15|
-|16|An end-to-end agentic pipeline for smart contract translation and quality evaluation|[link](http://arxiv.org/abs/2602.13808v1)|🆕 2026-02-14|
+|16|An end-to-end agentic pipeline for smart contract translation and quality evaluation|[link](http://arxiv.org/abs/2602.13808v1)|2026-02-14|
 |17|Resilient Alerting Protocols for Blockchains|[link](http://arxiv.org/abs/2602.10892v1)|2026-02-11|
 |18|From Multi-sig to DLCs: Modern Oracle Designs on Bitcoin|[link](http://arxiv.org/abs/2602.09822v1)|2026-02-10|
 |19|Non-Fungible Blockchain Tokens for Traceable Online-Quality Assurance of Milled Workpieces|[link](http://arxiv.org/abs/2602.10169v1)|2026-02-10|
