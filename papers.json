@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2603.16349v1": {
+        "entry_id": "http://arxiv.org/abs/2603.16349v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.16349v1",
+        "title": "SseRex: Practical Symbolic Execution of Solana Smart Contracts",
+        "comment": "This paper appeared on the 23rd Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA '26) in July 2026",
+        "updated_time": "2026-03-17T10:33:11+00:00",
+        "published_time": "2026-03-17T10:33:11+00:00"
+    },
     "http://arxiv.org/abs/2603.13900v1": {
         "entry_id": "http://arxiv.org/abs/2603.13900v1",
         "pdf_url": "https://arxiv.org/pdf/2603.13900v1",
