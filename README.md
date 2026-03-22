@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-03-21T13:13:00.817643
+Last Updated: 2026-03-22T12:21:53.439645
 
 ## Newest Papers
 
@@ -22,7 +22,7 @@ Last Updated: 2026-03-21T13:13:00.817643
 |14|TM-RUGPULL: A Temporary Sound, Multimodal Dataset for Early Detection of RUG Pulls Across the Tokenized Ecosystem|[link](http://arxiv.org/abs/2602.21529v1)|🆕 2026-02-25|
 |15|A Secure and Interoperable Architecture for Electronic Health Record Access Control and Sharing|[link](http://arxiv.org/abs/2602.20830v1)|🆕 2026-02-24|
 |16|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v5)|🆕 2026-02-23|
-|17|PenTiDef: Enhancing Privacy and Robustness in Decentralized Federated Intrusion Detection Systems against Poisoning Attacks|[link](http://arxiv.org/abs/2602.17973v1)|🆕 2026-02-20|
+|17|PenTiDef: Enhancing Privacy and Robustness in Decentralized Federated Intrusion Detection Systems against Poisoning Attacks|[link](http://arxiv.org/abs/2602.17973v1)|2026-02-20|
 |18|Resilient Alerting Protocols for Blockchains|[link](http://arxiv.org/abs/2602.10892v2)|2026-02-15|
 |19|An end-to-end agentic pipeline for smart contract translation and quality evaluation|[link](http://arxiv.org/abs/2602.13808v1)|2026-02-14|
 |20|Resilient Alerting Protocols for Blockchains|[link](http://arxiv.org/abs/2602.10892v1)|2026-02-11|
