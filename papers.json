@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2603.21894v1": {
+        "entry_id": "http://arxiv.org/abs/2603.21894v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.21894v1",
+        "title": "Albank -- a case study on the use of ethereum blockchain technology and smart contracts for secure decentralized bank application",
+        "comment": null,
+        "updated_time": "2026-03-23T12:20:31+00:00",
+        "published_time": "2026-03-23T12:20:31+00:00"
+    },
+    "http://arxiv.org/abs/2603.21149v1": {
+        "entry_id": "http://arxiv.org/abs/2603.21149v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.21149v1",
+        "title": "Emergent Formal Verification: How an Autonomous AI Ecosystem Independently Discovered SMT-Based Safety Across Six Domains",
+        "comment": "10 pages, 3 figures, 5 tables. Code: https://github.com/octavuntila-prog/substrate-guard. Companion paper: https://doi.org/10.5281/zenodo.19157571",
+        "updated_time": "2026-03-22T10:02:16+00:00",
+        "published_time": "2026-03-22T10:02:16+00:00"
+    },
+    "http://arxiv.org/abs/2603.21058v1": {
+        "entry_id": "http://arxiv.org/abs/2603.21058v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.21058v1",
+        "title": "Zero-Shot Vulnerability Detection in Low-Resource Smart Contracts Through Solidity-Only Training",
+        "comment": null,
+        "updated_time": "2026-03-22T04:53:29+00:00",
+        "published_time": "2026-03-22T04:53:29+00:00"
+    },
     "http://arxiv.org/abs/2603.16349v1": {
         "entry_id": "http://arxiv.org/abs/2603.16349v1",
         "pdf_url": "https://arxiv.org/pdf/2603.16349v1",
