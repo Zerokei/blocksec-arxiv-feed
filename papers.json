@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2603.23441v1": {
+        "entry_id": "http://arxiv.org/abs/2603.23441v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.23441v1",
+        "title": "MuSe: a Mutation Testing Plugin for the Remix IDE",
+        "comment": null,
+        "updated_time": "2026-03-24T17:13:23+00:00",
+        "published_time": "2026-03-24T17:13:23+00:00"
+    },
     "http://arxiv.org/abs/2603.21894v1": {
         "entry_id": "http://arxiv.org/abs/2603.21894v1",
         "pdf_url": "https://arxiv.org/pdf/2603.21894v1",
