@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-03-25T13:58:37.090287
+Last Updated: 2026-03-26T12:42:44.463300
 
 ## Newest Papers
 
@@ -24,7 +24,7 @@ Last Updated: 2026-03-25T13:58:37.090287
 |16|Where Do Smart Contract Security Analyzers Fall Short?|[link](http://arxiv.org/abs/2603.00890v1)|🆕 2026-03-01|
 |17|The On-Chain and Off-Chain Mechanisms of DAO-to-DAO Voting|[link](http://arxiv.org/abs/2603.00708v1)|🆕 2026-02-28|
 |18|TM-RUGPULL: A Temporary Sound, Multimodal Dataset for Early Detection of RUG Pulls Across the Tokenized Ecosystem|[link](http://arxiv.org/abs/2602.21529v1)|🆕 2026-02-25|
-|19|A Secure and Interoperable Architecture for Electronic Health Record Access Control and Sharing|[link](http://arxiv.org/abs/2602.20830v1)|🆕 2026-02-24|
+|19|A Secure and Interoperable Architecture for Electronic Health Record Access Control and Sharing|[link](http://arxiv.org/abs/2602.20830v1)|2026-02-24|
 |20|TxRay: Agentic Postmortem of Live Blockchain Attacks|[link](http://arxiv.org/abs/2602.01317v5)|2026-02-23|
 |21|PenTiDef: Enhancing Privacy and Robustness in Decentralized Federated Intrusion Detection Systems against Poisoning Attacks|[link](http://arxiv.org/abs/2602.17973v1)|2026-02-20|
 |22|Resilient Alerting Protocols for Blockchains|[link](http://arxiv.org/abs/2602.10892v2)|2026-02-15|
