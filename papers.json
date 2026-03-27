@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2603.25100v1": {
+        "entry_id": "http://arxiv.org/abs/2603.25100v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.25100v1",
+        "title": "From Logic Monopoly to Social Contract: Separation of Power and the Institutional Foundations for Autonomous Agent Economies",
+        "comment": "143 pages, 15 tables, 23 figures, 173 references, 4 appendices. Working paper -- pre-peer-review preprint. LaTeX source with arXiv-style template. Three companion manuscripts under development targeting peer-reviewed venues",
+        "updated_time": "2026-03-26T07:14:48+00:00",
+        "published_time": "2026-03-26T07:14:48+00:00"
+    },
+    "http://arxiv.org/abs/2603.24625v1": {
+        "entry_id": "http://arxiv.org/abs/2603.24625v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.24625v1",
+        "title": "SolRugDetector: Investigating Rug Pulls on Solana",
+        "comment": null,
+        "updated_time": "2026-03-25T02:31:31+00:00",
+        "published_time": "2026-03-25T02:31:31+00:00"
+    },
     "http://arxiv.org/abs/2603.23441v1": {
         "entry_id": "http://arxiv.org/abs/2603.23441v1",
         "pdf_url": "https://arxiv.org/pdf/2603.23441v1",
