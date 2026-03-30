@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2603.26497v1": {
+        "entry_id": "http://arxiv.org/abs/2603.26497v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.26497v1",
+        "title": "Reentrancy Detection in the Age of LLMs",
+        "comment": null,
+        "updated_time": "2026-03-27T15:00:42+00:00",
+        "published_time": "2026-03-27T15:00:42+00:00"
+    },
+    "http://arxiv.org/abs/2603.26361v1": {
+        "entry_id": "http://arxiv.org/abs/2603.26361v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.26361v1",
+        "title": "Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance",
+        "comment": "6 pages, short paper, 4 figures, Blockchain Confluence, IEEE International Conference on Distributed Ledger Technologies",
+        "updated_time": "2026-03-27T12:41:24+00:00",
+        "published_time": "2026-03-27T12:41:24+00:00"
+    },
+    "http://arxiv.org/abs/2603.26293v1": {
+        "entry_id": "http://arxiv.org/abs/2603.26293v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.26293v1",
+        "title": "Bitcoin Smart Accounts: Trust-Minimized Native Bitcoin DeFi Infrastructure",
+        "comment": null,
+        "updated_time": "2026-03-27T11:03:21+00:00",
+        "published_time": "2026-03-27T11:03:21+00:00"
+    },
+    "http://arxiv.org/abs/2603.08580v2": {
+        "entry_id": "http://arxiv.org/abs/2603.08580v2",
+        "pdf_url": "https://arxiv.org/pdf/2603.08580v2",
+        "title": "SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction",
+        "comment": null,
+        "updated_time": "2026-03-27T11:02:29+00:00",
+        "published_time": "2026-03-09T16:35:17+00:00"
+    },
+    "http://arxiv.org/abs/2603.26290v1": {
+        "entry_id": "http://arxiv.org/abs/2603.26290v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.26290v1",
+        "title": "PEB Separation and State Migration: Unmasking the New Frontiers of DeFi AML Evasion",
+        "comment": null,
+        "updated_time": "2026-03-27T10:58:54+00:00",
+        "published_time": "2026-03-27T10:58:54+00:00"
+    },
+    "http://arxiv.org/abs/2603.26270v1": {
+        "entry_id": "http://arxiv.org/abs/2603.26270v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.26270v1",
+        "title": "Knowdit: Agentic Smart Contract Vulnerability Detection with Auditing Knowledge Summarization",
+        "comment": null,
+        "updated_time": "2026-03-27T10:38:40+00:00",
+        "published_time": "2026-03-27T10:38:40+00:00"
+    },
     "http://arxiv.org/abs/2603.25100v1": {
         "entry_id": "http://arxiv.org/abs/2603.25100v1",
         "pdf_url": "https://arxiv.org/pdf/2603.25100v1",
