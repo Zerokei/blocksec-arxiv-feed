@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2603.28434v1": {
+        "entry_id": "http://arxiv.org/abs/2603.28434v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.28434v1",
+        "title": "Democratizing Federated Learning with Blockchain and Multi-Task Peer Prediction",
+        "comment": "Published at the IEEE Conference on Artificial Intelligence 2024 in Singapore (Blockchain Workshop)",
+        "updated_time": "2026-03-30T13:42:56+00:00",
+        "published_time": "2026-03-30T13:42:56+00:00"
+    },
+    "http://arxiv.org/abs/2603.28128v1": {
+        "entry_id": "http://arxiv.org/abs/2603.28128v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.28128v1",
+        "title": "ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment",
+        "comment": "26 pages",
+        "updated_time": "2026-03-30T07:46:59+00:00",
+        "published_time": "2026-03-30T07:46:59+00:00"
+    },
+    "http://arxiv.org/abs/2603.27734v1": {
+        "entry_id": "http://arxiv.org/abs/2603.27734v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.27734v1",
+        "title": "Robust Smart Contract Vulnerability Detection via Contrastive Learning-Enhanced Granular-ball Training",
+        "comment": null,
+        "updated_time": "2026-03-29T15:19:50+00:00",
+        "published_time": "2026-03-29T15:19:50+00:00"
+    },
+    "http://arxiv.org/abs/2602.10892v3": {
+        "entry_id": "http://arxiv.org/abs/2602.10892v3",
+        "pdf_url": "https://arxiv.org/pdf/2602.10892v3",
+        "title": "Resilient Alerting Protocols for Blockchains",
+        "comment": null,
+        "updated_time": "2026-03-29T15:03:29+00:00",
+        "published_time": "2026-02-11T14:23:15+00:00"
+    },
     "http://arxiv.org/abs/2603.26497v1": {
         "entry_id": "http://arxiv.org/abs/2603.26497v1",
         "pdf_url": "https://arxiv.org/pdf/2603.26497v1",
