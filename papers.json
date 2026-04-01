@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2603.29278v1": {
+        "entry_id": "http://arxiv.org/abs/2603.29278v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.29278v1",
+        "title": "A Regulatory Compliance Protocol for Asset Interoperability Between Traditional and Decentralized Finance in Tokenized Capital Markets",
+        "comment": "39 pages, 9 figures, 4 tables",
+        "updated_time": "2026-03-31T05:24:27+00:00",
+        "published_time": "2026-03-31T05:24:27+00:00"
+    },
+    "http://arxiv.org/abs/2603.28846v1": {
+        "entry_id": "http://arxiv.org/abs/2603.28846v1",
+        "pdf_url": "https://arxiv.org/pdf/2603.28846v1",
+        "title": "Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations",
+        "comment": "57 pages, 14 figures",
+        "updated_time": "2026-03-30T17:59:25+00:00",
+        "published_time": "2026-03-30T17:59:25+00:00"
+    },
     "http://arxiv.org/abs/2603.28434v1": {
         "entry_id": "http://arxiv.org/abs/2603.28434v1",
         "pdf_url": "https://arxiv.org/pdf/2603.28434v1",
