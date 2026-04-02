@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2604.00687v1": {
+        "entry_id": "http://arxiv.org/abs/2604.00687v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.00687v1",
+        "title": "SCPatcher: Automated Smart Contract Code Repair via Retrieval-Augmented Generation and Knowledge Graph",
+        "comment": "6 pages, 3 figures",
+        "updated_time": "2026-04-01T09:44:45+00:00",
+        "published_time": "2026-04-01T09:44:45+00:00"
+    },
+    "http://arxiv.org/abs/2604.00657v1": {
+        "entry_id": "http://arxiv.org/abs/2604.00657v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.00657v1",
+        "title": "LibScan: Smart Contract Library Misuse Detection with Iterative Feedback and Static Verification",
+        "comment": null,
+        "updated_time": "2026-04-01T09:04:01+00:00",
+        "published_time": "2026-04-01T09:04:01+00:00"
+    },
     "http://arxiv.org/abs/2603.29278v1": {
         "entry_id": "http://arxiv.org/abs/2603.29278v1",
         "pdf_url": "https://arxiv.org/pdf/2603.29278v1",
