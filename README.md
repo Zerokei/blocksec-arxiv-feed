@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-04-03T13:44:28.525951
+Last Updated: 2026-04-04T12:25:54.984172
 
 ## Newest Papers
 
@@ -34,7 +34,7 @@ Last Updated: 2026-04-03T13:44:28.525951
 |26|SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction|[link](http://arxiv.org/abs/2603.08580v1)|🆕 2026-03-09|
 |27|More to Extract: Discovering MEV by Token Contract Analysis|[link](http://arxiv.org/abs/2603.07996v1)|🆕 2026-03-09|
 |28|Condition-Triggered Cryptographic Asset Control via Dormant Authorization Paths|[link](http://arxiv.org/abs/2603.07933v1)|🆕 2026-03-09|
-|29|EVMbench: Evaluating AI Agents on Smart Contract Security|[link](http://arxiv.org/abs/2603.04915v1)|🆕 2026-03-05|
+|29|EVMbench: Evaluating AI Agents on Smart Contract Security|[link](http://arxiv.org/abs/2603.04915v1)|2026-03-05|
 |30|OMNIINTENT: A Trusted Intent-Centric Framework for User-Friendly Web3|[link](http://arxiv.org/abs/2603.04168v1)|2026-03-04|
 |31|NeuroSCA: Neuro-Symbolic Constraint Abstraction for Smart Contract Hybrid Fuzzing|[link](http://arxiv.org/abs/2603.01272v1)|2026-03-01|
 |32|Where Do Smart Contract Security Analyzers Fall Short?|[link](http://arxiv.org/abs/2603.00890v1)|2026-03-01|
