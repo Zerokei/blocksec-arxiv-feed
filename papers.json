@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2604.02771v1": {
+        "entry_id": "http://arxiv.org/abs/2604.02771v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.02771v1",
+        "title": "ContractShield: Bridging Semantic-Structural Gaps via Hierarchical Cross-Modal Fusion for Multi-Label Vulnerability Detection in Obfuscated Smart Contracts",
+        "comment": "9 figures, 8 tables, 16 pages",
+        "updated_time": "2026-04-03T06:29:34+00:00",
+        "published_time": "2026-04-03T06:29:34+00:00"
+    },
     "http://arxiv.org/abs/2604.00687v1": {
         "entry_id": "http://arxiv.org/abs/2604.00687v1",
         "pdf_url": "https://arxiv.org/pdf/2604.00687v1",
