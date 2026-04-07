@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2604.04748v1": {
+        "entry_id": "http://arxiv.org/abs/2604.04748v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.04748v1",
+        "title": "RegGuard: Legitimacy and Fairness Enforcement for Optimistic Rollups",
+        "comment": "10 pages, 4 figures, accepted at IEEE ICBC 2026",
+        "updated_time": "2026-04-06T15:13:30+00:00",
+        "published_time": "2026-04-06T15:13:30+00:00"
+    },
+    "http://arxiv.org/abs/2604.04265v1": {
+        "entry_id": "http://arxiv.org/abs/2604.04265v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.04265v1",
+        "title": "Governance-Constrained Agentic AI: Blockchain-Enforced Human Oversight for Safety-Critical Wildfire Monitoring",
+        "comment": "This paper was presented at ICETAS 2026 Bahrain",
+        "updated_time": "2026-04-05T21:07:21+00:00",
+        "published_time": "2026-04-05T21:07:21+00:00"
+    },
+    "http://arxiv.org/abs/2604.03860v1": {
+        "entry_id": "http://arxiv.org/abs/2604.03860v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.03860v1",
+        "title": "LiquiLM: Bridging the Semantic Gap in Liquidity Flaw Audit via DCN and LLMs",
+        "comment": null,
+        "updated_time": "2026-04-04T20:49:09+00:00",
+        "published_time": "2026-04-04T20:49:09+00:00"
+    },
     "http://arxiv.org/abs/2604.02771v1": {
         "entry_id": "http://arxiv.org/abs/2604.02771v1",
         "pdf_url": "https://arxiv.org/pdf/2604.02771v1",
@@ -150,6 +174,14 @@
         "comment": null,
         "updated_time": "2026-03-23T12:20:31+00:00",
         "published_time": "2026-03-23T12:20:31+00:00"
+    },
+    "http://arxiv.org/abs/2604.03274v1": {
+        "entry_id": "http://arxiv.org/abs/2604.03274v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.03274v1",
+        "title": "Financial Dynamics and Interconnected Risk of Liquid Restaking",
+        "comment": null,
+        "updated_time": "2026-03-23T10:58:01+00:00",
+        "published_time": "2026-03-23T10:58:01+00:00"
     },
     "http://arxiv.org/abs/2603.21149v1": {
         "entry_id": "http://arxiv.org/abs/2603.21149v1",
