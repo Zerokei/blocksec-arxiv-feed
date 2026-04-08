@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-04-07T14:18:39.986566
+Last Updated: 2026-04-08T12:50:06.823308
 
 ## Newest Papers
 
@@ -36,9 +36,9 @@ Last Updated: 2026-04-07T14:18:39.986566
 |28|Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling|[link](http://arxiv.org/abs/2603.13830v1)|🆕 2026-03-14|
 |29|LROO Rug Pull Detector: A Leakage-Resistant Framework Based on On-Chain and OSINT Signals|[link](http://arxiv.org/abs/2603.11324v1)|🆕 2026-03-11|
 |30|Re-Evaluating EVMBench: Are AI Agents Ready for Smart Contract Security?|[link](http://arxiv.org/abs/2603.10795v1)|🆕 2026-03-11|
-|31|SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction|[link](http://arxiv.org/abs/2603.08580v1)|🆕 2026-03-09|
-|32|More to Extract: Discovering MEV by Token Contract Analysis|[link](http://arxiv.org/abs/2603.07996v1)|🆕 2026-03-09|
-|33|Condition-Triggered Cryptographic Asset Control via Dormant Authorization Paths|[link](http://arxiv.org/abs/2603.07933v1)|🆕 2026-03-09|
+|31|SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction|[link](http://arxiv.org/abs/2603.08580v1)|2026-03-09|
+|32|More to Extract: Discovering MEV by Token Contract Analysis|[link](http://arxiv.org/abs/2603.07996v1)|2026-03-09|
+|33|Condition-Triggered Cryptographic Asset Control via Dormant Authorization Paths|[link](http://arxiv.org/abs/2603.07933v1)|2026-03-09|
 |34|EVMbench: Evaluating AI Agents on Smart Contract Security|[link](http://arxiv.org/abs/2603.04915v1)|2026-03-05|
 |35|OMNIINTENT: A Trusted Intent-Centric Framework for User-Friendly Web3|[link](http://arxiv.org/abs/2603.04168v1)|2026-03-04|
 |36|NeuroSCA: Neuro-Symbolic Constraint Abstraction for Smart Contract Hybrid Fuzzing|[link](http://arxiv.org/abs/2603.01272v1)|2026-03-01|
