@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2604.06975v1": {
+        "entry_id": "http://arxiv.org/abs/2604.06975v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.06975v1",
+        "title": "PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement",
+        "comment": "Accepted to the Ideas, Visions, and Reflections (IVR) track at FSE 2026",
+        "updated_time": "2026-04-08T11:46:01+00:00",
+        "published_time": "2026-04-08T11:46:01+00:00"
+    },
     "http://arxiv.org/abs/2604.04748v1": {
         "entry_id": "http://arxiv.org/abs/2604.04748v1",
         "pdf_url": "https://arxiv.org/pdf/2604.04748v1",
