@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2602.04418v2": {
+        "entry_id": "http://arxiv.org/abs/2602.04418v2",
+        "pdf_url": "https://arxiv.org/pdf/2602.04418v2",
+        "title": "SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing",
+        "comment": "Accepted at 14th International Workshop on Engineering Multi-Agent Systems(EMAS @ AAMAS)",
+        "updated_time": "2026-04-09T05:54:04+00:00",
+        "published_time": "2026-02-04T10:51:19+00:00"
+    },
     "http://arxiv.org/abs/2604.06975v1": {
         "entry_id": "http://arxiv.org/abs/2604.06975v1",
         "pdf_url": "https://arxiv.org/pdf/2604.06975v1",
