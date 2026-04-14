@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2604.06975v2": {
+        "entry_id": "http://arxiv.org/abs/2604.06975v2",
+        "pdf_url": "https://arxiv.org/pdf/2604.06975v2",
+        "title": "PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement",
+        "comment": "Accepted to the Ideas, Visions, and Reflections (IVR) track at FSE 2026",
+        "updated_time": "2026-04-13T11:05:43+00:00",
+        "published_time": "2026-04-08T11:46:01+00:00"
+    },
+    "http://arxiv.org/abs/2602.10892v4": {
+        "entry_id": "http://arxiv.org/abs/2602.10892v4",
+        "pdf_url": "https://arxiv.org/pdf/2602.10892v4",
+        "title": "Resilient Alerting Protocols for Blockchains",
+        "comment": null,
+        "updated_time": "2026-04-12T10:19:32+00:00",
+        "published_time": "2026-02-11T14:23:15+00:00"
+    },
+    "http://arxiv.org/abs/2604.10160v1": {
+        "entry_id": "http://arxiv.org/abs/2604.10160v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.10160v1",
+        "title": "GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship",
+        "comment": "9 pages, 4 figures, accepted at 2026 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+        "updated_time": "2026-04-11T11:13:07+00:00",
+        "published_time": "2026-04-11T11:13:07+00:00"
+    },
     "http://arxiv.org/abs/2602.04418v3": {
         "entry_id": "http://arxiv.org/abs/2602.04418v3",
         "pdf_url": "https://arxiv.org/pdf/2602.04418v3",
