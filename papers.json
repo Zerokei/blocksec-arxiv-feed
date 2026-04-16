@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2604.14038v1": {
+        "entry_id": "http://arxiv.org/abs/2604.14038v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.14038v1",
+        "title": "KindHML: formal verification of smart contracts based on Hennessy-Milner logic",
+        "comment": null,
+        "updated_time": "2026-04-15T16:18:44+00:00",
+        "published_time": "2026-04-15T16:18:44+00:00"
+    },
+    "http://arxiv.org/abs/2604.13611v1": {
+        "entry_id": "http://arxiv.org/abs/2604.13611v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.13611v1",
+        "title": "V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution",
+        "comment": "Accepted by FSE 2026",
+        "updated_time": "2026-04-15T08:24:24+00:00",
+        "published_time": "2026-04-15T08:24:24+00:00"
+    },
     "http://arxiv.org/abs/2604.12329v1": {
         "entry_id": "http://arxiv.org/abs/2604.12329v1",
         "pdf_url": "https://arxiv.org/pdf/2604.12329v1",
