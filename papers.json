@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2604.14583v1": {
+        "entry_id": "http://arxiv.org/abs/2604.14583v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.14583v1",
+        "title": "From Risk to Rescue: An Agentic Survival Analysis Framework for Liquidation Prevention",
+        "comment": null,
+        "updated_time": "2026-04-16T03:22:05+00:00",
+        "published_time": "2026-04-16T03:22:05+00:00"
+    },
+    "http://arxiv.org/abs/2603.28846v2": {
+        "entry_id": "http://arxiv.org/abs/2603.28846v2",
+        "pdf_url": "https://arxiv.org/pdf/2603.28846v2",
+        "title": "Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations",
+        "comment": "57 pages, 14 figures. v2 patches software bug enabling exploit against ZKP soundness",
+        "updated_time": "2026-04-15T16:50:58+00:00",
+        "published_time": "2026-03-30T17:59:25+00:00"
+    },
     "http://arxiv.org/abs/2604.14038v1": {
         "entry_id": "http://arxiv.org/abs/2604.14038v1",
         "pdf_url": "https://arxiv.org/pdf/2604.14038v1",
