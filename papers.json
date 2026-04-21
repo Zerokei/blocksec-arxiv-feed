@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2604.18395v1": {
+        "entry_id": "http://arxiv.org/abs/2604.18395v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.18395v1",
+        "title": "Capturing Monetarily Exploitable Vulnerability in Smart Contracts via Auditor Knowledge-Learning Fuzzing",
+        "comment": null,
+        "updated_time": "2026-04-20T15:17:45+00:00",
+        "published_time": "2026-04-20T15:17:45+00:00"
+    },
+    "http://arxiv.org/abs/2604.13611v2": {
+        "entry_id": "http://arxiv.org/abs/2604.13611v2",
+        "pdf_url": "https://arxiv.org/pdf/2604.13611v2",
+        "title": "V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution",
+        "comment": "Accepted by FSE 2026",
+        "updated_time": "2026-04-20T11:05:29+00:00",
+        "published_time": "2026-04-15T08:24:24+00:00"
+    },
+    "http://arxiv.org/abs/2604.16827v1": {
+        "entry_id": "http://arxiv.org/abs/2604.16827v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.16827v1",
+        "title": "ParikkhaChain: Blockchain-Based Result Processing and Privacy-Preserving Academic Record Management for the Complete Examination Lifecycle",
+        "comment": null,
+        "updated_time": "2026-04-18T04:34:39+00:00",
+        "published_time": "2026-04-18T04:34:39+00:00"
+    },
     "http://arxiv.org/abs/2604.14583v1": {
         "entry_id": "http://arxiv.org/abs/2604.14583v1",
         "pdf_url": "https://arxiv.org/pdf/2604.14583v1",
