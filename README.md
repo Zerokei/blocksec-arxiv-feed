@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-04-21T12:53:25.143594
+Last Updated: 2026-04-22T12:53:24.514809
 
 ## Newest Papers
 
@@ -41,8 +41,8 @@ Last Updated: 2026-04-21T12:53:25.143594
 |33|From Logic Monopoly to Social Contract: Separation of Power and the Institutional Foundations for Autonomous Agent Economies|[link](http://arxiv.org/abs/2603.25100v1)|🆕 2026-03-26|
 |34|SolRugDetector: Investigating Rug Pulls on Solana|[link](http://arxiv.org/abs/2603.24625v1)|🆕 2026-03-25|
 |35|MuSe: a Mutation Testing Plugin for the Remix IDE|[link](http://arxiv.org/abs/2603.23441v1)|🆕 2026-03-24|
-|36|Albank -- a case study on the use of ethereum blockchain technology and smart contracts for secure decentralized bank application|[link](http://arxiv.org/abs/2603.21894v1)|🆕 2026-03-23|
-|37|Financial Dynamics and Interconnected Risk of Liquid Restaking|[link](http://arxiv.org/abs/2604.03274v1)|🆕 2026-03-23|
+|36|Albank -- a case study on the use of ethereum blockchain technology and smart contracts for secure decentralized bank application|[link](http://arxiv.org/abs/2603.21894v1)|2026-03-23|
+|37|Financial Dynamics and Interconnected Risk of Liquid Restaking|[link](http://arxiv.org/abs/2604.03274v1)|2026-03-23|
 |38|Emergent Formal Verification: How an Autonomous AI Ecosystem Independently Discovered SMT-Based Safety Across Six Domains|[link](http://arxiv.org/abs/2603.21149v1)|2026-03-22|
 |39|Zero-Shot Vulnerability Detection in Low-Resource Smart Contracts Through Solidity-Only Training|[link](http://arxiv.org/abs/2603.21058v1)|2026-03-22|
 |40|SseRex: Practical Symbolic Execution of Solana Smart Contracts|[link](http://arxiv.org/abs/2603.16349v1)|2026-03-17|
