@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2603.13900v2": {
+        "entry_id": "http://arxiv.org/abs/2603.13900v2",
+        "pdf_url": "https://arxiv.org/pdf/2603.13900v2",
+        "title": "CONFETTY: A Tool for Enforcement and Data Confidentiality on Blockchain-Based Processes",
+        "comment": null,
+        "updated_time": "2026-04-22T12:23:32+00:00",
+        "published_time": "2026-03-14T11:27:21+00:00"
+    },
+    "http://arxiv.org/abs/2604.20374v1": {
+        "entry_id": "http://arxiv.org/abs/2604.20374v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.20374v1",
+        "title": "Towards Event-Aware Forecasting in DeFi: Insights from On-chain Automated Market Maker Protocols",
+        "comment": null,
+        "updated_time": "2026-04-22T09:18:09+00:00",
+        "published_time": "2026-04-22T09:18:09+00:00"
+    },
     "http://arxiv.org/abs/2604.18395v1": {
         "entry_id": "http://arxiv.org/abs/2604.18395v1",
         "pdf_url": "https://arxiv.org/pdf/2604.18395v1",
