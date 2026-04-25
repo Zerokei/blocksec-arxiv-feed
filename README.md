@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-04-24T14:23:42.115507
+Last Updated: 2026-04-25T12:33:20.581385
 
 ## Newest Papers
 
@@ -40,7 +40,7 @@ Last Updated: 2026-04-24T14:23:42.115507
 |32|SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction|[link](http://arxiv.org/abs/2603.08580v2)|🆕 2026-03-27|
 |33|PEB Separation and State Migration: Unmasking the New Frontiers of DeFi AML Evasion|[link](http://arxiv.org/abs/2603.26290v1)|🆕 2026-03-27|
 |34|Knowdit: Agentic Smart Contract Vulnerability Detection with Auditing Knowledge Summarization|[link](http://arxiv.org/abs/2603.26270v1)|🆕 2026-03-27|
-|35|From Logic Monopoly to Social Contract: Separation of Power and the Institutional Foundations for Autonomous Agent Economies|[link](http://arxiv.org/abs/2603.25100v1)|🆕 2026-03-26|
+|35|From Logic Monopoly to Social Contract: Separation of Power and the Institutional Foundations for Autonomous Agent Economies|[link](http://arxiv.org/abs/2603.25100v1)|2026-03-26|
 |36|SolRugDetector: Investigating Rug Pulls on Solana|[link](http://arxiv.org/abs/2603.24625v1)|2026-03-25|
 |37|MuSe: a Mutation Testing Plugin for the Remix IDE|[link](http://arxiv.org/abs/2603.23441v1)|2026-03-24|
 |38|Albank -- a case study on the use of ethereum blockchain technology and smart contracts for secure decentralized bank application|[link](http://arxiv.org/abs/2603.21894v1)|2026-03-23|
