@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-04-25T13:46:02.175816
+Last Updated: 2026-04-26T12:35:06.614177
 
 ## Newest Papers
 
@@ -34,12 +34,12 @@ Last Updated: 2026-04-25T13:46:02.175816
 |26|ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment|[link](http://arxiv.org/abs/2603.28128v1)|🆕 2026-03-30|
 |27|Robust Smart Contract Vulnerability Detection via Contrastive Learning-Enhanced Granular-ball Training|[link](http://arxiv.org/abs/2603.27734v1)|🆕 2026-03-29|
 |28|Resilient Alerting Protocols for Blockchains|[link](http://arxiv.org/abs/2602.10892v3)|🆕 2026-03-29|
-|29|Reentrancy Detection in the Age of LLMs|[link](http://arxiv.org/abs/2603.26497v1)|🆕 2026-03-27|
-|30|Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance|[link](http://arxiv.org/abs/2603.26361v1)|🆕 2026-03-27|
-|31|Bitcoin Smart Accounts: Trust-Minimized Native Bitcoin DeFi Infrastructure|[link](http://arxiv.org/abs/2603.26293v1)|🆕 2026-03-27|
-|32|SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction|[link](http://arxiv.org/abs/2603.08580v2)|🆕 2026-03-27|
-|33|PEB Separation and State Migration: Unmasking the New Frontiers of DeFi AML Evasion|[link](http://arxiv.org/abs/2603.26290v1)|🆕 2026-03-27|
-|34|Knowdit: Agentic Smart Contract Vulnerability Detection with Auditing Knowledge Summarization|[link](http://arxiv.org/abs/2603.26270v1)|🆕 2026-03-27|
+|29|Reentrancy Detection in the Age of LLMs|[link](http://arxiv.org/abs/2603.26497v1)|2026-03-27|
+|30|Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance|[link](http://arxiv.org/abs/2603.26361v1)|2026-03-27|
+|31|Bitcoin Smart Accounts: Trust-Minimized Native Bitcoin DeFi Infrastructure|[link](http://arxiv.org/abs/2603.26293v1)|2026-03-27|
+|32|SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction|[link](http://arxiv.org/abs/2603.08580v2)|2026-03-27|
+|33|PEB Separation and State Migration: Unmasking the New Frontiers of DeFi AML Evasion|[link](http://arxiv.org/abs/2603.26290v1)|2026-03-27|
+|34|Knowdit: Agentic Smart Contract Vulnerability Detection with Auditing Knowledge Summarization|[link](http://arxiv.org/abs/2603.26270v1)|2026-03-27|
 |35|From Logic Monopoly to Social Contract: Separation of Power and the Institutional Foundations for Autonomous Agent Economies|[link](http://arxiv.org/abs/2603.25100v1)|2026-03-26|
 |36|SolRugDetector: Investigating Rug Pulls on Solana|[link](http://arxiv.org/abs/2603.24625v1)|2026-03-25|
 |37|MuSe: a Mutation Testing Plugin for the Remix IDE|[link](http://arxiv.org/abs/2603.23441v1)|2026-03-24|
