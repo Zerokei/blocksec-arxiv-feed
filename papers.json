@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2604.22096v1": {
+        "entry_id": "http://arxiv.org/abs/2604.22096v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.22096v1",
+        "title": "Who Audits the Auditor? Tamper-Proof Fraud Detection with Blockchain-Anchored Explainable ML",
+        "comment": "Accepted to IEEE COMPSAC 2026 (Paper ID 9376, SEPT Symposium). This is the de-anonymized camera-ready version. Code is available at: https://github.com/GeoffreyWang1117/fraud-detection-chain",
+        "updated_time": "2026-04-23T22:00:45+00:00",
+        "published_time": "2026-04-23T22:00:45+00:00"
+    },
     "http://arxiv.org/abs/2603.13900v2": {
         "entry_id": "http://arxiv.org/abs/2603.13900v2",
         "pdf_url": "https://arxiv.org/pdf/2603.13900v2",
