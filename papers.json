@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2603.21058v2": {
+        "entry_id": "http://arxiv.org/abs/2603.21058v2",
+        "pdf_url": "https://arxiv.org/pdf/2603.21058v2",
+        "title": "Zero-Shot Vulnerability Detection in Low-Resource Smart Contracts Through Solidity-Only Training",
+        "comment": null,
+        "updated_time": "2026-04-28T14:38:05+00:00",
+        "published_time": "2026-03-22T04:53:29+00:00"
+    },
+    "http://arxiv.org/abs/2604.25555v1": {
+        "entry_id": "http://arxiv.org/abs/2604.25555v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.25555v1",
+        "title": "From CRUD to Autonomous Agents: Formal Validation and Zero-Trust Security for Semantic Gateways in AI-Native Enterprise Systems",
+        "comment": "25 pages, 4 figures, 4 tables. Open-source proof-of-concept (47 automated tests, deterministic semantic fuzzer) available at https://github.com/PeyranoDev/semantic-gateway-poc",
+        "updated_time": "2026-04-28T12:25:06+00:00",
+        "published_time": "2026-04-28T12:25:06+00:00"
+    },
+    "http://arxiv.org/abs/2604.21169v2": {
+        "entry_id": "http://arxiv.org/abs/2604.21169v2",
+        "pdf_url": "https://arxiv.org/pdf/2604.21169v2",
+        "title": "Position Paper: Denial-of-Service against Multi-Round Transaction Simulation",
+        "comment": null,
+        "updated_time": "2026-04-27T21:05:09+00:00",
+        "published_time": "2026-04-23T00:25:44+00:00"
+    },
+    "http://arxiv.org/abs/2604.24822v1": {
+        "entry_id": "http://arxiv.org/abs/2604.24822v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.24822v1",
+        "title": "A systematic literature Review for Transformer-based Software Vulnerability detection",
+        "comment": null,
+        "updated_time": "2026-04-27T14:26:19+00:00",
+        "published_time": "2026-04-27T14:26:19+00:00"
+    },
     "http://arxiv.org/abs/2604.24341v1": {
         "entry_id": "http://arxiv.org/abs/2604.24341v1",
         "pdf_url": "https://arxiv.org/pdf/2604.24341v1",
