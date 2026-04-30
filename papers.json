@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2604.26736v1": {
+        "entry_id": "http://arxiv.org/abs/2604.26736v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.26736v1",
+        "title": "Catching the Fly: Practical Challenges in Making Blockchain FlyClient Real",
+        "comment": "This paper is under review at IEEE TDSC",
+        "updated_time": "2026-04-29T14:37:57+00:00",
+        "published_time": "2026-04-29T14:37:57+00:00"
+    },
+    "http://arxiv.org/abs/2604.26727v1": {
+        "entry_id": "http://arxiv.org/abs/2604.26727v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.26727v1",
+        "title": "Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience",
+        "comment": "6 pages, The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom",
+        "updated_time": "2026-04-29T14:28:47+00:00",
+        "published_time": "2026-04-29T14:28:47+00:00"
+    },
+    "http://arxiv.org/abs/2604.26526v1": {
+        "entry_id": "http://arxiv.org/abs/2604.26526v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.26526v1",
+        "title": "Identifying and Characterizing Semantic Clones of Solidity Functions",
+        "comment": null,
+        "updated_time": "2026-04-29T10:49:20+00:00",
+        "published_time": "2026-04-29T10:49:20+00:00"
+    },
+    "http://arxiv.org/abs/2604.26094v1": {
+        "entry_id": "http://arxiv.org/abs/2604.26094v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.26094v1",
+        "title": "GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade",
+        "comment": "Accepted at ICSE 2026 (48th IEEE/ACM International Conference on Software Engineering), April 12-18, 2026, Rio de Janeiro, Brazil. 13 pages",
+        "updated_time": "2026-04-28T20:18:02+00:00",
+        "published_time": "2026-04-28T20:18:02+00:00"
+    },
     "http://arxiv.org/abs/2603.21058v2": {
         "entry_id": "http://arxiv.org/abs/2603.21058v2",
         "pdf_url": "https://arxiv.org/pdf/2603.21058v2",
@@ -22,6 +54,14 @@
         "comment": null,
         "updated_time": "2026-04-27T21:05:09+00:00",
         "published_time": "2026-04-23T00:25:44+00:00"
+    },
+    "http://arxiv.org/abs/2604.25959v1": {
+        "entry_id": "http://arxiv.org/abs/2604.25959v1",
+        "pdf_url": "https://arxiv.org/pdf/2604.25959v1",
+        "title": "On the Centralization of Governance Power in Decentralized Autonomous Organizations",
+        "comment": "To Appear in 8th edition of the IEEE International Conference on Blockchain and Cryptocurrency (ICBC'26)",
+        "updated_time": "2026-04-27T19:28:14+00:00",
+        "published_time": "2026-04-27T19:28:14+00:00"
     },
     "http://arxiv.org/abs/2604.24822v1": {
         "entry_id": "http://arxiv.org/abs/2604.24822v1",
