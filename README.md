@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-04-30T13:14:56.463408
+Last Updated: 2026-05-01T12:47:03.323489
 
 ## Newest Papers
 
@@ -38,8 +38,8 @@ Last Updated: 2026-04-30T13:14:56.463408
 |30|Governance-Constrained Agentic AI: Blockchain-Enforced Human Oversight for Safety-Critical Wildfire Monitoring|[link](http://arxiv.org/abs/2604.04265v1)|🆕 2026-04-05|
 |31|LiquiLM: Bridging the Semantic Gap in Liquidity Flaw Audit via DCN and LLMs|[link](http://arxiv.org/abs/2604.03860v1)|🆕 2026-04-04|
 |32|ContractShield: Bridging Semantic-Structural Gaps via Hierarchical Cross-Modal Fusion for Multi-Label Vulnerability Detection in Obfuscated Smart Contracts|[link](http://arxiv.org/abs/2604.02771v1)|🆕 2026-04-03|
-|33|SCPatcher: Automated Smart Contract Code Repair via Retrieval-Augmented Generation and Knowledge Graph|[link](http://arxiv.org/abs/2604.00687v1)|🆕 2026-04-01|
-|34|LibScan: Smart Contract Library Misuse Detection with Iterative Feedback and Static Verification|[link](http://arxiv.org/abs/2604.00657v1)|🆕 2026-04-01|
+|33|SCPatcher: Automated Smart Contract Code Repair via Retrieval-Augmented Generation and Knowledge Graph|[link](http://arxiv.org/abs/2604.00687v1)|2026-04-01|
+|34|LibScan: Smart Contract Library Misuse Detection with Iterative Feedback and Static Verification|[link](http://arxiv.org/abs/2604.00657v1)|2026-04-01|
 |35|A Regulatory Compliance Protocol for Asset Interoperability Between Traditional and Decentralized Finance in Tokenized Capital Markets|[link](http://arxiv.org/abs/2603.29278v1)|2026-03-31|
 |36|Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations|[link](http://arxiv.org/abs/2603.28846v1)|2026-03-30|
 |37|Democratizing Federated Learning with Blockchain and Multi-Task Peer Prediction|[link](http://arxiv.org/abs/2603.28434v1)|2026-03-30|
