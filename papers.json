@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2605.03697v1": {
+        "entry_id": "http://arxiv.org/abs/2605.03697v1",
+        "pdf_url": "https://arxiv.org/pdf/2605.03697v1",
+        "title": "Tailored Prompts, Targeted Protection: Vulnerability-Specific LLM Analysis for Smart Contracts",
+        "comment": null,
+        "updated_time": "2026-05-05T12:40:02+00:00",
+        "published_time": "2026-05-05T12:40:02+00:00"
+    },
+    "http://arxiv.org/abs/2605.02868v1": {
+        "entry_id": "http://arxiv.org/abs/2605.02868v1",
+        "pdf_url": "https://arxiv.org/pdf/2605.02868v1",
+        "title": "EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs",
+        "comment": null,
+        "updated_time": "2026-05-04T17:43:52+00:00",
+        "published_time": "2026-05-04T17:43:52+00:00"
+    },
+    "http://arxiv.org/abs/2605.00420v2": {
+        "entry_id": "http://arxiv.org/abs/2605.00420v2",
+        "pdf_url": "https://arxiv.org/pdf/2605.00420v2",
+        "title": "Foresight Arena: An On-Chain Benchmark for Evaluating AI Forecasting Agents",
+        "comment": "v2: Reframed Section 6 as an illustrative simulation study with explicit disclosure that the numerical results in Section 6 come from a calibrated Monte Carlo simulation rather than a live deployment; added live-evaluation-pending limitation",
+        "updated_time": "2026-05-04T07:21:37+00:00",
+        "published_time": "2026-05-01T05:33:10+00:00"
+    },
+    "http://arxiv.org/abs/2605.02077v1": {
+        "entry_id": "http://arxiv.org/abs/2605.02077v1",
+        "pdf_url": "https://arxiv.org/pdf/2605.02077v1",
+        "title": "Obscura: Privacy-Preserving Protocol for the Algorand Blockchain Using LSAG Ring Signatures",
+        "comment": null,
+        "updated_time": "2026-05-03T22:33:30+00:00",
+        "published_time": "2026-05-03T22:33:30+00:00"
+    },
+    "http://arxiv.org/abs/2605.01207v1": {
+        "entry_id": "http://arxiv.org/abs/2605.01207v1",
+        "pdf_url": "https://arxiv.org/pdf/2605.01207v1",
+        "title": "Phishing Detection in Ethereum via Temporal Graph Contrastive Learning",
+        "comment": "16 pages, 11 figures, 13 tables",
+        "updated_time": "2026-05-02T02:53:53+00:00",
+        "published_time": "2026-05-02T02:53:53+00:00"
+    },
     "http://arxiv.org/abs/2604.26736v1": {
         "entry_id": "http://arxiv.org/abs/2604.26736v1",
         "pdf_url": "https://arxiv.org/pdf/2604.26736v1",
