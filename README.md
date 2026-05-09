@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-05-07T13:22:10.508180
+Last Updated: 2026-05-09T12:44:46.243759
 
 ## Newest Papers
 
@@ -39,8 +39,8 @@ Last Updated: 2026-05-07T13:22:10.508180
 |31|Resilient Alerting Protocols for Blockchains|[link](http://arxiv.org/abs/2602.10892v4)|🆕 2026-04-12|
 |32|GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship|[link](http://arxiv.org/abs/2604.10160v1)|🆕 2026-04-11|
 |33|SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing|[link](http://arxiv.org/abs/2602.04418v3)|🆕 2026-04-10|
-|34|SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing|[link](http://arxiv.org/abs/2602.04418v2)|🆕 2026-04-09|
-|35|PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement|[link](http://arxiv.org/abs/2604.06975v1)|🆕 2026-04-08|
+|34|SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing|[link](http://arxiv.org/abs/2602.04418v2)|2026-04-09|
+|35|PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement|[link](http://arxiv.org/abs/2604.06975v1)|2026-04-08|
 |36|RegGuard: Legitimacy and Fairness Enforcement for Optimistic Rollups|[link](http://arxiv.org/abs/2604.04748v1)|2026-04-06|
 |37|Governance-Constrained Agentic AI: Blockchain-Enforced Human Oversight for Safety-Critical Wildfire Monitoring|[link](http://arxiv.org/abs/2604.04265v1)|2026-04-05|
 |38|LiquiLM: Bridging the Semantic Gap in Liquidity Flaw Audit via DCN and LLMs|[link](http://arxiv.org/abs/2604.03860v1)|2026-04-04|
