@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2605.13132v1": {
+        "entry_id": "http://arxiv.org/abs/2605.13132v1",
+        "pdf_url": "https://arxiv.org/pdf/2605.13132v1",
+        "title": "Extending Blockchain Untraceability with Plausible Deniability",
+        "comment": null,
+        "updated_time": "2026-05-13T08:02:15+00:00",
+        "published_time": "2026-05-13T08:02:15+00:00"
+    },
+    "http://arxiv.org/abs/2605.10007v2": {
+        "entry_id": "http://arxiv.org/abs/2605.10007v2",
+        "pdf_url": "https://arxiv.org/pdf/2605.10007v2",
+        "title": "Formal Verification of Imperative First-Class Functions in Move",
+        "comment": null,
+        "updated_time": "2026-05-13T02:34:36+00:00",
+        "published_time": "2026-05-11T05:31:55+00:00"
+    },
     "http://arxiv.org/abs/2605.11163v1": {
         "entry_id": "http://arxiv.org/abs/2605.11163v1",
         "pdf_url": "https://arxiv.org/pdf/2605.11163v1",
