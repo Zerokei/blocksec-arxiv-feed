@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-05-15T13:20:50.686209
+Last Updated: 2026-05-16T12:50:47.463945
 
 ## Newest Papers
 
@@ -38,7 +38,7 @@ Last Updated: 2026-05-15T13:20:50.686209
 |30|Capturing Monetarily Exploitable Vulnerability in Smart Contracts via Auditor Knowledge-Learning Fuzzing|[link](http://arxiv.org/abs/2604.18395v1)|🆕 2026-04-20|
 |31|V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution|[link](http://arxiv.org/abs/2604.13611v2)|🆕 2026-04-20|
 |32|ParikkhaChain: Blockchain-Based Result Processing and Privacy-Preserving Academic Record Management for the Complete Examination Lifecycle|[link](http://arxiv.org/abs/2604.16827v1)|🆕 2026-04-18|
-|33|From Risk to Rescue: An Agentic Survival Analysis Framework for Liquidation Prevention|[link](http://arxiv.org/abs/2604.14583v1)|🆕 2026-04-16|
+|33|From Risk to Rescue: An Agentic Survival Analysis Framework for Liquidation Prevention|[link](http://arxiv.org/abs/2604.14583v1)|2026-04-16|
 |34|Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations|[link](http://arxiv.org/abs/2603.28846v2)|2026-04-15|
 |35|KindHML: formal verification of smart contracts based on Hennessy-Milner logic|[link](http://arxiv.org/abs/2604.14038v1)|2026-04-15|
 |36|V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution|[link](http://arxiv.org/abs/2604.13611v1)|2026-04-15|
