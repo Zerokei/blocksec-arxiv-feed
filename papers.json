@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2605.25207v1": {
+        "entry_id": "http://arxiv.org/abs/2605.25207v1",
+        "pdf_url": "https://arxiv.org/pdf/2605.25207v1",
+        "title": "Decoupling Reentrancy Protection from Smart Contract Implementation Logic",
+        "comment": null,
+        "updated_time": "2026-05-24T18:11:59+00:00",
+        "published_time": "2026-05-24T18:11:59+00:00"
+    },
+    "http://arxiv.org/abs/2603.28128v2": {
+        "entry_id": "http://arxiv.org/abs/2603.28128v2",
+        "pdf_url": "https://arxiv.org/pdf/2603.28128v2",
+        "title": "ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment",
+        "comment": "21 pages, version 2",
+        "updated_time": "2026-05-23T14:07:57+00:00",
+        "published_time": "2026-03-30T07:46:59+00:00"
+    },
     "http://arxiv.org/abs/2605.22239v1": {
         "entry_id": "http://arxiv.org/abs/2605.22239v1",
         "pdf_url": "https://arxiv.org/pdf/2605.22239v1",
