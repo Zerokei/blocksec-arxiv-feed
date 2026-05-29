@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2605.29353v1": {
+        "entry_id": "http://arxiv.org/abs/2605.29353v1",
+        "pdf_url": "https://arxiv.org/pdf/2605.29353v1",
+        "title": "DeepFake Forensics AI: A Multi-Modal Detection and Blockchain-Anchored Evidence Management Platform",
+        "comment": "5 pages, 5 figures, 3 tables",
+        "updated_time": "2026-05-28T04:47:28+00:00",
+        "published_time": "2026-05-28T04:47:28+00:00"
+    },
+    "http://arxiv.org/abs/2605.29059v1": {
+        "entry_id": "http://arxiv.org/abs/2605.29059v1",
+        "pdf_url": "https://arxiv.org/pdf/2605.29059v1",
+        "title": "SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers",
+        "comment": null,
+        "updated_time": "2026-05-27T20:08:47+00:00",
+        "published_time": "2026-05-27T20:08:47+00:00"
+    },
     "http://arxiv.org/abs/2605.27602v1": {
         "entry_id": "http://arxiv.org/abs/2605.27602v1",
         "pdf_url": "https://arxiv.org/pdf/2605.27602v1",
