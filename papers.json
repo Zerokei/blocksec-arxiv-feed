@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2605.31389v1": {
+        "entry_id": "http://arxiv.org/abs/2605.31389v1",
+        "pdf_url": "https://arxiv.org/pdf/2605.31389v1",
+        "title": "Neuroforger: certified violation witnesses for smart contracts verification via LLMs",
+        "comment": null,
+        "updated_time": "2026-05-29T14:54:51+00:00",
+        "published_time": "2026-05-29T14:54:51+00:00"
+    },
     "http://arxiv.org/abs/2605.29353v1": {
         "entry_id": "http://arxiv.org/abs/2605.29353v1",
         "pdf_url": "https://arxiv.org/pdf/2605.29353v1",
