@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2606.02192v1": {
+        "entry_id": "http://arxiv.org/abs/2606.02192v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.02192v1",
+        "title": "Unicity: Predicates and Atomic Swaps",
+        "comment": "24 pages, 2 figures",
+        "updated_time": "2026-06-01T12:46:37+00:00",
+        "published_time": "2026-06-01T12:46:37+00:00"
+    },
+    "http://arxiv.org/abs/2606.01794v1": {
+        "entry_id": "http://arxiv.org/abs/2606.01794v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.01794v1",
+        "title": "Tridirectional Discriminating-Power Formal Verification of Smart Contract Reentrancy Defense Against Production-Deployed Solidity Source",
+        "comment": "Preprint v1; prepared for IEEE S&P 2027 (cycle 2). 16 pages. Reproducible Lean 4 artifact at https://github.com/rayiskander2406/qanary-contracts (tag v1.6-phase7-closure; substrate at v1.3-layer6-closure). Community feedback welcome; v2 with feedback planned before venue submission",
+        "updated_time": "2026-06-01T07:13:39+00:00",
+        "published_time": "2026-06-01T07:13:39+00:00"
+    },
     "http://arxiv.org/abs/2605.31389v1": {
         "entry_id": "http://arxiv.org/abs/2605.31389v1",
         "pdf_url": "https://arxiv.org/pdf/2605.31389v1",
