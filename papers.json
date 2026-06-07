@@ -1,4 +1,52 @@
 {
+    "http://arxiv.org/abs/2606.05986v1": {
+        "entry_id": "http://arxiv.org/abs/2606.05986v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.05986v1",
+        "title": "AttackPathGNN: Cross-function vulnerability detection in smart contracts using state interference graphs and conjunction pooling",
+        "comment": null,
+        "updated_time": "2026-06-04T10:30:24+00:00",
+        "published_time": "2026-06-04T10:30:24+00:00"
+    },
+    "http://arxiv.org/abs/2606.05418v1": {
+        "entry_id": "http://arxiv.org/abs/2606.05418v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.05418v1",
+        "title": "A formal framework for the economic security of DeFi compositions",
+        "comment": null,
+        "updated_time": "2026-06-03T20:33:59+00:00",
+        "published_time": "2026-06-03T20:33:59+00:00"
+    },
+    "http://arxiv.org/abs/2606.01794v2": {
+        "entry_id": "http://arxiv.org/abs/2606.01794v2",
+        "pdf_url": "https://arxiv.org/pdf/2606.01794v2",
+        "title": "Tridirectional Discriminating-Power Formal Verification of Smart Contract Reentrancy Defense Against Production-Deployed Solidity Source",
+        "comment": "Preprint v2: added Zenodo concept DOI (10.5281/zenodo.20510920) for the archival artifact snapshot in the reproduction-commands appendix. No changes to the methodology, results, theorems, or references. Community feedback welcome; v3 with feedback planned before venue submission",
+        "updated_time": "2026-06-02T14:01:42+00:00",
+        "published_time": "2026-06-01T07:13:39+00:00"
+    },
+    "http://arxiv.org/abs/2606.03611v1": {
+        "entry_id": "http://arxiv.org/abs/2606.03611v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.03611v1",
+        "title": "Q-FE: A Quantum-Native 6G Far-Edge Architecture Securing Industrial IoT Digital Twins via CSIDH-PQC and Asynchronous Federated Learning",
+        "comment": "This work has been submitted to the IEEE for possible publication",
+        "updated_time": "2026-06-02T13:13:44+00:00",
+        "published_time": "2026-06-02T13:13:44+00:00"
+    },
+    "http://arxiv.org/abs/2606.03387v1": {
+        "entry_id": "http://arxiv.org/abs/2606.03387v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.03387v1",
+        "title": "Bastet: A Fine-Grained Expert-Labeled Dataset for DeFi Smart Contract Vulnerability Detection",
+        "comment": null,
+        "updated_time": "2026-06-02T09:31:22+00:00",
+        "published_time": "2026-06-02T09:31:22+00:00"
+    },
+    "http://arxiv.org/abs/2606.03128v1": {
+        "entry_id": "http://arxiv.org/abs/2606.03128v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.03128v1",
+        "title": "Decoupled Smart Contract Audits: Lightweight LLM Framework via Distillation and Aggregation",
+        "comment": "12 pages, 4 figures, 5 tables. Accepted to IEEE ICWS 2026",
+        "updated_time": "2026-06-02T04:13:43+00:00",
+        "published_time": "2026-06-02T04:13:43+00:00"
+    },
     "http://arxiv.org/abs/2606.02192v1": {
         "entry_id": "http://arxiv.org/abs/2606.02192v1",
         "pdf_url": "https://arxiv.org/pdf/2606.02192v1",
