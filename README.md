@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-06-08T15:19:26.575500
+Last Updated: 2026-06-09T14:12:49.809154
 
 ## Newest Papers
 
@@ -31,7 +31,7 @@ Last Updated: 2026-06-08T15:19:26.575500
 |23|Benchmarking LLM-Based Static Analysis for Secure Smart Contract Development: Reliability, Limitations, and Potential Hybrid Solutions|[link](http://arxiv.org/abs/2605.11163v1)|🆕 2026-05-11|
 |24|Mapping Partisan Fault Lines Within DAOs|[link](http://arxiv.org/abs/2605.10316v1)|🆕 2026-05-11|
 |25|Formal Verification of Imperative First-Class Functions in Move|[link](http://arxiv.org/abs/2605.10007v1)|🆕 2026-05-11|
-|26|SmartEval: A Benchmark for Evaluating LLM-Generated Smart Contracts from Natural Language Specifications|[link](http://arxiv.org/abs/2605.09610v1)|🆕 2026-05-10|
+|26|SmartEval: A Benchmark for Evaluating LLM-Generated Smart Contracts from Natural Language Specifications|[link](http://arxiv.org/abs/2605.09610v1)|2026-05-10|
 |27|Smart Contract Security Beyond Detection|[link](http://arxiv.org/abs/2605.09124v1)|2026-05-09|
 |28|ParityFuzz: Finding Inconsistencies across Solidity Compilers via Fine-Grained Mutation and Differential Analysis|[link](http://arxiv.org/abs/2605.09051v1)|2026-05-09|
 |29|Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach|[link](http://arxiv.org/abs/2605.05145v1)|2026-05-06|
