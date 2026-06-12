@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-06-11T15:25:25.645896
+Last Updated: 2026-06-12T14:26:05.490366
 
 ## Newest Papers
 
@@ -28,8 +28,8 @@ Last Updated: 2026-06-11T15:25:25.645896
 |20|Bridging the Cybersecurity Gap Between Web2 and Web3 -- An Incident-Based Analysis of Organizational and Application-Level Security Failures|[link](http://arxiv.org/abs/2605.18484v1)|🆕 2026-05-18|
 |21|Smart Contract Security Beyond Detection|[link](http://arxiv.org/abs/2605.09124v2)|🆕 2026-05-16|
 |22|Optimizing an IDE for an Evolving Language Ecosystem|[link](http://arxiv.org/abs/2605.16664v1)|🆕 2026-05-15|
-|23|Extending Blockchain Untraceability with Plausible Deniability|[link](http://arxiv.org/abs/2605.13132v1)|🆕 2026-05-13|
-|24|Formal Verification of Imperative First-Class Functions in Move|[link](http://arxiv.org/abs/2605.10007v2)|🆕 2026-05-13|
+|23|Extending Blockchain Untraceability with Plausible Deniability|[link](http://arxiv.org/abs/2605.13132v1)|2026-05-13|
+|24|Formal Verification of Imperative First-Class Functions in Move|[link](http://arxiv.org/abs/2605.10007v2)|2026-05-13|
 |25|Benchmarking LLM-Based Static Analysis for Secure Smart Contract Development: Reliability, Limitations, and Potential Hybrid Solutions|[link](http://arxiv.org/abs/2605.11163v1)|2026-05-11|
 |26|Mapping Partisan Fault Lines Within DAOs|[link](http://arxiv.org/abs/2605.10316v1)|2026-05-11|
 |27|Formal Verification of Imperative First-Class Functions in Move|[link](http://arxiv.org/abs/2605.10007v1)|2026-05-11|
