@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2606.14554v1": {
+        "entry_id": "http://arxiv.org/abs/2606.14554v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.14554v1",
+        "title": "Security Threats and Their Impact on Blockchain Interoperability: Identification and Countermeasures",
+        "comment": "6 pages, 2 tables",
+        "updated_time": "2026-06-12T15:30:47+00:00",
+        "published_time": "2026-06-12T15:30:47+00:00"
+    },
+    "http://arxiv.org/abs/2606.13798v1": {
+        "entry_id": "http://arxiv.org/abs/2606.13798v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.13798v1",
+        "title": "Smart Blockchain-Based Access Control for the Internet of Things",
+        "comment": "6 pages, 3 figures. Accepted to the 35th International Conference on Computer Communications and Networks (ICCCN 2026)",
+        "updated_time": "2026-06-11T18:08:29+00:00",
+        "published_time": "2026-06-11T18:08:29+00:00"
+    },
     "http://arxiv.org/abs/2606.10658v1": {
         "entry_id": "http://arxiv.org/abs/2606.10658v1",
         "pdf_url": "https://arxiv.org/pdf/2606.10658v1",
