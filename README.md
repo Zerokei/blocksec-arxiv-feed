@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-06-19T14:34:32.967458
+Last Updated: 2026-06-20T13:18:59.197312
 
 ## Newest Papers
 
@@ -29,7 +29,7 @@ Last Updated: 2026-06-19T14:34:32.967458
 |21|A Trilemma in AMM Mechanism Design|[link](http://arxiv.org/abs/2605.27602v1)|🆕 2026-05-26|
 |22|Decoupling Reentrancy Protection from Smart Contract Implementation Logic|[link](http://arxiv.org/abs/2605.25207v1)|🆕 2026-05-24|
 |23|ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment|[link](http://arxiv.org/abs/2603.28128v2)|🆕 2026-05-23|
-|24|An Architecture for Decentralised Deployment and Operation of Blockchain Applications|[link](http://arxiv.org/abs/2605.22239v1)|🆕 2026-05-21|
+|24|An Architecture for Decentralised Deployment and Operation of Blockchain Applications|[link](http://arxiv.org/abs/2605.22239v1)|2026-05-21|
 |25|Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience|[link](http://arxiv.org/abs/2604.26727v2)|2026-05-20|
 |26|Bridging the Cybersecurity Gap Between Web2 and Web3 -- An Incident-Based Analysis of Organizational and Application-Level Security Failures|[link](http://arxiv.org/abs/2605.18484v1)|2026-05-18|
 |27|Smart Contract Security Beyond Detection|[link](http://arxiv.org/abs/2605.09124v2)|2026-05-16|
