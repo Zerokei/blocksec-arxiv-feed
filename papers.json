@@ -7,6 +7,14 @@
         "updated_time": "2026-06-18T14:49:13+00:00",
         "published_time": "2026-06-18T14:49:13+00:00"
     },
+    "http://arxiv.org/abs/2606.20760v1": {
+        "entry_id": "http://arxiv.org/abs/2606.20760v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.20760v1",
+        "title": "Privacy-Preserving Compliance on Public Ledgers via Selective Disclosure Authorization Schemes",
+        "comment": "Accepted to SECRYPT 2026",
+        "updated_time": "2026-06-18T09:38:13+00:00",
+        "published_time": "2026-06-18T09:38:13+00:00"
+    },
     "http://arxiv.org/abs/2606.19988v1": {
         "entry_id": "http://arxiv.org/abs/2606.19988v1",
         "pdf_url": "https://arxiv.org/pdf/2606.19988v1",
