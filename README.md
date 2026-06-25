@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-06-24T13:58:11.943760
+Last Updated: 2026-06-25T13:55:13.817585
 
 ## Newest Papers
 
@@ -27,7 +27,7 @@ Last Updated: 2026-06-24T13:58:11.943760
 |19|Neuroforger: certified violation witnesses for smart contracts verification via LLMs|[link](http://arxiv.org/abs/2605.31389v1)|🆕 2026-05-29|
 |20|DeepFake Forensics AI: A Multi-Modal Detection and Blockchain-Anchored Evidence Management Platform|[link](http://arxiv.org/abs/2605.29353v1)|🆕 2026-05-28|
 |21|SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers|[link](http://arxiv.org/abs/2605.29059v1)|🆕 2026-05-27|
-|22|A Trilemma in AMM Mechanism Design|[link](http://arxiv.org/abs/2605.27602v1)|🆕 2026-05-26|
+|22|A Trilemma in AMM Mechanism Design|[link](http://arxiv.org/abs/2605.27602v1)|2026-05-26|
 |23|Decoupling Reentrancy Protection from Smart Contract Implementation Logic|[link](http://arxiv.org/abs/2605.25207v1)|2026-05-24|
 |24|ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment|[link](http://arxiv.org/abs/2603.28128v2)|2026-05-23|
 |25|An Architecture for Decentralised Deployment and Operation of Blockchain Applications|[link](http://arxiv.org/abs/2605.22239v1)|2026-05-21|
