@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2606.27250v1": {
+        "entry_id": "http://arxiv.org/abs/2606.27250v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.27250v1",
+        "title": "Tilikum: Transaction Fair Ordering on a DAG without Weak Edges",
+        "comment": null,
+        "updated_time": "2026-06-25T16:34:44+00:00",
+        "published_time": "2026-06-25T16:34:44+00:00"
+    },
+    "http://arxiv.org/abs/2606.26704v1": {
+        "entry_id": "http://arxiv.org/abs/2606.26704v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.26704v1",
+        "title": "The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens",
+        "comment": "12 pages, 2 tables",
+        "updated_time": "2026-06-25T07:34:05+00:00",
+        "published_time": "2026-06-25T07:34:05+00:00"
+    },
+    "http://arxiv.org/abs/2606.26216v1": {
+        "entry_id": "http://arxiv.org/abs/2606.26216v1",
+        "pdf_url": "https://arxiv.org/pdf/2606.26216v1",
+        "title": "CyberChainBench: Can AI Agents Secure Smart Contracts Against Real-World On-Chain Vulnerabilities?",
+        "comment": null,
+        "updated_time": "2026-06-24T17:58:16+00:00",
+        "published_time": "2026-06-24T17:58:16+00:00"
+    },
     "http://arxiv.org/abs/2606.20315v1": {
         "entry_id": "http://arxiv.org/abs/2606.20315v1",
         "pdf_url": "https://arxiv.org/pdf/2606.20315v1",
