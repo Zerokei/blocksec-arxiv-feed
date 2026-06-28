@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-06-26T13:53:14.334347
+Last Updated: 2026-06-28T13:06:42.197078
 
 ## Newest Papers
 
@@ -27,8 +27,8 @@ Last Updated: 2026-06-26T13:53:14.334347
 |19|Decoupled Smart Contract Audits: Lightweight LLM Framework via Distillation and Aggregation|[link](http://arxiv.org/abs/2606.03128v1)|🆕 2026-06-02|
 |20|Unicity: Predicates and Atomic Swaps|[link](http://arxiv.org/abs/2606.02192v1)|🆕 2026-06-01|
 |21|Tridirectional Discriminating-Power Formal Verification of Smart Contract Reentrancy Defense Against Production-Deployed Solidity Source|[link](http://arxiv.org/abs/2606.01794v1)|🆕 2026-06-01|
-|22|Neuroforger: certified violation witnesses for smart contracts verification via LLMs|[link](http://arxiv.org/abs/2605.31389v1)|🆕 2026-05-29|
-|23|DeepFake Forensics AI: A Multi-Modal Detection and Blockchain-Anchored Evidence Management Platform|[link](http://arxiv.org/abs/2605.29353v1)|🆕 2026-05-28|
+|22|Neuroforger: certified violation witnesses for smart contracts verification via LLMs|[link](http://arxiv.org/abs/2605.31389v1)|2026-05-29|
+|23|DeepFake Forensics AI: A Multi-Modal Detection and Blockchain-Anchored Evidence Management Platform|[link](http://arxiv.org/abs/2605.29353v1)|2026-05-28|
 |24|SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers|[link](http://arxiv.org/abs/2605.29059v1)|2026-05-27|
 |25|A Trilemma in AMM Mechanism Design|[link](http://arxiv.org/abs/2605.27602v1)|2026-05-26|
 |26|Decoupling Reentrancy Protection from Smart Contract Implementation Logic|[link](http://arxiv.org/abs/2605.25207v1)|2026-05-24|
