@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-07-04T14:18:55.744726
+Last Updated: 2026-07-05T13:00:12.816766
 
 ## Newest Papers
 
@@ -20,7 +20,7 @@ Last Updated: 2026-07-04T14:18:55.744726
 |12|Smart Blockchain-Based Access Control for the Internet of Things|[link](http://arxiv.org/abs/2606.13798v1)|🆕 2026-06-11|
 |13|Post-Quantum Secure Federated DeFi for Inclusive Banking|[link](http://arxiv.org/abs/2606.10658v1)|🆕 2026-06-09|
 |14|Proof of Source of Funds: Efficient On-chain Provenance of Cryptoassets|[link](http://arxiv.org/abs/2606.10172v1)|🆕 2026-06-08|
-|15|On the Shoulders of Giants: Empowering Automated Smart Contract Auditing via the GiAnt Corpus|[link](http://arxiv.org/abs/2606.07363v1)|🆕 2026-06-05|
+|15|On the Shoulders of Giants: Empowering Automated Smart Contract Auditing via the GiAnt Corpus|[link](http://arxiv.org/abs/2606.07363v1)|2026-06-05|
 |16|AttackPathGNN: Cross-function vulnerability detection in smart contracts using state interference graphs and conjunction pooling|[link](http://arxiv.org/abs/2606.05986v1)|2026-06-04|
 |17|A formal framework for the economic security of DeFi compositions|[link](http://arxiv.org/abs/2606.05418v1)|2026-06-03|
 |18|Tridirectional Discriminating-Power Formal Verification of Smart Contract Reentrancy Defense Against Production-Deployed Solidity Source|[link](http://arxiv.org/abs/2606.01794v2)|2026-06-02|
