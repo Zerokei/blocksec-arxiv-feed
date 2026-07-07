@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2605.02077v2": {
+        "entry_id": "http://arxiv.org/abs/2605.02077v2",
+        "pdf_url": "https://arxiv.org/pdf/2605.02077v2",
+        "title": "Obscura: Privacy-Preserving Protocol for the Algorand Blockchain Using LSAG Ring Signatures",
+        "comment": null,
+        "updated_time": "2026-07-05T19:22:06+00:00",
+        "published_time": "2026-05-03T22:33:30+00:00"
+    },
+    "http://arxiv.org/abs/2607.04032v1": {
+        "entry_id": "http://arxiv.org/abs/2607.04032v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.04032v1",
+        "title": "Data Structures for Private Token Transfers in TEE-Based Networks",
+        "comment": "21 pages, 4 figures",
+        "updated_time": "2026-07-04T21:24:01+00:00",
+        "published_time": "2026-07-04T21:24:01+00:00"
+    },
     "http://arxiv.org/abs/2607.01742v1": {
         "entry_id": "http://arxiv.org/abs/2607.01742v1",
         "pdf_url": "https://arxiv.org/pdf/2607.01742v1",
