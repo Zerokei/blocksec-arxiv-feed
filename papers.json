@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2607.07625v1": {
+        "entry_id": "http://arxiv.org/abs/2607.07625v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.07625v1",
+        "title": "Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain",
+        "comment": null,
+        "updated_time": "2026-07-08T16:41:05+00:00",
+        "published_time": "2026-07-08T16:41:05+00:00"
+    },
+    "http://arxiv.org/abs/2607.07217v1": {
+        "entry_id": "http://arxiv.org/abs/2607.07217v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.07217v1",
+        "title": "Finding and Understanding Miscompilation Bugs in the Solidity Compiler",
+        "comment": "16 pages, 7 figures, 4 tables",
+        "updated_time": "2026-07-08T09:59:46+00:00",
+        "published_time": "2026-07-08T09:59:46+00:00"
+    },
     "http://arxiv.org/abs/2607.06525v1": {
         "entry_id": "http://arxiv.org/abs/2607.06525v1",
         "pdf_url": "https://arxiv.org/pdf/2607.06525v1",
@@ -6,6 +22,14 @@
         "comment": "18 pages, 4 figures",
         "updated_time": "2026-07-07T17:31:30+00:00",
         "published_time": "2026-07-07T17:31:30+00:00"
+    },
+    "http://arxiv.org/abs/2607.06593v1": {
+        "entry_id": "http://arxiv.org/abs/2607.06593v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.06593v1",
+        "title": "Blockchain Attacks and Defenses: A Layered and Cross-Domain Survey",
+        "comment": "35 pages",
+        "updated_time": "2026-07-06T08:53:22+00:00",
+        "published_time": "2026-07-06T08:53:22+00:00"
     },
     "http://arxiv.org/abs/2605.02077v2": {
         "entry_id": "http://arxiv.org/abs/2605.02077v2",
