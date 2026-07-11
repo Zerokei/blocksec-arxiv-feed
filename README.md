@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-07-10T13:48:22.795930
+Last Updated: 2026-07-11T12:44:05.172056
 
 ## Newest Papers
 
@@ -24,7 +24,7 @@ Last Updated: 2026-07-10T13:48:22.795930
 |16|DeXposure-Claw: An Agentic System for DeFi Risk Supervision|[link](http://arxiv.org/abs/2606.19501v1)|🆕 2026-06-17|
 |17|SCOPE-FL: A Strategy-proof Chain-based Optimal pareto efficient Federated Learning System|[link](http://arxiv.org/abs/2606.18384v1)|🆕 2026-06-16|
 |18|Security Threats and Their Impact on Blockchain Interoperability: Identification and Countermeasures|[link](http://arxiv.org/abs/2606.14554v1)|🆕 2026-06-12|
-|19|Smart Blockchain-Based Access Control for the Internet of Things|[link](http://arxiv.org/abs/2606.13798v1)|🆕 2026-06-11|
+|19|Smart Blockchain-Based Access Control for the Internet of Things|[link](http://arxiv.org/abs/2606.13798v1)|2026-06-11|
 |20|Post-Quantum Secure Federated DeFi for Inclusive Banking|[link](http://arxiv.org/abs/2606.10658v1)|2026-06-09|
 |21|Proof of Source of Funds: Efficient On-chain Provenance of Cryptoassets|[link](http://arxiv.org/abs/2606.10172v1)|2026-06-08|
 |22|On the Shoulders of Giants: Empowering Automated Smart Contract Auditing via the GiAnt Corpus|[link](http://arxiv.org/abs/2606.07363v1)|2026-06-05|
