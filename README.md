@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-07-16T13:09:44.122643
+Last Updated: 2026-07-17T12:54:45.357608
 
 ## Newest Papers
 
@@ -21,7 +21,7 @@ Last Updated: 2026-07-16T13:09:44.122643
 |13|bioETH-Beacon: A Confidential On-Chain Genomic Beacon with Encrypted Counts, Filters, and Bounded Noise over a Fully Homomorphic EVM|[link](http://arxiv.org/abs/2606.20315v1)|🆕 2026-06-18|
 |14|Privacy-Preserving Compliance on Public Ledgers via Selective Disclosure Authorization Schemes|[link](http://arxiv.org/abs/2606.20760v1)|🆕 2026-06-18|
 |15|Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning|[link](http://arxiv.org/abs/2606.19988v1)|🆕 2026-06-18|
-|16|DeXposure-Claw: An Agentic System for DeFi Risk Supervision|[link](http://arxiv.org/abs/2606.19501v1)|🆕 2026-06-17|
+|16|DeXposure-Claw: An Agentic System for DeFi Risk Supervision|[link](http://arxiv.org/abs/2606.19501v1)|2026-06-17|
 |17|SCOPE-FL: A Strategy-proof Chain-based Optimal pareto efficient Federated Learning System|[link](http://arxiv.org/abs/2606.18384v1)|2026-06-16|
 |18|Security Threats and Their Impact on Blockchain Interoperability: Identification and Countermeasures|[link](http://arxiv.org/abs/2606.14554v1)|2026-06-12|
 |19|Smart Blockchain-Based Access Control for the Internet of Things|[link](http://arxiv.org/abs/2606.13798v1)|2026-06-11|
