@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-07-17T14:21:08.891131
+Last Updated: 2026-07-18T12:41:53.601885
 
 ## Newest Papers
 
@@ -18,9 +18,9 @@ Last Updated: 2026-07-17T14:21:08.891131
 |10|Tilikum: Transaction Fair Ordering on a DAG without Weak Edges|[link](http://arxiv.org/abs/2606.27250v1)|🆕 2026-06-25|
 |11|The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens|[link](http://arxiv.org/abs/2606.26704v1)|🆕 2026-06-25|
 |12|CyberChainBench: Can AI Agents Secure Smart Contracts Against Real-World On-Chain Vulnerabilities?|[link](http://arxiv.org/abs/2606.26216v1)|🆕 2026-06-24|
-|13|bioETH-Beacon: A Confidential On-Chain Genomic Beacon with Encrypted Counts, Filters, and Bounded Noise over a Fully Homomorphic EVM|[link](http://arxiv.org/abs/2606.20315v1)|🆕 2026-06-18|
-|14|Privacy-Preserving Compliance on Public Ledgers via Selective Disclosure Authorization Schemes|[link](http://arxiv.org/abs/2606.20760v1)|🆕 2026-06-18|
-|15|Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning|[link](http://arxiv.org/abs/2606.19988v1)|🆕 2026-06-18|
+|13|bioETH-Beacon: A Confidential On-Chain Genomic Beacon with Encrypted Counts, Filters, and Bounded Noise over a Fully Homomorphic EVM|[link](http://arxiv.org/abs/2606.20315v1)|2026-06-18|
+|14|Privacy-Preserving Compliance on Public Ledgers via Selective Disclosure Authorization Schemes|[link](http://arxiv.org/abs/2606.20760v1)|2026-06-18|
+|15|Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning|[link](http://arxiv.org/abs/2606.19988v1)|2026-06-18|
 |16|DeXposure-Claw: An Agentic System for DeFi Risk Supervision|[link](http://arxiv.org/abs/2606.19501v1)|2026-06-17|
 |17|SCOPE-FL: A Strategy-proof Chain-based Optimal pareto efficient Federated Learning System|[link](http://arxiv.org/abs/2606.18384v1)|2026-06-16|
 |18|Security Threats and Their Impact on Blockchain Interoperability: Identification and Countermeasures|[link](http://arxiv.org/abs/2606.14554v1)|2026-06-12|
