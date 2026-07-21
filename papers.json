@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2607.17987v1": {
+        "entry_id": "http://arxiv.org/abs/2607.17987v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.17987v1",
+        "title": "Chiral Analysis of Smart Contracts: Detecting Vulnerabilities from Relational Inconsistencies Across Business Paths",
+        "comment": null,
+        "updated_time": "2026-07-20T14:17:00+00:00",
+        "published_time": "2026-07-20T14:17:00+00:00"
+    },
+    "http://arxiv.org/abs/2607.17218v1": {
+        "entry_id": "http://arxiv.org/abs/2607.17218v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.17218v1",
+        "title": "SpexPay: A Privacy-Preserving Pay-As-You-Go System for Dynamic Spectrum Sharing",
+        "comment": "20 pages, 2 figures, 3 tables",
+        "updated_time": "2026-07-19T12:20:51+00:00",
+        "published_time": "2026-07-19T12:20:51+00:00"
+    },
+    "http://arxiv.org/abs/2607.16959v1": {
+        "entry_id": "http://arxiv.org/abs/2607.16959v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.16959v1",
+        "title": "Rollback-Free Cross-Chain Atomicity Through Forward-Only Correction",
+        "comment": null,
+        "updated_time": "2026-07-18T20:39:00+00:00",
+        "published_time": "2026-07-18T20:39:00+00:00"
+    },
     "http://arxiv.org/abs/2607.15673v1": {
         "entry_id": "http://arxiv.org/abs/2607.15673v1",
         "pdf_url": "https://arxiv.org/pdf/2607.15673v1",
