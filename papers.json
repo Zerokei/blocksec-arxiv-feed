@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2607.22184v1": {
+        "entry_id": "http://arxiv.org/abs/2607.22184v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.22184v1",
+        "title": "DeFiScreener: Efficient DeFi Attack Pre-screening in Smart Contracts via Historical Case Matching",
+        "comment": null,
+        "updated_time": "2026-07-24T10:51:26+00:00",
+        "published_time": "2026-07-24T10:51:26+00:00"
+    },
+    "http://arxiv.org/abs/2607.22065v1": {
+        "entry_id": "http://arxiv.org/abs/2607.22065v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.22065v1",
+        "title": "BioZKFHE: Scalable Encrypted Biometric Identification via Verifiable Homomorphic Similarity Evaluation",
+        "comment": "Accepted for publication in IEEE Transactions on Dependable and Secure Computing. 28 pages, including supplementary material",
+        "updated_time": "2026-07-24T08:08:54+00:00",
+        "published_time": "2026-07-24T08:08:54+00:00"
+    },
+    "http://arxiv.org/abs/2607.21983v1": {
+        "entry_id": "http://arxiv.org/abs/2607.21983v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.21983v1",
+        "title": "Ethereum NFT Smart Contracts: Knowledge-Guided Vulnerability Detection with LLM and Code Slicing",
+        "comment": null,
+        "updated_time": "2026-07-24T05:10:26+00:00",
+        "published_time": "2026-07-24T05:10:26+00:00"
+    },
+    "http://arxiv.org/abs/2607.21643v1": {
+        "entry_id": "http://arxiv.org/abs/2607.21643v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.21643v1",
+        "title": "StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System",
+        "comment": null,
+        "updated_time": "2026-07-21T20:35:02+00:00",
+        "published_time": "2026-07-21T20:35:02+00:00"
+    },
     "http://arxiv.org/abs/2607.18869v1": {
         "entry_id": "http://arxiv.org/abs/2607.18869v1",
         "pdf_url": "https://arxiv.org/pdf/2607.18869v1",
