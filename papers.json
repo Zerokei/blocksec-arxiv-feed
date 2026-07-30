@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2607.26204v1": {
+        "entry_id": "http://arxiv.org/abs/2607.26204v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.26204v1",
+        "title": "On Exercising Governance Power in Decentralized Autonomous Organizations",
+        "comment": "To Appear in 8th edition of the International Conference on Blockchain Computing and Applications (BCCA 2026)",
+        "updated_time": "2026-07-28T19:09:19+00:00",
+        "published_time": "2026-07-28T19:09:19+00:00"
+    },
     "http://arxiv.org/abs/2607.21643v2": {
         "entry_id": "http://arxiv.org/abs/2607.21643v2",
         "pdf_url": "https://arxiv.org/pdf/2607.21643v2",
@@ -6,6 +14,14 @@
         "comment": null,
         "updated_time": "2026-07-28T12:49:44+00:00",
         "published_time": "2026-07-21T20:35:02+00:00"
+    },
+    "http://arxiv.org/abs/2607.26087v1": {
+        "entry_id": "http://arxiv.org/abs/2607.26087v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.26087v1",
+        "title": "Framework Implementation Maturity in Blockchain-Based Third-Party Compliance Assessment",
+        "comment": null,
+        "updated_time": "2026-07-27T17:03:07+00:00",
+        "published_time": "2026-07-27T17:03:07+00:00"
     },
     "http://arxiv.org/abs/2607.23308v1": {
         "entry_id": "http://arxiv.org/abs/2607.23308v1",
