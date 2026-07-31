@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2607.28424v1": {
+        "entry_id": "http://arxiv.org/abs/2607.28424v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.28424v1",
+        "title": "Demystifying Solana Bots: From GitHub Blueprints to On-Chain Fingerprints",
+        "comment": "Accepted at ASE 2026",
+        "updated_time": "2026-07-30T16:02:50+00:00",
+        "published_time": "2026-07-30T16:02:50+00:00"
+    },
+    "http://arxiv.org/abs/2607.27859v1": {
+        "entry_id": "http://arxiv.org/abs/2607.27859v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.27859v1",
+        "title": "ZAPs: A Reward Attribution Framework for DeFi Ecosystems with Adversarial-Robust Scoring via Parallel Anomaly Ensemble Detection",
+        "comment": "19 pages, 5 figures, 7 tables",
+        "updated_time": "2026-07-30T08:36:26+00:00",
+        "published_time": "2026-07-30T08:36:26+00:00"
+    },
+    "http://arxiv.org/abs/2607.27350v1": {
+        "entry_id": "http://arxiv.org/abs/2607.27350v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.27350v1",
+        "title": "Modeling Decisions in Blockchain Analytics: A Leakage-Aware Evaluation of Tree-Based vs. Sequential Models",
+        "comment": "Accepted for presentation at the 23rd International Conference on Modeling Decisions for Artificial Intelligence (MDAI 2026)",
+        "updated_time": "2026-07-29T18:08:07+00:00",
+        "published_time": "2026-07-29T18:08:07+00:00"
+    },
     "http://arxiv.org/abs/2607.26204v1": {
         "entry_id": "http://arxiv.org/abs/2607.26204v1",
         "pdf_url": "https://arxiv.org/pdf/2607.26204v1",
