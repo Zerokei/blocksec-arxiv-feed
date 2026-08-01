@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-07-31T13:23:18.033665
+Last Updated: 2026-08-01T12:46:40.731996
 
 ## Newest Papers
 
@@ -29,7 +29,7 @@ Last Updated: 2026-07-31T13:23:18.033665
 |21|Blockchain Attacks and Defenses: A Layered and Cross-Domain Survey|[link](http://arxiv.org/abs/2607.06593v1)|🆕 2026-07-06|
 |22|Obscura: Privacy-Preserving Protocol for the Algorand Blockchain Using LSAG Ring Signatures|[link](http://arxiv.org/abs/2605.02077v2)|🆕 2026-07-05|
 |23|Data Structures for Private Token Transfers in TEE-Based Networks|[link](http://arxiv.org/abs/2607.04032v1)|🆕 2026-07-04|
-|24|Knowledge Over Parameters: Evolving Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2607.01742v1)|🆕 2026-07-02|
+|24|Knowledge Over Parameters: Evolving Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2607.01742v1)|2026-07-02|
 |25|DeXposure-Claw: An Agentic System for DeFi Risk Supervision|[link](http://arxiv.org/abs/2606.19501v2)|2026-06-29|
 |26|Tilikum: Transaction Fair Ordering on a DAG without Weak Edges|[link](http://arxiv.org/abs/2606.27250v1)|2026-06-25|
 |27|The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens|[link](http://arxiv.org/abs/2606.26704v1)|2026-06-25|
