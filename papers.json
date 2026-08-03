@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2607.29417v1": {
+        "entry_id": "http://arxiv.org/abs/2607.29417v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.29417v1",
+        "title": "Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers",
+        "comment": "Accepted manuscript. 15 pages, 7 figures. Published in Journal of Information Security and Applications, Vol. 93 (2025), Article 104103",
+        "updated_time": "2026-07-31T13:40:00+00:00",
+        "published_time": "2026-07-31T13:40:00+00:00"
+    },
+    "http://arxiv.org/abs/2607.28424v2": {
+        "entry_id": "http://arxiv.org/abs/2607.28424v2",
+        "pdf_url": "https://arxiv.org/pdf/2607.28424v2",
+        "title": "Demystifying Solana Bots: From GitHub Blueprints to On-Chain Fingerprints",
+        "comment": "Accepted at ASE 2026",
+        "updated_time": "2026-07-31T07:11:57+00:00",
+        "published_time": "2026-07-30T16:02:50+00:00"
+    },
+    "http://arxiv.org/abs/2607.28747v1": {
+        "entry_id": "http://arxiv.org/abs/2607.28747v1",
+        "pdf_url": "https://arxiv.org/pdf/2607.28747v1",
+        "title": "Blockchain Transaction Simulation Phishing",
+        "comment": "15 pages, 7 figures",
+        "updated_time": "2026-07-30T18:09:56+00:00",
+        "published_time": "2026-07-30T18:09:56+00:00"
+    },
     "http://arxiv.org/abs/2607.28424v1": {
         "entry_id": "http://arxiv.org/abs/2607.28424v1",
         "pdf_url": "https://arxiv.org/pdf/2607.28424v1",
