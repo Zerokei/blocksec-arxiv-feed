@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2608.01938v1": {
+        "entry_id": "http://arxiv.org/abs/2608.01938v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.01938v1",
+        "title": "D-MUTRA: DLT-based MUTual Remote Attestation for Multi-Agent Systems",
+        "comment": null,
+        "updated_time": "2026-08-03T09:10:31+00:00",
+        "published_time": "2026-08-03T09:10:31+00:00"
+    },
+    "http://arxiv.org/abs/2608.01609v1": {
+        "entry_id": "http://arxiv.org/abs/2608.01609v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.01609v1",
+        "title": "From Viral to Void: Multi-Dimensional Behavioral and Contractual Analysis for Rug Pull Identification",
+        "comment": null,
+        "updated_time": "2026-08-03T02:34:24+00:00",
+        "published_time": "2026-08-03T02:34:24+00:00"
+    },
+    "http://arxiv.org/abs/2608.00937v1": {
+        "entry_id": "http://arxiv.org/abs/2608.00937v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.00937v1",
+        "title": "Neuro-Symbolic Participation Governance for Verifiable AI Agents in Open Digital Twin Ecosystems",
+        "comment": "Accepted at the 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2026), Bellevue, WA, USA, October 4-7, 2026. 7 pages, 1 figure, 5 tables. Code: https://github.com/weicaiuw/verigov-ai (DOI: 10.5281/zenodo.21706699)",
+        "updated_time": "2026-08-02T02:30:32+00:00",
+        "published_time": "2026-08-02T02:30:32+00:00"
+    },
     "http://arxiv.org/abs/2607.29417v1": {
         "entry_id": "http://arxiv.org/abs/2607.29417v1",
         "pdf_url": "https://arxiv.org/pdf/2607.29417v1",
