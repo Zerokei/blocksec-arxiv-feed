@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-08-04T13:29:48.389146
+Last Updated: 2026-08-05T13:28:00.715518
 
 ## Newest Papers
 
@@ -32,7 +32,7 @@ Last Updated: 2026-08-04T13:29:48.389146
 |24|Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain|[link](http://arxiv.org/abs/2607.07625v1)|🆕 2026-07-08|
 |25|Finding and Understanding Miscompilation Bugs in the Solidity Compiler|[link](http://arxiv.org/abs/2607.07217v1)|🆕 2026-07-08|
 |26|Crossroads: A Smart Contract Layer for Chain-Abstracted Assets|[link](http://arxiv.org/abs/2607.06525v1)|🆕 2026-07-07|
-|27|Blockchain Attacks and Defenses: A Layered and Cross-Domain Survey|[link](http://arxiv.org/abs/2607.06593v1)|🆕 2026-07-06|
+|27|Blockchain Attacks and Defenses: A Layered and Cross-Domain Survey|[link](http://arxiv.org/abs/2607.06593v1)|2026-07-06|
 |28|Obscura: Privacy-Preserving Protocol for the Algorand Blockchain Using LSAG Ring Signatures|[link](http://arxiv.org/abs/2605.02077v2)|2026-07-05|
 |29|Data Structures for Private Token Transfers in TEE-Based Networks|[link](http://arxiv.org/abs/2607.04032v1)|2026-07-04|
 |30|Knowledge Over Parameters: Evolving Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2607.01742v1)|2026-07-02|
