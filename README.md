@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-08-15T13:21:33.702602
+Last Updated: 2026-08-16T12:12:02.728679
 
 ## Newest Papers
 
@@ -29,7 +29,7 @@ Last Updated: 2026-08-15T13:21:33.702602
 |21|Chiral Analysis of Smart Contracts: Detecting Vulnerabilities from Relational Inconsistencies Across Business Paths|[link](http://arxiv.org/abs/2607.17987v1)|🆕 2026-07-20|
 |22|SpexPay: A Privacy-Preserving Pay-As-You-Go System for Dynamic Spectrum Sharing|[link](http://arxiv.org/abs/2607.17218v1)|🆕 2026-07-19|
 |23|Rollback-Free Cross-Chain Atomicity Through Forward-Only Correction|[link](http://arxiv.org/abs/2607.16959v1)|🆕 2026-07-18|
-|24|Beyond Detection: Agentic Attack Synthesis and Simulation for Smart Contracts|[link](http://arxiv.org/abs/2607.15673v1)|🆕 2026-07-17|
+|24|Beyond Detection: Agentic Attack Synthesis and Simulation for Smart Contracts|[link](http://arxiv.org/abs/2607.15673v1)|2026-07-17|
 |25|Threshold Authorization Without Threshold Signatures: Signature-Agnostic MPC Custody|[link](http://arxiv.org/abs/2607.08226v1)|2026-07-09|
 |26|Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain|[link](http://arxiv.org/abs/2607.07625v1)|2026-07-08|
 |27|Finding and Understanding Miscompilation Bugs in the Solidity Compiler|[link](http://arxiv.org/abs/2607.07217v1)|2026-07-08|
