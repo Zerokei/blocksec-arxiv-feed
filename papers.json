@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2608.14356v1": {
+        "entry_id": "http://arxiv.org/abs/2608.14356v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.14356v1",
+        "title": "Designing Inclusive Crypto-Asset Dispute Resolution A Hybrid AI and Smart Contract Online Dispute Resolution Framework for Vulnerable Users",
+        "comment": null,
+        "updated_time": "2026-08-14T14:56:51+00:00",
+        "published_time": "2026-08-14T14:56:51+00:00"
+    },
+    "http://arxiv.org/abs/2608.13792v1": {
+        "entry_id": "http://arxiv.org/abs/2608.13792v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.13792v1",
+        "title": "The ack3 H1 2026 DeFi Incident Dataset: Audit Scope Across 135 Security Incidents",
+        "comment": "6 pages, 6 figures. Dataset: https://doi.org/10.5281/zenodo.21906487",
+        "updated_time": "2026-08-13T21:51:15+00:00",
+        "published_time": "2026-08-13T21:51:15+00:00"
+    },
     "http://arxiv.org/abs/2608.13191v1": {
         "entry_id": "http://arxiv.org/abs/2608.13191v1",
         "pdf_url": "https://arxiv.org/pdf/2608.13191v1",
