@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2608.15518v1": {
+        "entry_id": "http://arxiv.org/abs/2608.15518v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.15518v1",
+        "title": "A Lifecycle-Oriented Detection and Defense Framework for Price Manipulation Attacks in DeFi",
+        "comment": "21 pages, 5 figures",
+        "updated_time": "2026-08-16T04:01:42+00:00",
+        "published_time": "2026-08-16T04:01:42+00:00"
+    },
+    "http://arxiv.org/abs/2608.15276v1": {
+        "entry_id": "http://arxiv.org/abs/2608.15276v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.15276v1",
+        "title": "Balancing Privacy and Compliance in DeFi: A Zero-Knowledge-Based Auditable Cross-Chain Framework",
+        "comment": "18 pages, 1 figure",
+        "updated_time": "2026-08-15T15:19:10+00:00",
+        "published_time": "2026-08-15T15:19:10+00:00"
+    },
+    "http://arxiv.org/abs/2608.15184v1": {
+        "entry_id": "http://arxiv.org/abs/2608.15184v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.15184v1",
+        "title": "Pre-Model Representation Failures in GNN-Based Smart Contract Vulnerability Detection",
+        "comment": "12 pages, 5 Tables, 4 Listings",
+        "updated_time": "2026-08-15T11:54:45+00:00",
+        "published_time": "2026-08-15T11:54:45+00:00"
+    },
+    "http://arxiv.org/abs/2608.15151v1": {
+        "entry_id": "http://arxiv.org/abs/2608.15151v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.15151v1",
+        "title": "SAEFUZZ: Smart Contract Vulnerability Detection through Statically Guided Evolutionary Fuzzing",
+        "comment": null,
+        "updated_time": "2026-08-15T10:06:12+00:00",
+        "published_time": "2026-08-15T10:06:12+00:00"
+    },
     "http://arxiv.org/abs/2608.14356v1": {
         "entry_id": "http://arxiv.org/abs/2608.14356v1",
         "pdf_url": "https://arxiv.org/pdf/2608.14356v1",
