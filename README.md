@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-08-19T13:10:15.139013
+Last Updated: 2026-08-20T12:19:11.827862
 
 ## Newest Papers
 
@@ -31,8 +31,8 @@ Last Updated: 2026-08-19T13:10:15.139013
 |23|DeFiScreener: Efficient DeFi Attack Pre-screening in Smart Contracts via Historical Case Matching|[link](http://arxiv.org/abs/2607.22184v1)|🆕 2026-07-24|
 |24|BioZKFHE: Scalable Encrypted Biometric Identification via Verifiable Homomorphic Similarity Evaluation|[link](http://arxiv.org/abs/2607.22065v1)|🆕 2026-07-24|
 |25|Ethereum NFT Smart Contracts: Knowledge-Guided Vulnerability Detection with LLM and Code Slicing|[link](http://arxiv.org/abs/2607.21983v1)|🆕 2026-07-24|
-|26|StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System|[link](http://arxiv.org/abs/2607.21643v1)|🆕 2026-07-21|
-|27|Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis|[link](http://arxiv.org/abs/2607.18869v1)|🆕 2026-07-21|
+|26|StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System|[link](http://arxiv.org/abs/2607.21643v1)|2026-07-21|
+|27|Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis|[link](http://arxiv.org/abs/2607.18869v1)|2026-07-21|
 |28|Chiral Analysis of Smart Contracts: Detecting Vulnerabilities from Relational Inconsistencies Across Business Paths|[link](http://arxiv.org/abs/2607.17987v1)|2026-07-20|
 |29|SpexPay: A Privacy-Preserving Pay-As-You-Go System for Dynamic Spectrum Sharing|[link](http://arxiv.org/abs/2607.17218v1)|2026-07-19|
 |30|Rollback-Free Cross-Chain Atomicity Through Forward-Only Correction|[link](http://arxiv.org/abs/2607.16959v1)|2026-07-18|
