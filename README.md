@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-08-22T13:26:28.172437
+Last Updated: 2026-08-23T12:12:46.996152
 
 ## Newest Papers
 
@@ -29,9 +29,9 @@ Last Updated: 2026-08-22T13:26:28.172437
 |21|StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System|[link](http://arxiv.org/abs/2607.21643v2)|🆕 2026-07-28|
 |22|Framework Implementation Maturity in Blockchain-Based Third-Party Compliance Assessment|[link](http://arxiv.org/abs/2607.26087v1)|🆕 2026-07-27|
 |23|Towards LLM-assisted High-Quality Property Generation for Solidity Smart Contracts|[link](http://arxiv.org/abs/2607.23308v1)|🆕 2026-07-25|
-|24|DeFiScreener: Efficient DeFi Attack Pre-screening in Smart Contracts via Historical Case Matching|[link](http://arxiv.org/abs/2607.22184v1)|🆕 2026-07-24|
-|25|BioZKFHE: Scalable Encrypted Biometric Identification via Verifiable Homomorphic Similarity Evaluation|[link](http://arxiv.org/abs/2607.22065v1)|🆕 2026-07-24|
-|26|Ethereum NFT Smart Contracts: Knowledge-Guided Vulnerability Detection with LLM and Code Slicing|[link](http://arxiv.org/abs/2607.21983v1)|🆕 2026-07-24|
+|24|DeFiScreener: Efficient DeFi Attack Pre-screening in Smart Contracts via Historical Case Matching|[link](http://arxiv.org/abs/2607.22184v1)|2026-07-24|
+|25|BioZKFHE: Scalable Encrypted Biometric Identification via Verifiable Homomorphic Similarity Evaluation|[link](http://arxiv.org/abs/2607.22065v1)|2026-07-24|
+|26|Ethereum NFT Smart Contracts: Knowledge-Guided Vulnerability Detection with LLM and Code Slicing|[link](http://arxiv.org/abs/2607.21983v1)|2026-07-24|
 |27|StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System|[link](http://arxiv.org/abs/2607.21643v1)|2026-07-21|
 |28|Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis|[link](http://arxiv.org/abs/2607.18869v1)|2026-07-21|
 |29|Chiral Analysis of Smart Contracts: Detecting Vulnerabilities from Relational Inconsistencies Across Business Paths|[link](http://arxiv.org/abs/2607.17987v1)|2026-07-20|
