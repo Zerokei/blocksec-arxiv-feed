@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-08-23T12:59:47.331847
+Last Updated: 2026-08-24T12:19:27.901567
 
 ## Newest Papers
 
@@ -28,7 +28,7 @@ Last Updated: 2026-08-23T12:59:47.331847
 |20|On Exercising Governance Power in Decentralized Autonomous Organizations|[link](http://arxiv.org/abs/2607.26204v1)|🆕 2026-07-28|
 |21|StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System|[link](http://arxiv.org/abs/2607.21643v2)|🆕 2026-07-28|
 |22|Framework Implementation Maturity in Blockchain-Based Third-Party Compliance Assessment|[link](http://arxiv.org/abs/2607.26087v1)|🆕 2026-07-27|
-|23|Towards LLM-assisted High-Quality Property Generation for Solidity Smart Contracts|[link](http://arxiv.org/abs/2607.23308v1)|🆕 2026-07-25|
+|23|Towards LLM-assisted High-Quality Property Generation for Solidity Smart Contracts|[link](http://arxiv.org/abs/2607.23308v1)|2026-07-25|
 |24|DeFiScreener: Efficient DeFi Attack Pre-screening in Smart Contracts via Historical Case Matching|[link](http://arxiv.org/abs/2607.22184v1)|2026-07-24|
 |25|BioZKFHE: Scalable Encrypted Biometric Identification via Verifiable Homomorphic Similarity Evaluation|[link](http://arxiv.org/abs/2607.22065v1)|2026-07-24|
 |26|Ethereum NFT Smart Contracts: Knowledge-Guided Vulnerability Detection with LLM and Code Slicing|[link](http://arxiv.org/abs/2607.21983v1)|2026-07-24|
