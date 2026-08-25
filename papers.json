@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2608.22645v1": {
+        "entry_id": "http://arxiv.org/abs/2608.22645v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.22645v1",
+        "title": "Obscura-PQ: Post-Quantum Privacy-Preserving Protocol for the Algorand Blockchain Using Lattice-Based Linkable Ring Signatures",
+        "comment": null,
+        "updated_time": "2026-08-23T23:03:51+00:00",
+        "published_time": "2026-08-23T23:03:51+00:00"
+    },
+    "http://arxiv.org/abs/2608.22345v1": {
+        "entry_id": "http://arxiv.org/abs/2608.22345v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.22345v1",
+        "title": "Mitigating Error Propagation in Chain-of-Thought: A Tree-of-Thought Framework for Smart Contract Repair",
+        "comment": null,
+        "updated_time": "2026-08-23T10:21:56+00:00",
+        "published_time": "2026-08-23T10:21:56+00:00"
+    },
     "http://arxiv.org/abs/2608.20145v1": {
         "entry_id": "http://arxiv.org/abs/2608.20145v1",
         "pdf_url": "https://arxiv.org/pdf/2608.20145v1",
