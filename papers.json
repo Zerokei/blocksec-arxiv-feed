@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2608.25600v1": {
+        "entry_id": "http://arxiv.org/abs/2608.25600v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.25600v1",
+        "title": "Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins",
+        "comment": "22 pages, 5 figures",
+        "updated_time": "2026-08-26T10:21:10+00:00",
+        "published_time": "2026-08-26T10:21:10+00:00"
+    },
+    "http://arxiv.org/abs/2608.25165v1": {
+        "entry_id": "http://arxiv.org/abs/2608.25165v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.25165v1",
+        "title": "BGPay: An Incentive-Compatible Mechanism for BGP Hijack Filtering",
+        "comment": null,
+        "updated_time": "2026-08-25T21:21:17+00:00",
+        "published_time": "2026-08-25T21:21:17+00:00"
+    },
     "http://arxiv.org/abs/2608.22645v1": {
         "entry_id": "http://arxiv.org/abs/2608.22645v1",
         "pdf_url": "https://arxiv.org/pdf/2608.22645v1",
