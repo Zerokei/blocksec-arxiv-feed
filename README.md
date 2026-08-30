@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-08-29T15:48:01.608251
+Last Updated: 2026-08-30T15:32:38.010272
 
 ## Newest Papers
 
@@ -24,8 +24,8 @@ Last Updated: 2026-08-29T15:48:01.608251
 |16|D-MUTRA: DLT-based MUTual Remote Attestation for Multi-Agent Systems|[link](http://arxiv.org/abs/2608.01938v1)|🆕 2026-08-03|
 |17|From Viral to Void: Multi-Dimensional Behavioral and Contractual Analysis for Rug Pull Identification|[link](http://arxiv.org/abs/2608.01609v1)|🆕 2026-08-03|
 |18|Neuro-Symbolic Participation Governance for Verifiable AI Agents in Open Digital Twin Ecosystems|[link](http://arxiv.org/abs/2608.00937v1)|🆕 2026-08-02|
-|19|Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers|[link](http://arxiv.org/abs/2607.29417v1)|🆕 2026-07-31|
-|20|Demystifying Solana Bots: From GitHub Blueprints to On-Chain Fingerprints|[link](http://arxiv.org/abs/2607.28424v2)|🆕 2026-07-31|
+|19|Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers|[link](http://arxiv.org/abs/2607.29417v1)|2026-07-31|
+|20|Demystifying Solana Bots: From GitHub Blueprints to On-Chain Fingerprints|[link](http://arxiv.org/abs/2607.28424v2)|2026-07-31|
 |21|Blockchain Transaction Simulation Phishing|[link](http://arxiv.org/abs/2607.28747v1)|2026-07-30|
 |22|Demystifying Solana Bots: From GitHub Blueprints to On-Chain Fingerprints|[link](http://arxiv.org/abs/2607.28424v1)|2026-07-30|
 |23|ZAPs: A Reward Attribution Framework for DeFi Ecosystems with Adversarial-Robust Scoring via Parallel Anomaly Ensemble Detection|[link](http://arxiv.org/abs/2607.27859v1)|2026-07-30|
