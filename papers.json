@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2608.28400v1": {
+        "entry_id": "http://arxiv.org/abs/2608.28400v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.28400v1",
+        "title": "When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning",
+        "comment": null,
+        "updated_time": "2026-08-28T14:55:10+00:00",
+        "published_time": "2026-08-28T14:55:10+00:00"
+    },
     "http://arxiv.org/abs/2608.26858v1": {
         "entry_id": "http://arxiv.org/abs/2608.26858v1",
         "pdf_url": "https://arxiv.org/pdf/2608.26858v1",
