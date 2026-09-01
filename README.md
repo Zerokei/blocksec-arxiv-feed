@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-08-31T18:15:43.915377
+Last Updated: 2026-09-01T15:37:21.155674
 
 ## Newest Papers
 
@@ -24,7 +24,7 @@ Last Updated: 2026-08-31T18:15:43.915377
 |16|Enhancing Reliability of Symbolic Execution Tools for Smart Contract Analysis through Rule-Based False Positive Reduction|[link](http://arxiv.org/abs/2608.10265v1)|🆕 2026-08-10|
 |17|D-MUTRA: DLT-based MUTual Remote Attestation for Multi-Agent Systems|[link](http://arxiv.org/abs/2608.01938v1)|🆕 2026-08-03|
 |18|From Viral to Void: Multi-Dimensional Behavioral and Contractual Analysis for Rug Pull Identification|[link](http://arxiv.org/abs/2608.01609v1)|🆕 2026-08-03|
-|19|Neuro-Symbolic Participation Governance for Verifiable AI Agents in Open Digital Twin Ecosystems|[link](http://arxiv.org/abs/2608.00937v1)|🆕 2026-08-02|
+|19|Neuro-Symbolic Participation Governance for Verifiable AI Agents in Open Digital Twin Ecosystems|[link](http://arxiv.org/abs/2608.00937v1)|2026-08-02|
 |20|Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers|[link](http://arxiv.org/abs/2607.29417v1)|2026-07-31|
 |21|Demystifying Solana Bots: From GitHub Blueprints to On-Chain Fingerprints|[link](http://arxiv.org/abs/2607.28424v2)|2026-07-31|
 |22|Blockchain Transaction Simulation Phishing|[link](http://arxiv.org/abs/2607.28747v1)|2026-07-30|
