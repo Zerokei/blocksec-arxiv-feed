@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-09-03T15:18:11.853106
+Last Updated: 2026-09-04T15:13:17.548898
 
 ## Newest Papers
 
