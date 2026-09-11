@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2609.11535v1": {
+        "entry_id": "http://arxiv.org/abs/2609.11535v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.11535v1",
+        "title": "On Identifying Sound Conditions for Frontrunning Resistance",
+        "comment": "Accepted for CCS 2026",
+        "updated_time": "2026-09-10T13:35:13+00:00",
+        "published_time": "2026-09-10T13:35:13+00:00"
+    },
+    "http://arxiv.org/abs/2609.11008v1": {
+        "entry_id": "http://arxiv.org/abs/2609.11008v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.11008v1",
+        "title": "DeFiFusion: Combining Transaction Events with Smart Contracts to Detect Price Manipulation Attacks",
+        "comment": "12 pages, 10 figures",
+        "updated_time": "2026-09-10T02:36:45+00:00",
+        "published_time": "2026-09-10T02:36:45+00:00"
+    },
     "http://arxiv.org/abs/2609.07865v1": {
         "entry_id": "http://arxiv.org/abs/2609.07865v1",
         "pdf_url": "https://arxiv.org/pdf/2609.07865v1",
