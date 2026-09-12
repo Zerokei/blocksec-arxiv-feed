@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-09-11T15:19:25.027593
+Last Updated: 2026-09-12T14:27:42.120924
 
 ## Newest Papers
 
@@ -25,8 +25,8 @@ Last Updated: 2026-09-11T15:19:25.027593
 |17|Pre-Model Representation Failures in GNN-Based Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2608.15184v1)|🆕 2026-08-15|
 |18|SAEFUZZ: Smart Contract Vulnerability Detection through Statically Guided Evolutionary Fuzzing|[link](http://arxiv.org/abs/2608.15151v1)|🆕 2026-08-15|
 |19|Designing Inclusive Crypto-Asset Dispute Resolution A Hybrid AI and Smart Contract Online Dispute Resolution Framework for Vulnerable Users|[link](http://arxiv.org/abs/2608.14356v1)|🆕 2026-08-14|
-|20|The ack3 H1 2026 DeFi Incident Dataset: Audit Scope Across 135 Security Incidents|[link](http://arxiv.org/abs/2608.13792v1)|🆕 2026-08-13|
-|21|Smart Contract Invariants Protect Against Cybercriminals|[link](http://arxiv.org/abs/2608.13191v1)|🆕 2026-08-13|
+|20|The ack3 H1 2026 DeFi Incident Dataset: Audit Scope Across 135 Security Incidents|[link](http://arxiv.org/abs/2608.13792v1)|2026-08-13|
+|21|Smart Contract Invariants Protect Against Cybercriminals|[link](http://arxiv.org/abs/2608.13191v1)|2026-08-13|
 |22|Enhancing Reliability of Symbolic Execution Tools for Smart Contract Analysis through Rule-Based False Positive Reduction|[link](http://arxiv.org/abs/2608.10265v1)|2026-08-10|
 |23|D-MUTRA: DLT-based MUTual Remote Attestation for Multi-Agent Systems|[link](http://arxiv.org/abs/2608.01938v1)|2026-08-03|
 |24|From Viral to Void: Multi-Dimensional Behavioral and Contractual Analysis for Rug Pull Identification|[link](http://arxiv.org/abs/2608.01609v1)|2026-08-03|
