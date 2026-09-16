@@ -1,4 +1,44 @@
 {
+    "http://arxiv.org/abs/2609.16987v1": {
+        "entry_id": "http://arxiv.org/abs/2609.16987v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.16987v1",
+        "title": "TasmScan: Continuation-Aware Taint Analysis for TVM Bytecode with Savelist Abstraction",
+        "comment": null,
+        "updated_time": "2026-09-15T11:01:51+00:00",
+        "published_time": "2026-09-15T11:01:51+00:00"
+    },
+    "http://arxiv.org/abs/2609.14475v1": {
+        "entry_id": "http://arxiv.org/abs/2609.14475v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.14475v1",
+        "title": "EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models",
+        "comment": "Accepted by ICSE'2026",
+        "updated_time": "2026-09-13T12:31:54+00:00",
+        "published_time": "2026-09-13T12:31:54+00:00"
+    },
+    "http://arxiv.org/abs/2609.14098v1": {
+        "entry_id": "http://arxiv.org/abs/2609.14098v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.14098v1",
+        "title": "The Deception Delta: Adversarial Evaluation of LLM-Based Smart Contract Bytecode Forensics",
+        "comment": "14 pages, 1 figure, 4 tables. Accepted at ACM CCS 2026",
+        "updated_time": "2026-09-12T18:45:24+00:00",
+        "published_time": "2026-09-12T18:45:24+00:00"
+    },
+    "http://arxiv.org/abs/2609.13004v1": {
+        "entry_id": "http://arxiv.org/abs/2609.13004v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.13004v1",
+        "title": "IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges",
+        "comment": "15 pages, 6 figures",
+        "updated_time": "2026-09-11T16:03:54+00:00",
+        "published_time": "2026-09-11T16:03:54+00:00"
+    },
+    "http://arxiv.org/abs/2609.12315v1": {
+        "entry_id": "http://arxiv.org/abs/2609.12315v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.12315v1",
+        "title": "Function Name Is All You Need to Detect Blockchain Application Attacks",
+        "comment": null,
+        "updated_time": "2026-09-11T00:43:37+00:00",
+        "published_time": "2026-09-11T00:43:37+00:00"
+    },
     "http://arxiv.org/abs/2609.11535v1": {
         "entry_id": "http://arxiv.org/abs/2609.11535v1",
         "pdf_url": "https://arxiv.org/pdf/2609.11535v1",
@@ -302,6 +342,14 @@
         "comment": null,
         "updated_time": "2026-07-24T05:10:26+00:00",
         "published_time": "2026-07-24T05:10:26+00:00"
+    },
+    "http://arxiv.org/abs/2609.13170v1": {
+        "entry_id": "http://arxiv.org/abs/2609.13170v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.13170v1",
+        "title": "A Lifecycle Cost Analysis of Smart-Contract-Coordinated Federated Learning Marketplaces",
+        "comment": "8 pages, 5 figures, IEEE Blockchain Conference 2026",
+        "updated_time": "2026-07-23T13:19:21+00:00",
+        "published_time": "2026-07-23T13:19:21+00:00"
     },
     "http://arxiv.org/abs/2607.21643v1": {
         "entry_id": "http://arxiv.org/abs/2607.21643v1",
