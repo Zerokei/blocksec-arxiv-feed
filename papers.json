@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2609.18344v1": {
+        "entry_id": "http://arxiv.org/abs/2609.18344v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.18344v1",
+        "title": "Detecting Logic Vulnerabilities Across the Contract and Device Layers of Blockchain-Enabled IoT With Multi-Agent Heterogeneous Graph Attention",
+        "comment": null,
+        "updated_time": "2026-09-16T09:08:55+00:00",
+        "published_time": "2026-09-16T09:08:55+00:00"
+    },
+    "http://arxiv.org/abs/2609.17902v1": {
+        "entry_id": "http://arxiv.org/abs/2609.17902v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.17902v1",
+        "title": "Ghost-Filled Orders: Detecting and Testing Atomicity Violations in Non-Custodial Prediction Markets",
+        "comment": "15 pages, 4 figures",
+        "updated_time": "2026-09-15T22:46:16+00:00",
+        "published_time": "2026-09-15T22:46:16+00:00"
+    },
+    "http://arxiv.org/abs/2609.17647v1": {
+        "entry_id": "http://arxiv.org/abs/2609.17647v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.17647v1",
+        "title": "CARE: A Responsibility-Oriented Architecture for Domain-Scoped Resolution in Modular and Upgradeable Smart Contracts",
+        "comment": null,
+        "updated_time": "2026-09-15T15:32:10+00:00",
+        "published_time": "2026-09-15T15:32:10+00:00"
+    },
     "http://arxiv.org/abs/2609.16987v1": {
         "entry_id": "http://arxiv.org/abs/2609.16987v1",
         "pdf_url": "https://arxiv.org/pdf/2609.16987v1",
