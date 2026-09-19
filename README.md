@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-09-18T15:16:18.863789
+Last Updated: 2026-09-19T14:53:22.603148
 
 ## Newest Papers
 
@@ -26,7 +26,7 @@ Last Updated: 2026-09-18T15:16:18.863789
 |18|BGPay: An Incentive-Compatible Mechanism for BGP Hijack Filtering|[link](http://arxiv.org/abs/2608.25165v1)|🆕 2026-08-25|
 |19|Obscura-PQ: Post-Quantum Privacy-Preserving Protocol for the Algorand Blockchain Using Lattice-Based Linkable Ring Signatures|[link](http://arxiv.org/abs/2608.22645v1)|🆕 2026-08-23|
 |20|Mitigating Error Propagation in Chain-of-Thought: A Tree-of-Thought Framework for Smart Contract Repair|[link](http://arxiv.org/abs/2608.22345v1)|🆕 2026-08-23|
-|21|Trustworthy mobile edge caching: a blockchain approach to mitigate malicious nodes and incentivize cache sharing|[link](http://arxiv.org/abs/2608.20145v1)|🆕 2026-08-20|
+|21|Trustworthy mobile edge caching: a blockchain approach to mitigate malicious nodes and incentivize cache sharing|[link](http://arxiv.org/abs/2608.20145v1)|2026-08-20|
 |22|PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance|[link](http://arxiv.org/abs/2608.17220v1)|2026-08-18|
 |23|A Lifecycle-Oriented Detection and Defense Framework for Price Manipulation Attacks in DeFi|[link](http://arxiv.org/abs/2608.15518v1)|2026-08-16|
 |24|Balancing Privacy and Compliance in DeFi: A Zero-Knowledge-Based Auditable Cross-Chain Framework|[link](http://arxiv.org/abs/2608.15276v1)|2026-08-15|
