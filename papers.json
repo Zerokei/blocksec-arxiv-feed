@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2609.23659v1": {
+        "entry_id": "http://arxiv.org/abs/2609.23659v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.23659v1",
+        "title": "ETH-TraceBench: A Large-Scale Event-Stream Benchmark for Ethereum DeFi under Temporal, Protocol, and Contract Shift",
+        "comment": "30 pages. Under review at Transactions on Machine Learning Research (TMLR)",
+        "updated_time": "2026-09-20T14:13:16+00:00",
+        "published_time": "2026-09-20T14:13:16+00:00"
+    },
     "http://arxiv.org/abs/2609.18344v1": {
         "entry_id": "http://arxiv.org/abs/2609.18344v1",
         "pdf_url": "https://arxiv.org/pdf/2609.18344v1",
