@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-09-26T15:11:16.159386
+Last Updated: 2026-09-27T15:52:15.451643
 
 ## Newest Papers
 
@@ -24,7 +24,7 @@ Last Updated: 2026-09-26T15:11:16.159386
 |16|Automated Vulnerability Injection in Smart Contracts Using Large Language Models|[link](http://arxiv.org/abs/2609.02624v1)|🆕 2026-09-02|
 |17|Bonded Recourse for Smart-Contract Settlement of Compensable Agent Side Effects|[link](http://arxiv.org/abs/2609.01939v1)|🆕 2026-09-01|
 |18|Smart Contracts Claimed Vulnerable by the CVE Database, with Labels and Source Locations|[link](http://arxiv.org/abs/2609.01186v1)|🆕 2026-09-01|
-|19|When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning|[link](http://arxiv.org/abs/2608.28400v1)|🆕 2026-08-28|
+|19|When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning|[link](http://arxiv.org/abs/2608.28400v1)|2026-08-28|
 |20|Information Flow Control in Off-Chain Components|[link](http://arxiv.org/abs/2608.26858v1)|2026-08-27|
 |21|Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins|[link](http://arxiv.org/abs/2608.25600v1)|2026-08-26|
 |22|BGPay: An Incentive-Compatible Mechanism for BGP Hijack Filtering|[link](http://arxiv.org/abs/2608.25165v1)|2026-08-25|
