@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2609.31485v1": {
+        "entry_id": "http://arxiv.org/abs/2609.31485v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.31485v1",
+        "title": "Verifiable Randomness for Blockchain-Based Lottery Systems",
+        "comment": "Submitted to BLOCKCHAIN'26 (8th International Congress on Blockchain and Applications, Naples, Italy, October 2026)",
+        "updated_time": "2026-09-25T16:27:33+00:00",
+        "published_time": "2026-09-25T16:27:33+00:00"
+    },
+    "http://arxiv.org/abs/2609.31282v1": {
+        "entry_id": "http://arxiv.org/abs/2609.31282v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.31282v1",
+        "title": "Resource-Optimized and Energy-Aware Agentic AI Framework Anchored on Blockchain for Secure Software Supply Chains",
+        "comment": "Accepted for publication in the International Journal of Energy, Environment, and Economics. 27 pages, 8 figures, 2 tables",
+        "updated_time": "2026-09-25T13:53:50+00:00",
+        "published_time": "2026-09-25T13:53:50+00:00"
+    },
+    "http://arxiv.org/abs/2609.30719v1": {
+        "entry_id": "http://arxiv.org/abs/2609.30719v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.30719v1",
+        "title": "Werracle: Sub-Cent Intra-Block AI Reflex Oracles and Flash-Loan Circuit Breakers for EVM Smart Contracts",
+        "comment": "8 pages, 2 figures, 2 tables. Replication package and open data at Zenodo DOI: 10.5281/zenodo.22942598. Accompanies companion theoretical research arXiv:2609.25498. Patent Pending TR 2026/016285. Code available at https://github.com/pCwOrM/werracle",
+        "updated_time": "2026-09-25T02:45:03+00:00",
+        "published_time": "2026-09-25T02:45:03+00:00"
+    },
     "http://arxiv.org/abs/2609.29454v1": {
         "entry_id": "http://arxiv.org/abs/2609.29454v1",
         "pdf_url": "https://arxiv.org/pdf/2609.29454v1",
