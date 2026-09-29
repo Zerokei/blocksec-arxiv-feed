@@ -1,4 +1,28 @@
 {
+    "http://arxiv.org/abs/2609.35171v1": {
+        "entry_id": "http://arxiv.org/abs/2609.35171v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.35171v1",
+        "title": "Analyzing Solana's Blocks and Transactions",
+        "comment": "To appear in The 28th International Symposium on Stabilization, Safety, and Security of Distributed Systems",
+        "updated_time": "2026-09-28T13:40:54+00:00",
+        "published_time": "2026-09-28T13:40:54+00:00"
+    },
+    "http://arxiv.org/abs/2609.34983v1": {
+        "entry_id": "http://arxiv.org/abs/2609.34983v1",
+        "pdf_url": "https://arxiv.org/pdf/2609.34983v1",
+        "title": "SmartMemory: Detecting On-chain-off-chain Communication Inconsistency for Smart Contract via Memory-based Agent",
+        "comment": "Nil",
+        "updated_time": "2026-09-28T11:57:05+00:00",
+        "published_time": "2026-09-28T11:57:05+00:00"
+    },
+    "http://arxiv.org/abs/2609.16987v2": {
+        "entry_id": "http://arxiv.org/abs/2609.16987v2",
+        "pdf_url": "https://arxiv.org/pdf/2609.16987v2",
+        "title": "TasmScan: Continuation-Aware Taint Analysis for TVM Bytecode with Savelist Abstraction",
+        "comment": null,
+        "updated_time": "2026-09-27T20:22:05+00:00",
+        "published_time": "2026-09-15T11:01:51+00:00"
+    },
     "http://arxiv.org/abs/2609.31485v1": {
         "entry_id": "http://arxiv.org/abs/2609.31485v1",
         "pdf_url": "https://arxiv.org/pdf/2609.31485v1",
