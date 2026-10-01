@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-09-30T17:03:32.524749
+Last Updated: 2026-10-01T17:33:59.961600
 
 ## Newest Papers
 
@@ -28,8 +28,8 @@ Last Updated: 2026-09-30T17:03:32.524749
 |20|DeFiFusion: Combining Transaction Events with Smart Contracts to Detect Price Manipulation Attacks|[link](http://arxiv.org/abs/2609.11008v1)|🆕 2026-09-10|
 |21|EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems|[link](http://arxiv.org/abs/2609.07865v1)|🆕 2026-09-07|
 |22|Automated Vulnerability Injection in Smart Contracts Using Large Language Models|[link](http://arxiv.org/abs/2609.02624v1)|🆕 2026-09-02|
-|23|Bonded Recourse for Smart-Contract Settlement of Compensable Agent Side Effects|[link](http://arxiv.org/abs/2609.01939v1)|🆕 2026-09-01|
-|24|Smart Contracts Claimed Vulnerable by the CVE Database, with Labels and Source Locations|[link](http://arxiv.org/abs/2609.01186v1)|🆕 2026-09-01|
+|23|Bonded Recourse for Smart-Contract Settlement of Compensable Agent Side Effects|[link](http://arxiv.org/abs/2609.01939v1)|2026-09-01|
+|24|Smart Contracts Claimed Vulnerable by the CVE Database, with Labels and Source Locations|[link](http://arxiv.org/abs/2609.01186v1)|2026-09-01|
 |25|When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning|[link](http://arxiv.org/abs/2608.28400v1)|2026-08-28|
 |26|Information Flow Control in Off-Chain Components|[link](http://arxiv.org/abs/2608.26858v1)|2026-08-27|
 |27|Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins|[link](http://arxiv.org/abs/2608.25600v1)|2026-08-26|
