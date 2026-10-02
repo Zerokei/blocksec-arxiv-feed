@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2610.01872v1": {
+        "entry_id": "http://arxiv.org/abs/2610.01872v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.01872v1",
+        "title": "From Network Intrusion Detection to Blockchain-Backed Endpoint Detection and Response: Mapping the Landscape of Decentralized Detection-and-Response Architectures",
+        "comment": null,
+        "updated_time": "2026-10-01T15:30:31+00:00",
+        "published_time": "2026-10-01T15:30:31+00:00"
+    },
+    "http://arxiv.org/abs/2610.01300v1": {
+        "entry_id": "http://arxiv.org/abs/2610.01300v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.01300v1",
+        "title": "A Systematization of Knowledge on DeFi Vaults: Architectures, Curation Mechanisms, and Strategy Design",
+        "comment": null,
+        "updated_time": "2026-10-01T08:34:29+00:00",
+        "published_time": "2026-10-01T08:34:29+00:00"
+    },
+    "http://arxiv.org/abs/2610.01203v1": {
+        "entry_id": "http://arxiv.org/abs/2610.01203v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.01203v1",
+        "title": "CompProv Produces Machine Readable Graphs Encoding Microscopic Algebraic Provenance for Reproducible Computation",
+        "comment": null,
+        "updated_time": "2026-10-01T07:14:26+00:00",
+        "published_time": "2026-10-01T07:14:26+00:00"
+    },
+    "http://arxiv.org/abs/2610.00354v1": {
+        "entry_id": "http://arxiv.org/abs/2610.00354v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.00354v1",
+        "title": "Proof-Gated Signing: Solver-Checked Transaction Guards that Hold Under State Drift for Onchain AI Agents",
+        "comment": "16 pages, 3 figures, 5 tables. Code and data: https://github.com/LoopGlitch26/Proof-Gated-Signing",
+        "updated_time": "2026-09-30T00:24:01+00:00",
+        "published_time": "2026-09-30T00:24:01+00:00"
+    },
     "http://arxiv.org/abs/2609.35171v1": {
         "entry_id": "http://arxiv.org/abs/2609.35171v1",
         "pdf_url": "https://arxiv.org/pdf/2609.35171v1",
