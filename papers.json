@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2610.08429v1": {
+        "entry_id": "http://arxiv.org/abs/2610.08429v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.08429v1",
+        "title": "RAPO-Sol: Retrieval-Augmented Preference Optimization for Repository-Level Solidity Code Generation",
+        "comment": "12 pages, 3 figures, 5 tables",
+        "updated_time": "2026-10-06T14:29:26+00:00",
+        "published_time": "2026-10-06T14:29:26+00:00"
+    },
+    "http://arxiv.org/abs/2609.14098v2": {
+        "entry_id": "http://arxiv.org/abs/2609.14098v2",
+        "pdf_url": "https://arxiv.org/pdf/2609.14098v2",
+        "title": "The Deception Delta: Adversarial Evaluation of LLM-Based Smart Contract Bytecode Forensics",
+        "comment": "14 pages, 1 figure, 4 tables. Accepted at ACM CCS 2026. v2: corrected version, matches the published ACM version",
+        "updated_time": "2026-10-06T05:09:20+00:00",
+        "published_time": "2026-09-12T18:45:24+00:00"
+    },
     "http://arxiv.org/abs/2610.04992v1": {
         "entry_id": "http://arxiv.org/abs/2610.04992v1",
         "pdf_url": "https://arxiv.org/pdf/2610.04992v1",
