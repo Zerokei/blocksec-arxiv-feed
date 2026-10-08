@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2610.10149v1": {
+        "entry_id": "http://arxiv.org/abs/2610.10149v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.10149v1",
+        "title": "Pump-and-Dump meets Honeypot Tokens: Detection and Analysis of Telegram Bait-and-Trap Schemes",
+        "comment": null,
+        "updated_time": "2026-10-07T14:26:43+00:00",
+        "published_time": "2026-10-07T14:26:43+00:00"
+    },
+    "http://arxiv.org/abs/2610.08429v2": {
+        "entry_id": "http://arxiv.org/abs/2610.08429v2",
+        "pdf_url": "https://arxiv.org/pdf/2610.08429v2",
+        "title": "RAPO-Sol: Retrieval-Augmented Preference Optimization for Repository-Level Solidity Code Generation",
+        "comment": "12 pages, 3 figures, 5 tables",
+        "updated_time": "2026-10-07T02:33:20+00:00",
+        "published_time": "2026-10-06T14:29:26+00:00"
+    },
     "http://arxiv.org/abs/2610.08429v1": {
         "entry_id": "http://arxiv.org/abs/2610.08429v1",
         "pdf_url": "https://arxiv.org/pdf/2610.08429v1",
