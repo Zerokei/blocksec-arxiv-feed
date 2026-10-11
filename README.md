@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-10-10T16:26:01.861892
+Last Updated: 2026-10-11T16:50:34.662648
 
 ## Newest Papers
 
@@ -33,8 +33,8 @@ Last Updated: 2026-10-10T16:26:01.861892
 |25|TasmScan: Continuation-Aware Taint Analysis for TVM Bytecode with Savelist Abstraction|[link](http://arxiv.org/abs/2609.16987v1)|🆕 2026-09-15|
 |26|EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models|[link](http://arxiv.org/abs/2609.14475v1)|🆕 2026-09-13|
 |27|The Deception Delta: Adversarial Evaluation of LLM-Based Smart Contract Bytecode Forensics|[link](http://arxiv.org/abs/2609.14098v1)|🆕 2026-09-12|
-|28|IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges|[link](http://arxiv.org/abs/2609.13004v1)|🆕 2026-09-11|
-|29|Function Name Is All You Need to Detect Blockchain Application Attacks|[link](http://arxiv.org/abs/2609.12315v1)|🆕 2026-09-11|
+|28|IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges|[link](http://arxiv.org/abs/2609.13004v1)|2026-09-11|
+|29|Function Name Is All You Need to Detect Blockchain Application Attacks|[link](http://arxiv.org/abs/2609.12315v1)|2026-09-11|
 |30|On Identifying Sound Conditions for Frontrunning Resistance|[link](http://arxiv.org/abs/2609.11535v1)|2026-09-10|
 |31|DeFiFusion: Combining Transaction Events with Smart Contracts to Detect Price Manipulation Attacks|[link](http://arxiv.org/abs/2609.11008v1)|2026-09-10|
 |32|EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems|[link](http://arxiv.org/abs/2609.07865v1)|2026-09-07|
