@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2610.13170v1": {
+        "entry_id": "http://arxiv.org/abs/2610.13170v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.13170v1",
+        "title": "Understanding Verification Vulnerabilities in Cross-chain Bridges: An Empirical Study",
+        "comment": "22 pages, 12 figures, 10 tables",
+        "updated_time": "2026-10-09T07:58:02+00:00",
+        "published_time": "2026-10-09T07:58:02+00:00"
+    },
+    "http://arxiv.org/abs/2610.12948v1": {
+        "entry_id": "http://arxiv.org/abs/2610.12948v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.12948v1",
+        "title": "AgentValve: Sybil-Resilient Payment Authorization for Permissionless AI Markets",
+        "comment": null,
+        "updated_time": "2026-10-09T03:45:31+00:00",
+        "published_time": "2026-10-09T03:45:31+00:00"
+    },
     "http://arxiv.org/abs/2608.15276v2": {
         "entry_id": "http://arxiv.org/abs/2608.15276v2",
         "pdf_url": "https://arxiv.org/pdf/2608.15276v2",
