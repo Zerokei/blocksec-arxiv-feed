@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-10-12T20:28:20.037558
+Last Updated: 2026-10-13T18:33:35.185457
 
 ## Newest Papers
 
@@ -33,7 +33,7 @@ Last Updated: 2026-10-12T20:28:20.037558
 |25|Ghost-Filled Orders: Detecting and Testing Atomicity Violations in Non-Custodial Prediction Markets|[link](http://arxiv.org/abs/2609.17902v1)|🆕 2026-09-15|
 |26|CARE: A Responsibility-Oriented Architecture for Domain-Scoped Resolution in Modular and Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2609.17647v1)|🆕 2026-09-15|
 |27|TasmScan: Continuation-Aware Taint Analysis for TVM Bytecode with Savelist Abstraction|[link](http://arxiv.org/abs/2609.16987v1)|🆕 2026-09-15|
-|28|EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models|[link](http://arxiv.org/abs/2609.14475v1)|🆕 2026-09-13|
+|28|EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models|[link](http://arxiv.org/abs/2609.14475v1)|2026-09-13|
 |29|The Deception Delta: Adversarial Evaluation of LLM-Based Smart Contract Bytecode Forensics|[link](http://arxiv.org/abs/2609.14098v1)|2026-09-12|
 |30|IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges|[link](http://arxiv.org/abs/2609.13004v1)|2026-09-11|
 |31|Function Name Is All You Need to Detect Blockchain Application Attacks|[link](http://arxiv.org/abs/2609.12315v1)|2026-09-11|
