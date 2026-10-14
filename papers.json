@@ -1,4 +1,36 @@
 {
+    "http://arxiv.org/abs/2610.18745v1": {
+        "entry_id": "http://arxiv.org/abs/2610.18745v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.18745v1",
+        "title": "SolBehave: Evaluating the Behavioural Correctness of LLM-Generated Smart Contracts",
+        "comment": null,
+        "updated_time": "2026-10-13T17:12:59+00:00",
+        "published_time": "2026-10-13T17:12:59+00:00"
+    },
+    "http://arxiv.org/abs/2610.18230v1": {
+        "entry_id": "http://arxiv.org/abs/2610.18230v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.18230v1",
+        "title": "Holding Agents Accountable with Verifiable Agent Insurance",
+        "comment": "21 pages, 1 figure, 7 tables",
+        "updated_time": "2026-10-13T12:01:11+00:00",
+        "published_time": "2026-10-13T12:01:11+00:00"
+    },
+    "http://arxiv.org/abs/2610.18165v1": {
+        "entry_id": "http://arxiv.org/abs/2610.18165v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.18165v1",
+        "title": "Soliduzz: Finding Miscompilations in Smart-Contract Compilers with Assertion-Driven Equivalence Oracles",
+        "comment": null,
+        "updated_time": "2026-10-13T11:10:04+00:00",
+        "published_time": "2026-10-13T11:10:04+00:00"
+    },
+    "http://arxiv.org/abs/2610.16449v1": {
+        "entry_id": "http://arxiv.org/abs/2610.16449v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.16449v1",
+        "title": "CryptoFlowBench: Benchmarking Multi-Hop Reasoning on Blockchains for Cryptocurrency Fund Tracing",
+        "comment": "9 pages, 2 figures. Currently under review",
+        "updated_time": "2026-10-12T09:15:35+00:00",
+        "published_time": "2026-10-12T09:15:35+00:00"
+    },
     "http://arxiv.org/abs/2610.13170v1": {
         "entry_id": "http://arxiv.org/abs/2610.13170v1",
         "pdf_url": "https://arxiv.org/pdf/2610.13170v1",
