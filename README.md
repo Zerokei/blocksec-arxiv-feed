@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-10-14T16:01:02.979308
+Last Updated: 2026-10-15T15:49:28.911110
 
 ## Newest Papers
 
@@ -34,9 +34,9 @@ Last Updated: 2026-10-14T16:01:02.979308
 |26|Solidity Meets LLMs: A Transformer-Based Approach to Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2609.27091v1)|🆕 2026-09-22|
 |27|ETH-TraceBench: A Large-Scale Event-Stream Benchmark for Ethereum DeFi under Temporal, Protocol, and Contract Shift|[link](http://arxiv.org/abs/2609.23659v1)|🆕 2026-09-20|
 |28|Detecting Logic Vulnerabilities Across the Contract and Device Layers of Blockchain-Enabled IoT With Multi-Agent Heterogeneous Graph Attention|[link](http://arxiv.org/abs/2609.18344v1)|🆕 2026-09-16|
-|29|Ghost-Filled Orders: Detecting and Testing Atomicity Violations in Non-Custodial Prediction Markets|[link](http://arxiv.org/abs/2609.17902v1)|🆕 2026-09-15|
-|30|CARE: A Responsibility-Oriented Architecture for Domain-Scoped Resolution in Modular and Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2609.17647v1)|🆕 2026-09-15|
-|31|TasmScan: Continuation-Aware Taint Analysis for TVM Bytecode with Savelist Abstraction|[link](http://arxiv.org/abs/2609.16987v1)|🆕 2026-09-15|
+|29|Ghost-Filled Orders: Detecting and Testing Atomicity Violations in Non-Custodial Prediction Markets|[link](http://arxiv.org/abs/2609.17902v1)|2026-09-15|
+|30|CARE: A Responsibility-Oriented Architecture for Domain-Scoped Resolution in Modular and Upgradeable Smart Contracts|[link](http://arxiv.org/abs/2609.17647v1)|2026-09-15|
+|31|TasmScan: Continuation-Aware Taint Analysis for TVM Bytecode with Savelist Abstraction|[link](http://arxiv.org/abs/2609.16987v1)|2026-09-15|
 |32|EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models|[link](http://arxiv.org/abs/2609.14475v1)|2026-09-13|
 |33|The Deception Delta: Adversarial Evaluation of LLM-Based Smart Contract Bytecode Forensics|[link](http://arxiv.org/abs/2609.14098v1)|2026-09-12|
 |34|IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges|[link](http://arxiv.org/abs/2609.13004v1)|2026-09-11|
