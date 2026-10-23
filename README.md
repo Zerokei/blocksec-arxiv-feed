@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-10-22T16:08:16.620971
+Last Updated: 2026-10-23T15:58:19.751485
 
 ## Newest Papers
 
@@ -32,7 +32,7 @@ Last Updated: 2026-10-22T16:08:16.620971
 |24|Resource-Optimized and Energy-Aware Agentic AI Framework Anchored on Blockchain for Secure Software Supply Chains|[link](http://arxiv.org/abs/2609.31282v1)|🆕 2026-09-25|
 |25|Werracle: Sub-Cent Intra-Block AI Reflex Oracles and Flash-Loan Circuit Breakers for EVM Smart Contracts|[link](http://arxiv.org/abs/2609.30719v1)|🆕 2026-09-25|
 |26|Demystifying Agent Skills for Smart Contract Auditing: Design, Effectiveness, Behavioral Impact|[link](http://arxiv.org/abs/2609.29454v1)|🆕 2026-09-24|
-|27|Blockchain-Enabled Artificial Intelligence and AI Agents for Secure Data Sharing and Cybersecurity Applications|[link](http://arxiv.org/abs/2609.28843v1)|🆕 2026-09-23|
+|27|Blockchain-Enabled Artificial Intelligence and AI Agents for Secure Data Sharing and Cybersecurity Applications|[link](http://arxiv.org/abs/2609.28843v1)|2026-09-23|
 |28|Solidity Meets LLMs: A Transformer-Based Approach to Smart Contract Vulnerability Detection|[link](http://arxiv.org/abs/2609.27091v1)|2026-09-22|
 |29|ETH-TraceBench: A Large-Scale Event-Stream Benchmark for Ethereum DeFi under Temporal, Protocol, and Contract Shift|[link](http://arxiv.org/abs/2609.23659v1)|2026-09-20|
 |30|Detecting Logic Vulnerabilities Across the Contract and Device Layers of Blockchain-Enabled IoT With Multi-Agent Heterogeneous Graph Attention|[link](http://arxiv.org/abs/2609.18344v1)|2026-09-16|
