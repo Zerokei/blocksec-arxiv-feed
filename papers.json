@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2610.32453v1": {
+        "entry_id": "http://arxiv.org/abs/2610.32453v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.32453v1",
+        "title": "Beyond Copying: Lifelong Smart Contract Security Task Construction via Protocol Mutation",
+        "comment": null,
+        "updated_time": "2026-10-23T10:17:43+00:00",
+        "published_time": "2026-10-23T10:17:43+00:00"
+    },
+    "http://arxiv.org/abs/2610.32210v1": {
+        "entry_id": "http://arxiv.org/abs/2610.32210v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.32210v1",
+        "title": "Tracing Money Laundering Across DeFi, Bridges, and Mixers on Ethereum",
+        "comment": null,
+        "updated_time": "2026-10-23T06:04:58+00:00",
+        "published_time": "2026-10-23T06:04:58+00:00"
+    },
     "http://arxiv.org/abs/2610.24198v1": {
         "entry_id": "http://arxiv.org/abs/2610.24198v1",
         "pdf_url": "https://arxiv.org/pdf/2610.24198v1",
