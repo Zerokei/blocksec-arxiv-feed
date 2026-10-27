@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-10-26T17:42:45.595670
+Last Updated: 2026-10-27T16:54:47.013971
 
 ## Newest Papers
 
@@ -29,7 +29,7 @@ Last Updated: 2026-10-26T17:42:45.595670
 |21|Proof-Gated Signing: Solver-Checked Transaction Guards that Hold Under State Drift for Onchain AI Agents|[link](http://arxiv.org/abs/2610.00354v1)|🆕 2026-09-30|
 |22|Analyzing Solana's Blocks and Transactions|[link](http://arxiv.org/abs/2609.35171v1)|🆕 2026-09-28|
 |23|SmartMemory: Detecting On-chain-off-chain Communication Inconsistency for Smart Contract via Memory-based Agent|[link](http://arxiv.org/abs/2609.34983v1)|🆕 2026-09-28|
-|24|TasmScan: Continuation-Aware Taint Analysis for TVM Bytecode with Savelist Abstraction|[link](http://arxiv.org/abs/2609.16987v2)|🆕 2026-09-27|
+|24|TasmScan: Continuation-Aware Taint Analysis for TVM Bytecode with Savelist Abstraction|[link](http://arxiv.org/abs/2609.16987v2)|2026-09-27|
 |25|Verifiable Randomness for Blockchain-Based Lottery Systems|[link](http://arxiv.org/abs/2609.31485v1)|2026-09-25|
 |26|Resource-Optimized and Energy-Aware Agentic AI Framework Anchored on Blockchain for Secure Software Supply Chains|[link](http://arxiv.org/abs/2609.31282v1)|2026-09-25|
 |27|Werracle: Sub-Cent Intra-Block AI Reflex Oracles and Flash-Loan Circuit Breakers for EVM Smart Contracts|[link](http://arxiv.org/abs/2609.30719v1)|2026-09-25|
