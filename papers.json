@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2610.38621v1": {
+        "entry_id": "http://arxiv.org/abs/2610.38621v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.38621v1",
+        "title": "When LLM Architectures Meet Smart Contract Vulnerability Detection: a Replication Study",
+        "comment": null,
+        "updated_time": "2026-10-28T10:42:35+00:00",
+        "published_time": "2026-10-28T10:42:35+00:00"
+    },
+    "http://arxiv.org/abs/2610.37830v1": {
+        "entry_id": "http://arxiv.org/abs/2610.37830v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.37830v1",
+        "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+        "comment": "ACM TheWebConf2027 8 pages main content 4 pages appendix",
+        "updated_time": "2026-10-27T18:43:14+00:00",
+        "published_time": "2026-10-27T18:43:14+00:00"
+    },
     "http://arxiv.org/abs/2610.36866v1": {
         "entry_id": "http://arxiv.org/abs/2610.36866v1",
         "pdf_url": "https://arxiv.org/pdf/2610.36866v1",
