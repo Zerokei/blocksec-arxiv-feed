@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-10-30T17:17:28.710067
+Last Updated: 2026-10-31T16:22:47.460277
 
 ## Newest Papers
 
@@ -27,9 +27,9 @@ Last Updated: 2026-10-30T17:17:28.710067
 |19|The Deception Delta: Adversarial Evaluation of LLM-Based Smart Contract Bytecode Forensics|[link](http://arxiv.org/abs/2609.14098v2)|🆕 2026-10-06|
 |20|ContractLens: Latent Security Knowledge for Malicious Smart Contract Detection|[link](http://arxiv.org/abs/2610.04992v1)|🆕 2026-10-04|
 |21|Asymptotic Analysis of Trading Fees in CFMM|[link](http://arxiv.org/abs/2610.03262v1)|🆕 2026-10-02|
-|22|From Network Intrusion Detection to Blockchain-Backed Endpoint Detection and Response: Mapping the Landscape of Decentralized Detection-and-Response Architectures|[link](http://arxiv.org/abs/2610.01872v1)|🆕 2026-10-01|
-|23|A Systematization of Knowledge on DeFi Vaults: Architectures, Curation Mechanisms, and Strategy Design|[link](http://arxiv.org/abs/2610.01300v1)|🆕 2026-10-01|
-|24|CompProv Produces Machine Readable Graphs Encoding Microscopic Algebraic Provenance for Reproducible Computation|[link](http://arxiv.org/abs/2610.01203v1)|🆕 2026-10-01|
+|22|From Network Intrusion Detection to Blockchain-Backed Endpoint Detection and Response: Mapping the Landscape of Decentralized Detection-and-Response Architectures|[link](http://arxiv.org/abs/2610.01872v1)|2026-10-01|
+|23|A Systematization of Knowledge on DeFi Vaults: Architectures, Curation Mechanisms, and Strategy Design|[link](http://arxiv.org/abs/2610.01300v1)|2026-10-01|
+|24|CompProv Produces Machine Readable Graphs Encoding Microscopic Algebraic Provenance for Reproducible Computation|[link](http://arxiv.org/abs/2610.01203v1)|2026-10-01|
 |25|Proof-Gated Signing: Solver-Checked Transaction Guards that Hold Under State Drift for Onchain AI Agents|[link](http://arxiv.org/abs/2610.00354v1)|2026-09-30|
 |26|Analyzing Solana's Blocks and Transactions|[link](http://arxiv.org/abs/2609.35171v1)|2026-09-28|
 |27|SmartMemory: Detecting On-chain-off-chain Communication Inconsistency for Smart Contract via Memory-based Agent|[link](http://arxiv.org/abs/2609.34983v1)|2026-09-28|
