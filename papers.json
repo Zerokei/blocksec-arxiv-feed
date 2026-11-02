@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2610.41685v1": {
+        "entry_id": "http://arxiv.org/abs/2610.41685v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.41685v1",
+        "title": "A Failure Mode Taxonomy and Severity Model for Ethereum Smart Contracts",
+        "comment": null,
+        "updated_time": "2026-10-30T12:50:53+00:00",
+        "published_time": "2026-10-30T12:50:53+00:00"
+    },
+    "http://arxiv.org/abs/2610.40885v1": {
+        "entry_id": "http://arxiv.org/abs/2610.40885v1",
+        "pdf_url": "https://arxiv.org/pdf/2610.40885v1",
+        "title": "An Empirical Study of Gas Optimization Practices in Solidity Smart Contracts",
+        "comment": null,
+        "updated_time": "2026-10-29T19:05:48+00:00",
+        "published_time": "2026-10-29T19:05:48+00:00"
+    },
     "http://arxiv.org/abs/2610.38621v1": {
         "entry_id": "http://arxiv.org/abs/2610.38621v1",
         "pdf_url": "https://arxiv.org/pdf/2610.38621v1",
