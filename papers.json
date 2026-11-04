@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2611.04411v1": {
+        "entry_id": "http://arxiv.org/abs/2611.04411v1",
+        "pdf_url": "https://arxiv.org/pdf/2611.04411v1",
+        "title": "TxBench: A Benchmark of Attack Transactions and Evidence-Backed Negatives on Seven EVM Chains",
+        "comment": "5 pages",
+        "updated_time": "2026-11-03T06:49:00+00:00",
+        "published_time": "2026-11-03T06:49:00+00:00"
+    },
     "http://arxiv.org/abs/2611.00587v1": {
         "entry_id": "http://arxiv.org/abs/2611.00587v1",
         "pdf_url": "https://arxiv.org/pdf/2611.00587v1",
