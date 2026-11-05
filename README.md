@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-11-04T18:55:31.747971
+Last Updated: 2026-11-05T19:06:52.050813
 
 ## Newest Papers
 
@@ -27,8 +27,8 @@ Last Updated: 2026-11-04T18:55:31.747971
 |19|Balancing Privacy and Compliance in DeFi: A Zero-Knowledge-Based Auditable Cross-Chain Framework|[link](http://arxiv.org/abs/2608.15276v2)|🆕 2026-10-08|
 |20|Pump-and-Dump meets Honeypot Tokens: Detection and Analysis of Telegram Bait-and-Trap Schemes|[link](http://arxiv.org/abs/2610.10149v1)|🆕 2026-10-07|
 |21|RAPO-Sol: Retrieval-Augmented Preference Optimization for Repository-Level Solidity Code Generation|[link](http://arxiv.org/abs/2610.08429v2)|🆕 2026-10-07|
-|22|RAPO-Sol: Retrieval-Augmented Preference Optimization for Repository-Level Solidity Code Generation|[link](http://arxiv.org/abs/2610.08429v1)|🆕 2026-10-06|
-|23|The Deception Delta: Adversarial Evaluation of LLM-Based Smart Contract Bytecode Forensics|[link](http://arxiv.org/abs/2609.14098v2)|🆕 2026-10-06|
+|22|RAPO-Sol: Retrieval-Augmented Preference Optimization for Repository-Level Solidity Code Generation|[link](http://arxiv.org/abs/2610.08429v1)|2026-10-06|
+|23|The Deception Delta: Adversarial Evaluation of LLM-Based Smart Contract Bytecode Forensics|[link](http://arxiv.org/abs/2609.14098v2)|2026-10-06|
 |24|ContractLens: Latent Security Knowledge for Malicious Smart Contract Detection|[link](http://arxiv.org/abs/2610.04992v1)|2026-10-04|
 |25|Asymptotic Analysis of Trading Fees in CFMM|[link](http://arxiv.org/abs/2610.03262v1)|2026-10-02|
 |26|From Network Intrusion Detection to Blockchain-Backed Endpoint Detection and Response: Mapping the Landscape of Decentralized Detection-and-Response Architectures|[link](http://arxiv.org/abs/2610.01872v1)|2026-10-01|
