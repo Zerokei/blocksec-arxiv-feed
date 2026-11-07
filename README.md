@@ -1,6 +1,6 @@
 # arXiv Papers for Blockchain (Smart Contract) Security
 
-Last Updated: 2026-11-06T18:34:17.271326
+Last Updated: 2026-11-07T17:01:23.475767
 
 ## Newest Papers
 
@@ -25,7 +25,7 @@ Last Updated: 2026-11-06T18:34:17.271326
 |17|CryptoFlowBench: Benchmarking Multi-Hop Reasoning on Blockchains for Cryptocurrency Fund Tracing|[link](http://arxiv.org/abs/2610.16449v1)|🆕 2026-10-12|
 |18|Understanding Verification Vulnerabilities in Cross-chain Bridges: An Empirical Study|[link](http://arxiv.org/abs/2610.13170v1)|🆕 2026-10-09|
 |19|AgentValve: Sybil-Resilient Payment Authorization for Permissionless AI Markets|[link](http://arxiv.org/abs/2610.12948v1)|🆕 2026-10-09|
-|20|Balancing Privacy and Compliance in DeFi: A Zero-Knowledge-Based Auditable Cross-Chain Framework|[link](http://arxiv.org/abs/2608.15276v2)|🆕 2026-10-08|
+|20|Balancing Privacy and Compliance in DeFi: A Zero-Knowledge-Based Auditable Cross-Chain Framework|[link](http://arxiv.org/abs/2608.15276v2)|2026-10-08|
 |21|Pump-and-Dump meets Honeypot Tokens: Detection and Analysis of Telegram Bait-and-Trap Schemes|[link](http://arxiv.org/abs/2610.10149v1)|2026-10-07|
 |22|RAPO-Sol: Retrieval-Augmented Preference Optimization for Repository-Level Solidity Code Generation|[link](http://arxiv.org/abs/2610.08429v2)|2026-10-07|
 |23|RAPO-Sol: Retrieval-Augmented Preference Optimization for Repository-Level Solidity Code Generation|[link](http://arxiv.org/abs/2610.08429v1)|2026-10-06|
