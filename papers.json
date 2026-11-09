@@ -1,4 +1,12 @@
 {
+    "http://arxiv.org/abs/2611.09307v1": {
+        "entry_id": "http://arxiv.org/abs/2611.09307v1",
+        "pdf_url": "https://arxiv.org/pdf/2611.09307v1",
+        "title": "Wake 5: A Python Framework for Solidity Testing, Fuzzing, and Static Analysis",
+        "comment": null,
+        "updated_time": "2026-11-06T10:59:01+00:00",
+        "published_time": "2026-11-06T10:59:01+00:00"
+    },
     "http://arxiv.org/abs/2610.04992v2": {
         "entry_id": "http://arxiv.org/abs/2610.04992v2",
         "pdf_url": "https://arxiv.org/pdf/2610.04992v2",
