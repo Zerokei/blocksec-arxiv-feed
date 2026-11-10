@@ -1,4 +1,20 @@
 {
+    "http://arxiv.org/abs/2611.12636v1": {
+        "entry_id": "http://arxiv.org/abs/2611.12636v1",
+        "pdf_url": "https://arxiv.org/pdf/2611.12636v1",
+        "title": "BioBind: Binding Biometric Deduplication to Zero-Knowledge Authentication",
+        "comment": "29 pages, 7 figures, 19 tables. Supplementary material included as Appendices A-H. Code and artifact: https://github.com/plan-lab-szu/biobind",
+        "updated_time": "2026-11-09T16:13:20+00:00",
+        "published_time": "2026-11-09T16:13:20+00:00"
+    },
+    "http://arxiv.org/abs/2611.11866v1": {
+        "entry_id": "http://arxiv.org/abs/2611.11866v1",
+        "pdf_url": "https://arxiv.org/pdf/2611.11866v1",
+        "title": "DeFSM: Robust and Efficient Decentralization of Federated Submodular Maximization",
+        "comment": null,
+        "updated_time": "2026-11-09T04:43:49+00:00",
+        "published_time": "2026-11-09T04:43:49+00:00"
+    },
     "http://arxiv.org/abs/2611.09307v1": {
         "entry_id": "http://arxiv.org/abs/2611.09307v1",
         "pdf_url": "https://arxiv.org/pdf/2611.09307v1",
